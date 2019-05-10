@@ -7,3 +7,5 @@ Działanie komendy dodawania drogi krajowej jest następujące:
 
 Każda linia powinna kończyć się linuksowym znakiem końca linii – w przeciwnym
 przypadku zawsze zgłaszam błąd.
+
+Skrypt testujący – należy jako pierwszy argument podać ścieżkę do pliku wykonywalnego.
