@@ -1,0 +1,12 @@
+addRoad;city8;city1;1114;-8882
+getRouteDescription;4
+25;city17;128;300;city1;421;158;city18;275;108;city13;86;30;city19;405;349;city7;257;211;city0;336;250;city12;369;296;city6;324;52;city16;90;42;city2;103;353;city4
+7;city3;478;156;city1;227;318;city16;280;26;city12;117;362;city15;217;492;city8;276;85;city5;484;110;city4;286;298;city17;405;207;city13;271;85;city2;449;449;city10;36;373;city7;454;126;city14
+repairRoad;city1;city13;-5889
+addRoad;city14;city10;3766;-1759
+addRoad;city18;city8;1536;-2246
+getRouteDescription;24
+addRoad;city17;city9;5763;4212
+getRouteDescription;2
+16;city10;189;70;city19;253;187;city1;89;11;city4;144;385;city12;4;450;city8;80;410;city15;71;40;city11;269;109;city2;267;17;city0;477;494;city6;397;6;city5
+repairRoad;city19;city17;-5160
