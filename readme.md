@@ -9,3 +9,5 @@ Każda linia powinna kończyć się linuksowym znakiem końca linii – w przec
 przypadku zawsze zgłaszam błąd.
 
 Skrypt testujący – należy jako pierwszy argument podać ścieżkę do pliku wykonywalnego.
+
+Dodano testy od Michała Tyrolskiego i Macieja Procyka.
