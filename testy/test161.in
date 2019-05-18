@@ -1,0 +1,5200 @@
+addRoad;LOGUR;KIEOI;6;7
+addRoad;WAQA;WAQA;8;-8
+repairRoad;KIEOI;LOGUR;-10
+repairRoad;GODD;KGSAD;-6
+0;UMFECN
+ repairRoad;KIEOI;LOGU;R;-3 
+getRouteDescription;476
+repairRoad;GODD;NMKR;2
+addRoad;KGSAD;YHWOK;0;-6
+repairRoad;WAQA;NMKR;-3
+addRoad;KGSAD;WAQA;4;-4
+repairRoad;NMKR;NMKR;3
+98;GODD
+ #112;KGS;AD;5;9;APG 
+759;WAQA
+repairRoad;KIEOI;LOGUR;0
+addRoad;UMFECN;KGSAD;9;-4
+addRoad;KGSAD;KGSAD;4;2
+getRouteDescription;112
+addRoad;NMKR;GODD;8;8
+getRouteDescription;112
+ repairRoad;YHWOK;YHWOK;-10 
+555;NMKR;6;0;NMKR
+#0;YHWOK 
+getRouteDescription;295
+0;UMFECN
+repairRoad;GODD;NMKR;-1
+ getRouteDescription;508
+112;KGSAD
+repairRoad;GODD;NMKR;-6
+getRouteDescription;112
+addRoad;KGSAD;CFH;7;6
+addRoad;NMKR;GODD;6;-8
+getRouteDescription;112
+112;YHWOK;9;5;UMFECN;5;8;LOGUR
+repairRoad;GODD;NMKR;-2
+#getRouteDescription;147
+repairRoad;GODD;NMKR;-1
+repairRoad;WAQA;YHWOK;5
+getRouteDescription;337
+addRoad;APG;WAQA;5;-4
+repairRoad;APG;WAQA;9
+repairRoad;KGSAD;CFH;-8
+repairRoad;GODD;NMKR;-1
+addRoad;KIEOI;NMKR;4;-3
+addRoad;GODD;UMFECN;8;2
+#252;UMFECN
+#addRoad;APG;NMKR;6;5
+getRouteDescription;112
+743;GODD;6;-6;UMFECN;1;-6;GODD
+ getRo;uteDescription;112 
+repairRoad;APG;WAQA;0
+addRoad;GODD;KGSAD;6;-8
+repairRoad;APG;KGSAD;9
+getRouteDescription;255
+ addRoad;LOGUR;LOGUR;5;-9
+255;UMFECN
+repairRoad;KIEOI;NMKR;-6
+getRouteDescription;112
+getRou;teDescription;729
+repairRoad;NMKR;WAQA;0
+repairRoad;WAQA;YHWOK;-7
+112;APG;1;5;CFH;1;-10;YHWOK 
+addRoad;NMKR;GODD;6;-6
+getRou;teDescription;795
+ #addRoad;LOGUR;CFH;;2;-6
+ #repairRoad;APG;WAQ;A;7 
+repairRoad;LOGUR;KIEOI;-2
+#;repairRoad;KIEOI;NMKR;-8
+#getRou;teDescription;112 
+repairRoad;CFH;LOGUR;0
+getRouteDescription;102
+448;LOGUR;2;3;YHWOK;6;5;WAQA
+getRouteDescription;84
+#addRoad;UMF;ECN;UMFECN;7;9
+getRouteDescription;112
+add;Road;KGSAD;NMKR;5;-6
+; repairRoad;UMFECN;WAQA;-9 
+950;KIEOI
+ addRoad;UMFECN;KGSAD;;9;8
+getRouteDescription;675
+addRoa;d;YHWOK;KIEOI;8;-6
+repairRoad;UMFECN;KGSAD;-3
+ 448;UMF;ECN 
+addRoad;KIEOI;UMFECN;2;8
+repairRoad;APG;WAQA;9
+#repairRoad;YH;WOK;LOGUR;9 
+getRouteDescription;448
+getRouteDescription;112
+10;CFH
+getRouteDescription;448
+getRouteDescription;448
+358;NMKR;3;4;WAQA;5;2;CFH
+82;UMFECN;9;8;UMFECN;4;8;CFH
+getRouteDescription;112
+addRoad;UMFECN;KGSAD;4;5
+655;APG;2;-7;KGSAD;3;8;UMFECN
+745;CFH
+addRoad;LOGUR;APG;9;4
+getRouteDescription;573
+repair;Road;GODD;NMKR;-6
+#getRouteDescription;112 
+448;WAQA;0;2;GODD;2;7;YHWOK
+repairRoad;WAQA;NMKR;-5
+ addRoad;LOGUR;LOGU;R;5;-4
+addRoad;GODD;KGSAD;0;9
+884;NMKR;7;-5;NMKR
+ repairRoad;APG;;WAQA;3
+ #addRoad;UMFECN;WAQA;8;-;8 
+#addRoad;CFH;KIEOI;3;-7 
+getRouteDescription;448
+repairRoad;APG;WAQA;3
+addRoad;WAQA;CFH;2;6
+repairRoad;YHWOK;CFH;-10
+getRouteDescription;756
+682;UMFECN
+#addRoad;KGSAD;LOGUR;7;-1
+ #;addRoad;KIEOI;APG;0;8
+repairRoad;UMFECN;CFH;1
+183;LOGUR;8;7;NMKR;9;7;KGSAD
+865;GODD;3;-10;CFH;4;-8;CFH
+repairRoad;KGSAD;WAQA;7
+ getRouteDescription;448 
+290;CFH;2;-8;CFH
+repairRoad;UMFECN;KIEOI;7
+getRouteDescription;448
+repairRoad;UMFECN;KIEOI;2
+0;YHWOK
+getRouteDescription;448
+addRoad;NMKR;GODD;2;-9
+getRouteDescription;362
+getRouteDescription;448
+307;UMFECN;8;3;CFH
+#759;GODD; 
+21;LOGUR;7;-10;KIEOI
+getRouteDescription;201
+112;YHWOK;6;3;CFH;8;4;CFH
+getRouteDescription;483
+getRouteDescription;448
+getRouteDescription;323
+getRouteDescription;448
+repairRoad;KIEOI;CFH;5
+getRouteDescription;112
+repairRoad;NMKR;GODD;-6
+419;NMKR;9;0;KIEOI
+882;NMKR;6;-9;NMKR;3;4;CFH
+getRouteDescription;553
+112;KIEOI;2;-9;CFH;0;0;KGSAD
+563;NMKR;1;5;CFH;6;-2;APG
+getRouteDescription;112
+ add;Road;WAQA;UMFECN;0;3 
+repairRoad;KGSAD;WAQA;-7
+ #repairRoad;GODD;NMKR;;2 
+#addRoad;NMKR;KG;SAD;4;-9
+repairRoad;GODD;NMKR;7
+ getRouteDescription;;563 
+ #948;YHWOK;2;4;CFH 
+getRouteDescription;948
+addRoad;APG;KIEOI;9;3
+#getRouteDescription;448
+addRoad;GODD;WAQA;9;-3
+getRouteDescription;307
+addRoad;KIEOI;CFH;8;-8
+addRoad;LOGUR;KIEOI;4;-7
+getRouteDescription;112
+ repairRoad;NMKR;KIEOI;-1 
+getRouteDescription;563
+948;GODD
+addRoad;CFH;KGSAD;0;9
+getRouteDescription;436
+getRouteDescription;563
+repairRoad;NMKR;APG;-4
+getRouteDescription;112
+addRoad;KIEOI;KIEOI;0;-2
+701;UMFECN;7;-7;LOGUR;5;2;GODD
+ getRouteDescription;563 
+getRouteDescription;112
+307;YHWOK;3;9;LOGUR
+getRouteDescription;948
+getRouteDescription;701
+342;GODD;2;-3;APG;7;8;YHWOK
+; 728;KIEOI;8;-2;CFH;4;-9;YHWOK
+getRouteDescription;448
+repairRoad;WAQA;KGSAD;0
+127;WAQA
+repairRoad;WAQA;LOGUR;-10
+repairRoad;KGSAD;UMFECN;0
+ #repairRoad;GODD;;UMFECN;-6 
+repairRoad;UMFECN;CFH;8
+repairRoad;KIEOI;KGSAD;2
+getRouteDescription;307
+getRouteDescription;948
+getRouteDescription;930
+430;KGSAD;5;-7;LOGUR
+repairRoad;GODD;CFH;-9
+330;KIEOI
+ repairRoad;KIEOI;NMKR;5
+ #getRouteDescriptio;n;809 
+addRoad;KGSAD;CFH;3;9
+repairRoad;APG;KIEOI;8
+711;CFH;2;-9;CFH;8;6;UMFECN
+getRouteDescription;728
+addRoad;APG;CFH;7;4
+ #728;CFH;8;-9;CFH;3;-6;KIEOI
+ #repairRoad;UMFECN;LOGUR;-4
+getRouteDescription;563
+132;YHWOK;4;3;KGSAD
+addRoad;WAQA;GODD;1;-1
+repairRoad;UMFECN;KIEOI;-6
+repairRoad;GODD;KIEOI;3
+ repairRoad;YHWOK;;LOGUR;-10 
+repairRoad;APG;KIEOI;8
+getRouteDescription;741 
+addRoad;LOGUR;KIEOI;4;-3
+ ;#addRoad;YHWOK;APG;3;8 
+addRoad;NMKR;KIEOI;7;-9
+getRouteDescription;728
+ #getRouteDescription;563 
+getRouteDescription;98
+#addRoa;d;NMKR;APG;1;2
+ #903;YHWOK; 
+getRouteDescription;948
+getRouteDescription;728
+203;KIEOI;6;7;LOGUR
+repairRoad;KGSAD;GODD;-5 
+repairRoad;KGSAD;LOGUR;1
+#addRoad;UMFECN;APG;6;0 
+getRouteDescription;728
+getRouteDescription;701
+ #repairRoad;KGSAD;NMKR;6 
+getRouteDescription;701
+ repairRoad;KGSAD;WAQA;-10 
+#repairRoad;UMFECN;LOGUR;-10
+getRouteDescription;563
+getRouteDescription;563
+repairRoad;KIEOI;NMKR;-3
+repairRoad;GODD;GODD;-2
+948;NMKR;0;-7;LOGUR
+165;GODD;2;-6;GODD;7;-7;APG
+addRoad;YHWOK;WAQA;0;-10
+repairRoad;KIEOI;NMKR;5
+203;WAQA;8;-7;KIEOI;0;-4;WAQA
+getRouteDescription;112
+ a;ddRoad;KGSAD;UMFECN;0;7 
+getRouteDescription;342
+255;UMFECN
+getRouteDescription;307
+488;CFH
+ #getRoute;Description;448
+getRouteDescription;563
+getRouteDescription;948
+ #908;WAQA;5;2;CFH;9;7;LOGUR
+repairRoad;CFH;NMKR;-6 
+; getRouteDescription;701
+getRouteDescription;448
+getRouteDescription;642
+addRoad;KGSAD;APG;9;7
+repairRo;ad;NMKR;KGSAD;-4 
+addRoad;CFH;CFH;1;8
+ #repairRoad;NMKR;LOGUR;9 
+ ;repairRoad;GODD;WAQA;-7
+repairRoad;KGSAD;APG;2
+ #repairRoa;d;WAQA;GODD;-9 
+repairRoad;KGSAD;YHWOK;7
+repairRoad;KGSAD;UMFECN;-5
+getRouteDescription;968
+repairRoad;GODD;APG;-5
+430;APG;6;-5;GODD;8;-7;GODD
+ #addRoad;GODD;UMFECN;8;-9 
+addRoad;LOGUR;KIEOI;2;2
+#794;WAQA 
+getRouteDescription;550
+addRoad;GODD;KIEOI;2;6
+ repairRoad;GODD;GODD;3
+190;WAQA;4;2;KIEOI
+899;NMKR;2;7;UMFECN
+addRoad;CFH;WAQA;2;-8
+ #addRoad;KIEOI;APG;7;6 
+ #728;APG;0;-1;CFH 
+repairRoad;NMKR;LOGUR;-8
+ 573;LOGUR;0;-;5;APG 
+addRoad;LOGUR;CFH;9;-3
+repairRoad;GODD;APG;-7
+getRouteDescription;61
+getRouteDescription;728
+addRoad;LOGUR;UMFECN;5;0
+340;GODD;8;-9;UMFECN;8;5;GODD
+getRouteDescription;973
+addRoad;LOGUR;GODD;1;9
+repairRoad;KGSAD;CFH;1
+828;KIEOI;9;7;KGSAD;9;9;APG
+getRouteDescription;991
+repairRoad;KIEOI;LOGUR;-1
+getRouteDescription;112
+repairRoad;KGSAD;CFH;7
+ #634;UMFECN;9;2;KGSAD;9;8;N;MKR
+217;KGSAD
+ #addRoad;APG;APG;;6;4
+repairRoad;APG;GODD;-10
+getRouteDescription;831
+ getRouteDescription;470 
+26;CFH
+repairRoad;UMFECN;LOGUR;-5
+addRoad;LOGUR;KIEOI;2;-7
+repairRoad;LOGUR;GODD;7
+repairRoad;GODD;KIEOI;-4
+getRouteDescription;701
+908;CFH
+ getRouteDescription;203 
+getRouteDescription;430
+ #908;KGSAD
+addRoad;KGSAD;KIEOI;5;1
+addRoad;UMFECN;LOGUR;5;3
+addRoad;WAQA;WAQA;8;-6
+addRoad;CFH;GODD;2;-5
+getRouteDescription;342
+getRouteDescription;701
+addRoad;WAQA;WAQA;0;-6
+getRouteDescription;865
+114;APG;4;-3;WAQA
+#getRouteDescription;728
+508;NMKR;0;-7;GODD
+addRoad;UMFECN;UMFECN;2;7
+addRoad;UMFECN;NMKR;6;-8
+getRouteDescription;315
+repairRoad;CFH;LOGUR;1
+repairRoad;WAQA;APG;-6
+0;UMFECN
+ addRoad;GODD;YHWOK;1;;-4
+getRouteDescription;828
+getRouteDescription;701
+repairRoad;WAQA;YHWOK;2
+addRoad;GODD;KIEOI;4;-10
+repairRoad;LOGUR;KGSAD;-5
+47;KGSAD;0;8;GODD
+repairRoad;CFH;KIEOI;-6
+ #addRo;ad;UMFECN;YHWOK;5;9
+getRouteDescription;661
+addRoad;GODD;GODD;9;4
+repairRoad;CFH;;KIEOI;7 
+138;UMFECN;6;9;APG;1;1;APG
+getRouteDescription;342
+ #getRouteDescription;112 
+getRouteDescription;680
+repairRoad;CFH;KIEOI;-10
+846;GODD;9;-5;WAQA;8;6;LOGUR
+repairRoad;NMKR;LOGUR;7
+addRoad;KGSAD;APG;9;-2
+getRouteDescription;282
+getRouteDescription;448
+484;LOGUR;5;-3;WAQA
+addRoad;WAQA;KIEOI;5;6
+repairRoad;YHWOK;LOGUR;-3
+716;YHWOK;7;0;YHWOK
+getRouteDescription;384
+addRoad;LOGUR;APG;9;-7
+addRoad;NMKR;LOGUR;3;-6
+#repairRoad;UMFECN;;WAQA;0
+addRoad;YHWOK;CFH;6;3
+ #addRoad;KGSAD;GODD;1;5
+776;LOGUR;9;1;CFH
+repairRoad;UMFECN;GODD;-8
+ 555;CF;H
+addRoad;GODD;UMFECN;3;9
+addRoad;UMFECN;APG;0;2
+addRoad;CFH;GODD;9;6
+addRoad;APG;APG;4;-8
+addRoad;UMFECN;KGSAD;1;6
+92;KIEOI;9;1;KIEOI
+989;WAQA
+14;APG 
+getRouteDescription;92
+addRoad;KGSAD;NMKR;2;-3
+ 132;GODD;;3;0;CFH
+getRouteDescription;317
+#getRouteDescript;ion;948
+addRoad;KIEOI;WAQA;8;-10
+addRoad;KGSAD;LOGUR;7;-7
+repairRoad;WAQA;LOGUR;-1
+addRoad;UMFECN;GODD;7;7
+406;LOGUR;3;-7;GODD
+addRoad;KIEOI;APG;8;-6
+634;GODD
+addRoad;APG;KGSAD;4;7
+868;UMFECN
+863;KIEOI;0;-1;NMKR
+getRouteDes;cription;203 
+getRouteDescription;60
+748;KIEOI
+getRouteDescription;342
+addRoad;GODD;YHWOK;0;5
+370;APG;7;8;APG
+repairRoad;KGSAD;KIEOI;6
+repairRoad;WAQA;YHWOK;9
+addRoad;KIEOI;CFH;7;-1
+repairRoad;GODD;NMKR;-8
+getRouteDescription;632
+repairRoad;CFH;APG;8
+#addRoad;WAQA;APG;4;-8
+repairRoad;LOGUR;WAQA;-8
+addRoad;KGSAD;WAQA;7;1
+repairRoad;WAQA;GODD;-9
+getRouteDescription;776
+repairRoad;CFH;APG;-3
+repairRoad;KGSAD;APG;6
+733;KGSAD;4;7;WAQA;5;9;CFH
+getRouteDescription;908
+455;WAQA;8;6;CFH;4;7;CFH
+342;CFH
+repairRoad;APG;WAQA;-1
+#getRouteDescription;948
+#addRoad;UMFECN;GODD;4;9
+repairRoad;APG;APG;-5 
+getRouteDescription;14
+833;YHWOK;3;-2;GODD;2;9;APG
+addRoad;KGSAD;YHWOK;6;9
+getRouteDescription;908
+repai;rRoad;YHWOK;LOGUR;-5
+repairRoad;KIEOI;GODD;0
+addRoad;APG;KIEOI;5;-7
+#839;UMFE;CN 
+addRoad;APG;GODD;5;-1
+addRoad;GODD;KGSAD;4;8
+repairRoad;NMKR;CFH;-3
+getRouteDescription;432
+ #244;APG;;7;7;NMKR;3;-7;LOGUR
+addRoad;GODD;NMKR;7;8
+528;CFH
+repairRoad;NMKR;LOGUR;-6
+getRouteDescription;563
+ #repairRoad;GODD;YHWO;K;-10
+addRoad;LOGUR;CFH;6;8
+getRouteDescription;914
+ 0;KGSAD; 
+112;CFH
+#addRoad;UMFECN;YHW;OK;0;-3 
+addRoad;GODD;GODD;0;1
+getRouteDescription;873
+addRoad;CFH;UMFECN;5;4
+ addRoad;NMKR;KIEOI;7;;5 
+repairRoad;NMKR;YHWOK;-3
+ #addRoad;KIEOI;KIEOI;8;;-8 
+repairRoad;NMKR;KGSAD;3
+ 938;NMKR;1;5;CFH;8;8;UMFECN
+getRouteDescription;112
+addRoad;WAQA;NMKR;0;2
+getRouteDescription;948
+repairRoad;UMFECN;KIEOI;-8
+addRoad;LOGUR;CFH;6;-1
+#addRoad;KGSAD;LOGUR;3;-4
+430;KGSAD;1;2;NMKR
+#addRoad;KGSAD;KIEOI;5;-7
+getRouteDescription;781
+499;YHWOK;0;8;NMKR;3;-4;LOGUR
+ getRo;uteDescription;267
+repairRoad;LOGUR;KGSAD;-4
+addRoad;WAQA;YHWOK;9;4
+getRouteDescription;908
+965;YHWOK;3;-4;LOGUR;3;-3;NMKR
+repairRoad;YHWOK;YHWOK;-9
+repairRoad;GODD;KIEOI;6
+repairRoad;UMFECN;NMKR;-2
+repairRoad;GODD;LOGUR;-3
+ repairRoad;KGSAD;WAQA;3 
+948;YHWOK;7;-8;NMKR
+getRouteDescription;430
+#repairRoad;;UMFECN;NMKR;4
+554;LOGUR
+544;KIEOI
+addRoad;CFH;APG;5;-2
+getRouteDescription;203
+repairRoad;KIEOI;KGSAD;-8
+addRoad;YHWOK;UMFECN;2;9
+#addRoad;LOGUR;YHWOK;3;-1 
+addRoad;YHWOK;KGSAD;6;5
+getRouteDescription;701
+getRouteDescription;203
+getRouteDescription;538
+#addRoad;WAQA;LOGUR;6;5
+857;APG;1;1;NMKR
+ getRouteDescription;829
+repairRoad;KIEOI;KGSAD;-9
+addRoad;YHWOK;GODD;6;-6
+112;CFH
+addRoad;GODD;WAQA;8;6
+getRouteDescription;342
+203;KGSAD
+repairRoad;CFH;APG;5
+ #addRoad;UM;FECN;UMFECN;6;-6 
+487;LOGUR
+addRoad;LOGUR;APG;4;-3
+addRoad;GODD;NMKR;9;6
+repairRoad;UMFECN;CFH;-7
+addRoad;APG;GODD;1;-2
+638;YHWOK;2;3;LOGUR 
+addRoad;KIEOI;WAQA;4;6
+ addRoad;CFH;WA;QA;6;-9
+addRoad;KGSAD;NMKR;3;3
+addRoad;LOGUR;YHWOK;8;9
+ 833;KIEOI 
+8;NMKR;8;1;LOGUR;4;6;KIEOI
+repairRoad;LOGUR;APG;-10
+repairRoad;GODD;YHWOK;9
+addRoad;UMFECN;CFH;9;5
+83;UMFECN;0;-8;APG;4;8;LOGUR
+185;CFH
+addRoad;WAQA;WAQA;6;-10
+9;31;APG 
+addRoad;WAQA;CFH;0;5
+ #repairRoad;UMFECN;LOGUR;-2 
+repairRoad;GODD;APG;-8
+ #getRouteDescription;474
+addRoad;UMFECN;APG;5;-4
+addRoad;LOGUR;WAQA;6;1
+#addRoad;NMKR;KGSAD;7;-;5
+repairRoad;NMKR;CFH;-1
+67;CFH;4;7;NMKR
+getRouteDescription;638 
+85;NMKR;1;1;KIEOI;4;0;WAQA
+repairR;oad;GODD;NMKR;-3
+529;APG;5;9;WAQA
+addRoad;UMFECN;UMFECN;4;-8
+692;GODD;4;-3;GODD
+addRoad;APG;GODD;3;-10
+addRoad;LOGUR;APG;3;;-5
+addRoad;;WAQA;WAQA;8;6
+851;KGSAD
+repairRoad;NMKR;KGSAD;3
+ repai;rRoad;NMKR;YHWOK;-4
+addRoad;GODD;CFH;0;-1
+repairRoad;YHWOK;YHWOK;7
+548;APG;9;8;KIEOI;4;-2;YHWOK
+addRoad;CFH;UMFECN;8;-9
+repairRoad;GODD;WAQA;-8
+929;GODD
+getRouteDescription;448
+repairRoad;LOGUR;CFH;-7
+131;YHWOK;5;3;GODD;9;-8;GODD 
+addRoad;KGSAD;YHWOK;9;-1
+addRoad;NMKR;APG;5;2
+repairRoad;WAQA;YHWOK;-10
+addRoad;LOGUR;GODD;9;3
+getRouteDescription;701
+repairRoad;GODD;LOGUR;-9
+addRoad;APG;LOGUR;8;-8
+112;WAQA;5;7;APG;8;8;YHWOK
+addRoad;CFH;YHWOK;2;7
+0;APG;4;8;YHWOK;6;7;YHWOK
+getRouteDescription;776
+addRoad;YHWOK;YHWOK;8;7
+addRoad;YHWOK;GODD;5;3
+#989;CFH;4;-8;WAQA;2;0;KGSAD
+getRouteDescription;948
+repairRoad;LOGUR;NMKR;8
+addRoad;GODD;WAQA;7;9
+addRoad;WAQA;GODD;5;7
+repairRoad;LOGUR;KGSAD;-6
+addRoad;APG;WAQA;7;1
+ repai;rRoad;APG;YHWOK;0
+getRouteDescription;342
+repairRoad;WAQA;NMKR;3
+34;LOGUR;9;5;WAQA;0;2;CFH
+908;KGSAD
+getRouteDescription;776
+getRouteDescription;112
+431;CFH;6;4;GODD
+addRoad;GODD;CFH;1;6
+addRoad;GODD;NMKR;1;-4
+getRouteDescription;563
+ repai;rRoad;KIEOI;WAQA;-10 
+addRoad;NMKR;WAQA;5;-4
+792;KGSAD;5;4;LOGUR;1;7;YHWOK
+getRouteDescription;701
+ #307;KGSAD;8;-4;NM;KR
+437;WAQA
+repairRoad;GODD;WAQA;2
+repairRoad;KGSAD;NMKR;1
+971;UMFECN;3;1;APG
+656;NMKR
+addRoad;KIEOI;CFH;0;-5
+638;LOGUR
+ repairRoad;UMFECN;APG;7 
+getRouteDescription;448
+getRouteDescription;857
+#addRoad;NMKR;NMKR;9;3
+ repairRoad;C;FH;YHWOK;6 
+getRouteDescription;548
+543;WAQA;3;4;NMKR;9;-10;YHWOK
+repairRoad;GODD;KIEOI;2
+843;CFH
+repairRoad;NMKR;APG;9
+getRouteDescription;203
+getRouteDescription;307
+489;KGSAD;1;5;WAQA;0;-2;APG
+ repa;irRoad;KGSAD;UMFECN;-2
+getRouteDescription;548
+ addRoad;WAQA;CFH;8;-7
+596;APG
+addRoad;UMFECN;LOGUR;0;2
+repairRoad;CFH;LOGUR;9
+ #getRouteDescriptio;n;697
+addRoad;YHWOK;CFH;9;9
+getRouteDescription;307
+addRoad;NMKR;APG;8;-5
+getRouteDescription;833
+getRouteDescription;307
+getRouteDescription;580
+addRoad;YHWOK;APG;9;5
+ #ge;tRouteDescription;387
+ #getRouteDesc;ription;691 
+repairRoad;U;MFECN;CFH;9
+ #getRouteDescription;450 
+338;APG;3;-9;APG;1;8;LOGUR
+776;KIEOI;2;-1;GODD;6;3;APG
+getRouteDescription;483
+repairRoad;KGSAD;UMFECN;7
+#748;WAQA;0;-3;LOGUR
+924;APG;2;-10;WAQA;5;-3;KIEOI
+getRouteDescription;701
+getRouteDescription;634
+getRouteDescription;529
+#addRoad;WAQA;WAQA;7;;-6 
+addRoad;LOGUR;CFH;6;3
+repairRoad;YHWOK;CFH;-2 
+#getRouteDescription;634
+repairRoad;CFH;WAQA;-9
+getRouteDescription;725
+getRouteDescription;857
+addRoad;UMFECN;UMFECN;0;-1
+addRoad;YHWOK;CFH;4;-4
+ getRout;eDescription;342
+ getRouteDescri;ption;801 
+getRouteDescription;548
+repairRoad;WAQA;YHWOK;-5
+addRoad;KIEOI;KGSAD;3;5 
+#repairRoad;KIEOI;;WAQA;1
+repairRoad;LOGUR;KIEOI;1
+ad;dRoad;WAQA;GODD;9;-3
+getRouteDescription;701
+addRoad;LOGUR;CFH;6;0
+getRouteDescription;342
+getRouteDescription;743
+419;KIEOI
+getRouteDescription;534
+58;KIEOI
+333;KGSAD;9;9;APG
+addRoad;YHWOK;WAQA;4;8
+412;YHWOK;4;-2;KIEOI
+342;APG
+addRoad;WAQA;UMFECN;5;-6
+getRouteDescription;948
+getRouteDescription;543
+getRouteDescription;728
+ 6;34;KIEOI
+ addRoad;GODD;WAQA;0;-10
+ #311;LOGUR 
+getRouteDescription;908
+727;NMKR
+796;UMFECN
+337;KIEOI
+repairRoad;NMKR;;LOGUR;-10
+#917;;NMKR
+getRouteDescription;776
+getRouteDescription;203
+addRoad;APG;APG;3;-2
+200;NMKR;0;-8;NMKR;8;1;APG
+getRouteDescription;634
+272;KIEOI;8;-2;LOGUR;4;-8;UMFECN
+getRouteDescription;342
+addRoad;LOGUR;APG;5;4
+repairRoad;UMFECN;YHWOK;-10
+ getRouteDescription;733 
+248;APG;0;-5;UMFECN;7;9;CFH
+getRouteDescription;307
+ #repairRoad;GODD;KIEOI;-9
+getRouteDescription;548
+repairRoad;KGSAD;YHWOK;-1
+getRouteDescription;529
+260;YHWOK;6;9;WAQA;5;1;LOGUR
+407;LOGUR;7;8;YHWOK;5;0;YHWOK
+repairRoad;YHWOK;UMFECN;1
+ addRoad;WAQ;A;WAQA;4;3
+addRoad;KGSAD;CFH;1;-2
+repairRoad;;UMFECN;LOGUR;1 
+333;NMKR
+ #repairRoad;UMFEC;N;YHWOK;5
+addRoad;APG;YHWOK;4;-10
+ 0;APG;6;5;KGSAD;9;6;CFH 
+0;CFH;0;8;KIEOI
+getRouteDescription;333
+ 448;KGSAD
+addRoad;UMFECN;KIEOI;0;-2
+getRouteDescription;479
+557;UMFECN
+getRouteDescription;690
+125;NMKR;0;9;NMKR
+getRouteDescription;938
+ge;tRouteDescription;661
+addRoad;UMFECN;WAQA;8;7
+addRoad;APG;KGSAD;1;-5
+repairRoad;WAQA;NMKR;6
+getRouteDescription;828
+getRouteDescription;733
+ #getRouteDescription;342
+ #800;GODD 
+762;KGSAD;8;1;NMKR
+addRoad;LOGU;R;NMKR;7;-8 
+getRouteDescription;412
+repairRoad;CFH;CFH;4
+repairRoa;d;GODD;CFH;7
+getRouteDescription;603
+757;YHWOK
+addRoad;W;AQA;WAQA;7;1 
+addRoad;;UMFECN;KGSAD;8;8 
+#addRoad;YHWOK;LOGUR;4;-5
+repairRoad;WAQA;YHWOK;-7
+addRoad;WAQA;APG;4;-10
+0;WAQA;5;-4;CFH
+#repairRoad;LOGUR;N;MKR;-1 
+repairRoad;NMKR;UMFECN;3
+82;UMFECN
+0;LOGUR 
+addRoad;GODD;KIEOI;4;3
+#re;pairRoad;CFH;NMKR;-10 
+repairRoad;YHWOK;LOGUR;-1
+ getRouteDescription;342
+#repairRoad;NMKR;NMKR;8 
+repairRoad;NMKR;YHWOK;8
+ #addRoad;CFH;CFH;8;-2 
+ getRo;uteDescription;728
+222;LOGUR;9;-9;GODD;3;7;KGSAD
+0;APG;0;4;CFH;6;2;UMFECN
+repairRoad;KGSAD;GODD;0
+771;NMKR;0;9;GODD;7;4;NMKR
+addRoad;KGSAD;KGSAD;0;-6
+ #repairRoad;CFH;APG;-1
+getRouteDescription;260
+#addRoad;UMFECN;KIEOI;0;-3 
+getRouteDescription;342
+342;NMKR;4;-10;KGSAD;3;-2;APG
+getRouteDescription;448
+repairRoad;APG;LOGUR;-10
+438;APG;5;9;WAQA;3;6;NMKR
+ repairR;oad;GODD;APG;7 
+repairRoad;KIEOI;WAQA;6
+getRouteDescription;857
+repairRoad;GODD;YHWOK;-10
+repairRoad;KIEOI;NMKR;-5
+711;NMKR
+getRouteDescription;488
+getRouteDescription;857
+getRouteDescription;548
+addRoad;KGSAD;UMFECN;3;-9
+;#getRouteDescription;333 
+84;CFH;1;-8;CFH
+ 852;LOGUR
+#repairRoad;NMKR;UMFECN;;8 
+788;APG;6;-7;YHWOK
+repairRoad;APG;WAQA;-4
+addRoad;NMKR;LOGUR;6;-4
+repairRoad;NMKR;KGSAD;-10
+ #repairRoad;CFH;LOGUR;5 
+458;UMFECN;6;5;UMFECN
+addRoad;CFH;APG;0;-10
+0;YHWOK;8;-1;UMFECN;7;3;LOGUR
+repairRoad;CFH;NMKR;-1
+134;NMKR;9;2;CFH;2;-5;NMKR
+956;UMFECN;3;9;WAQA;4;-2;WAQA
+70;APG
+523;GODD;2;-7;GODD;9;5;APG
+ #repairRoad;WAQA;KIEOI;8 
+292;NMKR;4;3;KIEOI
+948;GODD
+getRouteDescription;15
+319;WAQA
+#245;CF;H;1;5;NMKR 
+ #repairRoad;WAQA;NMKR;-4 
+getRouteDescr;iption;833 
+repairRoad;KIEOI;KGSAD;-6
+repairRoad;APG;LOGUR;8
+ 66;CFH;5;-10;CFH
+ #addRoad;APG;GODD;2;-3 
+getRouteDescription;249
+942;APG;0;3;UMFECN;0;2;GODD
+getRouteDescription;333
+addRoad;UMFECN;LOGUR;7;3
+addRoad;LOGUR;CFH;9;-2
+getRouteDescription;908
+880;KGSAD
+repairRoad;GODD;CFH;-5
+addRoad;GODD;NMKR;3;-9
+63;LOGUR;0;1;CFH;7;-1;UMFECN
+addRoad;YHWOK;KGSAD;9;-2
+733;CFH;6;0;LOGUR
+;getRouteDescription;833 
+979;KIEOI;9;-7;YHWOK;1;-7;WAQA
+getRouteDescription;919
+addRoad;KIEOI;LOGUR;1;-9
+addRoad;UMFECN;NMKR;8;-1
+repairRoad;APG;KGSAD;-7
+addRoad;APG;NMKR;2;5
+904;UMFECN;2;7;NMKR
+601;KIEOI;1;-5;YHWOK
+ rep;airRoad;WAQA;APG;3
+addRoad;UMFECN;CFH;3;5
+addRoad;NMKR;KIEOI;9;-6
+addRoad;APG;CFH;6;7
+getRouteDescription;448
+addRoad;UMFECN;CFH;7;3
+getRouteDescription;389
+ #addRoad;CFH;UMFECN;1;;2 
+542;GODD
+689;LOGUR;6;7;KIEOI
+getRouteDescription;833
+repairRoad;UMFECN;GODD;5
+addRoad;KIEOI;APG;6;4
+addRoad;UMFECN;NM;KR;5;9 
+repairRoad;YHWOK;CFH;-4
+#repairRoad;GODD;APG;-7
+#addRoad;WAQA;NMKR;2;4
+addRoad;KGSAD;CFH;3;-2
+ addRoa;d;KGSAD;GODD;0;-9
+904;GODD;3;-6;YHWOK;9;-9;NMKR
+getRouteDescription;260
+721;CFH;4;-6;CFH
+addRoad;KIEOI;LOGUR;4;5
+806;YHWOK
+getRouteDescription;833
+repairRoad;LOGUR;KGSAD;7
+getRouteDescription;203
+addRoad;UMFECN;LOGUR;8;-6
+ #315;CFH;9;1;GODD;1;-3;CF;H
+ #repairRo;ad;KIEOI;NMKR;4 
+repairRoad;KIEOI;UMFECN;8
+getRouteDescription;637
+addRoad;YHWOK;GODD;2;3
+ addRoad;;KIEOI;NMKR;8;5 
+repairRoad;KGSAD;WAQA;9
+343;LOGUR;7;9;UMFECN;9;7;KGSAD
+repairRoad;KIEOI;WAQA;-6
+addRoad;LOGUR;UMFECN;2;-2
+getRouteDescription;776
+repairRoad;GODD;KIEOI;-10
+getRouteDescription;245
+addRoad;LOGUR;NMKR;4;7
+ addRoad;KGSAD;LOG;UR;0;-6 
+repairRoad;CFH;LOGUR;6
+getRouteDescription;861
+repairRoad;CFH;UMFECN;6
+getRouteDescription;908
+610;YHWOK
+859;YHWOK;9;-5;GODD
+addRoad;GODD;GODD;6;-7
+addRoad;NMKR;CFH;9;-9
+getRouteDescription;563
+repairRoad;WAQA;LOGUR;-8
+123;CFH;6;8;YHWOK;1;-7;WAQA
+addRoad;NMKR;WAQA;1;4
+199;APG;1;-8;YHWOK
+addRoad;GODD;KGSAD;5;-2
+addRoad;CFH;WAQA;2;-8
+ #repairRoad;KGSAD;CFH;3
+getRouteDescription;455
+getRouteDescription;948
+689;KGSAD;8;-6;CFH
+getRouteDescription;904; 
+getRouteDescription;679
+ repairRoad;;GODD;YHWOK;7 
+repairRoad;KIEOI;WAQA;8
+addRoad;UMFECN;YHWOK;5;4
+addRoad;APG;LOGUR;9;9
+getRouteDesc;ription;412 
+getRouteDescription;948 
+ #746;KIEOI;;6;7;LOGUR 
+ repairRoad;WAQA;YHWOK;-1
+ ;796;WAQA 
+repairRoad;NMKR;YHWOK;0
+addRoad;KGSAD;KGSAD;8;-3
+repairRoad;CFH;YHWOK;-7
+#r;epairRoad;YHWOK;CFH;1
+245;CFH
+ #36;KIEOI
+ #116;KGSAD;9;-8;KIEOI;9;-3;YHWOK 
+#getRouteDescription;;412 
+repairRoad;NMKR;WAQA;-8
+addRoad;KGSAD;GODD;5;9 
+repairRoad;GODD;CFH;6
+ #addRoad;CFH;GODD;6;-5
+addRoad;KGSAD;LOGUR;5;4
+ 279;LOGUR; 
+896;NMKR
+addRoad;YHWOK;KIEOI;2;-3
+repairRoad;KIEOI;NMKR;6
+#getRouteDe;scription;548 
+481;CFH
+153;WAQA
+898;YHWOK;2;6;LOGUR
+ #addRoad;KIEOI;APG;9;0 
+0;CFH;2;6;KGSAD;7;8;LOGUR
+ getRouteDescription;34;3 
+addRoad;LOGUR;WAQA;6;-4
+#getRouteDescription;8;98 
+repairRoad;APG;WAQA;-4
+ #getRout;eDescription;203
+578;APG;9;9;KGSAD
+getRouteDescription;260
+addRoad;LOGUR;UMFECN;7;4
+ #addRoad;APG;UMFECN;3;-3 
+addRoad;CFH;GODD;0;1
+getRouteDescription;904
+#addRoad;CFH;CFH;2;1
+addRoad;UMFECN;WAQA;8;-8
+ 814;YHWOK;4;-10;APG
+repairRoad;YHWOK;LOGUR;-5
+repairRoad;GODD;NMKR;-10
+addRoad;NMKR;KIEOI;5;-7
+578;YHWOK;4;-2;YHWOK;3;9;NMKR
+getRouteDescription;517
+ #addRoa;d;YHWOK;YHWOK;0;1 
+ #re;pairRoad;APG;KIEOI;4 
+addRoad;KGSAD;KIEOI;8;6
+addRoad;WAQA;APG;5;6
+repairRoad;KGSAD;YHWOK;-2
+repairRoad;UMFECN;YHWOK;-10
+219;NMKR
+430;KGSAD
+ repairRoad;A;PG;NMKR;3 
+getRouteDescription;28
+getRouteDescription;28
+487;YHWOK;7;8;APG
+;#getRouteDescription;746 
+6;;NMKR 
+383;UMFECN
+188;GODD;2;6;KIEOI;4;6;NMKR
+getRouteDescription;701
+addRoad;YHWOK;UMFECN;0;-9
+374;CFH;4;0;WAQA;4;-2;KGSAD
+repairRoad;NMKR;UMFECN;-7
+repairRoad;GODD;KIEOI;-1
+ #repairRoad;APG;KIEOI;8
+repairRoad;KGSAD;GODD;5
+addRoad;KIEOI;YHWOK;5;-10
+getRouteDescription;342
+repairRoad;GODD;APG;8
+ getRouteDescription;;333 
+ #getRouteDescription;948
+addRoad;APG;APG;6;-6
+getRouteDescription;342
+298;KGSAD;0;8;WAQA;0;-10;APG
+getRouteDescription;448
+repairRoad;APG;KIEOI;8
+repairRoad;KIEOI;UMFECN;-5 
+270;KGSAD
+repairRoad;KGSAD;UMFECN;-10
+204;KIEOI
+342;UMFECN;9;-9;LOGUR
+addRoad;UMFECN;WAQA;1;-7
+addRoad;CFH;YHWOK;6;6
+repairRoad;UMFECN;YHWOK;-6
+repairRoad;WAQA;APG;-7
+addRoad;GODD;YHWOK;3;-1
+addRoad;CFH;GODD;7;-8
+repairRoad;UMFECN;YHWOK;-1
+addRoad;WAQA;KIEOI;4;0
+repairRoad;GODD;YHWOK;-9
+getRouteDescription;563
+260;UMFECN
+45;APG
+ #;getRouteDescription;822 
+ #repairRoad;UMFECN;KGSAD;-8
+addRoad;UMFECN;KGSAD;2;9
+getRouteDescription;898
+getRouteDescription;438
+repairRoad;LOGUR;LOGUR;-2
+addRoad;YHWOK;NMKR;1;3
+addRoad;KIEOI;GODD;8;-6
+#275;KG;SAD;6;0;YHWOK
+333;GODD;6;-9;KGSAD
+getRouteDescription;701
+ #addRoad;;WAQA;LOGUR;1;7 
+addRoad;CFH;WAQA;1;-7
+getRouteDescription;567
+342;NMKR;3;1;UMFECN
+977;UMFECN;4;-6;NMKR
+ #addRoad;APG;CFH;6;1; 
+#getRo;uteDescription;438
+569;YHWOK;2;0;GODD;6;-8;GODD
+addRoad;WAQA;KGSAD;4;7
+ #655;GODD 
+repairRoad;APG;YHWOK;-5
+addRoad;GODD;YHWOK;1;3
+getRouteDescription;245
+ repa;irRoad;UMFECN;WAQA;-4 
+ #getRouteDescription;563
+638;;WAQA 
+430;GODD;4;-5;APG
+getRouteDescription;638
+ #5;97;WAQA
+#addRoad;KIEOI;LOGUR;;9;-5 
+getRouteDescription;307
+addRoad;CFH;CFH;3;4
+201;LOGUR
+addRoad;KGSAD;NMKR;7;3
+ repairRoad;GODD;APG;-5 
+repairRoad;CFH;APG;-8
+getRouteDescription;548
+repairRoad;KGSAD;WAQA;-3
+49;YHWOK;2;0;WAQA;4;6;CFH
+addRoad;APG;KGSAD;0;5
+repairRoad;APG;KIEOI;-5
+ getRouteDescription;948
+548;UMFECN;2;4;NMKR;0;-6;CFH
+addRoad;APG;UMFECN;4;5
+repairRoad;LOGUR;LOGUR;-2
+addRoad;NMKR;APG;3;-10
+addRoad;WAQA;GODD;8;-1
+getRouteDescription;529
+857;WAQA;3;7;KGSAD;9;-5;UMFECN
+ #948;YHWOK;8;0;;WAQA
+ #908;NMKR;3;0;Y;HWOK;3;5;WAQA
+repairRoad;WAQA;NMKR;-9
+599;WAQA;0;1;LOGUR
+765;APG
+addRoad;APG;KIEOI;0;8
+getRouteDescription;666
+addRoad;APG;LOGUR;7;-2
+809;KGSAD;9;2;KGSAD
+#getRouteDesc;ription;438 
+addRoad;KIEOI;GODD;6;4
+repairRoad;APG;LOGUR;8
+repairRoad;NMKR;YHWOK;-9
+ 819;YHWOK;;2;0;LOGUR
+746;WAQA
+repairRoad;KGSAD;APG;0
+857;NMKR;2;4;NMKR
+205;KGSAD
+getRouteDescription;235
+getRouteDescription;904
+getRouteDescription;828
+repairRoad;WAQA;YHWOK;7
+ addRoad;APG;KIEOI;9;0
+getRouteDescription;707
+repairRoad;WAQA;YHWOK;8
+#getRouteDescription;897
+addRoad;APG;NMKR;0;3
+getRouteDescription;547
+repairRoad;APG;LOGUR;2
+addRoad;UMFECN;UMFECN;2;-1
+157;KIEOI;7;-7;WAQA;3;-3;WAQA
+getRouteDescription;638
+addRoad;KIEOI;CFH;6;-2
+addRoad;WAQA;APG;9;-7
+addRoad;WAQA;UMFECN;5;-9
+addRoad;UMFECN;UMFECN;9;-7
+getRouteDescription;908
+addRoad;GODD;APG;5;9
+27;KGSAD
+getRouteDescription;833
+#addRoa;d;KIEOI;CFH;6;-6 
+repairRoad;LOGUR;UMFECN;-8
+repairRoad;APG;YHWOK;-9
+ #0;CFH;6;6;;APG
+776;APG;4;8;CFH;7;-3;CFH
+ #repairRoad;YHWOK;LOGU;R;-10 
+931;KGSAD
+ #401;;LOGUR 
+repairRoad;UMFECN;UMFECN;-1
+addRoad;YHWOK;UMFE;CN;8;-5 
+addRoad;KGSAD;LOGUR;7;-7
+ #827;;KIEOI 
+addRoad;CFH;APG;4;3
+getRouteDescription;775
+864;WAQA
+693;KIEOI;2;6;GODD;5;7;LOGUR
+getRouteDescription;543
+0;CFH;7;9;KIEOI
+repairRoad;GODD;NMKR;-4
+addRoad;YHWOK;APG;3;0
+ #repairRoad;APG;WAQA;-2 
+938;WAQA
+352;YHWOK
+repairRoad;GODD;CFH;2
+getRouteDescription;423
+addRoad;APG;UMFECN;4;4
+927;WAQA;9;-6;YHWOK
+addRoad;KIEOI;YHWOK;2;-2
+#addRoad;WAQA;LOGUR;9;-5
+704;UMFECN
+addRoad;WAQA;YHWOK;3;-8
+ #addRoad;GODD;NM;KR;5;7 
+addRoad;NMKR;KIEOI;2;0
+863;NMKR;1;-7;GODD;2;-4;YHWOK
+repairRoad;CFH;APG;6
+addRoad;CFH;CFH;2;-2
+repairRoad;UMFECN;UMFECN;-5
+getRouteDescription;638
+getRouteDescription;412
+repairRoad;GODD;KIEOI;-3
+repairRoad;CFH;LOGUR;-2
+getRouteDescription;482
+getRouteDescription;563
+ #;repairRoad;WAQA;APG;9 
+4;YHWOK;7;8;APG
+repairRoad;UMFECN;WAQA;-10
+getRouteDescription;733
+879;LOGUR;5;7;KGSAD
+961;YHWOK;9;-10;NMKR;2;-9;LOGUR
+ #getRouteDescription;558
+ addRoad;KIEOI;GODD;0;1 
+360;LOGUR
+repairRoad;KGSAD;YHWOK;-2
+repairRoad;YHWOK;LOGUR;-8
+addRoad;GODD;KIEOI;8;3
+repairRoad;UMFECN;CFH;5
+getRouteDescription;98
+addRoad;LOGUR;WAQA;7;-8
+ #getRouteDescription;728 
+repairRoad;KGSAD;CFH;-8
+getRouteDescription;728
+addRoad;UMFECN;APG;9;-6
+getRouteDescription;776 
+addRoad;KGSAD;CFH;9;-2
+repairRoad;KIEOI;CFH;0
+getRouteDescription;188
+ 217;YHW;OK;2;-9;CFH
+addRoad;NMKR;CFH;2;4
+repairRoad;KGSAD;APG;0
+ #addRoad;UMFE;CN;KGSAD;6;-10 
+#getRouteDescript;ion;343 
+addRoad;GODD;YHWOK;6;2
+repairRoad;KGSAD;LOGUR;6
+repairRoad;WAQA;NMKR;-3
+938;KGSAD;6;1;KGSAD;0;-5;AP;G
+repairRoad;KGSAD;GODD;3
+repairRoad;LOGUR;LOGUR;-3
+getRouteDescription;514
+#getRouteDescription;904; 
+423;UMFECN;6;7;GODD
+ #61;1;KIEOI 
+#addRoad;GODD;GODD;3;-4 
+repairRoad;CFH;WAQA;9
+repairRoad;KIEOI;YHWOK;-2
+getRouteDescription;438
+getRouteDescription;563
+getRouteDescription;638
+#543;CFH;2;8;NMKR 
+addRoad;LOGUR;NMKR;9;8
+#repairR;oad;KGSAD;GODD;-7
+#g;etRouteDescription;948 
+776;APG;8;-7;WAQA
+857;UMFECN
+addRoad;APG;KIEOI;4;-7
+getRouteDescription;843
+563;KGSAD;5;8;APG;0;2;APG
+595;UMFECN
+addRoad;UMFECN;APG;5;7
+repairRoad;NMKR;CFH;-5
+543;APG;3;-10;GODD;7;5;GODD
+548;LOGUR
+repairRoad;WAQA;NMKR;-5
+repairRoad;CFH;GODD;8
+repairRoad;WAQA;GODD;-2
+repairRoad;CFH;WAQA;-10
+getRouteDescription;496
+addRoad;CFH;LOGUR;1;4
+addRoad;NMKR;KGSAD;2;-4
+701;UMFECN
+addRoad;WAQA;GODD;6;5
+addRoad;YHWOK;UMFECN;4;-8
+repairRoad;CFH;KIEOI;-8
+repairRoad;APG;GODD;-1
+643;UMFECN;5;-3;WAQA;9;4;GODD
+ #4;44;APG
+repai;rRoad;YHWOK;CFH;4
+repairRoad;WAQA;CFH;-9
+getRouteDescription;737
+996;APG
+addRoad;LOGUR;WAQA;3;6
+getRouteDescription;776
+ #repairRoad;NMKR;LOGUR;;-3 
+repairRoad;GODD;CFH;4
+getRouteDescription;260
+243;GODD;9;4;WAQA;4;9;KGSAD
+ #412;APG 
+346;CFH
+repairRoad;YHWOK;YHWOK;2
+repairRoad;KIEOI;UMFECN;-7
+addRoad;APG;WAQA;4;;-4
+addRoad;KGSAD;YHWOK;3;-10
+ #438;;GODD
+addRoad;UMFECN;KGSAD;5;-7
+addRoad;LOGUR;KGSAD;5;-4
+getRouteDescription;638; 
+repairRoad;KIEOI;YHWOK;-10
+addRoad;NMKR;APG;8;-9
+#repairRoad;APG;LOGUR;-6
+#repairRoad;GODD;YHWO;K;8 
+getRouteDescription;373
+27;KGSAD
+addRoad;YHWOK;WAQA;8;-9
+getRouteDescription;609
+getRouteDescription;243
+addRoad;GODD;WAQA;9;6
+getRouteDescription;260
+repairRoad;UMFECN;CFH;3
+#386;KGSAD
+ #addRoa;d;APG;LOGUR;2;1 
+addRoad;NMKR;WAQA;6;3
+addRoad;UMFECN;APG;6;-1
+getRouteDescription;904
+getRouteDescription;805
+repairRoad;LOGUR;GODD;-10
+693;NMKR
+138;CFH;2;2;LOGUR
+ 133;APG;0;-2;LOGUR;1;-10;;APG
+getRouteDescription;788
+ #addRoad;KIEOI;NMKR;8;-7 
+repairRoad;LOGUR;APG;-3 
+addRoad;GODD;KIEOI;1;-6
+addRoad;NMKR;YHWOK;6;6
+repairRoad;YHWOK;LOGUR;-4
+repairRoad;KIEOI;UMFECN;-7
+addRoad;CFH;LOGUR;2;8
+getRouteDescription;304
+addRoad;LOGUR;KGSAD;8;6
+ repairRoad;APG;YHWOK;-7
+repairRoad;GODD;APG;6
+ #addRo;ad;UMFECN;GODD;0;3
+ getRouteDescription;309
+getRouteDescription;916
+repairRoad;UMFECN;GODD;-2
+addRoad;NMKR;NMKR;9;9
+835;WAQA;0;8;KGSAD;9;-9;KIEOI
+addRoad;NMKR;LOGUR;5;-4
+repairR;oad;KIEOI;LOGUR;1
+repairRoad;UMFECN;WAQA;6
+addRoad;GODD;CFH;2;1
+repairRoad;KGSAD;NMKR;-2
+300;KIEOI;4;6;KIEOI
+495;UMFECN;2;9;YHWOK
+getRouteDescription;430
+908;KGSAD;3;-8;KGSAD
+; addRoad;LOGUR;CFH;0;7 
+495;GODD
+addRoad;WAQA;CFH;4;-5
+addRoad;KGSAD;LOGUR;2;-7
+221;CFH;6;5;APG;0;4;NMKR
+repairRoad;UMFECN;KGS;AD;-5 
+repairRoad;UMFECN;APG;-9
+repairRoad;KGSAD;LOGUR;-10 
+repairRoad;YHWOK;APG;6
+ getRouteDescription;946 
+333;CFH;0;-3;GODD
+getRouteDescription;728
+getRouteDescription;333
+0;KIEOI;8;-4;WAQA;8;-10;APG
+ #;addRoad;LOGUR;YHWOK;1;0 
+getRouteDescription;203
+repairRoad;NMKR;LOGUR;-3
+#561;UMFECN;2;7;NMKR;2;0;CFH 
+repairRoad;KGSAD;LOGUR;3
+repairRoad;KIEOI;LOGUR;-10
+getRouteDescription;412
+#getRouteDescription;93;8 
+#getRouteDescription;948 
+addRoad;UMFECN;NMKR;4;-1
+549;YHWOK;0;-4;KGSAD
+repairRoad;NMKR;KIEOI;9
+getRouteDescription;638
+addRoad;UMFECN;APG;5;6
+ getRouteDescriptio;n;434
+;#addRoad;WAQA;APG;8;-5
+getRouteDescription;333
+ repairRoad;KGSAD;;YHWOK;7 
+getRouteDescription;879
+getRouteDescription;634
+#0;WAQA;0;0;YHWOK;5;-7;KGSAD
+0;APG
+#repairRoad;YHWOK;LOGUR;-5
+addRoad;WAQA;WAQA;9;-7
+addRoad;UMFECN;UMFECN;4;6
+addRoad;UMFECN;LOGUR;2;-6
+487;KGSAD;0;-10;LOGUR
+addRoad;KIEOI;LOGUR;1;5
+ #repairRoad;NM;KR;YHWOK;3 
+getRouteDescription;701
+ getRouteDescription;487 
+getRouteDescription;138
+ getRouteDescrip;tion;69 
+ #repairRoad;CFH;WAQA;-7 
+addRoad;KGSAD;GODD;9;8
+addRoad;YHWOK;YHWOK;3;-6
+ addRoa;d;KIEOI;UMFECN;6;0
+getRouteDescription;957
+; getRouteDescription;112
+addRoad;APG;LOGUR;3;-8
+523;WAQA;8;-7;YHWOK
+#addRoad;GODD;LOGUR;6;7
+ addRoad;KIEOI;KGSAD;0;-10
+#addRoad;APG;KGSAD;8;-5
+repairRoad;UMFECN;CFH;0
+repairRoad;CFH;KIEOI;3
+925;WAQA;3;8;NMKR
+getRouteDescription;406
+581;UMFECN;8;6;KGSAD
+addRoad;KGSAD;GODD;6;5
+getRouteDescription;499
+getRouteDescription;607
+repairRoad;NMKR;YHWOK;7
+getRouteDescription;968
+554;GODD
+getRouteDescription;704
+ 335;UM;FECN 
+733;WAQA;4;5;WAQA;7;-4;APG
+repairRoad;KGSAD;KIEOI;4
+getRouteDescription;689
+ ;getRouteDescription;4
+repairRoad;WAQA;LOGUR;1
+#repairRoad;NMKR;NMKR;5
+addRoad;YHWOK;KGSAD;2;0
+repairRoad;GODD;YHWOK;-10
+getRouteDescription;903
+#getRouteDescription;898
+addRoad;LOGUR;UMFECN;8;-1
+addRoad;APG;UMFECN;5;7
+ #74;6;LOGUR;7;0;APG;0;-6;YHWOK
+repairRoad;KIEOI;APG;-4
+getRouteDescription;814
+#0;KIEOI;7;2;KI;EOI;1;1;NMKR
+getRouteDescription;245
+ getRouteDe;scription;307
+getRouteDescription;108
+#81;YHWOK;9;8;;NMKR;8;8;LOGUR 
+ getRouteDescription;529 
+20;KGSAD
+getRouteDescription;833
+50;APG
+getRout;eDescription;683
+repairRoad;KIEOI;WAQA;3
+ #repairRoad;CFH;APG;5
+getRouteDescription;412
+ #getRouteDescript;ion;19 
+repairRoad;CFH;WAQA;6
+addRoad;APG;YHWOK;9;7
+getRouteDescription;964
+getRouteDescription;513
+2;WAQA;0;-10;KGSAD;6;-1;YHWOK
+#addRoad;GODD;APG;5;-9
+addRoad;UMFECN;WAQA;5;-4
+638;YHWOK
+getRouteDescription;746
+828;CFH;6;-2;NMKR;3;-6;CFH
+ #repairRoad;KGSAD;GODD;-4 
+getRouteDescription;833
+ 429;GODD 
+getRouteDescription;908
+606;KGSAD;6;-9;UMFECN;0;-9;CFH
+ 438;KGSAD;2;1;NMKR;6;1;CFH
+ #addRoad;NMKR;GOD;D;4;-8 
+addRoad;GODD;UMFECN;5;4
+307;KGSAD
+#86;;APG;9;5;APG;6;-8;KIEOI
+addRoad;LOGUR;GODD;1;-6
+ #getR;outeDescription;701 
+88;APG;7;8;YHWOK
+getRouteDescription;4
+getRouteDescription;408
+getRouteDescription;904
+repairRoad;KGSAD;UMFECN;0
+repairRoad;KIEOI;KIEOI;6
+ #repairRoad;GODD;APG;3
+addRoad;KGSAD;UMFECN;8;0
+ #repairRoad;UMFECN;YHWOK;-8
+addRoad;CFH;APG;1;5
+addRoad;WAQA;;CFH;9;-2 
+addRoad;WAQA;CFH;8;4
+342;CFH;6;-5;KGSAD;3;1;NMKR 
+addRoad;UMFECN;KGSAD;6;-2
+#;repairRoad;CFH;APG;-1
+#;0;GODD;4;5;GODD
+304;APG;5;9;WAQA
+#repairRoad;KIEOI;YHWOK;0 
+335;WAQA
+37;WAQA
+addRoad;LOGUR;APG;3;2 
+repairRoad;LOGUR;KIEOI;-4
+getRouteDescription;643
+getRouteDescription;444
+856;NMKR;;4;9;KIEOI
+addRoad;NMKR;APG;6;7
+#getRouteDescription;623
+4;GODD;3;1;KIEOI;1;0;UMFECN
+336;NMKR;3;-4;UMFECN;0;2;KIEOI
+ getRouteDescription;203
+repairRoad;CFH;WAQA;7
+189;APG;9;-5;LOGUR;8;-10;APG
+833;NMKR;2;-6;CFH;7;0;YHWOK
+getRouteDescription;879
+ repairRoad;APG;YHWOK;-1
+getRouteDescription;898
+addRoad;KIEOI;UMFECN;3;-5
+getRouteDescription;543 
+ repairRoad;KGSAD;;UMFECN;3
+getRouteDescription;904
+getRouteDescription;946
+repairRoad;WAQA;NMKR;-1
+627;YHWOK;6;-2;YHWOK;6;-1;KGSAD
+ addRoad;CFH;UMFECN;9;0
+705;WAQA;4;9;KGSAD
+repairRoad;UMFECN;NMKR;-1
+getRouteDescription;746
+#addRoad;LOGUR;CFH;2;-2 
+addRoad;NMKR;GODD;7;5
+ addRoad;;CFH;UMFECN;7;4 
+repairRoad;APG;KIEOI;-5
+getRouteDescription;203
+addRoad;LOGUR;KGSAD;5;-5
+ repairRoad;CFH;APG;-7 
+getRouteDescription;857
+getRouteDescription;690
+getRouteDescription;578
+427;APG;3;9;YHWOK
+addRoad;KGSAD;UMFECN;5;6
+addRoad;WAQA;KGSAD;3;4
+addRoad;KIEOI;CFH;2;-10
+addRoad;NMKR;YHWOK;1;-10
+113;KIEOI;4;-2;YHWOK;4;7;KGSAD
+addRoad;APG;GODD;7;9
+ 473;;NMKR 
+addRoad;YHWOK;KIEOI;3;5 
+repairRoad;LOGUR;YHWOK;-3
+addRoad;CFH;LOGUR;7;4
+getRouteDescription;543
+repairRoad;GODD;KIEOI;-8
+getRouteDescription;170
+repairRoad;WAQA;KGSAD;7
+addRoad;APG;WAQA;8;9
+addRoad;GODD;NMKR;9;-7
+repairRoad;YHWOK;UMFECN;0
+repairRoad;CFH;APG;5
+94;KGSAD;9;9;APG
+ repairRoad;LOGUR;NMKR;-9 
+addRoad;UMFECN;YHWOK;3;-10
+705;UMFECN;4;6;YHWOK;5;-3;KIEOI
+ #addRoad;CFH;;UMFECN;1;-4
+ getRouteDescri;ption;529
+repairRoad;WAQA;APG;-4
+getRouteDescription;487
+getRouteDescription;430
+repairRoad;GODD;YHWOK;-5
+addRoad;APG;WAQA;5;7
+ repairRoad;WAQA;WAQA;4 
+addRoad;APG;APG;9;3
+addRoad;LOGUR;GODD;8;7
+getRouteDescription;733
+643;CFH;7;-9;KIEOI
+ 693;UMFECN;8;4;YHW;OK 
+getRouteDescription;84
+repairRoad;GODD;YHWOK;5
+addRoad;UMFECN;KGSAD;8;9
+addRoad;CFH;CFH;0;7
+addRoad;CFH;KGSAD;2;5
+589;UMFECN;5;8;APG
+getRouteDescription;799
+addRoad;CFH;GODD;3;-9
+addRoad;YHWOK;APG;7;-4
+repairRoad;LOGUR;WAQA;6
+getRouteDescription;285
+ #addRoad;LOGUR;UMFECN;;4;-6 
+#313;NMKR
+repairRoad;WAQA;KIEOI;5
+repairRoad;APG;KIEOI;3
+repairRoad;YHWOK;LOGUR;0
+getRouteDescription;260
+repairRoad;KIEOI;NMKR;0
+518;YHWOK
+repairRoad;UMFECN;WAQA;2
+106;APG;8;-5;LOGUR;3;-5;CFH
+getRouteDescription;438
+417;NMKR;9;-6;NMKR
+getRouteDescription;746
+addRoad;WAQA;KGSAD;7;5
+addRoad;KGSAD;APG;9;-1
+#addRoad;C;FH;CFH;0;-1
+repairRoad;KIEOI;NMKR;0
+102;CFH;6;8;APG;5;8;UMFECN
+repairRoad;CFH;KIEOI;-3
+repairRoad;LOGUR;UMFECN;-3
+563;CFH;6;1;WAQA
+ addRoad;NMKR;LOGUR;8;4 
+getRouteDescription;245
+701;CFH
+ addRoad;;YHWOK;WAQA;5;-6 
+ getRouteDes;cription;857
+ addRoa;d;CFH;YHWOK;5;-7 
+251;WAQA;2;-8;UMFECN
+getRouteDescription;482
+getRouteDescription;594
+repairRoad;UMFECN;UMFECN;-3
+#getRouteDescription;342
+609;WAQA
+840;KIEOI;5;-4;KGSAD;9;-10;UMFECN
+ #repairRoad;GODD;CFH;;-10 
+repairRoad;APG;KIEOI;-5
+addRoad;YHWOK;LOGUR;3;-1
+repairRoad;WAQA;NMKR;-7
+ #repairRoad;GODD;KIEOI;4
+repairRoad;WAQA;LOGUR;-3
+235;LOGUR
+#repairRoad;LOGUR;NMKR;-7 
+436;KGSAD;7;5;UMFECN;4;5;YHWOK
+ addRoad;WAQA;LOGUR;7;1 
+ #addRoad;KGSAD;NMKR;3;0
+getRouteDescription;88
+198;CFH;9;-9;NMKR
+addRoad;LOGUR;YHWOK;8;-4
+127;LOGUR;9;8;APG;6;8;CFH
+addRoad;LOGUR;APG;9;-7
+addRoad;LOGUR;NMKR;2;-9
+ repairRoad;UMFECN;APG;0
+533;KGSAD;9;9;APG
+repairRoad;APG;NMKR;8
+getRouteDescription;879
+925;KGSAD
+858;GODD;3;9;YHWOK;2;9;UMFECN
+974;LOGUR;0;-8;WAQA;7;-1;KGSAD
+addRoad;KGSAD;CFH;0;-7
+getRouteDescription;976
+addRoad;KGSAD;KIEOI;1;5
+getRouteDescription;957
+#repairRoad;KGSAD;UMFECN;8; 
+addRoad;YHWOK;APG;8;-10
+addRoad;YHWOK;CFH;5;0
+684;KGSAD;4;6;NMKR;0;3;NMKR
+addRoad;WAQA;KIEOI;8;0
+184;CFH
+634;KIEOI
+getRouteDescription;304
+addRoad;CFH;WAQA;8;-4
+getRouteDescription;643
+ #repairRoad;CFH;KIEOI;-9 
+addRoad;LOGUR;APG;1;-9
+addRoad;APG;UMFECN;6;9
+#getRouteDesc;ription;260
+#getRouteDescription;245 
+ g;etRouteDescription;412 
+getRouteDescription;858
+addRoad;UMFECN;KIEOI;9;-2
+getRouteDescription;811
+ 914;KGSAD;4;7;YHWO;K;7;8;APG
+addRoad;CFH;NMKR;0;6
+repairRoad;UMFECN;NMKR;-10
+342;WAQA
+getRouteDescription;304
+addRoad;UMFECN;YHWOK;2;-6
+addRoad;NMKR;WAQA;9;-1
+getRouteDescription;533
+repairRoad;KGSAD;KIEOI;-7
+#addRoad;UMFECN;;KGSAD;8;8
+addRoad;WAQA;YHWOK;0;-5
+ repairRoad;APG;NMKR;-4 
+addRoad;UMFECN;LOGUR;2;0
+#917;NMKR;2;-3;YHWOK
+repairRoad;UMFECN;WA;QA;8 
+154;YHWOK
+;repairRoad;LOGUR;WAQA;-7
+ ;repairRoad;APG;UMFECN;6
+98;A;PG 
+335;NMKR;6;8;WAQA;4;4;KIEOI
+addRoad;KIEOI;UMFECN;6;-9
+repairRoad;CFH;AP;G;-3 
+repairRoad;CFH;WAQA;2
+#903;LOGUR;9;-7;APG;0;-1;YHWOK
+addRoad;LOGUR;CFH;9;9
+getRouteDescription;877
+getRouteDescription;113
+125;YHWOK
+getRouteDescription;397
+ repairRoad;KIEOI;NMKR;-7 
+ #repairRoad;KIEOI;WAQA;5 
+addRoad;APG;LOGUR;6;6
+342;CFH
+getRouteDescription;529
+ addRoad;CFH;UMFEC;N;8;2 
+addRoad;KIEOI;WAQA;9;3
+ #repairRoad;NMKR;LOGUR;2
+addRoad;CFH;WAQA;8;8
+ #getRouteDescription;94 
+repairRoad;CFH;KIEOI;-7
+repairRoad;KGSAD;YHWOK;-1
+872;KGSAD;6;4;WAQA
+addRoad;LOGUR;YHWOK;0;5
+repairRoad;GODD;LOGUR;5
+0;YHWOK;9;-9;KGSAD
+repairRoad;CFH;YHWOK;-1
+getRouteDescription;679
+addRoad;YHWOK;CFH;9;0
+repairRoad;WAQA;LOGUR;5
+999;CFH;3;6;KGSAD;0;-1;GODD 
+#172;LOGUR;;0;-2;KGSAD
+getRouteDescription;998
+getRouteDescription;643
+ getRouteDescription;689 
+addRoad;KGSAD;KIEOI;8;2
+548;CFH
+448;UMFECN;4;-1;KGSAD;7;4;NMKR
+addRoad;CFH;CFH;1;-6
+909;APG;6;8;CFH
+addRoad;LOGUR;APG;1;-2
+repairRoad;APG;APG;-7
+576;KIEOI
+addRoad;WAQA;WAQA;4;9
+getRouteDescription;940
+getRouteDescription;529
+767;KGSAD
+117;CFH;0;-10;NMKR;1;-6;GODD
+repairRoad;CFH;NMKR;0
+repairRoad;APG;WAQA;-8
+repairRoad;NMKR;YHWOK;-6
+repairRoad;KIEOI;LOGUR;7
+repairRoad;APG;LOGUR;0
+repairRoad;APG;LOGUR;-6 
+ #repairRoad;UMFECN;NMKR;-7
+addRoad;KIEOI;UMFECN;8;-5
+addRoad;LOGUR;UMFECN;3;-8
+#r;epairRoad;LOGUR;LOGUR;0
+getRouteDescription;807
+#addR;oad;APG;GODD;9;9
+367;UMFECN;4;4;UMFECN
+repairRoad;LOGUR;KIEOI;0
+746;KG;SAD
+ addRo;ad;CFH;APG;4;6
+9;APG;0;-7;CFH
+ #893;GODD
+addRoad;UMFECN;WAQA;5;8
+#202;LOGUR;5;6;WAQA
+ #repairRoad;KGSAD;LOGUR;-8
+repairRoad;LOGUR;NMKR;-9
+addRoad;UMFECN;WAQA;2;8
+416;YHWOK;2;7;WAQA
+repairRoad;WAQA;KGSAD;-3
+getRouteDescription;909
+repairRoad;APG;LOGUR;-7
+repairRoad;CFH;LOGUR;3
+repairRoad;LOGUR;WAQA;1
+getRouteDescription;203
+addRoad;YHWOK;GODD;2;-4
+repairRoad;UMFECN;NMKR;1
+#30;KGSAD;0;-1;LOGUR 
+792;NMKR
+764;UMFECN;5;5;WAQA;1;3;WAQA
+645;NMKR;8;8;NMKR
+getRouteDescription;578
+repairRoad;CFH;NMKR;6
+repairRoad;KGSAD;APG;9
+#add;Road;KIEOI;CFH;3;7
+487;LOGUR;7;8;WAQA;0;6;WAQA
+addRoad;APG;LOGUR;3;-10
+repairRoad;CFH;LOGUR;-9
+816;UMFECN;7;9;LOGUR
+getRouteDescription;898
+addRoad;WAQA;KGSAD;2;-8
+729;NMKR 
+repairRoad;KGSAD;GODD;;6
+ #repairRoad;AP;G;YHWOK;-2
+848;LOGUR;7;9;;UMFECN 
+repairRoad;APG;NMKR;-4
+addRoad;KIEOI;LOGUR;4;1
+ #re;pairRoad;GODD;UMFECN;-10
+repairRoad;APG;KIEOI;7
+repairRoad;CF;H;LOGUR;-2 
+#407;;LOGUR;3;4;WAQA
+getRouteDescription;643
+addRoad;KIEOI;YHWOK;4;5
+addRoad;YHWOK;YHWOK;6;-8
+ addRoad;UMFECN;WAQA;8;-6
+430;CFH;3;-1;YHWOK
+addRoad;UMFECN;GODD;6;-10
+448;GODD;2;4;NMKR;8;0;KGSAD
+ #addRoad;WAQA;YHWOK;6;5 
+repairRoad;KGSAD;NMKR;-1
+733;WAQA;2;-1;NMKR
+repairRoad;CFH;;KIEOI;4
+getRouteDescription;858
+repairRoad;KGSAD;GODD;-2
+196;CFH;0;-8;KIEOI;4;-7;KIEOI
+repairRoa;d;APG;NMKR;1 
+ #getRouteD;escription;828
+repairRoad;APG;KGSAD;-9
+0;UMFECN;4;4;NMKR;9;-7;APG
+202;GODD;4;1;YHWOK;6;2;YHWOK
+repairRoad;UMFECN;YHWOK;9
+188;KIEOI;9;-9;CFH 
+439;WAQA;2;-8;CFH;2;8;KIEOI
+addRoad;NMKR;KIEOI;8;-10 
+#868;NMKR;;1;-2;CFH;7;-9;NMKR 
+#getRouteDescription;518
+739;CFH
+119;KGSAD;6;6;LOGUR;4;5;NMKR
+addRoad;KGSAD;WAQA;0;7
+getRouteDescription;914
+getRouteDescription;102
+repairRoad;KGSAD;YHWOK;-8
+addRoad;CFH;UMFECN;1;4
+260;KIEOI;2;-4;KGSAD;8;-7;UMFECN
+784;APG
+598;WAQA
+repairRoad;GODD;NMKR;5
+364;KGSAD;1;-6;LOGUR
+ repairRoad;KGSAD;APG;-4 
+addRoad;KGSAD;KIEOI;0;-3
+#repairRoad;WAQA;YHWOK;0
+getRouteDescription;412
+repairRoad;LOGUR;KIEOI;-4
+ #getRouteDescription;578 
+addRoad;NMKR;YHWOK;4;-5
+addRoad;NMKR;WAQA;9;2
+addRoad;APG;GODD;1;-6
+638;YHWOK;8;-7;APG
+addRoad;UMFECN;APG;9;-9
+repairRoad;KIEOI;NMKR;5
+ repairRoad;KGSAD;APG;8
+repairRoad;KIEOI;LOGUR;-6
+getRouteDescription;589
+ repairRoad;W;AQA;LOGUR;-2
+addRoad;WAQA;YHWOK;6;5
+repairRo;ad;CFH;YHWOK;4 
+repairRoad;KIEOI;WAQA;9
+ #getRouteDescription;701 
+637;CFH
+addRoad;CFH;GODD;7;0
+addRoad;KGSAD;APG;7;5
+repairRoad;GODD;KGSAD;6 
+ 310;NMKR;5;7;LOGUR;3;-7;YHW;OK 
+getRouteDescription;529
+repairRoad;YHWOK;LOGUR;-7
+repairRoad;YHWOK;YHWOK;1
+#getRouteDescription;909 
+#repairRoad;APG;KIEOI;-9
+512;KGSAD;4;-2;APG;0;-7;CFH
+#;repairRoad;UMFECN;KIEOI;-6 
+333;LOGUR
+#a;ddRoad;KIEOI;KGSAD;2;5 
+510;APG;6;8;CFH
+getRoute;Description;412 
+getRouteDescription;112
+repairRoad;GODD;NMKR;9
+getRouteDescription;837
+#getRouteDescription;49;4
+ #addRoad;APG;LOGUR;;5;-4 
+#getRouteDescriptio;n;761
+addRoad;UMFECN;APG;8;-1
+getRouteDescription;12
+repairRoad;UMFECN;LOGUR;5
+#addRoad;NMKR;;CFH;3;-9
+repairRoad;UMFECN;KIEOI;2
+addRoad;APG;GODD;5;2
+634;UMFECN;;9;8;CFH 
+#705;NMKR;1;-8;;YHWOK 
+addRoad;APG;GODD;7;3
+#addRoad;GODD;LOGUR;6;4 
+addRoad;UMFECN;CFH;9;-1
+addRoad;GODD;CFH;8;-1
+repairRoad;GODD;APG;-6
+repairRoad;YHWOK;LOGUR;6
+ getRouteD;escription;203
+addRoad;NMKR;GODD;6;-4
+getRouteDescription;510
+addRoad;YHWOK;CFH;9;7
+0;APG;5;-4;APG
+#addRoad;KIEOI;LOGUR;1;-8 
+repairRoad;UMFECN;APG;7
+88;NMKR;8;6;YHWOK;4;-2;LOGUR
+addRoad;CFH;GODD;9;-4
+848;GODD;6;-1;GODD
+repairRoad;NMKR;LOGUR;-10
+665;KGSAD;7;-5;LOGUR;3;-3;KGSAD
+getRouteDescription;938
+repairRoad;CFH;NMKR;-1
+634;WAQA;5;2;WAQA
+addRoad;NMKR;WAQA;7;8
+addRoad;NMKR;WAQA;5;-7
+#addRoad;KGSAD;LOGUR;2;7
+addRoad;NMKR;CFH;4;5
+addRoad;KGSAD;KIEOI;4;8
+getRouteDescription;92
+ #repairR;oad;CFH;WAQA;-8
+addRoad;KIEOI;KIEOI;9;-5
+repairRoad;UMFECN;LOGUR;5
+getRouteDescription;856
+476;GODD;2;8;CFH
+repairRoad;CFH;APG;-7
+ 772;WAQA;9;4;GODD;5;8;LOGUR
+ #addRoad;KIEOI;YHWOK;3;2
+435;WAQA;5;8;UMFECN
+getRouteDescription;45
+171;GODD
+#getRouteDescription;113 
+getRouteDescription;543
+addRoad;UMFECN;APG;9;-4
+ #942;APG;1;9;NMKR
+getRouteDescription;948
+addRoad;GODD;UMFECN;0;-1
+getRouteDescription;438
+addRoad;NMKR;YHWOK;3;-9
+repairRoad;WAQA;KIEOI;-5
+addRoad;YHWOK;WAQA;4;;-10 
+ #;364;KGSAD 
+ #getRouteDescription;102 
+addRoad;NMKR;LOGUR;3;7
+repairRoad;UMFECN;NMKR;1
+getRouteDescription;202
+repairRoad;UMFECN;UMFECN;1
+#repa;irRoad;NMKR;UMFECN;-5
+addRoad;UMFECN;APG;6;3
+getRouteDescription;202
+547;YHWOK
+ 397;;APG
+getRouteDescription;342
+733;LOGUR;7;8;APG;8;-5;WAQ;A
+getRouteDescription;548
+addRoad;KGSAD;WAQA;4;-6
+128;YHWOK;3;6;KGSAD;9;-5;CFH
+addRoad;KIEOI;WAQA;1;-9
+addRoad;WAQA;KGSAD;4;-4
+979;GODD;4;-3;KIEOI;7;5;CFH
+0;YHWOK;8;6;APG;9;-8;YHWOK
+ #749;W;AQA
+ 263;LOGUR;0;6;YHWOK
+0;GODD;3;-9;WAQA;5;5;WAQA
+ getRouteDescription;848 
+;#getRouteDescription;495 
+repairRoad;GODD;YHWOK;3
+getRouteDescription;596
+addRoad;KGSAD;UMFECN;7;-9
+repairRoad;YHWOK;KGSAD;6
+856;UMFECN;9;0;LOGUR
+repairRoad;CFH;NMKR;3
+repairRoad;KIEOI;YHWOK;9
+repairRoad;NMKR;WAQA;0
+730;KIEOI;6;4;GODD
+repairRoad;KIEOI;YHWOK;-10
+getRouteDescription;529
+addRoad;CFH;KIEOI;8;-3
+245;GODD;8;1;CFH;2;-3;KGSAD 
+#addRoad;LOGUR;KIEOI;2;3
+getRouteDescription;701
+ repairRoad;UMFECN;CFH;-9; 
+repairRoad;UMFECN;NMKR;-1
+repairRoad;UMFECN;YHWOK;-9
+#60;NMKR;9;0;KGSAD;6;8;KIEOI 
+41;UMFECN
+ #add;Road;GODD;KIEOI;3;-4 
+570;WAQA
+ #getRoute;Description;533 
+getRouteDescription;746 
+384;CFH
+getRouteDescription;601
+ #repairRoad;KGSAD;UMFE;CN;-8 
+getRouteDescription;273
+repairRoad;LOGUR;YHWOK;8
+repairRoad;GODD;WA;QA;7 
+repairRoad;CFH;WAQA;-3
+344;CFH
+763;LOGUR;0;-10;WAQA;0;-7;GODD
+getRouteDescription;942
+585;YHWOK;6;5;CFH
+720;LOGUR;7;0;CFH;4;-10;KIEOI
+getRouteDescription;543
+ #473;LOGUR
+addRoad;WAQA;GODD;1;1
+getRouteDescription;925
+; addRoad;WAQA;APG;1;8 
+getRouteDescription;550
+#addR;oad;KIEOI;KIEOI;8;-1 
+repairRoad;KIEOI;YHWOK;-1
+getRouteDescription;733
+ getRout;eDescription;636
+ #getRouteDescription;898
+ addRoad;KGSAD;KGSA;D;8;-1 
+ repairR;oad;CFH;KIEOI;-6
+getRouteDescripti;on;633 
+addRoad;UMFECN;LOGUR;9;8
+getRouteDescription;493
+repairRoad;WAQA;NMKR;-6
+0;NMKR;1;-4;UMFECN
+ repairRoad;GODD;NMKR;6
+repairRoad;KIEOI;GODD;3
+repairRoad;KGSAD;CFH;9
+repairRoad;LOGUR;KGSAD;-8
+399;KIEOI
+115;UMFECN;7;1;UMFECN
+#getRouteDescr;iption;552 
+363;KIEOI;4;-7;APG;3;0;WAQA
+getRouteDescription;113 
+addRoad;YHWOK;KGSAD;5;-6
+getRouteDescription;127
+getRouteDescription;113
+ #904;C;FH
+repairRoad;YHWOK;KIEOI;-3
+935;GODD;0;9;KGSAD;7;-9;WAQA
+;getRouteDescription;430
+33;UMFECN
+addRoad;GODD;NMKR;1;-1
+addRoad;KGSAD;APG;4;5
+879;NMKR
+#425;KIE;OI;2;6;GODD;9;4;WAQA 
+repairRoad;UMFECN;APG;-5
+4;KIEOI;8;7;UMFECN;9;-2;YHWOK
+#repairRoad;APG;;KGSAD;-1 
+ getRouteDescription;689; 
+getRouteDescription;81
+repairRoad;KGSAD;UMFECN;-9
+repairRoad;UMFECN;LOGUR;-4
+528;KGSAD;5;7;KIEOI
+659;KGSAD;2;-4;UMFECN;1;-4;KGSAD
+repairRoad;KGSAD;CFH;3
+451;KGSAD
+585;APG
+ addRoad;KIEOI;A;PG;8;-8 
+repairRoad;APG;WAQA;8
+addRoad;GODD;GODD;4;1
+getRouteDescription;487
+getRouteDes;cription;203 
+repairRoad;CFH;NMKR;-6
+addRoad;KIEOI;UMFECN;2;-8
+addRoad;KGSAD;GODD;4;4
+addRoad;WAQA;;APG;9;8
+repairRoad;CFH;KIEOI;4
+addRoad;LOGUR;UMFECN;4;-6
+repairRoad;WAQA;APG;-4
+getRouteDescription;320
+getRouteDescription;188
+183;YHWOK
+ getRouteDescription;904 
+addRoad;APG;UMFECN;6;6
+ #getRouteDescription;531
+959;CFH;8;-6;LOGUR
+addRoad;GODD;APG;0;9
+addRoad;APG;NMKR;0;-9 
+#addRoad;;GODD;KGSAD;3;8
+722;GODD;7;7;GODD
+ #293;WAQA;4;9;KIEOI;2;8;UMFECN
+addRoad;GODD;NMKR;6;-7
+repairRoad;UMFECN;LOGUR;3
+repairRoad;KIEOI;LOGUR;-2
+484;LOGUR;9;9;CFH
+ #addRoad;GODD;GODD;5;-1
+repairRoad;KIEOI;LOGUR;0
+repairRoad;GODD;UMFECN;1
+repairRoad;WAQA;WAQA;-8
+; addRoad;WAQA;WAQA;8;2
+getRouteDescription;102
+getRouteDescription;705
+repairRoad;UMFECN;WAQA;3
+repairRoad;YHWOK;YHWOK;-1
+addRoad;LOGUR;LOGUR;2;-3
+481;KIEOI;2;9;UMFECN;0;8;KIEOI 
+ addRoa;d;GODD;LOGUR;7;-2
+addRoad;LOGUR;NMKR;0;5
+getRouteDescription;484
+904;UMFECN;7;-8;LOGUR
+getRouteDescription;170
+ #getRouteDescription;546 
+addRoad;APG;CFH;4;-7
+getRouteDescription;448
+ #repa;irRoad;KGSAD;APG;-8 
+861;UMFECN
+repairRoad;KGSAD;LOGUR;-6
+addRoad;KGSAD;KG;SAD;6;-10
+getRouteDescription;529
+ #repairRo;ad;CFH;YHWOK;-7 
+getRouteDescription;438
+addRoad;WAQA;LO;GUR;2;-6
+addRoad;CFH;KGSAD;7;4
+repairRoad;LOGUR;YHWOK;0
+addRoad;CFH;WAQA;8;-6
+getRouteDescription;942
+ #repairRoad;APG;;APG;-2 
+addRoad;KGSAD;CFH;7;8
+addRoad;YHWOK;KIEOI;1;1
+ 112;YHWOK;5;8;WAQA;6;2;UMFECN
+addRoad;KGSAD;KGSAD;5;-6
+repairRoad;KIEOI;UMFECN;5
+getRouteDescription;693
+856;KGSAD
+171;KGSAD
+350;NMKR;1;9;APG
+getRouteDescription;243
+addRoad;KGSAD;YHWOK;0;9 
+903;NMKR;1;-3;NMKR
+addRoad;LOGUR;YHWOK;7;-2
+repairRoad;GODD;LOGUR;4
+380;APG;8;4;YHWOK
+getRouteDescription;909
+#172;;YHWOK;6;5;CFH;7;9;KGSAD
+485;KIEOI;2;-6;LOGUR;5;3;KIEOI
+ repairRoad;KGS;AD;KIEOI;7
+getRouteDescription;529
+repairRoad;YHWOK;APG;-3
+repairRoad;KGSAD;CFH;8
+ ;#addRoad;APG;KIEOI;7;7
+getRouteDescription;160
+getRouteDescription;437
+getRouteDescription;226
+getRouteDescription;412
+getRouteDescription;26
+repairRoad;WAQA;KIEOI;-;7 
+ 6;YHWOK;4;5;KG;SAD 
+addRoad;NMKR;KGSAD;6;-10
+getRouteDescription;440
+getRouteDescription;172
+getRouteDescription;422
+ repairRoad;UMFECN;NMKR;9 
+getRouteDescription;908
+getRouteDescription;109
+#33;WAQA 
+751;KIEOI;3;-3;KIEOI;7;-4;APG
+addRoad;YHWOK;CFH;8;5
+701;UMFECN
+getRouteDescription;478
+ #66;;KGSAD
+1;GODD;0;-5;LOGUR;8;-10;APG
+repairRoad;KGSAD;NMKR;5
+728;CFH;1;1;YHWOK;3;-3;KGSAD
+repairRoad;KGSAD;NMKR;2
+addRoad;APG;WAQA;2;-10
+addRoad;NMKR;NMKR;2;1
+; #getRouteDescription;333 
+repairRoad;CFH;KIEOI;3
+addRoad;KIEOI;YHWOK;9;4
+getRouteDescription;898
+224;WAQA;2;2;WAQA;3;-3;G;ODD
+repairRoad;GODD;APG;-3
+428;APG
+#addRoad;YHWOK;WAQA;5;;-7
+ 468;LOGUR
+addRoad;KGSAD;CFH;3;8
+addRoad;LOGUR;NMKR;4;-8
+getRouteDescription;908
+#getRouteDescription;3;33
+203;APG;9;7;YHWOK;5;7;YHWOK
+getRouteDescription;476
+get;RouteDescription;342 
+getRouteDescription;273
+281;UMFECN;4;6;CFH;6;-5;CFH
+repairRoad;GODD;KIEOI;8
+repairRoad;APG;YHWOK;1
+getRouteDescription;932
+repairRoad;CFH;YHWOK;6
+#repairRoad;KGSAD;KIEOI;-2 
+repairRoad;UMFECN;NMKR;-2
+getRouteDescription;858
+ #getRouteDescription;214 
+addRoad;KIEOI;CFH;4;-9
+getRouteDescription;476
+getRouteDescription;390 
+getRouteDescription;403
+repairRoad;YHWOK;CFH;-9; 
+getRouteDescription;342
+addRoad;LOGUR;UMFECN;9;5
+598;UMFECN;6;-5;UMFECN
+getRouteDescription;543
+getRouteDescription;350
+getRouteDescription;816
+addRoad;CFH;APG;8;-3
+#getRouteDescription;;158
+repairRoad;APG;KIEOI;6
+repairRoad;G;ODD;YHWOK;6 
+getRouteDescription;903
+ repairRoad;C;FH;CFH;0
+getRouteDescription;306
+getRouteDescription;304
+repairRoad;KGSAD;APG;4
+ repairRoad;YHWOK;NMKR;-9
+ 88;KGSAD;9;-8;YHWOK;1;-6;WAQA 
+repairRoad;WAQA;NMKR;8
+487;APG;7;0;APG
+ #0;GODD
+38;YHWOK;2;9;UMFECN
+repairRoad;UMFECN;GODD;9
+getRouteDescription;487
+#getR;outeDescription;686
+addRoad;GODD;CFH;9;3
+908;KIEOI;2;-3;GODD
+addRoad;WAQA;UMFECN;1;-4
+repairRoad;CFH;KGSAD;-4
+repairRoad;UMFECN;APG;-6
+repairRoad;CFH;APG;-10
+144;LOGUR;9;1;APG;2;0;GODD
+#addRoad;NMKR;WAQA;;0;8
+986;GODD
+getRouteDescription;705
+repairRoad;UMFECN;WAQA;-3
+repairRoad;YHWOK;LOGUR;-10
+ getRouteDescription;;627
+addRoad;GODD;WAQA;1;5
+ #getRouteDe;scription;172
+repairRoad;UMFECN;WAQA;-2
+471;LOGUR;1;8;KIEOI;5;-10;LOGUR
+#193;KIEOI;3;-8;UMFECN;0;-8;NMKR
+0;APG;3;8;LOGUR;4;5;YHWOK
+repairRoad;APG;WAQA;-9
+repairRoad;KIEOI;NMKR;-2
+234;UMFECN;0;-2;LOGUR
+addRoad;CFH;LOGUR;8;-10
+addRoad;CFH;APG;0;-10
+getRouteDescription;425
+getRouteDescription;489
+ #485;KIEOI
+245;WAQA;0;6;YHWOK;6;6;CFH
+ #addRoad;CFH;KGSAD;3;-3 
+repairRoad;GODD;CFH;-4
+ getRouteDescriptio;n;942
+addRoad;NMKR;GODD;5;-1
+ repairRoad;GO;DD;CFH;8 
+getRouteDescription;;689
+repairRoad;KGSAD;KIEOI;7
+repairRoad;UMFECN;LOGUR;-1
+repairRoad;KGSAD;GODD;1
+#244;KIEOI;2;5;YHWOK;9;-6;NMK;R 
+repairRoad;KGSAD;KGSAD;-9
+getRouteDescription;856
+addRoad;WAQA;GODD;2;-3
+repairRoad;LOGUR;LOGUR;7
+getRouteDescription;816
+addRoad;KIEOI;KGSAD;7;-5
+getRouteDescription;81
+ repairRoad;LOGUR;LOGUR;-5 
+addRoad;UMFECN;APG;0;9
+addRoad;UMFECN;LOGUR;3;-6
+repairRoad;KIEOI;GODD;-7
+getRouteDescription;510
+getRouteDescription;543
+addRoad;UMFECN;YHWOK;3;-10
+552;NMKR
+#942;GODD;3;-;2;UMFECN 
+ getRouteDescription;342 
+getRouteDescription;438 
+getRouteDescription;816
+repairRoad;LOGUR;CFH;7
+repairRoad;WAQA;LOGUR;-10
+685;NMKR;5;2;LOGUR
+183;CFH;8;4;KIEOI
+addRoad;GODD;KIEOI;7;-1
+ #repairRoad;WAQA;KIEOI;-9 
+getRouteDescription;701
+782;KGSAD;9;5;YHWOK
+getRouteDescription;188
+ 5;10;LOGUR;4;-8;APG 
+ addRoad;GODD;NMKR;5;-3
+repairRoad;NMKR;YHWOK;5
+ #;52;NMKR;1;-5;LOGUR;2;-2;CFH
+repairRoad;YHWOK;LOGUR;2
+#addRoad;LOGUR;YHWOK;6;5 
+ repa;irRoad;APG;KIEOI;3 
+ 878;LOGUR;8;8;YHWOK;5;9;;CFH 
+getRouteDescription;925
+addRoad;UMFECN;WAQA;7;-5
+repairRoad;UMFECN;CFH;6
+ repairRoad;WAQA;;WAQA;6
+ 615;WAQA;9;2;CFH;2;6;UM;FECN
+repairRoad;UMFECN;KIEOI;7
+ #addRoad;;KGSAD;NMKR;6;-8 
+#repairRoad;UMFECN;CFH;-4
+ getRouteDescription;343 
+addRoad;GODD;LOGUR;7;-10
+repairRoad;APG;YHWOK;4
+repairRoad;NMKR;APG;-2
+getRouteDescription;563
+304;KGSAD
+addRoad;APG;UMFECN;4;-2
+#repairRoad;GODD;APG;-4 
+757;APG
+ getRouteDescription;350 
+772;YHWOK;8;-1;UMFECN;8;-8;KIEOI
+addRoad;WAQA;YHWOK;8;6
+addRoad;KIEOI;LOGUR;8;8
+35;UMFECN;3;-6;KIEOI;0;-9;NMKR
+getRouteDescription;621
+261;NMKR
+#72;GODD;;5;-9;CFH
+99;WAQA;5;-1;WAQA;9;1;APG
+0;UMFECN;3;6;CFH;1;-1;NMKR
+getRouteDescription;529
+getRouteDescription;714
+repairRoad;KGSAD;GODD;1
+getRouteDescription;425
+#getRouteDescription;183 
+a;ddRoad;YHWOK;KIEOI;1;3
+ #513;CFH;9;9;LOGUR
+#getRouteDescriptio;n;243 
+repairRoad;CFH;LOGUR;-2
+getRouteDescription;165
+repairRoad;CFH;YHWOK;5
+#getRouteDescription;425
+repairRoad;UMFECN;KIEOI;-6
+851;GODD;9;2;GODD
+repairRoad;KGSAD;GODD;-7
+getRouteDescription;203
+743;KIEOI 
+repairRoad;UMFECN;KIEOI;9
+repairRoad;GODD;YHWOK;-7
+772;WAQA;8;9;YHWOK
+getRouteDescription;442
+ #getRo;uteDescription;412 
+ #getRouteDescription;495
+ #repai;rRoad;KIEOI;WAQA;5 
+ #addRoad;KGSAD;UMFECN;1;-1
+addRoad;APG;LOGUR;0;-4
+addRoad;KGSAD;KIEOI;3;-6
+repairRoad;YHWOK;KIEOI;-7
+ addRoad;GO;DD;NMKR;8;6
+#repairRoad;KGSAD;APG;7 
+getRouteDescription;358
+776;KGSAD;0;-10;GODD
+getRouteDescription;316
+ #addRoad;LOGUR;NMKR;0;-10 
+ repairRoad;WAQA;YHWOK;5
+getRouteDescription;188
+389;NMKR;4;-3;UMFECN
+repairRoad;GODD;CFH;-1
+addRoad;NMKR;WAQA;5;4
+repairRoad;KGSAD;GODD;2
+addRoad;LOGUR;LOGUR;3;9 
+getRouteDescription;510
+repairR;oad;KGSAD;NMKR;-7
+repairRoad;UMFECN;CFH;-1
+162;NMKR
+342;NMKR
+addRoad;UMFECN;APG;7;-4
+addRoad;WAQA;GODD;7;1
+914;UMFECN;0;4;GODD
+getRouteDescription;833
+ #getRouteDescription;202 
+#repairRoad;NMKR;YHWOK;3
+getRouteDescription;484
+#addRoad;APG;LOGUR;6;-2 
+202;KGSAD
+getRouteDescription;113
+getRouteDescription;828
+repairRoad;WA;QA;NMKR;-7
+713;UMFECN;1;-4;UMFECN
+#getRouteDescription;747
+#repairRoad;UMFECN;CFH;-6 
+addRoad;KIEOI;WAQA;4;-4
+getRouteDescription;898
+addRoad;CFH;KIEOI;4;-2
+ #getRouteDescri;ption;816
+repairRoad;WAQA;GODD;-8
+addRoad;GODD;CFH;9;-1
+ getRouteDescription;4
+getRouteDescription;523
+856;KIEOI;9;-4;APG 
+430;CFH
+101;KIEOI;3;-7;APG;4;-9;LOGUR 
+repairRoad;KIEOI;WAQA;1
+repairRoad;UMFECN;WAQA;-7
+ ;addRoad;GODD;LOGUR;3;7
+150;LOGUR;0;0;GODD;5;5;CFH
+addRoad;UMFECN;NMKR;8;-6
+addRoad;UMFECN;GODD;6;-7
+476;UMFECN;7;2;NMKR
+repairRoad;WAQA;GODD;7
+ #getR;outeDescription;88
+addRoad;LOGUR;KGSAD;2;-6
+ 993;CFH;5;-5;KG;SAD
+getRouteDescription;113
+getRouteDescription;4
+repairRoad;KGSAD;NMKR;1
+getRouteDescription;265
+addRoad;KIEOI;KIEOI;7;-3
+addRoad;WAQA;NMKR;7;-4
+getRouteDescription;908
+getRouteDescription;464
+repairRoad;APG;GODD;-3
+getRouteDescription;243
+addRoad;NMKR;WAQA;9;-3
+repairRoad;YHWOK;LOGUR;-7
+ addRoad;WAQA;WAQA;;4;9 
+repairRoad;YHWOK;GODD;7
+249;UMFECN;0;-2;LOGUR;9;3;WAQA
+getRouteDescription;884
+ repairRoad;KGSAD;UMFECN;9 
+repairRoad;WAQA;GODD;0
+addRoad;WAQA;KGSAD;5;5
+getRouteDescription;705
+ repairRoad;UMFECN;APG;5 
+addRoad;LOGUR;GODD;0;-1
+getRouteDescription;589 
+addRoad;KIEOI;NMKR;2;1
+addRoad;KGSAD;NMKR;7;0
+#615;WAQA;4;-10;A;PG 
+getRouteDescription;172
+728;APG;5;5;WAQA;5;-6;KIEOI
+getR;outeDescription;104
+73;KIEOI;2;9;UMFECN
+repairRoad;UMFECN;CFH;4
+addRoad;YHWOK;YHWOK;5;-9
+repairRoad;LOGUR;KGSAD;4
+addRoad;WAQA;CFH;1;1
+getRouteDescription;643
+addRoad;NMKR;KIEOI;2;-1
+322;KGSAD;9;7;KIEOI
+getRouteDescription;468
+addRoad;KIEOI;WAQA;9;9
+repairRoad;NMKR;YHWOK;3
+repairRoad;YHWOK;KIEOI;4
+ 808;GODD;6;5;KGSAD;7;9;CFH
+repairRoad;KGSAD;KIEOI;-2
+getRouteDescription;537
+420;KIEOI
+addRoad;UMFECN;CFH;8;-9
+repairRoad;KIEOI;LOGUR;-10 
+addRoad;KGSAD;NMKR;6;7
+repairRoad;GODD;KIEOI;6
+repairRoad;YHWOK;KIEOI;-7
+addRoad;WAQA;KIEOI;5;3 
+getRouteDescription;287
+476;KGSAD
+repairRoad;UMFECN;NMKR;-5
+#re;pairRoad;KIEOI;GODD;-10
+ #repairRoad;WAQA;APG;6 
+addRoad;UMF;ECN;GODD;7;8 
+addRoad;UMFECN;LOGUR;4;-5
+getRouteDescription;201
+addRoad;NMKR;KGSAD;0;-10
+getRouteDescription;938
+getRouteDescription;638
+repairRoad;WAQA;APG;-2
+getRouteDescription;904
+repairRoad;WAQA;LOGUR;3
+ #343;APG;5;-1;KIEOI;1;-3;CFH
+addRoad;WAQA;KGSAD;1;-6
+183;CFH
+repairRoad;KIEOI;YHWOK;8
+ 112;LOGUR;4;1;YHWOK 
+616;WAQA;5;6;CFH 
+784;NMKR;8;8;LOGUR;5;7;KGSAD
+addRoad;YHWOK;CFH;9;6
+addRoad;LOGUR;WAQA;8;-6
+881;NMKR;1;-1;WAQA
+addRoad;GODD;APG;2;6
+addRoad;KGSAD;UMFECN;8;2
+addRoad;YHWOK;KGSAD;7;6
+addRoad;NMKR;APG;4;-7
+repairRoad;UMFECN;CFH;3
+getRouteDescription;73
+addRoad;GODD;GODD;5;-9
+46;APG;6;3;APG;5;7;YHWOK
+repairRoad;APG;WAQA;-3
+getRouteDescription;742
+addRoad;KGSAD;NMKR;4;-9
+getRouteDescription;869
+#getRouteDescription;883; 
+#repairRoad;KIEOI;;WAQA;-10 
+ repairRoad;KGSAD;KGSAD;;4 
+addRoad;GODD;NMKR;4;-8
+53;5;NMKR
+repairRoad;CFH;APG;-8
+repairRoad;CFH;APG;-4
+getRouteDescription;784
+getRouteDescription;430
+ #addRoad;;NMKR;CFH;4;-3
+#getRouteDescription;224 
+ addRoad;UMF;ECN;GODD;6;-8
+ getRouteDescription;438
+repairRoad;KGSAD;CFH;5
+; #repairRoad;APG;APG;-9
+getRouteDescription;188
+addRoad;CFH;YHWOK;4;-5
+#415;APG;0;9;;CFH 
+repairRoad;KGSAD;KGSAD;-9
+addRoad;CFH;WAQA;2;8
+repairRoad;CFH;KIEOI;-9
+addRoad;GODD;APG;9;9
+ 853;YHWOK;8;-4;NMKR 
+#repairRoad;UMFEC;N;LOGUR;-10
+repairRoad;GODD;KGSAD;-7
+347;YHWOK;6;-7;KGSAD;0;-7;CFH; 
+ #addRoad;UMFECN;NMKR;3;-5 
+183;YHWOK;9;1;WAQA
+repairRoad;YHWO;K;YHWOK;8
+#addRoad;WAQA;WAQA;7;-;5 
+repairRoad;GODD;CFH;-5
+addRoad;KIEOI;UMFECN;3;-4
+addRoad;NMKR;NMKR;5;-5
+addRoad;WAQA;UMFECN;1;-3
+ #repairRoad;UMF;ECN;LOGUR;9 
+getRouteDescription;333
+ #repairRoad;APG;YHWOK;-3
+ getRouteDescri;ption;942 
+63;LOGUR;9;9;CFH
+ re;pairRoad;UMFECN;LOGUR;6
+addRoad;CFH;UMFECN;3;-6
+getRouteDescription;452
+addRoad;YHWOK;WAQA;2;-7
+repairRoad;APG;CFH;-2
+addRoad;KIEOI;WAQA;4;-8
+getRouteDescription;243
+repairRoad;UMFECN;KGSAD;-9
+repairRoad;WAQA;KGSAD;4
+getRouteDescription;38
+addRoad;YHWOK;KIEOI;3;-10
+getRouteDescription;879
+getRouteDescription;772
+#880;WAQA
+repairRoad;CFH;YHWOK;-3
+633;KGSAD
+addRoad;CFH;GODD;3;3
+188;NMKR;4;-1;KIEOI
+ #rep;airRoad;UMFECN;GODD;-10
+addRoad;GODD;KGSAD;2;-3
+a;ddRoad;YHWOK;NMKR;1;-1 
+repairRoad;YHWOK;KGSAD;-2
+getRouteDescription;879
+getRouteDescription;188
+addRoad;WAQA;LOGUR;6;-4
+getRouteDescription;776
+ ;repairRoad;APG;YHWOK;1 
+addRoad;KIEOI;UMFECN;8;4
+repairRoad;GODD;CFH;1
+#repairRoad;KGSAD;NM;KR;-7
+repairRoad;UMFECN;NMKR;7
+addRoad;LOGUR;KIEOI;2;2
+getRouteDescription;705
+repairRoad;UMFECN;GODD;2
+addRoad;LOGUR;YHWOK;5;-10
+getRouteDescription;563
+ getRouteDescription;90;8
+ #getRouteDescription;425
+#getRout;eDescription;585 
+addRoad;APG;UMFECN;9;6
+getRouteDescription;925
+127;KGSAD;4;2;CFH
+repairRoad;LOGUR;UMFECN;7
+repairRoad;UMFECN;KIEOI;-9
+addRoad;APG;CFH;4;-9
+addRoad;NMKR;YHWOK;4;1
+746;YHWOK
+repairRoad;LOGUR;APG;4
+ getRouteDescrip;tion;828
+816;LOGUR;7;-10;UMFECN
+getRouteDescription;341
+244;WAQA;4;9;KGSAD
+addRoad;APG;WAQA;8;-6
+addRoad;KIEOI;GODD;5;-6
+repairRoad;YHWOK;APG;-8
+ 757;NMKR;1;-5;UMFECN;1;;-3;UMFECN
+#addRoad;KGSAD;APG;8;9 
+getRouteDescription;746
+repairRoad;KIEOI;KIEOI;-1
+ addRo;ad;WAQA;UMFECN;9;3 
+addRoad;KIEOI;NMKR;5;-8
+getRouteDescription;113
+repairRoad;CFH;WAQA;-5
+addRoad;GODD;NMKR;1;9
+589;YHWOK;9;6;GODD;3;-9;UMFECN
+ #667;UMFECN
+addRoad;NMKR;APG;5;-2
+293;NMKR
+;#301;UMFECN;9;4;NMKR;0;3;KGSAD 
+953;LOGUR
+#357;GODD 
+getRouteDescription;884
+922;UMFECN;7;5;UMFECN;7;-10;UMFECN
+812;LOGUR
+getRouteDescription;63
+repairRoad;YHWOK;LOGUR;5
+getRouteDescription;136
+getRouteDescription;693
+getRouteDescription;174
+114;WAQA;6;-4;KIEOI
+getRouteDescription;796
+getRouteDescription;909
+ #repairRo;ad;KGSAD;GODD;-7 
+getRouteDescription;510
+addRoad;UMFECN;GODD;9;2
+getRouteDescription;634
+913;YHWOK;9;0;YHWOK;3;3;YHWOK
+#repairRoad;NMKR;YHWOK;-2
+getRouteDescription;361
+repairRoad;CFH;LOGUR;-4
+#addRoad;CFH;KIE;OI;6;9
+repairRoad;KGSAD;KIEOI;5
+ #addRoad;CFH;NMKR;4;2
+addRoad;KIEOI;YHWOK;2;-4
+#a;ddRoad;YHWOK;KIEOI;7;8
+getRouteDescription;693
+addRoad;YHWOK;APG;6;2
+repairRoad;WAQA;LOGUR;0
+489;LOGUR
+ #getRouteDescripti;on;648
+901;KGSAD;9;9;APG
+ addRoad;GODD;WAQA;8;8
+addRoad;NMKR;LOGUR;8;5
+repairRoad;WAQA;LOGUR;2
+ #addR;oad;NMKR;KGSAD;8;3
+#repairRoad;APG;WA;QA;4 
+978;APG;5;2;NMKR;2;0;KGSAD
+ #repairRoad;CFH;AP;G;0 
+ addRoad;KGSAD;GODD;4;-1 
+addRoad;KGSAD;LOGUR;1;-5
+858;YHWOK
+addRoad;KGSAD;GODD;9;5
+217;APG;4;4;NMKR
+addRoad;UMFECN;KIEOI;4;-9
+getRouteDescription;795
+#getRouteDescription;4 
+getRouteDescription;879 
+#repairRoad;KGSAD;APG;3
+ repairRoad;KGS;AD;UMFECN;-3
+getRouteDescription;904
+repairRoad;GODD;NMKR;-9
+ge;tRouteDescription;510
+addRoad;YHWOK;YHWOK;9;-1
+116;WAQA;4;9;KGSAD
+708;KGSAD;2;5;KIEOI;9;0;KGSAD
+repairRoad;KIEOI;YHWOK;-7
+getRouteDescription;;746
+getRouteDescription;529
+250;APG;1;6;KGSAD
+; repairRoad;WAQA;YHWOK;-5
+ #getRouteDescription;638 
+getRouteDescription;404
+addRoad;GODD;APG;6;-10
+484;UMFECN
+ 4;12;NMKR
+addRoad;NMKR;KIEOI;1;1
+#ad;dRoad;WAQA;WAQA;8;-6
+addRoad;APG;GODD;5;-9
+ #addRoad;;LOGUR;CFH;7;3 
+addRoad;CFH;KGSAD;1;-5
+addRoad;APG;UMFECN;2;6
+addRoad;KGSAD;UMFECN;6;0
+getRouteDescription;529
+585;YHWOK;5;-6;APG
+getRouteDescription;945
+repairRoad;WAQA;NMKR;-4
+getRouteDescription;244
+ getRouteDescription;942 
+getRouteDescription;202
+95;GODD
+addRoad;NMKR;WAQA;5;-4
+addRoad;UMFECN;CFH;3;-4
+repairRoad;GODD;KGSAD;-9
+848;KIEOI
+getRouteDescription;533
+ getRouteDescription;693 
+addRoad;WAQA;CFH;9;9
+addRoad;UMFECN;LOGUR;5;5
+605;YHWOK
+addRoad;APG;KGSAD;8;-1
+825;LOGUR;3;0;KGSAD
+ #385;CFH
+addRoad;CFH;WAQA;4;-7
+getRouteDescription;122
+#980;NMKR;8;4;NMKR
+addRoad;NMKR;GODD;8;-8
+0;WAQA
+;#repairRoad;KGSAD;YHWOK;4
+ 605;KG;SAD
+ addRoad;LOGUR;CFH;1;-4
+ addRoad;KIEOI;KIEOI;3;2
+repairRoad;WAQA;CFH;1
+177;LOGUR
+addRoad;GODD;LOGUR;9;1
+0;GODD
+addRoad;NMKR;KIEOI;1;1
+addRoad;NMKR;CFH;0;9
+380;YHWOK;8;0;APG
+repairRoad;UMFECN;CFH;7
+repairRoad;GODD;YHWOK;-4
+693;GODD;1;3;KGSAD
+addRoad;WAQA;LOGUR;0;6
+0;APG;4;2;LOGUR 
+#getRouteDescription;2 
+repairRoad;NMKR;LOGUR;1
+addRoad;KIEOI;APG;1;-9
+repairRoad;APG;KIEOI;-6
+repairRoad;CFH;WAQA;-9
+getRouteDescription;908
+147;WAQA
+addRoad;LOGUR;APG;4;3
+957;NMKR;5;-4;NMKR
+getRouteDescription;856
+0;WAQA;2;-5;CFH;2;-4;UMFECN
+repairRoad;UMFECN;NMKR;8
+repairRoad;LOGUR;WAQA;7
+#repairRoad;UMFECN;NMKR;8 
+repairRoad;NMKR;KGSAD;-4
+567;NMKR
+869;NMKR;9;8;YHWOK;4;9;KIEOI
+repairRoad;LOGUR;KGSAD;7
+addRoad;KIEOI;APG;1;1
+ 302;GODD;4;-7;GODD;9;-8;GODD 
+828;LOGUR
+ getRouteDescription;;88
+81;KGSAD;3;4;CFH;9;7;NMKR
+repairRoad;GODD;APG;5
+getRouteDescription;513
+189;GODD
+getRouteDescription;102
+#repairRoad;KG;SAD;CFH;-1 
+531;GODD
+#113;NM;KR;2;9;GODD
+412;KIEOI;4;5;KIEOI
+968;APG;5;-5;GODD;4;-1;NMKR
+addRoad;APG;UMFECN;0;-3
+repairRoad;LOGUR;GODD;4
+#addRoad;LOGUR;LOGUR;6;-2 
+getRouteDescription;938
+879;UMFECN
+362;UMFECN
+256;KGSAD;4;9;KGSAD
+getRouteDescription;388
+addRoad;LOGUR;CFH;7;-3
+ repairRoad;UMFECN;CFH;4 
+#repairRoad;LOGUR;KGSAD;0
+#380;KGSAD;2;0;GODD;9;-3;GODD 
+repairRoad;YHWOK;LOGUR;7
+repairRoad;NMKR;YHWOK;1
+ repairRoad;UMFEC;N;WAQA;1
+repairRoad;WAQA;NMKR;0
+repa;irRoad;KGSAD;NMKR;-9 
+addRoad;LOGUR;KGSAD;9;-9
+948;KGSAD;3;-4;CFH
+addRoad;APG;LOGUR;5;3
+#getRouteDescription;484
+repairRoad;APG;NMKR;-1
+195;LOGUR;0;-5;NMKR;3;-10;LOGUR
+addRoad;GODD;KGSAD;7;-3
+getRouteDescription;245
+ #addRoad;YHWOK;WAQA;4;-9
+addRoad;;NMKR;CFH;3;-3 
+repairRoad;WAQA;LOGUR;2
+ getRouteDescription;643 
+501;UMFECN;8;4;GODD;0;7;WAQA 
+getRouteDescription;975
+;#getRouteDescription;38 
+858;YHWOK
+getRouteDescription;4
+addRoad;APG;KGSAD;0;8
+ 949;YHWOK 
+getRouteDescription;733
+addRoad;WAQA;WAQA;5;-6
+ #addRoad;NM;KR;KGSAD;0;2 
+ #addRoad;WAQA;UMFECN;7;-1
+getRouteDescription;398
+repairRoad;KGSAD;CFH;-3
+ repairRoad;AP;G;YHWOK;1 
+repairRoad;GODD;UMFECN;-2
+getRouteDescription;154
+addRoad;LOGUR;NMKR;7;0
+ repairRoad;GODD;CFH;-1 
+getRouteDescription;926
+repairRoad;LOGUR;CFH;2
+addRoad;NMKR;NMKR;1;-2
+ addRoad;WAQA;WAQA;3;7
+949;YHWOK
+940;KGSAD;8;-9;KIEOI
+repairRoad;YHWOK;GODD;6
+getRouteDescription;90
+addRoad;KGSAD;GODD;7;2
+getRouteDescription;66
+addRoad;WAQA;YHWOK;4;-2
+ 245;KIEOI;7;3;NMKR;9;-7;LOGUR 
+363;GODD;6;5;KGSAD;9;7;NMKR
+addRoad;KGSAD;WAQA;4;1
+addRoad;NMKR;APG;6;-5
+getRouteDescription;784 
+addRoad;KIEOI;YHWOK;9;9
+ #repairRoad;NMKR;YHWOK;5 
+209;LOGUR
+getRouteDescript;ion;430
+902;WAQA;2;-6;YHWOK;1;-3;YHWOK
+; #getRouteDescription;88 
+repairRoad;CFH;NMKR;-7
+ #getRouteDescription;948
+repairRoad;NMKR;KIEOI;5
+repairRoad;UMFECN;CFH;9
+954;LOGUR
+repairRoad;APG;YHWOK;-2
+getRouteDescription;906
+addRoad;UMFECN;KIEOI;0;-8
+#102;KIEOI;4;7;LOGUR;1;8;WAQA
+ #909;YHWOK;0;-9;KIEOI 
+getRouteDescription;260
+addRoad;LOGUR;KIEOI;0;1
+addRoad;NMKR;GODD;0;7
+repairRoad;GODD;LOGUR;8
+getRouteDescription;510
+addRoad;KGSAD;WAQA;4;5
+addRoad;CFH;GODD;0;5
+repairRoad;CFH;APG;7
+getRouteDescription;533
+repairRoad;APG;NMKR;-1
+getRouteDescription;772
+repairRoad;KGSAD;UMFECN;-5
+addRoad;KIEOI;LOGUR;1;4
+getRouteDescription;585
+addRoad;KIEOI;KIEOI;2;7
+repairRoad;APG;CFH;8
+ #8;55;KGSAD;8;6;KIEOI
+repairRoad;GODD;YHWOK;-10
+repairRoad;GODD;CFH;-1
+getRouteDescription;322
+repairRoad;NMKR;KGSAD;-7
+834;CFH;7;9;KGSAD;9;9;NMKR
+#getRouteDescription;342
+43;APG
+addRoad;UMFECN;UMFECN;6;7
+addRoad;WAQA;CFH;0;6
+getRouteDescription;153
+addRoad;APG;NMKR;0;8
+addRoad;NMKR;KGSAD;5;2
+getRouteDescription;561
+ #repairRoad;;KGSAD;KIEOI;-3
+addRoad;KGSAD;KIEOI;3;-8
+ #581;KIEOI;9;8;APG;6;8;CFH 
+#getRouteDescription;816
+getRouteDescription;746
+#getRouteDescription;182
+#184;UMFECN;5;-2;LOGUR;0;9;CFH
+714;LOGUR;9;9;CFH;6;8;APG
+repairRoad;NMKR;UMFECN;-6
+repairRoad;KGSAD;LOGUR;0
+addRoad;CFH;NMKR;2;-7
+#getRouteDescript;ion;258 
+getRouteDescription;338
+repairRoad;APG;WAQA;-5
+addRoad;LOGUR;NMKR;8;-9
+getRouteDescription;689
+63;YHWOK;4;-4;YHWOK
+ #476;LOGUR;0;9;GODD
+addRoad;GODD;WAQA;3;8
+repairRoad;YHWOK;KIEOI;-4
+#0;APG;5;6;WAQA
+repairRoad;APG;NMKR;-3
+addRoad;NMKR;WAQA;3;4
+ getRouteDescrip;tion;286 
+#getRouteDescri;ption;634 
+;addRoad;KGSAD;KIEOI;5;6
+ repairRoad;KGSAD;CFH;-8 
+addRoad;APG;NMKR;2;8
+getRouteDescription;63
+603;CF;H;9;0;CFH 
+getRouteDescription;188
+addRoad;YHWOK;WAQA;8;6
+384;KIEOI
+541;CFH;1;-2;WAQA;0;8;UMFECN
+137;GODD;7;-2;CFH;6;-5;CFH
+getRouteDescription;856
+getRouteDescription;785
+getRouteDescription;733
+repairRoad;NMKR;KIEOI;3
+addRoad;GODD;KIEOI;6;7
+repairRoad;UMFECN;LOGUR;3
+152;UMFECN;9;8;NMKR;0;0;NMKR
+repairRoad;UMFECN;CFH;5; 
+getRouteDescription;307
+getRouteDescription;322
+96;CFH
+repairRoad;GODD;KIEOI;4
+getRouteDescription;651
+ #397;KIEOI;1;4;KIE;OI;7;-2;GODD
+304;LOGUR;6;6;LOGUR
+19;CFH;8;9;UMFECN;5;8;WAQA
+addRoad;LOGUR;UMFECN;8;4
+getRouteDescription;693
+#repairRoad;WAQA;LOGUR;;7
+489;UMFECN;0;7;GODD;4;-8;LOGUR
+getRouteDescription;683
+repairRoad;WAQA;LOGUR;-8
+ #getRouteDescription;848 
+948;YHWOK;7;-8;NMKR;0;1;GODD
+getRouteDescription;510
+addRoad;WAQA;KGSAD;5;6
+getRouteDescription;816
+addRoad;WAQA;NMKR;8;9
+getRouteDescription;942
+#getRouteDescription;343
+#401;CFH 
+getRouteDescription;270
+147;KIEOI
+ getRouteDescription;260 
+repairRoad;KIEOI;GODD;0
+784;UMFECN;6;3;KGSAD
+ #repairRoad;UMFECN;NMKR;0 
+ #addRoad;NMKR;K;GSAD;8;-1
+addRoad;LOGUR;WAQA;2;0
+addRoad;KIEOI;YHWOK;8;-10
+#addRoad;APG;KIEOI;9;;-7 
+297;WAQA
+repairRoad;APG;WAQA;-1
+436;;APG
+repairRoad;KIEOI;APG;-9
+#addRoad;UMFECN;LOGUR;4;3 
+ 642;LOGUR;9;-5;KGSAD;5;2;LOGUR
+repairRoad;KGSAD;CFH;-5
+756;KGSAD;2;9;YHWOK;6;-10;CFH
+addRoad;UMFECN;WAQA;1;-1
+getRouteDescription;705
+#repairRoad;UMF;ECN;LOGUR;-6 
+repairRoad;KIEOI;GODD;4
+getRouteDescription;333
+getRouteDescription;998
+118;YHWOK;5;7;KGSAD;9;-2;APG
+addRoad;GODD;WAQA;0;-9
+#addRoad;WAQ;A;KIEOI;5;4
+getRouteDescription;728
+368;KIEOI;0;-9;WAQA
+ getRouteDescription;548
+607;APG
+ getRouteDescription;113 
+getRouteDescription;816
+getRouteDescription;245
+ g;etRouteDescription;869 
+addRoad;UMFECN;KIEOI;1;-7
+repairRoad;APG;GODD;7
+addRoad;APG;APG;7;9
+ getRouteD;escription;543 
+addRoad;WAQA;UMFECN;1;-10
+repairRoad;KIEOI;WAQA;-4
+repairRoad;GODD;UMFECN;1
+ #repairRoad;GODD;KIEOI;;4 
+repairRoad;WAQA;GODD;7
+repairRoad;YHWOK;KIEOI;9
+ #addRoad;KIEOI;YHWOK;4;4 
+repairRoad;LOGUR;LOGUR;4
+ addRoad;WAQA;KGSAD;3;-2 
+ repairRoad;KIEOI;W;AQA;0
+#repairRoad;YHWOK;WAQA;6 
+getRouteDescription;260
+getRouteDescription;816
+getRouteDescription;94
+#addRoad;;GODD;GODD;1;-4 
+ 640;APG;2;5;YHWOK;8;-8;KGSAD 
+addRoad;NMKR;GODD;7;-4
+#repairRoad;YHWOK;GODD;3
+addRoad;YHWOK;KGSAD;7;6
+addRoad;CFH;WAQA;5;7
+648;UMFECN;1;-9;YHWOK
+;getRouteDescription;342 
+#addRoad;LOGUR;YHWOK;9;2 
+addRoad;APG;GODD;3;-4
+addRoad;UMFECN;KIEOI;0;-2
+addRoad;UMFECN;UMFECN;2;3
+501;APG
+865;APG
+ #317;CFH;1;5;CFH 
+914;LOGUR;0;-5;LOGUR
+repairRoad;WAQA;LOGUR;2 
+896;WAQA;4;9;KIEOI
+repairRoad;APG;KIEOI;0
+addRoad;NMKR;UMFECN;9;8
+; 226;APG 
+942;LOGUR;5;5;YHWOK;3;-6;LOGUR
+getRouteDescription;350
+10;LOGUR;4;-6;APG;8;-1;GODD
+getRouteDescription;548
+;addRoad;GODD;CFH;1;5
+getRouteDescription;942
+getRouteDescription;585
+repairRoad;GODD;APG;-10
+getRouteDescription;816
+repairRoad;NMKR;GODD;-8
+290;LOGUR
+getRouteDescription;260
+0;UMFECN
+repairRoad;NMKR;YHWOK;-6
+ #addRoad;WAQA;WAQA;1;-8
+getRouteDescription;858
+ getRouteDescription;548
+ #123;L;OGUR;8;9;NMKR 
+ ;#460;NMKR
+getRouteDescription;495
+addRoad;UMFECN;KIEOI;1;-6
+797;CFH;5;9;WAQA;9;7;GODD 
+repairRoad;WAQA;GODD;1 
+603;WAQA
+getRouteDescription;563
+ #getRouteDescription;102
+addRoad;KGSAD;KGSAD;9;3
+187;LOGUR;5;2;YHWOK;5;-2;YHWOK
+615;KIEOI;6;-10;YHWOK
+addRoad;NMKR;UMFECN;0;-6
+getRouteDescription;529
+#repairRoad;UMFECN;YHWOK;2
+getRouteDescription;541
+#repairRoad;KGSAD;NMKR;-7
+746;LOGUR;3;-1;LOGUR
+repairRoad;KGSAD;KIEOI;9
+ #741;LOGUR;0;0;UMFECN;7;9;WAQA 
+getRouteDescription;116
+ addRoad;NMKR;WAQA;7;-3
+addRoad;KIEOI;YHWOK;6;-3
+addRoad;LOGUR;WAQA;6;-1
+addRoad;YHWOK;NMKR;6;8
+getRouteDescription;425
+52;KGSAD;9;8;UMFECN
+ #addRoad;UMFECN;CFH;9;-5 
+repairRoad;GODD;;WAQA;-10
+0;NMKR;8;0;KIEOI;8;3;KIEOI
+#addRoad;NMKR;C;FH;0;2 
+addRoad;KGSAD;KGSAD;7;4
+#;506;WAQA
+getRouteDescription;634
+153;NMKR;3;-8;KGSAD;1;1;GODD
+addRoad;WAQA;KGSAD;0;-9
+getRouteDescription;81
+0;UMFECN;3;-6;WAQA;3;-9;LOGUR
+addRoad;KIEOI;CFH;7;-1
+581;CFH;2;-4;KGSAD;7;-1;APG
+repairRoad;YHWOK;LOGUR;4
+addRoad;KIEOI;LOGUR;6;-4
+repairRoad;UMFECN;NMKR;-1
+350;KGSAD;7;3;APG;1;-8;GODD
+addRoad;UMFECN;KGSAD;2;-9
+873;APG
+getRouteDescription;776 
+addRoad;GODD;LOGUR;9;;8
+repairRoad;KIEOI;KGSAD;9
+getRouteDescription;948
+#0;CF;H;3;5;WAQA;4;0;KGSAD
+getRouteDescription;183
+repairRoad;UMFECN;YHWOK;9
+getRouteDescription;910
+68;GODD;6;-2;CFH
+addRoad;KIEOI;CFH;5;-2
+999;KIEOI;8;6;YHWOK;7;9;YHWOK
+436;GODD;1;4;APG
+62;KIEOI;4;-10;KIEOI
+532;GODD
+908;KIEOI
+addRoad;KIEOI;GODD;6;2
+getRouteDescription;333
+24;YHWOK
+getRouteDescription;776
+904;NMKR;7;-5;NMKR;9;0;APG
+getRouteDescription;634
+getRouteDescription;898
+942;YHWOK
+#getRouteDescription;578
+getRouteDescription;202
+getRouteDescription;705
+#getRouteDes;cription;473 
+repairRoad;GODD;GODD;-7
+repairRoad;UMFECN;APG;-2
+297;GODD
+getRouteDescription;693
+0;LOGUR;2;-10;UMFECN;5;0;WAQA
+addRoad;KIEOI;GODD;0;-2
+342;KGSAD;1;5;NMKR;6;-4;GODD
+repairRoad;KGSAD;APG;3
+repairRoad;LOGUR;KIEOI;-10
+ #getRouteDescription;794
+ #960;;KGSAD 
+getRouteDescription;848
+repairRoad;YHWOK;LOGUR;-4
+repairRoad;NMKR;APG;8
+addRoad;WAQA;CFH;8;-6
+282;YHWOK
+repairRoad;CFH;WAQA;-3
+repairRoad;KGSAD;UMFECN;9
+ #addRoad;LOGUR;NMKR;4;-8 
+getRouteDescription;88
+addRoad;KGSAD;CFH;1;0
+repairRoad;UMFECN;WAQA;-6
+addRoad;NMKR;UMFECN;1;-7
+ #repairRoad;KGSAD;APG;4 
+ 467;;LOGUR;5;2;APG 
+repairRoad;GODD;WAQA;6
+addRoad;APG;UMFECN;7;-3
+repairRoad;KGSAD;LOGUR;-6; 
+getRouteDescription;848
+getRouteDescription;19
+ #425;;KGSAD;3;-6;GODD 
+ #repairRoad;KGSAD;WAQA;2 
+addRoad;NMKR;KGSAD;8;-3
+ #290;NMKR
+8;70;WAQA 
+#;addRoad;CFH;APG;5;-9
+repairRoad;KGSAD;UMFECN;4
+getRouteDescription;896
+260;YHWOK
+repairRoad;GODD;KIEOI;-4
+repairRoad;NMKR;YHWOK;-2
+#468;KIEOI;;9;9;KGSAD;4;9;WAQA 
+#getRouteDescription;81;6 
+repairRoad;YHWOK;KIEOI;-3
+; repairRoad;CFH;KIEOI;-3
+ #getRouteDescription;585 
+ #getRouteDescript;ion;134 
+ #399;YHWOK;7;8;APG 
+repairRoad;LOGUR;CFH;-1 
+addRoad;KIEOI;NMKR;4;8
+repairRoad;APG;YHWOK;5
+getRouteDescription;430
+ getRouteDescri;ption;728
+getRouteDescription;183
+repairRoad;WAQA;WAQA;3
+578;KIEOI;9;-7;CFH
+getRouteDescription;833
+getRouteDescription;63
+addRoad;UMFECN;KIEOI;8;-3
+6;KIEOI;5;6;KIEOI
+ #repairRoad;UMFE;CN;WAQA;6 
+288;LOGUR;5;7;KGSAD;9;9;NMKR
+repairRoad;KGSAD;NMKR;2
+getRouteDescription;477
+ 236;YHWOK
+getRouteDescription;772
+#getRouteD;escription;438
+addRoad;APG;APG;6;-1
+addRoad;LOGUR;YHWOK;6;5
+repairRoad;CFH;UMFECN;-;5
+getRouteDescription;966
+addRoad;YHWOK;GODD;7;-5
+addRoad;KIEOI;APG;5;-4
+0;KGSAD;5;4;NMKR
+repairRoad;LOGUR;CFH;-8
+ repairRoad;KIEOI;YHWOK;3
+ getRouteDescription;;282
+184;APG;1;4;APG
+addRoad;YHWOK;APG;9;7
+addRoad;CFH;NMKR;8;-1
+getRouteDescription;938
+addRoad;KIEOI;APG;2;1
+ 600;GODD;4;5;CFH;4;-8;UMFECN
+830;KGSAD;3;-6;WAQA;4;0;APG
+addRoad;KIEOI;YHWOK;6;-6
+addRoad;YHWOK;CFH;1;2
+563;APG;5;5;LOGUR
+#1;APG;9;-2;;KIEOI;8;-10;KIEOI
+556;APG;1;3;KGSAD;6;-1;GODD
+addRoad;KGSAD;NMKR;8;-9
+getRouteDescription;468
+getRouteDescription;399
+repa;irRoad;GODD;LOGUR;-2
+repairRoad;GODD;GODD;3
+repairRoad;APG;YHWOK;-3
+addRoad;GODD;KGSAD;5;4
+repairRoad;APG;YHWOK;6
+ #411;APG;2;1;KG;SAD 
+getRouteDescription;73
+getRouteDescription;4
+repairRoad;UMFECN;YHWOK;-4
+getRouteDescription;694
+addRoad;LOGUR;KIEOI;9;1
+getRouteDescription;834
+addRoad;YHWOK;KIEOI;0;-7
+addRoad;KIEOI;CFH;4;8
+getRouteDescription;72
+getRouteDescription;858
+736;LOGUR
+ #repairRoad;KIEOI;YHWOK;5 
+getRouteDescription;119
+addRoad;LOGUR;WAQA;6;0
+ getRouteDescription;681 
+getRouteDescription;159
+addRoad;GODD;LOGUR;3;-9
+addRoad;CFH;NMKR;1;-7
+repairRoad;KGSAD;UMFECN;-4
+addRoad;YHWOK;LOGUR;2;-3
+880;KGSAD;4;-8;WAQA;5;-7;YHWOK
+addRoad;APG;KGSAD;5;5
+repairRoad;WAQA;WAQA;4
+repairRoad;KIEOI;NMKR;-1
+addRoad;YHWOK;KGSAD;8;-8
+getRouteDescription;580
+975;LOGUR
+350;KIEOI;4;-8;UMFECN;3;9;WAQA
+repairRoad;WAQA;KIEOI;8
+repairRoad;NMKR;KIEOI;-2
+addRoad;KIEOI;KGSAD;1;1
+127;KIEOI;5;-9;NMKR;4;-2;UMFECN
+getRouteDescription;584
+repairRoad;YHWOK;YHWOK;-5
+addRoad;KIEOI;APG;8;-10
+addRoad;NMKR;UMFECN;1;-7
+ addRoad;YHWOK;UMFEC;N;1;9 
+getRouteDescription;102
+repairRoad;LOGUR;LOGUR;4
+addRoad;LOGUR;CFH;9;3
+repairRoad;CFH;NMKR;0
+addRoad;LOGUR;NMKR;2;9
+repairRoad;GODD;GODD;6
+getRouteDescription;882
+getRouteDescription;427
+92;YHWOK
+repairRoad;GODD;CFH;-1
+repairRoad;YHWOK;NMKR;2
+getRouteDescription;316
+487;GODD;2;1;NMKR
+getRouteDescription;661
+76;LOGUR;9;8;APG
+295;APG;9;5;KGSAD;3;-8;KGSAD
+267;WAQA;5;9;CFH
+repairRoad;WAQA;NMKR;1
+repairRoad;CFH;NMKR;0
+addRoad;APG;NMKR;1;1
+533;APG;1;-8;KGSAD
+repairRoad;WAQA;NMKR;7
+#getRouteDescription;797
+ 460;APG;5;-5;WAQA;3;2;KGSAD 
+ #getRouteDescription;728 
+repairRoad;KGSAD;KIEOI;7 
+addRoad;NMKR;NMKR;8;7
+getRouteDescription;914
+ addRoad;GODD;LOGUR;6;1
+repairRoad;WAQA;GODD;1
+getRouteDescription;942
+addRoad;WAQA;UMFECN;5;-7
+repairRoad;UMFECN;YHWOK;-9
+599;CFH;8;-6;YHWOK
+addRoad;UMFECN;WAQA;5;-3
+getRouteDescription;563
+getRouteDescription;898
+0;APG
+getRouteDescription;733
+#532;;LOGUR
+643;APG
+#a;ddRoad;KGSAD;UMFECN;8;-7 
+1;CFH;6;-4;WAQA;8;-1;APG
+addRoad;LOGUR;APG;5;3
+addRoad;KGSAD;WAQA;0;-8
+386;GODD;8;4;UMFECN
+repairRoad;UMFECN;APG;5
+repairRoad;KGSAD;KIEOI;-1
+getRouteDescription;596
+addRoad;LOGUR;KGSAD;6;-2
+707;WAQA;0;1;NMKR
+repairRoad;GODD;KGSAD;9
+getRouteDescription;749
+getRouteDescription;581
+784;LOGUR
+repairRoad;YHWOK;CFH;6
+addRoad;UMFECN;APG;1;6
+ 816;LOGUR;7;0;CFH
+#repairRoad;CFH;CFH;-4
+addRoad;CFH;YHWOK;1;-5
+getRouteDescription;869
+repairRoad;APG;KIEOI;4
+728;LOGUR
+getRouteDescription;589
+334;KGSAD;8;-10;KIEOI;8;9;LOGUR
+ repairRoad;GODD;LOGUR;7 
+addRoad;NMKR;KGSAD;8;5
+repairRoad;CFH;APG;-6
+653;NMKR;4;8;UMFECN
+addRoad;APG;YHWOK;4;8
+815;UMFECN;0;2;KIEOI;8;7;UMFECN
+getRouteDescription;102
+#repairRoad;APG;GODD;8
+addRoad;WAQA;NMKR;6;4
+addRoad;GODD;KIEOI;7;1
+ 6;93;NMKR;3;3;WAQA 
+ #a;ddRoad;GODD;GODD;4;-7 
+repairRoad;CFH;LOGUR;0
+addRoad;CFH;UMFECN;2;-7
+getRouteDescription;772
+244;WAQA;2;1;CFH;8;0;NMKR
+getRouteDescription;736 
+529;CFH
+addRoad;GODD;NMKR;6;-8
+repairRoad;YHWOK;LOGUR;-4
+ #702;KGS;AD
+addRoad;WAQA;WAQA;8;-10
+addRoad;GODD;APG;5;-8
+addRoad;CFH;YHWOK;3;0
+addRoad;KIEOI;KGSAD;9;9
+repairRoad;CFH;NMK;R;-2 
+getRouteDescription;901
+repairRoad;CFH;YHWOK;8
+235;LOGUR;8;-4;NMKR;7;5;NMKR
+getRouteDescription;172
+#addRoad;GODD;NMKR;8;9
+repairRoad;UMFECN;KIEOI;-10
+addRoad;KIEOI;LOGUR;1;6
+repairRoad;KGSAD;WAQA;-1
+834;GODD;0;-4;NMKR;9;-6;KIEOI
+#682;UMFECN;;3;1;GODD;4;-3;NMKR 
+addRoad;N;MKR;GODD;6;6
+addRoad;KGSAD;YHWOK;5;8
+88;CFH;3;-3;GODD
+addRoad;APG;APG;9;2
+repairRoad;YHWOK;GODD;-6
+227;KGSAD
+addRoad;LOGUR;GODD;1;-4
+getRouteDescription;714
+473;YHWOK;7;-2;KIEOI;5;-8;GODD
+addRoad;UMFECN;GODD;6;5
+repairRoad;NMKR;APG;-5
+getRo;uteDescription;243
+addRoad;KIEOI;WAQA;2;1
+ 568;GODD
+repairRoad;GODD;LOGUR;-2
+0;KGSAD;9;-9;YHWOK;1;1;KIEOI
+addRoad;YHWOK;YHWOK;3;2
+844;GODD;7;6;WAQA;9;-6;KIEOI
+repairRoad;WAQA;KIEOI;-4
+getRouteDescription;942
+getRouteDescription;263
+ 30;YHWOK;1;2;APG;8;-2;KGSAD 
+addRoad;YHWOK;WAQA;5;7
+907;CFH;8;-7;GODD
+; getRouteDescription;820
+getRouteDescription;784
+repairRoad;KGSAD;UMFECN;1
+addRoad;YHWOK;NMKR;5;-1
+addRoad;KGSAD;UMFECN;8;0
+893;KIEOI;7;1;NMKR;9;9;NMKR
+#addRoad;Y;HWOK;UMFECN;2;-9
+addRoad;KGSAD;KIEOI;0;-3
+getRouteDescription;263
+getRouteDescription;880
+ addRoad;NMKR;GODD;8;-3
+repairRoad;KGSAD;LO;GUR;1
+repairRoad;NMKR;NMKR;-8
+817;UMFECN
+repairRoad;APG;NMKR;2
+repairRoad;UMFECN;APG;-1
+ #;addRoad;YHWOK;APG;1;1 
+366;KIEO;I;8;-8;KIEOI 
+getRouteDescription;904
+addRoad;GODD;KGSAD;0;2 
+getRouteDescription;202
+#800;UMFECN;5;8;WAQA;5;9;C;FH
+357;GODD;5;5;LOGUR
+repairRoad;YHWOK;LOGUR;1
+571;WAQA;6;-7;LOGUR;2;-4;CFH
+#806;APG;5;8;UMFECN;5;8;WAQ;A 
+addRoad;KIEOI;KIEOI;3;1
+repairRoad;LOGUR;WAQA;4
+repairRoad;KGSAD;YHWOK;9
+getRouteDescription;705
+#repairRoad;NMKR;YHWOK;-9 
+382;GODD;0;-9;KIEOI
+addRoad;YHWOK;LOGUR;8;-10
+addRoad;KGSAD;UMFECN;8;6
+529;WAQA;3;1;YHWOK;4;-5;KIEOI
+repairRoad;KGSAD;GODD;-4
+241;LOGUR;9;-8;UMFECN;7;2;NMKR
+782;KGSAD;6;9;GODD
+addRoad;KGSAD;UMFECN;3;-10
+getRouteDescription;908
+repairRoad;KGSAD;NMKR;-9
+339;GODD;4;4;GODD;6;9;GODD
+getRouteDescription;93
+addRoad;NMKR;GODD;6;0
+getRouteDescription;904 
+repairRoad;KGSAD;WAQA;6
+getRouteDescription;197
+repairRoad;KIEOI;NMKR;8
+addRoad;APG;KGSAD;0;-3
+216;UMFECN;8;-5;GODD;0;7;NMKR
+ 784;UMFECN;3;-6;LOGUR 
+getRouteDescription;818
+getRouteDescription;138
+addRoad;YHWOK;NMKR;9;-6
+addRoad;KGSAD;KIEOI;0;5
+getRouteDescription;81
+901;UMFECN;3;-2;GODD
+#add;Road;WAQA;WAQA;4;1
+938;APG;7;-3;CFH
+ repairRoad;WAQA;;NMKR;5 
+#346;APG;9;-9;NMKR;2;-3;KI;EOI
+224;KGSAD;7;3;GODD;5;1;UMFECN
+796;WAQA
+addRoad;UMFECN;GODD;4;7
+repairRoad;UMFECN;UMFECN;-1
+repairRoad;YHWOK;APG;-2
+addRoad;CFH;LOGUR;6;-10
+527;NMKR;4;-7;WAQA
+ addRoad;UMFECN;NMKR;4;-9
+addRoad;KGSAD;KIEOI;5;-8
+getRouteDescription;743
+202;LOGUR;3;5;KIEOI;8;4;UMFECN
+getRouteDescription;4;12 
+addRoad;GODD;KIEOI;9;0
+addRoad;GODD;WAQA;5;9
+ #643;;NMKR;4;2;UMFECN 
+getRouteDescription;94
+repairRoad;WAQA;WAQA;-6
+#addRoad;APG;LOGUR;8;1
+getRouteDescription;243
+ 548;YHWOK 
+getRouteDescription;142
+addRoad;YHWOK;WAQA;3;-3
+76;YHWOK;4;-2;YHWOK
+ addRoad;KIEOI;WAQ;A;2;9 
+ #repairRoad;UMFECN;WAQA;-4 
+repairRoad;KGSAD;NMKR;9
+addRoad;GODD;UMFECN;7;-6
+addRoad;CFH;LOGUR;7;3
+getRouteDescription;4
+repairRoad;CFH;KIEOI;-2
+ #add;Road;WAQA;YHWOK;3;-2
+ #addRoad;GODD;NMKR;1;6
+repairRoad;NMKR;YHWOK;3
+634;GODD;1;7;NMKR;4;-5;KIEOI
+repairRoad;WAQA;NMKR;8
+repairRoad;KGSAD;KG;SAD;-6
+addRoad;APG;CFH;6;-9
+getRouteDescription;94
+getRouteDescription;869
+repairRoad;CFH;WAQA;-7
+183;NMKR;0;-4;LOGUR 
+ #ad;dRoad;WAQA;GODD;2;8
+addRoad;YHWOK;GODD;3;-1
+; addRoad;GODD;LOGUR;0;-9
+addRoad;KGSAD;CFH;9;-5
+264;WAQA
+getRouteDescription;188
+getRouteDescription;589
+548;KGSAD;6;-2;YHWOK;1;3;YHWOK
+701;;UMFECN;1;-1;NMKR 
+#getR;outeDescription;548
+addRoad;CFH;NMKR;9;4
+addRoad;NMKR;NMKR;9;0
+318;UMFECN
+getRouteDescription;435
+ #repairRoa;d;APG;WAQA;-4
+repairRoad;LOGUR;WAQA;-2
+194;NMKR;0;5;WAQA
+repairRoad;YHWOK;LOGUR;-8
+getRouteDescription;203
+#37;CFH;8;-9;YHWOK 
+addRoad;APG;KIEOI;3;-9
+getRouteDescription;438
+addRoad;KIEOI;GODD;6;-3
+ 410;WAQA; 
+getRouteDescriptio;n;848
+307;NMKR;9;5;KGSAD;5;-10;YHWOK 
+ #repairRoad;WAQA;NMKR;0 
+getRouteDescription;914
+getRouteDescription;834
+getRouteDescription;533
+ #0;KGSAD;9;9;KIEOI 
+getRouteDescription;500
+addRoad;;LOGUR;NMKR;7;-7 
+repairRoad;KGSAD;KGSAD;7
+repairRoad;WAQA;KGSAD;-3
+getRouteDescription;857
+#7;61;CFH
+999;APG;2;-5;APG
+ #addRoad;GODD;CFH;1;3 
+addRoad;LOGUR;UMFECN;4;4
+repairRoad;KIEOI;GODD;6
+19;KIEOI
+getRouteDescription;112
+ #repairRoad;UMFECN;GODD;6; 
+add;Road;WAQA;KGSAD;0;1
+getRouteDescription;343
+addRoad;GODD;KGSAD;;4;-7
+904;YHWOK;1;-6;GODD;2;-1;LOGUR
+repairRoad;GODD;NMKR;-6
+645;CFH;4;-5;CFH
+addRoad;CFH;WAQA;7;1
+4;CFH
+getRouteDescription;918
+repairRoad;LOGUR;LOGUR;-10
+addRoad;APG;YHWOK;0;0
+548;APG
+addRoad;UMFECN;UMFECN;5;-1
+366;WAQA
+addRoad;CFH;UMFECN;4;-7
+getRouteDescription;782
+174;LOGUR;6;7;KIEOI
+getRouteDescription;711
+ #getRouteDesc;ription;301
+addRoad;KIEOI;YHWOK;0;-7
+repairRoad;CFH;UMFECN;6
+#addRoad;GODD;KGSAD;9;1
+repairR;oad;GODD;KGSAD;7
+#;addRoad;UMFECN;KGSAD;1;8
+ #addRoad;GODD;LOGUR;5;-9
+38;WAQA;2;0;YHWOK
+repairRoad;NMKR;LOGUR;8
+addRoad;YHWOK;UMFECN;4;9
+getRouteDescription;182
+#307;CFH
+getRouteDescription;0
+getRouteDescription;935
+152;CFH;1;8;CFH
+ repairRoad;UMFECN;GOD;D;-2 
+repairRoad;CFH;WAQA;3
+getRouteDescription;307
+303;APG
+getRouteDescription;203
+ addRoad;KGSAD;GODD;0;2
+repairRoad;KGSAD;UMFECN;6
+repairRoad;UMFECN;YHWOK;0
+addRoad;LOGUR;GODD;0;-10
+693;LOGUR;9;-9;UMFECN;9;-1;UMFECN
+ #addRoa;d;CFH;YHWOK;0;-2 
+getRouteDescription;342
+883;WAQA;4;9;KIEOI
+448;KGSAD;8;3;NMKR
+repairRoad;CFH;KIEOI;8
+repairRoad;GODD;NMKR;-9
+728;GODD;4;3;YHWOK
+ #764;CFH
+addRoad;UMFECN;NMKR;1;-6
+repairRoad;KIEOI;NMKR;9
+addRoad;UMFECN;UMFECN;5;-10
+976;CFH;6;8;APG
+getRouteDescription;800
+repairRoad;UMFECN;LOGUR;-10
+repairRoad;GODD;WAQA;4
+#addRoad;WAQA;APG;4;-8 
+addRoad;KGSAD;CFH;1;-5
+183;KIEOI
+addRoad;YHWOK;UMFECN;0;-6
+ #getRou;teDescription;879
+660;UMFECN;9;-9;LOGUR;4;-5;GODD
+ #188;YHWOK;0;-2;CF;H;8;-7;UMFECN
+#890;YHWOK;5;0;CFH 
+addRoad;WAQA;APG;3;8
+127;NMKR;9;-2;NMKR
+addRoad;YHWOK;KGSAD;0;-6
+516;LOGUR;5;7;KGSAD
+repairRoad;UMFECN;WAQA;-4
+getRouteDescription;484
+437;LOGUR;1;-5;WAQA;7;7;WAQA
+786;KIEOI
+#addRoad;KIEOI;KGSAD;3;-7 
+getRouteDescription;558
+getRouteDescription;237
+getRouteDescription;468
+ #getRouteDescription;3;22
+getRouteDescription;533
+ #getRout;eDescription;265 
+getRouteDescription;580
+getRouteDescription;529
+getRouteDescription;506
+addRoad;YHWOK;CFH;8;-3
+repairRoad;APG;WAQA;-9
+getRou;teDescription;589
+addRoad;UMFECN;APG;9;-4 
+addRoad;LOGUR;NMKR;0;-9
+215;NMKR;9;8;YHWOK
+ad;dRoad;GODD;APG;5;-3 
+ #addRoad;KIEOI;KGSAD;6;1 
+addRoad;UMFECN;KGSAD;2;3
+addRoad;KGSAD;CFH;7;3
+ getRouteDescription;4 
+repairRoad;KIEOI;KGSAD;6
+getRouteDescription;391
+addRoad;CFH;APG;4;-10
+getRouteDescription;308
+addRoad;YHWOK;GODD;9;7
+#repairRoad;APG;NMKR;1
+#addRoad;CFH;LOGUR;5;4
+addRoad;GODD;KGSAD;5;3
+addRoad;LOGUR;KIEOI;9;3
+673;WAQA;9;7;GODD;3;9;YHWOK
+addRoad;UMFECN;YHWOK;4;-6
+addRoad;YHWOK;KIEOI;3;-5
+repairRoad;KGSAD;GODD;-6
+repairRoad;NMKR;UMFECN;3
+repairRoad;YHWOK;CFH;1
+addRoad;GODD;NMKR;6;2
+repairRoad;KGSAD;GODD;-4
+getRouteDescription;701
+getRouteDescription;784
+0;KGSAD
+ #repairRoad;WAQA;WAQA;-4; 
+getRouteDescription;828
+483;LOGUR;5;7;KIEOI;6;9;WAQA
+getRouteDescription;156
+313;KIEOI;0;6;UMFECN
+getRouteDescription;73
+repairRoad;KGSAD;NMKR;-2
+repairRoad;KIEOI;CFH;-6
+976;KGSAD
+addRoad;KIEOI;CFH;1;6
+getRouteDescription;76
+getRouteDescription;673
+addRoad;KIEOI;CFH;5;0
+#0;LOGUR;0;-9;GODD;5;;-4;YHWOK
+getRouteDescription;430
+repairRoad;KGSAD;CFH;-4
+0;U;MFECN
+ addRoad;;UMFECN;UMFECN;4;-4 
+addRoad;UMFECN;YHWOK;0;-7
+getRouteDescription;412
+addRoad;WAQA;UMFECN;7;-6
+addRoad;KGSAD;WAQA;2;7
+repairRoad;WAQA;NMKR;2
+repairRoad;KIEOI;LOGUR;5
+312;WAQA;8;-7;CFH
+675;LOGUR;5;8;GODD;8;9;NMKR
+getRouteDescription;174
+getRouteDescription;693
+addRoad;WAQA;WAQA;7;9
+ getRouteDescri;ption;412 
+addRoad;WAQA;WAQA;0;-2
+getRouteDescription;581
+addRoad;CFH;KGSAD;6;-8
+addRoad;APG;WAQA;5;-9
+addRoad;WAQA;APG;7;-7
+repairRoad;KGSAD;LOGUR;8
+addRoad;NMKR;WAQA;1;;0 
+repairRoad;NMKR;GODD;-3
+getRouteDescription;127
+ ;addRoad;UMFECN;NMKR;1;9
+getRouteDescription;174
+addRoad;KIEOI;GODD;7;1
+967;WAQA;1;-6;APG;3;7;GODD
+repairRoad;GODD;YHWOK;3
+489;APG;6;0;UMFECN
+getRouteDescription;203
+#repairRoad;APG;YHWOK;7 
+addRoad;UMFECN;WAQA;2;9
+repairRoad;WAQA;APG;1
+repairRoad;UMFECN;LOGUR;6
+repairRoad;KIEOI;WAQA;-3
+567;KGSAD;8;-7;UMFECN;5;4;GODD
+addRoad;CFH;KGSAD;7;1
+addRoad;WAQA;GODD;4;-4
+763;LOGUR
+#repairRoad;GODD;LOGUR;-5
+addRoad;APG;GODD;1;-8
+getRouteDescription;908
+repairRoad;YHWOK;GODD;7
+repairRoad;WAQA;LOGUR;-4
+#getRouteDescription;772
+#714;NMKR;1;4;UMFECN;3;-10;UMFE;CN 
+addRoad;LOGUR;KGSAD;7;-1
+;#getRouteDescription;581
+addRoad;YHWOK;KIEOI;9;-4
+279;KIEOI
+getRouteDescription;728
+repairRoad;KIEOI;GODD;-6
+getRouteDescription;702
+#225;YHWOK;0;-6;;KIEOI 
+getRouteDescription;333
+repairRoad;GODD;KIEOI;8
+304;KIEOI;2;-5;LOGUR;1;-4;WAQA
+addRoad;WAQA;YHWOK;0;0
+addRoad;WAQA;KIEOI;0;3
+ #addRoad;N;MKR;YHWOK;3;-6
+getRouteDescription;883
+addRoad;CFH;CFH;9;-1
+repairRoad;WAQ;A;NMKR;8
+ 85;LOG;UR
+addRoad;YHWOK;WAQA;0;-4
+addRoad;YHWOK;KGSAD;3;-10
+repairRoad;CFH;APG;-9
+getRouteDescription;784
+getRouteDescription;587
+repairRoad;NMKR;UMFECN;-3
+393;YHWOK;3;9;GODD;2;8;KIEOI
+942;KIEOI;9;1;LOGUR
+getRouteDescription;914
+repairRoad;KGSAD;APG;-9
+#19;YHWOK
+addRoad;NMKR;UMFECN;;8;-2
+repairRoad;UMFECN;NMKR;8
+getRouteDescription;624
+repairRoad;WAQA;YHWOK;1
+repairRoad;KIEOI;NMKR;6
+393;WAQA;8;-1;APG
+repairRoad;UMFECN;CFH;2
+addRoad;GODD;NMKR;8;8
+#repairRoad;WAQA;LOGUR;-5
+ 643;;NMKR 
+getRouteDescription;116
+ #0;CFH;6;-7;KGSAD
+addRoad;LOGUR;YHWOK;4;-6
+157;WAQA;5;9;APG
+ #getRouteDescription;543 
+878;CFH
+getRouteDescription;393
+repairRoad;KGSAD;GODD;-1
+ #3;05;CFH 
+getRouteDescription;808
+ #repairRoad;;WAQA;NMKR;-5
+753;YHWOK;7;2;CFH
+0;KIEOI;2;0;APG
+ 693;UMFECN
+#getRouteDescr;iption;782 
+getRouteDescription;828
+436;CFH;9;6;CFH
+repairRoad;K;GSAD;CFH;-3 
+ addRoad;APG;GODD;5;-8
+ repairRoad;UMFECN;NMKR;5
+getRouteDescription;350
+addRoad;CFH;GODD;6;2
+287;WAQA
+getRouteDescription;869
+getRouteDescription;317
+addRoad;YHWOK;YHWOK;8;-7
+getRouteDescription;728
+repairRoad;GODD;LOGUR;3
+getRouteDescription;433
+getRouteDescription;925
+#addRoad;GODD;W;AQA;3;-2
+addRoad;NMKR;GODD;6;-8
+repairRoad;CFH;WAQA;4
+322;YHWOK
+repairRoad;APG;LOGUR;-7
+ getRouteDescription;516 
+#857;KGSAD;6;6;KGSAD
+304;KGSAD
+804;KIEOI;7;-7;YHWOK
+#;getRouteDescription;772
+getRouteDescription;800
+addRoad;GODD;WAQA;2;-6
+#repairRoad;GODD;APG;1
+repairRoad;APG;YHWOK;5
+getRouteDescription;867 
+816;LOGUR;7;-5;GODD
+repairRoad;WAQA;YHWOK;-10
+addRoad;YHWOK;KIEOI;7;7
+ #getRouteDescription;64 
+15;NMKR;6;0;KIEOI;7;-8;KGSAD
+addRoad;CFH;KGSAD;1;-10
+addRoad;UMFECN;KIEOI;8;-2
+repairRoad;KGSAD;NMKR;2
+repairRoad;KGSAD;KIEOI;-9
+repairRoad;LOGUR;LOGUR;-4
+addRoad;KGSAD;NMKR;0;8
+repairRoad;KGSAD;GODD;1
+getRouteDescription;816
+804;APG;6;4;APG;8;3;GODD
+getRouteDescription;827
+repairRoad;KGSAD;LOGUR;8
+getRouteDescription;951
+repairRoad;KGSAD;UMFECN;2
+ #getRouteDescription;;800 
+#getRo;uteDescription;634
+repairRoad;GODD;KIEOI;-7 
+repairRoad;CFH;CFH;6
+677;CFH
+getRouteDescription;112
+addRoad;CFH;UMFECN;9;6
+getRouteDescription;689
+969;YHWOK;0;7;CFH
+ #repairRoad;KIEOI;NMKR;-2
+addRoad;UMFECN;CFH;7;7
+repairRoad;KIEOI;WAQA;-7
+974;UMFECN;8;9;CFH
+getRouteDescription;754
+repairRoad;GODD;APG;1
+ #856;APG; 
+745;CFH;6;8;YHWOK;4;9;KGSAD 
+addRoad;UMFECN;NMKR;9;-7
+getRouteDescription;784
+addRoad;WAQA;WAQA;2;-6
+addRoad;UMFECN;CFH;6;3
+ #getRouteDescription;965
+addRoad;WAQA;NMKR;7;3
+ addRoad;WAQA;WAQA;8;4 
+ repairRoad;WAQA;YH;WOK;2 
+202;LOGUR
+addRoad;UMFECN;UMFECN;;1;2
+#a;ddRoad;KGSAD;APG;9;0
+addRoad;CFH;KIEOI;6;-10
+repairRoad;UMFECN;YHWOK;5
+728;WAQA;6;8;LOGUR;2;-9;NMKR
+repairRoad;KGSAD;UMFECN;-10
+162;WAQA;5;7;LOGUR
+83;KIEOI;9;-8;APG
+addRoad;UMFECN;LOGUR;4;3 
+addRoad;GODD;KIEOI;8;-1
+309;GODD;8;3;WAQA
+addRoad;KIEOI;KIEOI;4;-8
+getRouteDescription;81
+347;KIEOI;8;5;UMFECN
+getRouteDescription;399
+repairRoad;WAQA;LOGUR;1
+repairRoad;NMKR;NMKR;-2
+getRouteDescription;88
+addRoad;YHWOK;UMFECN;1;-1
+ ;addRoad;CFH;CFH;2;-3 
+repairRoad;NMKR;APG;-1
+repairRoad;YHWOK;LOGUR;-2
+476;APG;8;-3;GODD
+ #getRouteDescription;322
+repairRoad;KGSAD;LOGUR;-4
+#addRoad;KIEOI;GODD;5;2
+113;GODD;4;-8;KIEOI
+addRoad;UMFECN;CFH;6;-8
+#repairRoad;KGSAD;YH;WOK;-7 
+808;KGSAD;5;-6;KIEOI;7;-2;NMKR
+ #getRouteDescript;ion;828 
+getRouteDescription;904
+ #getRouteDescription;533 
+repairRoad;LOGUR;APG;-7
+addRoad;YHWOK;KGSAD;7;5
+getRouteDescription;901
+getRouteDescription;293
+#642;GODD;1;-9;NMKR
+getRouteDescription;448
+repairRoad;NMKR;LOGUR;8
+getRouteDescription;157
+repairRoad;KGSAD;APG;7
+ #585;KGSAD;3;0;YHWOK;9;-4;UMFECN
+repairRoad;KIEOI;CFH;-6
+#782;GODD;6;;6;GODD;5;5;UMFECN 
+getRouteDescription;123
+ getRouteDescription;745
+getRouteDescription;925
+713;YHWOK
+repairRoad;CFH;WAQA;-6
+101;WAQA
+getRouteDescription;925
+606;CFH
+ #797;YHWOK;2;-5;CFH
+repairRoad;WAQA;NMKR;8
+getRouteDescription;244
+0;KIEOI;7;-4;NMKR;0;4;GODD
+0;WAQA
+781;A;PG;8;-1;WAQA;6;-6;GODD 
+getRouteDescription;281
+addRoad;CFH;UMFECN;8;4
+383;UMFECN;4;-3;YHWOK;0;-9;LOGUR
+getRouteDescription;990
+ getRouteDescription;718 
+addRoad;WAQA;UMFECN;6;2
+6;KGSAD;6;9;GODD;2;8;KIEOI
+getRout;eDescription;995 
+getRouteDescription;776
+getRouteDescription;800
+repairRoad;UMFECN;UMFECN;-10
+#repairRo;ad;GODD;KIEOI;9 
+ #529;;LOGUR;4;7;NMKR 
+repairRoad;KGSAD;YHWOK;-7
+repairRoad;WAQA;NMKR;7
+addRoad;UMFECN;NMKR;0;-7
+addRoad;WAQA;YHWOK;6;9
+getRouteDescription;88
+getRouteDescription;766
+getRouteDescription;898
+495;KIEOI;9;8;CFH
+249;GODD 
+addRoad;KGSAD;NMKR;7;-3
+addRoad;KGSAD;CFH;8;2
+getRouteDescription;776
+addRoad;UMFECN;KGSAD;4;-4
+addRoad;APG;GODD;3;-10
+repairRoad;YHWOK;APG;-10
+addRoad;NMKR;NMKR;9;2
+repairRoad;KGSAD;CFH;-4
+repairRoad;WAQA;UMFECN;-6
+addRoad;KGSAD;GODD;1;-6
+getRouteDescription;288
+getRouteDescription;645
+addRoad;APG;KIEOI;1;-3
+addRoad;YHWOK;CFH;7;1
+ #getRouteDescription;38 
+addRoad;APG;LOGUR;4;-5
+964;KIEOI;8;2;WAQA;5;9;KGSAD
+197;YHWOK;1;8;LOGUR;3;8;NMKR
+#getRouteDescripti;on;495
+repairRoad;WAQA;NMKR;-3
+#repairRoad;KGSAD;APG;-3; 
+getRouteDescription;997
+494;YHWOK;1;-7;NMKR;3;5;WAQA
+#addR;oad;YHWOK;GODD;7;-5
+addRoad;WAQA;YHWOK;5;-2
+720;LOGUR;6;;7;KIEOI;8;8;CFH
+getRouteDescription;869
+repairRoad;GODD;LOGUR;-8
+addRoad;CFH;NMKR;8;6
+addRoad;KGSAD;WAQA;7;-10
+ addRoad;GODD;WAQA;0;6 
+getRouteDescription;0
+addRoad;LOGUR;KIEOI;3;0
+addRoad;WAQA;UMFECN;4;5
+repairRoad;UMFECN;APG;6
+ 821;CFH 
+822;YHWOK;9;9;NMKR
+368;CFH;5;-6;CFH;1;8;LOGUR
+addRoad;LOGUR;APG;2;-5
+getRouteDescription;38
+#addRoad;YHWOK;CFH;5;-10
+#getRouteDescription;;673
+81;KIEOI;9;0;WAQA;4;-2;UMFECN
+#addRoad;APG;KIEOI;2;3
+ addRoa;d;GODD;NMKR;6;-8
+getRouteDescription;425
+addRoad;WAQA;NMKR;4;-10
+getRouteDescription;267
+#908;Y;HWOK;9;-3;KGSAD 
+714;APG;8;-2;APG
+getRouteDescription;484
+#addRoad;APG;APG;1;-4
+getRouteDescription;938
+getRouteDescription;772
+ #repairRoad;KGSAD;UMFECN;7
+getRouteDescription;548 
+repairRoad;CFH;GODD;9
+getRouteDescription;484
+repairRoad;YHWOK;APG;-6
+addRoad;LOGUR;UMFECN;8;8
+getRouteD;escription;587 
+ #r;epairRoad;GODD;APG;-4 
+getRouteDescription;243
+addRoad;KIEOI;CFH;0;-5
+ getRouteDescription;131
+getRouteDescription;745
+getRouteDescription;694
+repairRoad;KGSAD;YHWOK;1
+609;CFH;7;-4;CFH;9;2;LOGUR
+repairRoad;NMKR;LOGU;R;-3
+addRoad;KIEOI;KGSAD;6;-2
+256;WAQA;6;5;CFH
+ #repairRoad;KIEOI;WAQA;-4
+438;KIEOI;9;-10;GODD
+854;CFH;2;9;GODD
+307;APG
+repairRoad;UMFECN;WAQA;5
+getRouteDescription;904
+getRouteDescription;468
+0;GODD
+getRouteDescription;896
+getRouteDescription;94
+addRoad;LOGUR;GODD;7;-3
+addRoad;LOGUR;APG;7;-8
+repairRoad;KGSAD;CFH;7
+ #679;YHW;OK 
+getRouteDe;scription;412 
+857;GODD
+addRoad;YHWOK;CFH;3;2
+ repairRoad;KGSAD;KIEOI;2
+addRoad;WAQA;L;OGUR;3;-7 
+addRoad;UMFECN;UMFECN;4;-7
+675;LOGUR;0;-7;KIEOI;7;-6;YHWOK
+ getRouteDescri;ption;202
+repairRoad;GODD;CFH;1
+getRouteDescription;34
+getRouteDescription;964
+addRoad;KGSAD;WAQA;2;7
+ addRoad;LOGUR;C;FH;4;5 
+repairRoad;APG;NMKR;-10
+ addRoad;UMFECN;LOGUR;5;-3
+ #;554;LOGUR 
+ getRouteDescription;468
+779;WAQA
+addRoad;;APG;LOGUR;3;-7
+repairRoad;CFH;APG;3
+repairRoad;APG;UMFECN;3
+#addRoad;LOGUR;WAQA;1;2 
+ addRoad;WAQA;KIE;OI;9;-1 
+repairRoad;GODD;WAQA;1
+getRouteDescription;276
+repairRoad;GODD;CFH;-3
+addRoad;NMKR;LOGUR;8;3
+getRouteDescription;800
+ #getRouteDescription;895; 
+408;LOGUR;2;7;KGSAD;6;-10;LOGUR
+addRoad;LOGUR;APG;6;-1
+getRouteDescription;834
+657;WAQA;3;8;NMKR
+443;UMFECN;4;-1;UMFECN
+932;LOGUR
+ repairRoad;KIEOI;NMKR;-5 
+ addRoad;UMFECN;UMFECN;1;-6 
+975;KIEOI;6;8;UMFECN
+0;WAQA;9;1;LOGUR;5;7;WAQA
+addRoad;KIEOI;WAQA;9;-9
+repairRoad;UMFECN;KIEOI;-1
+repairRoad;KGSAD;KIEOI;9
+988;NMKR
+getRouteDescription;638
+addRoad;KIEOI;UMFECN;0;-6
+getRouteDescription;174
+addRoad;UMFECN;GODD;2;-6
+848;KIEOI;7;-10;KIEOI;8;8;NMKR
+getRouteDescription;162
+568;GODD 
+959;UMFECN;0;-5;UMFECN
+ #repairRoad;KGSAD;NMKR;-3
+repairRoad;CFH;YHWOK;-1
+ #repa;irRoad;KIEOI;NMKR;6 
+936;KGSAD
+getRouteDescription;976
+addRoad;APG;APG;6;1 
+repairRoad;KIEOI;WAQA;-5 
+ getRouteDescription;908
+getRouteDescription;869
+; #getRouteDescription;333 
+getRouteDescription;845
+repairRoad;NMKR;KGSAD;-6
+531;NMKR;4;-6;LOGUR;0;-1;KIEOI
+627;NMKR
+getRo;uteDescription;589
+repairRoad;LOGUR;WAQA;6
+getRouteDescription;833
+addRoad;CFH;LOGUR;0;-6
+getRouteDescription;854
+repairRoad;YHWOK;APG;3
+#addRoad;YHWOK;WAQA;4;8 
+addRoad;KIEOI;KIEOI;9;4
+ getRouteDescription;720 
+addRoad;LOGUR;CFH;2;8
+addRoad;GODD;GODD;5;-3
+#915;LOGUR;7;9;UMFECN
+776;APG;9;3;LOGUR;9;-3;KIEOI
+768;NMKR
+ #getR;outeDescription;85 
+274;KGSAD;6;1;APG;0;5;GODD
+#getRouteDescription;848 
+getRouteDescription;533
+addRoad;LOGUR;UMFECN;4;3
+getRouteDescription;288
+400;APG
+ #getRouteDescription;157
+repairRoad;UMFECN;WAQA;-3
+getRouteDescription;468
+addR;oad;GODD;KGSAD;4;0
+ 113;UMFECN;2;3;NMKR
+repairRoad;GODD;KGSAD;5
+addRoad;LOGUR;APG;3;0
+repairRoad;UMFECN;WAQA;3
+ repairRoad;WAQA;CFH;1; 
+158;LOGUR
+ #452;KIEOI
+91;WAQA
+getRouteDescription;854
+; #getRouteDescription;797
+308;YHWOK;2;7;UMFECN
+addRoad;WAQA;YHWOK;9;6
+getRouteDescri;ption;127 
+repairRoad;LOGUR;GODD;7
+ repairRoad;GODD;GODD;0
+ getRouteDescriptio;n;484
+addRoad;KIEOI;KGSAD;6;2
+getRouteDescription;720
+616;KGSAD
+ #repairRoad;NMKR;WAQA;2
+addRoad;UMFECN;CFH;1;-7
+getRouteDescription;235
+addRoad;NMKR;KGSAD;3;-4
+repairRoad;YHWOK;LOGUR;-5
+addRoad;UMFECN;UMFECN;9;-7 
+getRouteDescription;243
+172;NMKR
+addRoad;NMKR;GODD;4;-4
+getRouteDescription;333
+getRouteDescription;113
+repairRoad;CFH;NMKR;3
+repairRoad;APG;UMFECN;-4
+18;KIEOI
+getRouteDescription;782
+repairRoad;LOGUR;KGSAD;-10
+repairRoad;UMFECN;GODD;1
+repairRoad;APG;NMKR;7
+ repairRoad;UMFE;CN;CFH;3
+getRouteDescription;974
+addRoad;CFH;LOGUR;6;6
+ repa;irRoad;NMKR;UMFECN;0
+repairRoad;KIEOI;APG;-8
+addRoad;WAQA;CFH;8;-5
+396;KIEOI;4;9;NMKR;1;6;CFH
+addRoad;NMKR;NMKR;3;2
+getRouteDescription;73 
+#getRouteDescription;904
+getRouteDescription;188
+getRouteDescription;904
+ g;etRouteDescription;854 
+repairRoad;GODD;KGSAD;-9
+580;CFH;2;6;NMKR
+ repairRoad;YHWOK;CFH;-6 
+563;YHWOK;8;0;UMFECN;7;-6;UMFECN
+getRouteDescription;76
+#addRo;ad;NMKR;NMKR;6;4 
+746;NMKR
+ addRoad;NMKR;KIEOI;7;1
+getRouteDescription;468
+addRoad;GODD;CFH;3;-4
+0;LOGUR;9;-1;WAQA;4;-1;GODD
+ 7;WAQA;6;-4;CFH 
+repairRoad;APG;LOGUR;-3
+252;APG
+getRouteDescription;468
+repairRoad;WAQA;NMKR;-5
+689;NMKR;1;9;APG
+getRouteDescription;425
+repairRoad;UMFECN;GODD;0
+#151;YHWOK
+repairRoad;WAQA;APG;2
+addRoad;CFH;WAQA;7;-6
+#800;;YHWOK;8;-1;GODD;5;1;APG
+920;LOGUR;2;4;YHWOK;4;7;UMFECN
+getRouteDescription;733
+0;YHWOK;4;5;KIEOI
+repairRoad;KGSAD;LOGUR;2
+#addRoad;CFH;NMKR;9;4
+repairRoad;YHWOK;LOGUR;1
+471;GODD
+getRouteDescription;302
+getRouteDescription;468
+addRoad;GODD;GODD;6;-6
+getRouteDescription;430
+ ;#getRouteDescription;657
+2;48;KGSAD;1;6;UMFECN
+#826;KGSAD;2;;0;APG;6;2;UMFECN
+repairRoad;UMFECN;APG;-10
+#getRouteDescription;528 
+#getRouteDescription;833 
+ ;#getRouteDescription;183 
+getRouteDescription;19
+getRouteDescription;0
+repairRoad;YHWOK;APG;7
+764;UMFECN
+addRoad;NMKR;KIEOI;7;-2
+repairRoad;CFH;UMFECN;2
+getRouteDescription;828
+getRou;teDescription;589
+getRouteDescription;733
+ #repairRoad;NMKR;LOGUR;-4 
+addRoad;KIEOI;WAQA;4;-5
+repairRoad;YHWOK;LOGUR;-2
+repairRoad;GODD;APG;1
+#addRoad;NMKR;CF;H;1;-9
+addRoad;UMFECN;WAQA;4;6
+ repairRoad;CFH;NMKR;2
+repairRoad;CFH;WAQA;-9
+7;84;UMFECN;9;-9;NMKR;9;-9;KIEOI
+293;GODD;6;-5;LOGUR
+addRoad;APG;WAQA;7;-8
+ #addRoad;NMKR;N;MKR;8;-8 
+getRouteDescription;745
+repairRoad;GODD;LOGUR;5
+149;CFH
+getRouteDescription;288
+ repairRoad;KIEOI;NMKR;7
+repairRoad;APG;YHWOK;-1
+getRouteDescription;976
+addRoad;UMFECN;KGSAD;2;-3
+getRouteDescription;809
+#339;KIEOI 
+#addRoad;WAQA;YHWO;K;0;7 
+repairRoad;UMFECN;APG;4
+26;YHWOK;7;9;LOGUR
+getRouteDescription;833
+getRouteDescription;513
+513;UMFECN;8;7;LOGUR
+repairRoad;CFH;LOGUR;-7 
+getRouteDescription;162
+repairRoad;YHWOK;KIEOI;3
+repairRoad;;KGSAD;WAQA;-3
+63;KIEOI;5;-2;CFH
+addRoad;GODD;UMFECN;5;1
+addRoad;CFH;WAQA;8;9
+repairRoad;APG;NMKR;-7
+432;KIEOI;8;-4;KIEOI
+963;CFH;8;8;KIEOI
+#repairRoad;KIEOI;LOGUR;-7
+627;CFH;6;8;APG;2;9;GODD
+336;WAQA
+ addRoad;NMKR;WAQA;0;-2
+repairRoad;UMFECN;UMFECN;1
+577;NMKR;9;9;YHWOK;7;8;APG
+repairRoad;APG;WAQA;-4
+642;WAQA;4;9;KGSAD
+addRoad;NMKR;CFH;6;1
+addRoad;APG;UMFECN;8;-1
+44;UMFECN
+addRoad;NMKR;APG;2;9
+addRoad;KGSAD;LOGUR;8;8
+getRouteDescription;904
+291;WAQA
+getRouteDescription;869
+;repairRoad;APG;KIEOI;-8 
+506;APG;5;9;WAQA;3;;8;NMKR 
+875;UMFECN;4;-5;LOGUR;9;-9;KIEOI
+repairRoad;YHWOK;LOGUR;4
+getRouteDescription;516
+repairRoad;UMFECN;LOGUR;1
+repairRoad;GODD;LOGUR;-10
+addRoad;NMKR;KGSAD;6;-9
+addRoad;UMFECN;CFH;2;6
+400;KIEOI
+343;APG;4;-4;;NMKR
+addRoad;APG;APG;2;-1
+#repairRoad;CFH;K;GSAD;7
+ ;addRoad;KGSAD;APG;8;9 
+getRouteDescription;883
+ ad;dRoad;YHWOK;APG;8;-10
+getRouteDescription;174
+repairRoad;GODD;APG;2
+addRoad;YHWOK;GODD;5;-8
+ #r;epairRoad;UMFECN;KIEOI;5
+addRoad;KGSAD;CFH;6;-6
+getRouteDescription;938
+addRoad;LOGUR;WAQA;2;0
+getRouteDescription;112
+getRouteDescription;0
+addRoad;YHWOK;LOGUR;4;4
+repairRoad;NMKR;LOGUR;-3
+getRouteDescription;745
+getRouteDescription;160
+578;GODD;0;-7;KIEOI
+addRoad;CFH;YHWOK;4;2
+ repairRoad;APG;NMKR;1
+ #660;UMFECN;2;8;NMKR
+#getRouteDescription;780
+448;LOGUR;6;-5;UMFECN;9;6;UMFECN
+repairRoad;UMFECN;CFH;-5
+772;NMKR;5;-3;APG
+602;WAQA
+65;YHWOK
+addRoad;NMKR;YHWOK;3;7
+addRoad;UMFECN;NMKR;6;9
+225;WAQA
+addRoad;APG;UMFECN;5;-8
+repairRoad;UMFECN;KIEOI;8
+repairRoad;GODD;WAQA;1
+#repairRoad;CFH;GODD;-8 
+#getRouteDescription;3;71
+#addRoad;GODD;UMFECN;9;1 
+#;getRouteDescription;423 
+getRouteDescription;8;69 
+871;NMKR;9;4;NMKR
+repairRoad;APG;APG;5
+addRoad;NMKR;UMFECN;1;9
+#447;APG;9;9;KGSAD;4;9;WAQA
+repairRoad;KIEOI;WAQA;1
+846;APG;5;5;LOGUR;6;8;KGSAD
+repairRoad;UMFECN;YHWOK;1
+getRouteDescription;908
+961;APG;3;7;APG;1;5;UMFECN
+getRouteDescription;333
+addRoad;KGSAD;CFH;3;8
+ #repairRoad;APG;LOGUR;2 
+0;GODD;0;9;APG;;3;4;NMKR 
+ #getRouteDescription;901 
+repairRoad;APG;WAQA;0
+getRouteDescription;904
+repairRoad;GODD;WAQA;8
+addRoad;KGSAD;YHWOK;4;-10
+getRouteDescription;383 
+getRouteDescription;203
+#repairRoad;APG;LOGUR;-10
+310;YHWOK
+ getRouteDescription;;479 
+addRoad;CFH;KIEOI;4;-10
+846;WAQA;3;-10;KIEOI;3;2;NMKR
+addRoad;NMKR;WAQA;7;-7
+ repai;rRoad;LOGUR;LOGUR;7 
+repairRoad;YHWOK;APG;3
+ #repair;Road;KIEOI;YHWOK;0
+repairRoad;CFH;KGSAD;0
+addRoad;LOGUR;KGSAD;8;8
+ ;370;NMKR
+102;CFH;6;-5;KIEOI;1;8;UMFECN
+ getRouteDescription;202
+#addRoad;KGSAD;;CFH;8;6 
+addRoad;LOGUR;UMFECN;6;-7
+266;KIEOI;6;6;GODD
+repairRoad;NMKR;YHWOK;-6
+addRoad;YHWOK;KGSAD;6;-5
+repairRoad;WAQA;KIEOI;5
+#addR;oad;CFH;YHWOK;3;2
+97;YHWOK
+addRoad;WAQA;NMKR;7;-2
+addRoad;NMKR;KIEOI;7;-5
+ #212;APG 
+addRoad;GODD;APG;7;-10
+553;NMKR;2;5;KGSAD
+repairRoad;KGSAD;NMKR;2
+getRouteDescription;90
+getRouteDescription;412
+618;NMKR;1;6;CFH
+ #403;WAQA;4;3;KIEOI;6;7;NMKR
+repairRoad;GODD;CFH;-6
+repairRoad;CFH;APG;-7
+repairRoad;APG;LOGUR;5
+ getRouteDescription;158 
+addRoad;NMKR;GODD;4;8
+543;NMKR;0;-10;KGSAD
+getRouteDescription;776
+getRouteDescription;18
+addRoad;APG;CFH;9;-2
+; repairRoad;APG;KIEOI;3 
+repairRoad;UMFECN;YHWOK;-1 
+getRouteDescription;174
+repairRoad;CFH;APG;-10
+addRoad;APG;APG;6;-10
+getRouteDescription;203
+808;KGSAD;3;-1;KGSAD
+repairRoad;CFH;APG;8
+getRouteDescription;890
+ repairRoad;LOGUR;YHWOK;2 
+910;WAQA;5;-3;WAQA;6;9;APG
+825;GODD;0;5;LOGUR;1;9;NMKR
+addRoad;YHWOK;WAQA;3;-9
+getRouteDescription;516
+repairRoad;KIEOI;WAQA;-9
+#addRoad;KGS;AD;KGSAD;7;3 
+addRoad;APG;WAQA;4;-7
+585;A;PG;7;-7;WAQA;6;-10;NMKR
+433;APG;5;8;UMFECN
+addRoad;WAQA;KIEOI;0;4
+getRouteDescription;901
+addRoad;APG;KGSAD;3;5
+909;KIEOI;5;-2;UMFECN
+getRouteDescription;123
+getRouteDescription;974
+addRoad;GODD;UMFECN;4;-3
+#re;pairRoad;LOGUR;KGSAD;8
+ addRoad;APG;WAQA;9;-5 
+addRoad;NMKR;YHWOK;4;0
+533;UMFECN;1;8;NMKR;8;-3;GODD
+addRoad;GODD;GODD;6;-1
+repairRoad;KGSAD;UMFECN;-8
+ ;repairRoad;GODD;APG;2
+937;GODD;3;9;YHWOK
+repairRoad;LOGUR;LOGUR;8
+addRoad;CFH;KGSAD;3;0
+repairRoad;KGSAD;WAQA;-6 
+4;GODD
+repairRoad;KGSAD;WAQA;1
+getRouteDescription;745
+addRoad;NMKR;NMKR;1;-5
+addRoad;LOGUR;Y;HWOK;0;-10
+repairRoad;NMKR;LOGUR;-9
+getRouteDescription;76
+repairRoad;NMKR;GODD;-6
+736;KIEOI
+repairRoad;NMKR;;GODD;7
+repairRoad;GODD;YHWOK;3
+addRoad;NMKR;APG;4;-5
+#addRoad;WAQA;YHWOK;7;-9
+repairRoad;NMKR;GODD;-8
+258;UMFECN;2;8;NMKR;3;8;WAQA
+getRouteDescription;908
+repairRoad;KGSAD;YHWOK;-9
+getRouteDescription;608
+repairRoad;UMFECN;NMKR;-8; 
+385;WAQA;4;0;KIEOI;4;0;GODD
+ #addRoad;YHWOK;WAQA;4;8
+addRoad;WAQA;LOGUR;9;-3
+addRoad;GODD;KIEOI;5;-10
+22;GODD
+getRouteDe;scription;694
+#addRoa;d;KIEOI;WAQA;1;0 
+repairRoad;KGSAD;LOGUR;0
+getRouteDescription;435
+repairRoad;NMKR;LOGUR;-9
+ getRouteDescription;245
+ 749;GODD;5;-3;WAQA;4;-1;LOGUR 
+addRoad;APG;UMFECN;8;1
+addRoad;KIEOI;LOGUR;4;3
+ repairRoad;KIEOI;APG;-2
+getRouteDescription;563
+ #909;KGSAD
+repairRoad;KGSAD;CFH;2
+855;UMFECN
+repairRoad;YHWOK;LOGUR;1
+933;KGSAD;7;4;YHWOK;5;4;APG 
+; #repairRoad;KIEOI;KGSAD;-7
+ repairRoad;UM;FECN;WAQA;-3 
+repairRoad;KIEOI;LOGUR;4
+getRouteDescription;675
+ #addRoad;UMFECN;UMFECN;4;-6
+getRouteDescription;351
+ g;etRouteDescription;908 
+addRoad;UMFECN;YHWOK;7;-2
+ #getRouteDescription;;495
+ repairRoad;GODD;APG;8
+addRoad;KIEOI;LOGUR;9;-8
+getRouteDescription;162
+getRouteDescription;322
+repairRoad;UMFECN;NMKR;-5
+#addRoad;YHWOK;YHWOK;2;-1 
+addRoad;WAQA;KIEOI;1;-5
+ 266;NMKR
+repairRoad;KGSAD;LOGUR;-9
+getRouteDescription;918
+repairRoad;APG;CFH;-6
+repairRoad;CFH;YHWOK;-10
+repairRoad;KGSAD;NMKR;-6
+0;KIEOI;7;9;LOGUR;7;-1;NMKR
+repairRoad;APG;KIEOI;-10
+addRoad;KIEOI;LOGUR;5;;-9
+ #getRouteDescription;4;68
+addRoad;UMFECN;WAQA;0;-1
+addRoad;NMKR;KIEOI;2;-3
+#repairRoad;UMFECN;KIEOI;7 
+ #getRouteDescription;;915
+repairRoad;YHWOK;CFH;-1
+ #addRoad;KIEOI;CFH;0;8
+repairRoad;KGSAD;LOGUR;2
+676;GODD;3;-9;WAQA;3;8;LOGUR
+#addRoad;WAQA;KGSAD;0;7 
+#addRoad;YHWOK;KIEOI;7;6
+927;WAQA
+getRouteDescription;218
+repairRoad;UMFECN;YHWOK;-1
+ repairRoad;;NMKR;KGSAD;-3
+addRoad;LOGUR;YHWOK;7;2
+#220;KIEO;I;4;9;YHWOK
+0;KIEOI
+addRoad;KIEOI;KGSAD;6;3
+repairRoad;KGSAD;YHWOK;5
+repairRoad;CFH;KIEOI;0
+getRouteDescription;435
+addRoad;NMKR;NMKR;1;8
+repairRoad;GODD;APG;5
+repairRoad;NMKR;NMKR;9
+getRouteDescription;387
+getRouteDescription;746
+addRoad;CFH;APG;5;8
+addRoad;KIEOI;APG;8;-4
+addRoad;UMFECN;APG;0;6
+repairRoad;APG;NMKR;1
+addRoad;YHWOK;WAQA;0;-1
+123;UMFECN;5;6;KIEOI;4;-5;CFH
+repairRoad;UMFECN;LOGUR;4
+addRoad;YHWOK;YHWOK;2;5
+627;;WAQA
+addRoad;UMFECN;KGSAD;7;8
+getRouteDescription;448
+getRouteDescription;828
+ 677;WAQA;3;4;GODD;2;-4;KGSAD 
+addRoad;YHWOK;WAQA;8;-7
+getRouteDescription;904
+addRoad;APG;CFH;5;-5
+repairRoad;WAQA;NMKR;-5
+addRoad;LOGUR;UMFECN;7;6
+addRoad;CFH;UMFECN;9;2
+#564;AP;G
+getRouteDescription;748
+ addRoad;KIEOI;UMFECN;;6;2 
+#addRoad;KIEOI;YHWOK;3;7
+addRoad;WAQA;KGSAD;9;-8
+ #813;KGSAD 
+getRouteDescription;605
+getRouteDescription;269
+getRouteDescription;244
+getRouteDescription;915
+addRoad;KIEOI;UMFECN;8;8
+repairRoad;NMKR;YHWOK;0
+ 293;APG;;7;3;KGSAD
+getRouteDescripti;on;322
+getRouteDescription;863
+getRouteDescription;618
+850;NMKR;7;3;GODD;7;-9;NMKR
+ #getRouteDescription;585
+88;KIEOI;3;-9;YHWOK
+getRouteDescription;309
+addRoad;KIEOI;KIEOI;8;3
+getRouteDescription;627
+repairRoad;KGSAD;WAQA;-9
+addRoad;KGSAD;YHWOK;3;3
+ #repairRoad;YHWOK;NMKR;-;6
+addRoad;KIEOI;YHWOK;5;-9
+161;KIEOI
+ 772;YHWOK;4;-7;APG;8;3;LOGUR 
+repairRoad;APG;KIEOI;-10
+getRouteDescription;322
+addRoad;WAQA;GODD;5;0
+getRouteDescription;322
+getRouteDescription;304
+getRouteDescription;88
+getRouteDescription;188
+getRouteDescription;116
+repairRoad;CFH;YHWOK;-5
+repairRoad;CFH;KIEOI;-3
+397;YHWOK;4;9;KIEOI
+repairRoad;CFH;YHWOK;0
+addRoad;UMFECN;APG;6;8
+174;LOGUR;4;7;CFH
+462;UMFECN;7;9;LOGUR;5;9;KGSAD
+getRo;uteDescription;354
+407;KGSAD
+getRouteDescription;203
+addRoad;APG;NMKR;5;-8
+434;GODD;2;9;CFH;5;9;WAQA
+repairRoad;GODD;KIEOI;4
+853;APG;5;0;GODD
+ #262;UMFECN;;2;8;NMKR 
+getRou;teDescription;355
+57;KIEOI
+ 704;NMKR;8;6;WAQA;1;-3;GODD
+getRouteDescription;34
+repairRoad;KGSAD;LOGUR;4
+getRouteDescription;896
+addRoad;UMFECN;KGSAD;5;-2
+repairRoad;GODD;YHWOK;6
+repairRoad;CFH;UMFECN;3
+ #repairRoad;NMKR;GODD;6 
+repairRoad;KIEOI;LOGUR;0
+getRouteDescription;350
+ #getRout;eDescription;848 
+repairRoad;GODD;WAQA;-5
+386;KGSAD;0;-9;CFH
+792;NMKR;3;8;WAQA
+getRouteDescription;159
+repairRoad;KIEOI;APG;-9
+490;WAQA
+#addRoad;LOGUR;LOGUR;3;7 
+81;GODD
+addRoad;UMFECN;KGSAD;2;5
+addRoad;WAQA;LOGUR;5;9
+repairRoad;KGSAD;APG;-4
+528;NMKR;3;8;WAQA;9;8;GODD
+getRouteDescription;701
+get;RouteDescription;797 
+getRouteDescription;430
+repairRoad;KGSAD;YHWOK;-3
+getRouteDescription;914
+ addRoad;KGSAD;KIEOI;7;-4 
+repairRoad;YHWOK;LOGUR;-3
+#addRo;ad;WAQA;UMFECN;0;-10 
+add;Road;GODD;WAQA;7;9 
+getRouteDescription;961
+repairRoad;KIEOI;NMKR;-7
+178;CFH;2;7;KIEOI
+repairRoad;UMFECN;KIEOI;3
+addRoad;GODD;KIEOI;1;-10
+getRouteDescription;183
+getRouteDescription;858
+repairRoad;YHWOK;KIEOI;5
+addRoad;APG;APG;5;-9
+getRouteDesc;ription;393
+ repairRoad;GODD;CFH;;-5
+addRoad;APG;LOGUR;4;-3
+addRoad;NMKR;WAQA;9;3
+#getRouteDescription;425
+getRouteDescription;234
+repairRoad;UMFECN;GODD;9
+getRouteDescription;643
+0;NMKR
+117;KIEOI
+ #repairRoad;KGSAD;YHWOK;-10 
+403;UMFECN;3;-7;GODD;0;-4;GODD
+repairRoad;WAQA;KIEOI;5
+getRouteDescription;155
+addRoad;YHWOK;YHWOK;6;-8
+getRouteDescription;606
+getRouteDescription;533
+repairRoad;NMKR;APG;3 
+817;YHWOK;4;0;NMKR
+getRouteDescription;577
+repairRoad;CFH;KIEOI;-10
+ #getR;outeDescription;32 
+getRouteDescription;462 
+382;KGSAD;9;0;YHWOK
+474;GODD;5;8;LOGUR
+getRouteDescription;262 
+addRoad;KGSAD;GODD;5;-7
+getRouteDescription;942
+repairRoad;LOGUR;CFH;;1
+getRouteDescription;162
+getRouteDescription;174
+354;LOGUR;5;9;KGSAD;6;9;GODD
+getRouteDescription;399
+#getRouteD;escription;778 
+getRouteDescription;898
+ getRou;teDescription;898 
+repairRoad;YHWOK;WAQA;-9
+ #getRouteDesc;ription;193 
+ repairRoad;APG;WAQA;-10 
+addRoad;APG;CFH;4;-3
+getRouteDescription;883
+getRouteD;escription;174 
+getRouteDescription;123
+ #addRoad;LOGUR;YHWOK;4;;-2
+repairRoad;UMFECN;KIEOI;6 
+addRoad;KIEOI;KGSAD;8;1
+743;GODD
+repairRoad;LOGUR;CFH;1
+repairRo;ad;GODD;KGSAD;-1
+448;KGSAD;7;2;KIEOI;7;5;WAQA
+getRouteDescription;202
+ addRoad;NMKR;APG;1;7 
+245;APG;1;-5;KGSAD
+repairRoad;KGSAD;UMFECN;8
+repairRoad;UMFECN;WAQA;-1
+649;CFH;0;-5;KGSAD
+#0;KIEOI;3;-1;0;WAQA
+getRouteDescription;123
+487;CFH;1;6;KGSAD;2;-8;KGSAD
+repairRoad;CFH;YHWOK;5
+getRouteDescription;516
+getRouteDescription;857
+repairRoad;KGSAD;APG;8
+repairRoad;GODD;KIEOI;-10
+ getRouteDescr;iption;734 
+ #getRouteDesc;ription;945 
+0;KIEOI;4;-9;APG;3;-1;CFH
+ #7;47;WAQA;2;-8;CFH 
+repairRoad;UMFECN;YHWOK;1
+addRoad;UMFECN;CFH;3;7
+342;CFH;9;-8;KGSAD
+repairRoad;KIEOI;CFH;3
+ #getRouteDe;scription;529
+274;;YHWOK;4;3;LOGUR 
+ #addRoad;WAQA;WAQA;8;9 
+getRouteDescription;589
+; #getRouteDescription;513 
+10;KIEOI;4;-2;GODD
+#getRouteDescription;746 
+repairRoad;GODD;UMFECN;-6
+getRouteDescription;63
+633;GODD
+repairRoad;UMFECN;APG;6
+repairRoad;KGSAD;GODD;-2
+#repa;irRoad;UMFECN;APG;-1 
+948;CFH
+getRouteDescription;288
+848;LOGUR
+#addRoad;APG;NMKR;;9;1 
+repairRoad;UMFECN;NMKR;-6
+; #getRouteDescription;113
+addRoad;KGSAD;KIEOI;4;-9
+740;KGSAD;8;-9;APG;0;4;KIEOI
+ 191;;NMKR;8;9;GODD
+738;UMFECN;8;9;CFH;9;9;LOGUR
+ge;tRouteDescription;951
+0;LOGUR;7;3;KIEOI;8;2;KIEOI
+273;CFH;1;6;NMKR;9;9;KGSAD
+addRoad;KIEOI;KGSAD;9;4
+ #getRouteD;escription;834 
+getRouteDescription;896
+repairRoad;APG;UMFECN;-2
+addRoad;CFH;LOGUR;8;7
+addRoad;WAQA;APG;0;6
+addRoad;LOGUR;KGSAD;5;-10
+671;YHWOK
+addRoad;CFH;UMFECN;9;6
+getRouteDescription;425
+addRoad;APG;GODD;0;-9
+363;KGSAD
+getRouteDescription;262
+repairRoad;LOGUR;NMKR;7
+addRoad;GODD;KIEOI;7;3
+repairRoad;GODD;KIEOI;2
+getRouteDescription;548
+addRoad;YHWOK;APG;3;-3
+addRoad;NMKR;YHWOK;4;-5
+784;LOGUR;2;-6;NMKR;6;1;YHWOK
+repairRoad;YHWOK;KIEOI;5
+getRouteDescription;292
+ 488;YHWOK;8;-6;YHWOK
+addRoad;YHWOK;YHWOK;7;-3
+ 23;1;WAQA 
+ #getRouteDescription;806
+repairRoad;CFH;YHWOK;-4
+getRouteDescription;347
+getRouteDescription;304
+433;KIEOI;9;-10;YHWOK
+getRouteDescription;118
+getRouteDescription;174
+112;KIEOI;9;9;UMFECN;0;-9;LOGUR
+getRouteDescription;258
+ addRoad;APG;;NMKR;2;-8 
+getRouteDescription;548
+addRoad;APG;LOGUR;1;5
+repairRoad;GODD;APG;-7
+513;YHWOK
+#getRouteDescription;76
+repairRoad;CFH;YHWOK;-10
+repairRoad;KGSAD;YHWOK;7
+repairRoad;UMFECN;NMKR;9
+repairRoad;GODD;GODD;-10
+getRouteDescription;188
+#repairRoad;UMFECN;YHWOK;8 
+#repa;irRoad;YHWOK;UMFECN;0
+727;YHWOK;2;8;LOGUR;9;8;APG
+getRouteDescription;504
+addRoad;YHWOK;WAQA;6;-7
+ #addRoad;APG;YHWOK;7;-7 
+getRouteDescription;799
+getRouteDescription;998
+repairRoad;APG;LOGUR;7
+addRoad;APG;WAQA;8;9
+#0;NMKR;8;6;G;ODD;1;-7;KGSAD 
+getRouteDescription;901
+repairRoad;CFH;NMKR;-2
+ #addRoad;NMKR;KIEOI;3;-7 
+addRoad;NMKR;GODD;1;-4
+getRouteDescription;243
+addRoad;APG;YHWOK;6;8
+getRouteDescription;856
+getRouteDescription;127
+repairRoad;APG;NMKR;5
+addRoad;UMFECN;CFH;6;-8
+ #getRouteDescription;474 
+repairRoad;YHWOK;GODD;0
+getRouteDescription;660
+addRoad;NMKR;WAQA;2;-3
+ getRouteDescription;938 
+addRoad;NMKR;UMFECN;0;-1
+repairRoad;CFH;YHWOK;-5
+ #getRoute;Description;854 
+addRoad;LOGUR;YHWOK;3;1
+repairRoad;YHWOK;GODD;-1
+repairRoad;YHWOK;APG;-1
+addRoad;APG;APG;0;6
+getRouteDescription;322
+repairRoad;KIEOI;NMKR;7
+296;WAQA;4;-1;UMFECN;3;-5;UMFECN
+getRouteDescription;245
+344;KGSAD;4;1;YHWOK
+72;KGSAD;3;5;WAQA
+ #addRoad;APG;YHWOK;0;-5 
+191;NMKR 
+316;NMKR
+ a;ddRoad;WAQA;APG;4;-10
+addRoad;APG;APG;8;6
+repairRoad;KGSAD;APG;5
+614;YHWOK
+754;WAQA;9;8;GODD;2;8;KIEOI
+repairRoad;YHWOK;UMFECN;8
+getRouteDescription;339
+getRoute;Description;172 
+ #repairRoad;YHWOK;LOGUR;5 
+repairRoad;CFH;NMKR;-4
+repairRoad;LOGUR;NMKR;-10
+845;WAQA;3;-5;UMFECN;7;8;NMKR
+218;APG;1;9;NMKR
+ 835;NMKR 
+#repairR;oad;CFH;WAQA;-3 
+getRouteDescription;533
+221;YHWOK;9;9;NMKR;2;9;UMFECN
+497;UMFECN
+793;APG;6;8;NMKR;7;1;YHWOK
+ getRouteDescription;854 
+getRouteDescription;720
+#getRo;uteDescription;898
+199;APG;5;9;WAQA
+addRoad;YHWOK;KGSAD;2;0
+608;LOGUR;4;5;CFH;7;-1;WAQA
+150;GODD
+#addRoad;KGSAD;G;ODD;7;7
+addRoad;KIEOI;LOGUR;2;-5
+getRouteDescription;220
+getRouteDescription;123
+addRoad;CFH;KGSAD;1;8
+repairRoad;KIEOI;KIEOI;4 
+ 715;UMFECN;7;9;CFH
+getRouteDescription;902
+5;KGSAD;1;3;NMKR;2;0;GODD
+repairRoad;GODD;APG;-7 
+getRouteDescription;985
+addRoad;KGSAD;CFH;0;-8
+354;CFH;4;-4;UMFECN;7;-1;CFH
+getRouteDescription;425
+ getRou;teDescription;76
+addRoad;LOGUR;KIEOI;9;0
+513;KIEOI;7;-9;GODD
+getRouteDescription;856
+804;NMKR
+getRouteDescription;433
+addRoad;APG;APG;5;3
+getRouteDescription;63
+#getRouteDescripti;on;816 
+94;UMFECN;8;-5;NMKR;2;2;GODD
+repairRoad;NMKR;YHWOK;0
+ addRoad;CFH;GODD;7;-2 
+repairRoad;YHWOK;LOGUR;2
+9;NMKR;9;9;YHWOK;4;9;KGSAD
+532;NMKR;0;1;KGSAD;0;-10;KGSAD
+562;APG
+getRouteDescription;896 
+#addRoad;APG;KIEOI;3;-4 
+addRoad;KIEOI;WAQA;2;7
+ repairRoad;WAQA;;UMFECN;6
+getRouteDescription;210
+addRoad;CFH;YHWOK;5;0
+getRouteDescription;50
+791;YHWOK;4;-7;LOGUR;5;1;LOGUR
+repairRoad;NMKR;APG;5
+repairRoad;NMKR;YHWOK;4
+#addRoad;LOGUR;C;FH;1;1
+503;KGSAD;4;9;NMKR
+getRouteDescription;904
+getRouteDescription;521
+addRoad;NMKR;A;PG;9;-4 
+repairRoad;KIEOI;YHWOK;-4
+repairRoad;KIEOI;LOGUR;2
+getRouteDescription;397
+repairRoad;NMKR;APG;6
+739;KIEOI
+addRoad;KIEOI;YHWOK;6;9
+repairRoad;KIEOI;KGSAD;-3
+repairRoad;KGSAD;LOGUR;-7
+getRouteDescription;63
+repairRoad;NMKR;YHWOK;6 
+889;APG;9;8;KIEOI
+#848;YHWOK;7;-3;APG;3;-1;CFH 
+getRouteDescription;703
+addRoad;WAQA;NMKR;7;-1
+repairRoad;GODD;CFH;-5
+getRouteDescription;716
+getRouteDescription;245
+ getRouteDescription;;528 
+512;APG;2;-8;KGSAD
+getRouteDescription;510
+addRoad;KGSAD;CFH;0;-4
+repairRoad;APG;;KGSAD;-6
+619;NMKR
+getRouteDescription;938
+repairRoad;APG;APG;8
+42;YHWOK;2;8;LOGUR;7;9;UMFECN
+ addRoad;CFH;YHWOK;3;-2
+repairRoad;NMKR;KGSAD;;8 
+14;LOGUR;5;9;WAQA
+addRoad;LOGUR;CFH;1;2
+repairRoad;KIEOI;LOGUR;0
+addRoad;LOGUR;APG;6;-8
+getRouteDescription;543
+ 976;KIEOI;1;;3;WAQA;3;8;GODD
+repairRoad;UMFECN;YHWOK;1
+getRouteDescription;30
+getRouteDescription;342
+repairRoad;KIEOI;YHWOK;1
+#125;UMFECN
+addRoad;APG;APG;8;7
+addRoad;LOGUR;UMFECN;2;8
+283;YHWOK
+addRoad;CFH;APG;7;-2
+addRoad;YHWOK;APG;2;-5
+addRoad;GODD;UMFECN;9;7
+500;WAQA;0;1;APG;5;-4;NMKR
+671;LOGUR;5;9;KGSAD
+addRoad;KGSAD;LOGUR;2;-2
+#repairRoad;APG;;LOGUR;1
+getRouteDescription;363
+repairRoad;CFH;WAQA;-4
+ #671;WAQA;6;9;APG 
+296;YHWOK
+repairRoad;KGSAD;KIEOI;-2
+788;NMKR;3;8;WAQA;5;8;UMFECN
+900;KIEOI;0;-7;WAQA
+435;LOGUR;3;2;KGSAD
+repairRoad;KIEOI;CFH;8
+addRoad;GODD;UMFECN;6;-3
+addRoad;WAQA;NMKR;5;3
+addRoad;LOGUR;YHWOK;3;0
+repairRoad;CFH;YHW;OK;7 
+#getRouteDe;scription;304
+855;;CFH;6;8;APG;9;8;LOGUR
+537;WAQA;2;7;;WAQA;0;6;KGSAD 
+repairRoad;KGSAD;NMKR;3
+addRoad;NMKR;UMFECN;8;-2
+repairRoad;NMKR;YHWOK;4
+repairRoad;UMFECN;YHWOK;-1
+addRoad;LOGUR;GODD;8;-10
+repairRoad;KIEOI;YHWOK;-3
+172;LOGUR;9;-4;CFH;3;-5;YHWOK
+addRoad;WAQA;GODD;8;-5
+getRouteDescription;746
+ addRoad;LOGUR;APG;9;-5
+getRouteDescription;714
+80;YHWOK
+ #641;LOGUR;;5;9;WAQA 
+getRouteDescription;510
+517;KIEOI;6;7;LOGUR;2;8;YHWOK
+repairRoad;LOGUR;LOGUR;2
+ addRoad;UM;FECN;WAQA;6;-5
+repairRoad;CFH;WAQA;-4
+addRoad;WAQA;APG;2;7
+getRouteDescription;901
+addRoad;KIEOI;CFH;7;-3
+81;GODD
+790;NMKR;9;-7;LOGUR;9;-3;KIEOI
+addRoad;WAQA;CFH;1;-2
+474;KGSAD;2;-6;WAQA;9;-7;YHWOK
+repairRoad;APG;KIEOI;-4
+repairRoad;KIEOI;NMKR;4
+123;GODD;7;2;GODD;9;-10;CFH
+206;;YHWOK;4;2;YHWOK;0;4;KGSAD
+956;GODD;5;5;KGSAD;9;-3;YHWOK
+repairRoad;CFH;YHWOK;-9
+700;APG;9;-4;APG;7;-6;YHWOK
+#addRoad;NMKR;WAQA;2;-7
+repairRoad;YHWOK;LOGUR;-4
+getRouteDescription;304
+getRouteDescription;733
+addRoad;KIEOI;NMKR;2;4
+0;KIEOI
+757;CFH
+getRouteD;escription;89 
+getRouteDescription;937
+repairRoad;YHWOK;LOGUR;4
+repairRoad;YHWOK;LOGUR;0
+repairRoad;APG;NMKR;-4
+getRouteDescription;424
+addRoad;CFH;LOGUR;9;6
+getRouteDescription;363
+addRoad;YHWOK;CFH;1;8
+addRoad;GODD;LOGUR;8;8
+229;LOGUR;7;9;UMFECN;2;9;KIEOI
+ repairRoad;KGSAD;YHWOK;-1
+repairRoad;KIEOI;NMKR;-10
+addRoad;GODD;GODD;5;-8
+675;YHWOK;1;-5;KIEOI
+addRoad;LOGUR;KIEOI;9;3
+getRouteDescription;208
+repairRoad;UMFECN;NMKR;3
+repairRoad;KIEOI;WAQA;;-10
+914;LOGUR;1;-6;NMKR;3;0;GODD 
+ 267;YHWOK;6;-5;KIEOI
+ #getRouteDescription;343
+ #getRouteDescriptio;n;260
+repairRoad;GODD;KGSAD;-9
+ getRouteDescription;901
+repairRoad;APG;LOGUR;4
+addRoad;CFH;KGSAD;6;-9
+#626;KIEOI;5;0;WAQA
+repairRoad;UMFECN;CFH;-1
+772;GODD;9;1;YHWOK;9;-6;GODD
+#ad;dRoad;KGSAD;NMKR;7;0
+ #88;KGSAD;6;5;APG;0;-3;APG 
+getRouteDescription;534
+addRoad;APG;LOGUR;8;8
+repairRoad;UMFECN;GODD;9
+repairRoad;GODD;NMKR;-3
+getRouteDescription;869
+65;UMFECN;7;9;LOGUR
+repairRoad;YHWOK;LOGUR;6
+ad;dRoad;KGSAD;GODD;7;9
+191;KIEOI
+repairRoad;KGSAD;WAQA;-8
+addRoad;GODD;WAQA;2;-5
+addRoad;KGSAD;WAQA;0;2
+addRoad;LOGUR;NMKR;0;1
+#r;epairRoad;APG;NMKR;-10 
+585;APG;9;-10;CFH
+474;APG;6;-6;NMKR;7;4;APG
+addRoad;KGSAD;APG;1;-10
+ #getRouteDescription;548 
+getRouteDescription;428
+repairRoad;GODD;KIEOI;4
+ ge;tRouteDescription;158
+addRoad;CFH;KIEOI;5;9 
+repairRoad;LOGUR;APG;-3
+797;UMFECN
+getRouteDescription;14
+#867;YHWOK;6;-6;LOGUR;1;2;LOG;UR
+#ad;dRoad;NMKR;KGSAD;1;0 
+#repairRoad;WAQA;NMKR;0 
+repairRoad;LOGUR;LOGUR;8
+109;LOGUR
+601;WAQA;0;-2;UMFECN;8;0;APG
+repairRoad;CFH;LOGUR;9
+addRoad;UMFECN;CFH;1;7
+#addRoad;KGSAD;UMFECN;5;-8
+#getRouteDescription;425 
+ #repairRoad;APG;CFH;4 
+245;LOGUR;8;-8;UMFECN;9;-7;YHWOK
+getRouteDescription;506
+addRoad;KGSAD;NMKR;6;6
+getRouteDescription;573
+236;UMFECN
+9;KGSAD;0;3;KIEOI
+115;WAQA;6;-7;NMKR;1;3;CFH
+addRoad;GODD;WAQA;8;6
+addRoad;LOGUR;KIEOI;1;4
+ #249;NMKR;2;-7;WAQA
+addRoad;YHWOK;KIEOI;0;-6
+repairRoad;CFH;KGSAD;1
+671;NMKR;6;-10;GODD;9;-1;UMFECN
+repairRoad;UMFECN;KIEOI;-3
+getRouteDescription;396
+addRoad;NMKR;WAQA;9;-1
+addRoad;GO;DD;APG;0;-10
+addRoad;KGSAD;KIEOI;9;-10
+repairRoad;APG;YHWOK;-7
+getRouteDescription;787
+repairRoad;GODD;CFH;3
+repairRoad;KIEOI;LOGUR;-8
+addRoad;UMFECN;GODD;1;2
+addRoad;CFH;APG;9;8
+repairRoad;CFH;WAQA;-10
+#ge;tRouteDescription;828
+repairRoad;KIEOI;WAQA;7
+repairRoad;KGSAD;NMKR;-8
+getRouteDescription;673 
+getRouteDescription;474
+ #636;KIEOI
+addRoad;KIEOI;GODD;1;-8
+getRouteDescription;581
+ 709;KGSAD;1;-10;CFH
+ #repairRoad;GODD;LOGUR;;0
+repairRoad;WAQA;KGSAD;-9
+getRouteDescription;701
+getRouteDescription;221
+repairRoad;KGSAD;CFH;6
+0;GODD;5;7;WAQA;4;-1;YHWOK
+218;KIEOI;4;-9;YHWOK
+#;repairRoad;YHWOK;LOGUR;-1 
+getRouteDescription;898
+ 967;UMFECN;2;9;K;IEOI
+getRouteDescription;322
+ 506;CFH;2;0;WAQA
+addRoad;YHWOK;NMKR;2;-7
+getRouteDescription;524
+getRouteDescription;639
+getRouteDescription;661
+addRoad;KGSAD;WAQA;4;-10
+getRouteDescription;908
+addRoad;KIEOI;LOGUR;2;4
+addRoad;KGSAD;LOGUR;1;2
+ 0;YHWOK;7;-6;UMFECN;3;6;CFH 
+getRouteDescription;71
+ #repairRo;ad;UMFECN;WAQA;-5 
+getRouteDescription;701
+ repairRoad;KIEOI;KGSAD;8; 
+ #addRoad;GODD;KGSAD;4;-10 
+repairRoad;UMFECN;GODD;-7
+r;epairRoad;KGSAD;YHWOK;4
+#314;GODD;4;0;KGSAD 
+#260;;YHWOK
+384;YHWOK
+858;WAQA;0;-3;KIEOI;5;4;NMKR
+repairRoad;KGSAD;CFH;0
+ #addRoad;GODD;YHWOK;2;-10 
+ repairRoad;;CFH;LOGUR;9 
+getRouteDescription;102
+addRoad;NMKR;WAQA;8;8
+addRoad;UMFECN;GODD;4;0
+addRoad;GODD;NMKR;0;-4
+addRoad;LOGUR;WAQA;1;-2
+335;NMKR;4;9;KIEOI
+ #94;;KGSAD;2;5;GODD;1;3;APG
+getRouteDescription;353
+getRouteDescription;700
+ #addRoad;KIEOI;UMFECN;7;8
+getRouteDescription;130
+ addRoad;KGSAD;UMFECN;5;-10
+getRouteDescription;657
+320;NMKR
+getRouteDescription;506
+#393;;UMFECN;2;1;NMKR 
+#addRoad;LOGUR;KIEO;I;2;0
+repairRoad;KIEOI;KIEOI;0
+getRouteDescription;42
+ #rep;airRoad;WAQA;NMKR;8 
+addRoad;KGSAD;APG;8;0
+858;NMKR;5;4;UMFECN
+#addRoad;KIEOI;KIEOI;0;;9 
+0;NMKR;5;-7;GODD;4;-1;APG
+addRoad;YHWOK;KGSAD;7;0
+repairRoad;GODD;APG;-9
+ 561;A;PG
+repairRoad;KIEOI;NMKR;9
+getRouteDescription;229
+717;WAQA;6;-9;NMKR
+getRouteDescription;502
+938;UMFECN;5;-2;KGSAD
+addRoad;YHWOK;WAQA;9;-3
+#188;CFH
+addRoad;APG;NMKR;8;-2
+addRoad;YHWOK;LOGUR;8;5
+ #repairRoad;CFH;YHWOK;2
+631;WAQA;9;5;WAQA
+getRouteDescription;35
+repairRoad;APG;GODD;-1
+82;KGSAD;0;1;KGSAD
+addRoad;LOGUR;KIEOI;7;6
+ getRouteDescription;433
+694;YHWOK;0;7;YHWOK
+#6;89;UMFECN;1;-9;GODD;2;-4;CFH 
+repairRoad;GODD;YHWOK;5
+getRouteDescription;879
+128;GODD;2;-4;LOGUR
+217;YHWOK
+328;WAQA
+ repairRoad;APG;CFH;-7 
+addRoad;WAQA;YHWOK;6;8
+#addRoad;NMKR;N;MKR;8;9
+repairRoad;UMFECN;LOGUR;-8
+200;KIEOI;1;6;APG
+repairRoad;GODD;NMKR;0
+addRoad;GODD;UMFECN;3;-5
+getRouteDescription;612
+666;YHWOK
+repairRoad;GODD;YHWOK;-5
+529;KGSAD;6;8;YHWOK
+326;GODD
+606;LOGUR;5;9;WAQA;4;9;;KIEOI
+addRoad;KIEOI;NMKR;8;7
+634;NMKR
+getRouteDescription;896
+repairRoad;NMKR;CFH;-7
+getRouteDescription;794
+273;GODD;7;8;NMKR;8;-7;CFH
+908;APG
+repairRoad;LOGUR;YHWOK;-10
+471;UMFECN
+246;KGSAD;6;-7;WAQA;1;2;WAQA
+addRoad;KIEOI;UMFECN;5;0
+repairRoad;KIEOI;NMKR;2
+; #repairRoad;CFH;NMKR;-8 
+repairRoad;NMKR;GODD;-7
+getRouteDescription;162
+addRoad;KIEOI;YHWOK;3;-3
+#addRoad;KGS;AD;GODD;4;-2 
+159;UMFECN;3;8;WAQA;8;-8;UMFECN
+95;KGSAD;5;0;GODD;8;5;LOGUR
+addRoad;YHWOK;WAQA;0;4
+ #787;YHWOK 
+ #repairRoad;GODD;NMKR;-9 
+addRoad;CFH;KGSAD;5;-4
+addRoad;WAQA;KIEOI;4;-6
+getRouteDescription;260
+repairRoad;CFH;NMKR;3
+808;KGSAD;2;-7;APG;0;1;APG
+545;CFH;1;-5;UMFECN;7;-5;APG
+addRoad;LOGUR;KIEOI;1;1
+getRouteDescription;87
+377;WAQA;3;-2;KGSAD
+ repairRoad;WAQA;NMKR;9
+#addRoad;L;OGUR;GODD;5;8
+; #414;NMKR 
+repairRoad;CFH;LOGUR;7
+addRoad;KGSAD;GODD;6;8
+ repairRoad;KGSAD;GODD;;1 
+addRoad;LOGUR;KIEOI;1;-7
+repairRoad;KGSAD;CFH;-9
+getRouteDescription;627
+532;LOGUR
+0;CFH;4;2;WAQA;9;5;NMKR
+ addRoad;CFH;YHWOK;1;6
+repairRoad;APG;KIEOI;-6
+736;UMFECN;9;0;UMFECN
+ addRoad;;CFH;UMFECN;5;-2
+getRouteDescription;816
+repairRoad;LOGUR;UMFECN;-5
+#549;NMKR;0;-10;NMKR 
+ #getRouteDescription;635
+getRouteDescription;412
+getRouteDescription;377
+#224;KIEOI;9;2;LOGUR;0;5;LOGUR 
+342;GODD
+repairRoad;WAQA;NMKR;9
+504;YHWOK
+ getRouteDescriptio;n;800 
+getRouteDescription;822
+addRoad;APG;NMKR;2;5
+ #974;UMFECN;7;-3;YHWOK;6;3;KGSAD
+addRoad;UMFECN;LOGUR;8;-10
+796;LOGUR;0;6;GODD;1;9;WAQA
+getRouteDescription;174
+262;WAQA;3;5;Y;HWOK
+addRoad;NMKR;LOGUR;2;5
+repairRoad;UMFECN;UMFECN;-1
+504;GODD;4;9;GODD
+repairRoad;APG;LOGUR;-8
+31;LOGUR;7;-4;YHWOK;6;-3;KGSAD
+#repairRoa;d;CFH;YHWOK;-4 
+ad;dRoad;APG;KGSAD;9;-2
+ #getRouteDescription;11;1
+#488;WAQA;1;1;APG;0;6;APG 
+getRouteDescription;201
+repairRoad;YHWOK;KIEOI;7
+getRouteDescription;506
+repairRoad;NMKR;APG;-8
+262;LOGUR;9;-5;KGSAD;0;-1;CFH
+addRoad;NMKR;KIEOI;6;-1 
+addRoad;NMKR;GODD;4;-9
+ 13;GODD 
+990;YHWOK;9;3;KGSAD;9;1;KGSAD
+ addRoad;;YHWOK;GODD;4;-5 
+getRouteDescription;154
+repairRoad;NMKR;YHWOK;0
+4;NMKR
+ #getRouteDescription;778
+getRouteDescription;671
+ 655;YHWOK;4;9;KGSAD;6;9;GODD 
+getRouteDescription;854
+addRoad;APG;KGSAD;2;0
+ #101;G;ODD;8;9;UMFECN
+repairRoad;UMFECN;CFH;-2
+597;NMKR;8;0;APG
+getRouteDescription;772
+153;WAQA;6;6;KGSAD;3;-3;APG
+ #594;APG;9;8;LOGUR 
+addRoad;UMFECN;NMKR;4;3
+addRoad;CFH;CFH;2;8
+addRoad;KGSAD;KIEOI;5;-7
+getRouteDescription;476
+addRoad;KIEOI;YHWOK;1;-6
+ re;pairRoad;KGSAD;LOGUR;-3
+addRoad;NMKR;KGSAD;1;-4
+369;KGSAD;9;9;APG
+getRouteDescription;974
+412;WAQA;3;-8;KIEOI
+addRoad;UMFECN;KIEOI;4;0
+repairRoad;NMKR;NMKR;-1
+ addRoad;GODD;NMKR;6;-9
+ #addRoad;CFH;GOD;D;3;-2
+repairRoad;KIEOI;CFH;9
+addRoad;GODD;YHWOK;1;-3
+getRouteDescription;397
+getRouteDescription;304
+ getRout;eDescription;258
+addRoad;KGSAD;LOGUR;3;-10
+789;NMKR;5;4;WAQA;2;-10;CFH
+getRouteDescription;480
+addRoad;KGSAD;GODD;0;0
+addRoad;CFH;LOGUR;2;2
+getRouteDescription;701
+addRoad;CFH;CFH;7;7
+ #repairRoad;KGSAD;NMKR;2 
+#306;APG;0;-4;YHWOK;0;9;CFH 
+repairRoad;KGSAD;CFH;-10
+repairRoad;WAQA;GODD;-8
+repairRoad;GODD;WAQA;-8
+addRoad;WAQA;KGSAD;2;8
+getRouteDescription;754
+addRoad;KGSAD;NMKR;0;0
+#getRouteDescription;162 
+ #repairRoad;GODD;UMFECN;-2
+975;CFH;1;6;NMKR;3;9;WAQA
+getRouteDescription;823
+repairRoad;YHWOK;LOGUR;6
+ getRouteDe;scription;904 
+repairRoad;CFH;YHWOK;1
+addRoad;UMFECN;NMKR;6;-4
+313;CFH;3;-7;NMKR
+addRoad;CFH;CFH;3;-9
+getRouteDescription;689
+ #getRouteDescr;iption;183 
+getR;outeDescription;94
+ getRouteDescription;705 
+repairRoad;KIEOI;YHWOK;1
+repairRoad;NMKR;YHWOK;8
+addRoad;UMFECN;LOGUR;;7;6
+getRouteDescription;440
+ #addRoad;GODD;;KGSAD;5;-6 
+#806;APG;9;-9;CFH;0;5;UM;FECN
+addRoad;KGSAD;NMKR;9;9
+addRoad;CFH;UMFECN;7;6
+ addRoad;C;FH;KIEOI;4;-7 
+963;KGSAD
+addRoad;CFH;GODD;3;-1
+ #addRoad;KIEOI;NMKR;0;2 
+getRouteDescription;393
+repairRoad;WAQA;NMKR;-1
+repairRoad;APG;WAQA;-8
+ #ge;tRouteDescription;262
+addRoad;GODD;CFH;3;-9
+getRouteDescription;821
+#addRoad;GODD;APG;1;1
+getRouteDescription;260
+addRoad;CFH;KIEOI;5;9
+0;KGSAD;8;7;UMFECN;1;8;KIEOI
+repairRoad;GODD;LOGUR;3
+#addRoad;GODD;NMKR;8;4 
+26;NMKR;3;-9;KIEOI;8;-7;KIEOI
+ addRoad;UMFECN;KIEOI;1;-1
+714;KGSAD
+repairRoad;YHWOK;YHWOK;2
+repairRoad;LOGUR;KGSAD;6
+getRouteDescription;489
+repairRoad;KGSAD;GODD;-3
+repairRoad;NMKR;LOGUR;0
+repairRoad;UMFECN;NMKR;-9
+ addRoad;CFH;;GODD;4;-9 
+getRouteDescription;673
+addRoad;WAQA;GODD;5;4
+898;CFH
+getRouteDescr;iption;65 
+repairRoad;GODD;YHWOK;-6
+ addRoad;YHWOK;GODD;8;-8
+21;CFH
+getRouteDescription;792
+repairRoad;APG;YHWOK;-6
+addRoad;CFH;KIEOI;2;-6
+getRouteDescription;728
+getRouteDescription;548
+addRoad;WAQA;GODD;6;5
+getRouteDescription;854
+addRoad;UMFECN;WAQA;9;9
+repairRoad;CFH;APG;8
+repairRoad;NMKR;YHWOK;6
+#repairRoad;WAQA;UMFECN;0
+#repairRoad;WA;QA;YHWOK;7 
+788;YHWOK;2;-3;APG;1;-2;APG
+634;WAQA
+getRouteDescription;274
+repairRoad;UMFECN;GODD;2
+112;WAQA;4;0;KGSAD;3;3;CFH
+0;KIEOI
+getRouteDescription;32
+repairRoad;KIEOI;WAQA;-3
+990;KIEOI
+991;LOGUR;2;-6;APG;4;-7;UMFECN
+repairRoad;NMKR;WAQA;9
+getRouteDescription;701
+getRouteDescription;202
+ getRouteDesc;ription;889 
+495;WAQA;1;-5;KGSAD
+getRouteDescription;733
+143;YHWOK
+repairRoad;UMFECN;YHWOK;-6
+518;NMKR;2;-1;NMKR;0;2;LOGUR
+ #getRouteDescription;;594 

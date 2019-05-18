@@ -1,0 +1,5400 @@
+repairRoad;VIFNAO;VIFNAO;-4
+998;OXAF
+getRouteDescription;237
+repairRoad;EBMYAJ;WCKND;1
+749;UPE;8;-4;OUZ;3;9;VIFNAO
+348;EBMYAJ;7;-7;UPE
+repairRoad;EBMYAJ;EBMYAJ;0
+464;OUZ;8;-8;EBMYAJ
+464;WCKND;6;9;DXGDRY
+#getRouteDescription;464 
+getRouteDescription;464
+addRoad;DXGDRY;WCKND;0;7
+776;VIFNAO;6;5;OXAF;6;-8;CHUASSB
+#addRoad;NQBDHT;CHUASSB;0;-6
+addRoad;NQBDHT;UPE;2;1
+ getRouteDescription;563 
+getRouteDescription;181
+repairRoad;NQBDHT;UPE;-10
+getRouteDescription;776
+0;OUZ;3;-2;UPE;5;9;CHUASSB
+#addRoad;WCKND;OXAF;2;;0 
+ getR;outeDescription;776 
+487;NQBDHT;1;1;OXAF;9;-4;UPE
+571;DXGDRY
+repairRoad;CHUASSB;NQBDHT;-7
+ addRoad;OXAF;NQBDHT;1;-6 
+addRoad;OXAF;WCKND;6;-4
+repairRoad;DXGDRY;SQJ;-4
+getRouteDescription;156
+repairRoad;VIFNAO;EBMYAJ;1
+ 464;WCKN;D
+464;WCKND
+72;OXAF
+getRouteDescription;464
+getRouteDescription;464
+repairRoad;EBMYAJ;OUZ;8
+254;SQJ;8;-10;WCKND
+ repairRoad;UPE;V;IFNAO;-10
+addRoad;OUZ;WCKND;2;-2
+addRoad;DXGDRY;DXGDRY;9;-3
+69;VIFNAO;3;-4;CHUASSB
+848;OUZ
+repairRoad;VIFNAO;VIFNAO;1
+#getRouteDescription;464
+repairRoad;CHUASSB;OXAF;-1
+getRouteDescription;776
+repairRoad;OXAF;CHUASSB;-8
+addRoad;SQJ;CHUASSB;9;6
+687;OXAF;8;8;DXGDRY;3;2;DXGDRY
+getRouteDescription;36
+getRouteDescription;776
+addRoad;UPE;EBMYAJ;9;-7
+982;OUZ;8;9;EBMYAJ
+getRouteDescription;776
+addRoad;VIFNAO;OXAF;3;8
+ #getR;outeDescription;776
+addRoad;NQBDHT;EBMYAJ;3;1
+getRouteDescription;464
+; #getRouteDescription;541 
+496;DXGDRY;9;-6;VIFNAO
+467;VIFNAO;0;7;SQJ
+651;WCKND;6;0;CHUASSB
+ #addRoad;VIF;NAO;SQJ;0;9
+getRouteDescription;776
+addRoad;OXAF;EBMYAJ;9;4
+ addRo;ad;UPE;SQJ;4;6 
+#repairRoad;NQBDHT;UPE;4 
+repairRoad;NQBDHT;UPE;3
+getRouteDescription;776
+498;VIFNAO
+getRouteDescription;464
+addRoad;CHUASSB;EBMYAJ;0;4
+addRoad;NQBDHT;WCKND;1;4
+addRoad;VIFNAO;DXGDRY;7;-7
+addRoad;SQJ;VIFNAO;9;-6
+getRouteDescription;865
+addRoad;DXGDRY;OUZ;9;6
+90;VIFNAO
+ ;#repairRoad;WCKND;UPE;-3 
+repairRoad;SQJ;VIFNAO;8
+addRoad;UPE;NQBDHT;0;-1
+repairRoad;SQJ;VIFNAO;2
+addRoad;OUZ;DXGDRY;8;-10
+repairRoad;OXAF;UPE;-7
+repairRoad;VIFNAO;OUZ;-4
+#addRoad;OUZ;;CHUASSB;6;-7 
+578;CHUASSB;2;2;CHUASSB
+repairRoad;OXAF;WCKND;2
+605;SQJ;9;8;VIFNAO;9;-1;DXGDRY
+repairRoad;DXGDRY;WCKND;8
+71;NQBDHT;1;1;OXAF
+386;VIFNAO;7;-5;WCKND
+getRouteDescription;36
+getRouteDescription;208
+addRoad;SQJ;EBMYAJ;4;1
+repairRoad;VIFNAO;WCKND;4
+925;WCKND;3;-4;CHUASSB;2;-10;DXGDRY
+841;UPE;7;2;EBMYAJ
+getRouteDescription;71
+addRoad;CHUASSB;OXAF;6;-6
+repairRoad;CHUASSB;DXGDRY;3
+192;EBMYAJ;7;5;DXGDRY;9;8;UPE
+addRoad;EBMYAJ;NQBDHT;8;-10
+#repairRoad;OXAF;UPE;1
+getRoute;Description;192 
+repairRoad;EBMYAJ;NQBDHT;1
+getRouteDescription;841
+ #repairRoad;DXGDRY;UPE;7 
+addRoad;CHUASSB;VIFNAO;2;-7
+repairRoad;OUZ;WCKND;-10
+addRoad;DXGDRY;OXAF;3;-10
+192;OXAF
+getRouteDescription;841
+getRouteDescription;464
+854;EBMYAJ;4;0;CHUASSB;1;3;EBMYAJ
+repairRoad;EBMYAJ;WCKND;-4
+repairRoad;VIFNAO;WCKND;6
+addRoad;WCKND;UPE;5;8
+600;WCKND;3;5;CHUASSB
+0;NQBDHT
+addRoad;DXGDRY;EBMYAJ;6;-4
+ 101;UPE
+repairRoad;OXAF;UPE;-9
+addRoad;CHUASSB;NQBDHT;6;-2
+getRouteDescription;464
+addRoad;WCKND;OUZ;5;9
+ addRoad;EBMYAJ;OXAF;6;-9 
+getRouteDescription;261
+267;VIFNAO;9;-6;SQJ
+getRouteDescription;464
+558;OUZ;9;-10;UPE
+addRoad;DXGDRY;UPE;8;8
+ repairRo;ad;EBMYAJ;OXAF;8 
+861;VIFNAO;7;-3;OUZ;7;-4;UPE
+addRoad;VIFNAO;UPE;2;4
+getRouteDescription;71
+#55;SQJ;9;-5;WCK;ND;0;-7;NQBDHT 
+a;ddRoad;DXGDRY;WCKND;3;-4
+addRoad;VIFNAO;OXAF;8;-8
+repairRoad;UPE;WCKND;-7
+ 0;CHUASSB;3;-5;UPE;5;-5;DXG;DRY
+846;UPE;6;0;NQBDHT
+addRoad;VIFNAO;OUZ;9;-9
+getRouteDescription;856
+ addRoad;VIF;NAO;SQJ;1;-8
+#repairRoad;NQBDHT;UPE;5 
+repairRoad;NQBDHT;WCKND;5
+; #281;CHUASSB
+addRoad;NQBDHT;CHUASSB;5;-8
+ #repairRoad;OXAF;OUZ;-4
+getRouteDescription;841
+getRouteDescription;10
+#addRoad;CHUASSB;EBMYAJ;9;-1
+addRoad;CHUASSB;UPE;6;0
+605;UPE;1;-5;WCKND
+740;VIFNAO;8;-6;VIFNAO;0;3;UPE
+getRouteDescription;600
+addRoad;NQBDHT;DXGDRY;6;6
+addRoad;OUZ;WCKND;4;-3
+addRoad;SQJ;EBMYAJ;1;8
+getRouteDescription;776
+648;WCKND;1;5;NQBDHT;6;-2;CHUASSB
+repairRoad;WCKND;CHUASSB;8
+ #getRouteDescription;464 
+600;WCKND;0;-6;SQJ;6;9;EBMYAJ
+getRouteDescription;300
+repairRoad;SQJ;UPE;-2
+ #160;VIFNAO;1;7;EBMYAJ
+getRouteDescription;186
+addRoad;CHUASSB;UPE;3;2
+0;;CHUASSB 
+getRouteDescription;788
+#a;ddRoad;UPE;CHUASSB;5;-1
+getRouteDescription;160
+addRoad;CHUASSB;DXGDRY;7;-9
+addRoad;EBMYAJ;CHUASSB;2;-2
+ addRoad;OXAF;UPE;1;4
+repairRoad;UPE;WCKND;-5
+addRoad;DXGDRY;CHUASSB;9;6
+addRoad;OXAF;SQJ;0;-5
+repairRoad;EBMYAJ;UPE;2
+ #repairRoad;DXGDRY;;NQBDHT;0
+addRoad;OUZ;CHUASSB;7;-1
+addRoad;SQJ;NQBDHT;3;7
+addRoad;VIFNAO;VIFNAO;2;2
+addRoad;EBMYAJ;SQJ;6;6
+#rep;airRoad;CHUASSB;UPE;8 
+repairRoad;EBMYAJ;OXAF;-2
+ addRoad;OXAF;EBMYAJ;4;5
+ getRouteDescription;160 
+addRoad;NQBDHT;OXAF;1;3
+repairRoad;VIFNAO;OUZ;-6
+841;UPE;3;-6;WCKND;5;7;OXAF
+ #938;EBMYAJ;5;-6;CHUASSB 
+repairRoad;OXAF;DXGDRY;7
+repairRoad;OXAF;WCKND;7
+getRouteDescription;464
+repairRoad;OUZ;EBMYAJ;8
+addRoad;SQJ;OXAF;7;-6
+#addRoad;UPE;CHU;ASSB;7;-5 
+getRouteDescription;117
+825;WCKND
+addRoad;DXGDRY;WCKND;8;-9
+addRoad;VIFNAO;EBMYAJ;0;3
+ #getRouteDescription;160
+;#repairRoad;OXAF;OXAF;2
+getRouteDescription;648
+ #getRouteDesc;ription;192
+172;EBMYAJ
+ #add;Road;EBMYAJ;WCKND;9;-5
+715;CHUASSB;6;7;DXGDRY
+ 256;VIFN;AO 
+addRoad;VIFNAO;NQBDHT;7;-10
+;#addRoad;VIFNAO;NQBDHT;5;-8 
+ #addRoad;CHUASSB;NQBDHT;;2;-10
+#getRouteD;escription;648
+repairRoad;OXAF;CHUASSB;-2
+addRoad;WCKND;DXGDRY;5;-1
+getRouteDescription;531
+ 841;CHUASSB;9;-3;EBMYAJ 
+259;NQBDHT
+addRoad;CH;UASSB;WCKND;1;-9
+ #getRouteDesc;ription;208
+600;EBMYAJ;0;-7;EBMYAJ;2;-6;UPE
+ repairRoad;EBMYAJ;OXAF;3 
+getRouteDescription;605
+addRoad;NQBDHT;WCKND;3;-7
+getRouteDescription;824
+repairRoad;CHUASSB;NQBDHT;-5
+getRouteDescription;160
+76;OUZ;6;9;OUZ
+376;OUZ
+getRouteDescription;160
+addRoad;OXAF;OUZ;8;4
+addRoad;SQJ;EBMYAJ;5;1
+841;UPE;2;8;WCKND
+getRouteDescription;841
+getRouteDescription;648
+288;SQJ
+repairRoad;OXAF;UPE;0
+addRoad;OXAF;UPE;2;0
+addRoad;CHUASSB;WCKND;9;8
+301;NQBDHT;5;-5;EBMYAJ;4;9;SQJ
+addRoad;EBMYAJ;SQJ;0;-1
+repairRoad;OXAF;DXGDRY;7
+addRoad;CHUASSB;VIFNAO;1;4
+getRouteDescription;192
+repairRoad;OXAF;OUZ;9
+139;VIFNAO;5;5;UPE
+160;DXGDRY;4;-10;SQJ;8;7;WCKND
+addRoad;NQBDHT;NQBDHT;2;1
+getRouteDescription;600
+951;CHUASSB;0;-8;CHUASSB;2;-3;EBMYAJ
+ #464;WCKND;7;-7;UPE;8;;7;CHUASSB 
+ 961;;VIFNAO 
+#getRouteDescription;808
+#getRouteDescription;605 
+475;UPE;1;-1;UPE
+getRouteDescription;573
+68;EBMYAJ;2;-4;VIFNAO;5;4;VIFNAO
+211;EBMYAJ;7;5;DXGDRY;2;3;CHUASSB
+repairRoad;DXGDRY;CHUASSB;2
+ getRouteDescription;776 
+ repairRoad;OXAF;UP;E;-5
+776;NQBDHT;6;4;SQJ
+ repairRoad;CHUASSB;NQBDHT;-2 
+repairRoad;OXAF;NQBDHT;-2
+addRoad;OXAF;NQBDHT;6;-1
+addRoad;WCKND;EBMYAJ;2;-1
+#repairRoad;VIFNA;O;UPE;-7 
+getRouteDescription;887
+repairRoad;UPE;CHUASSB;4
+605;WCKND;2;-7;SQJ
+addRoad;CHUASSB;OXAF;5;-7
+repairRoad;VIFNAO;NQBDHT;-9
+603;DXGDRY
+addRoad;OXAF;DXGDRY;8;0
+addRoad;WCKND;VIFNAO;1;-1
+getRouteDescription;192
+#806;OXAF;1;-1;WCKND;9;2;UPE
+repairRoad;SQJ;VIFNAO;-9 
+ #getRouteDescripti;on;600
+getRouteDescription;807
+addRoad;OXAF;UPE;4;-8
+130;SQJ;4;1;EBMYAJ
+repairRoad;DXGDRY;UPE;-10
+getRouteDescription;192
+getRouteDescription;160
+getRouteDescription;600
+37;V;IFNAO;1;-5;WCKND 
+addRoad;OUZ;SQJ;1;-7
+ #6;11;VIFNAO 
+#getRouteDescription;945 
+ addRoad;UP;E;SQJ;4;-3 
+addRoad;VIFNAO;WCKND;3;-1
+getRouteDescription;316
+605;DXGDRY;0;-8;UPE
+addRoad;UPE;CHUASSB;9;6
+repairRoad;NQBDHT;WCKND;-10
+getRouteDescription;61 
+ repairRo;ad;EBMYAJ;NQBDHT;-10
+getRouteDescription;406
+repairRoad;NQBDHT;EBMYAJ;6
+#;559;NQBDHT;7;-8;VIFNAO;8;0;NQBDHT
+repairRoad;WCKND;CHUASSB;7
+#addRoad;SQJ;WCKND;5;-5 
+306;OUZ
+repairRoad;EBMYAJ;UPE;-1
+ #212;CHUA;SSB;0;-9;NQBDHT
+repairRoad;SQJ;VIFNAO;1
+repairRoad;CHUASSB;OXAF;8
+addRoad;CHUASSB;OXAF;2;4
+130;VIFNAO
+repairRoad;WCKND;EBMYAJ;9
+repairRoad;EBMYAJ;CHUASSB;8
+repairRoad;SQJ;NQBDHT;-1
+ 672;WCKND;3;-5;DXG;DRY
+getRouteDescription;71
+244;NQBDHT;9;-9;OUZ;2;-3;EBMYAJ
+repairRoad;SQJ;VIFNAO;-10
+addRoad;NQBDHT;OXAF;6;1
+getRouteDescription;472
+ repairRoad;OXAF;WCKND;-6
+repairRoad;OUZ;UPE;-1
+addRoad;OXAF;OXAF;9;-1
+ getRouteDescription;927 
+getRouteDescription;754
+ getRouteDescri;ption;132 
+ getRout;eDescription;160
+192;OXAF;7;5;OUZ;0;-7;CHUASSB
+repairRoad;CHUASSB;WCKND;-2
+repairRoad;CHUASSB;UPE;-8
+addRoad;NQBDHT;CHUASSB;5;1
+853;UPE;5;8;WCKND;7;8;VIFNAO
+14;W;CKND 
+#getRouteDescription;813
+addRoad;EBMYAJ;VIFNAO;9;-7
+#;getRouteDescription;600
+getRouteDescription;464
+getRouteDescription;648
+repairRoad;CHUASSB;SQJ;-3 
+addRoad;NQBDHT;OXAF;9;-2
+478;DXGDRY
+addRoad;SQJ;CHUASSB;4;9
+getRouteDescription;605
+addRoad;WCKND;VIFNAO;7;1
+addRoad;EBMYAJ;DXGDRY;6;2
+addRoad;SQJ;DXGDRY;1;-9
+repairRoad;OXAF;WCKND;7
+getRouteDescription;776
+repairRoad;UPE;UPE;-6
+ addRoad;EBMYAJ;WCKND;7;4 
+923;WCKND
+#211;DXGDRY;9;-6;OXAF;9;0;VIFNAO 
+170;SQJ;9;6;CHUASSB;3;5;VIFNAO
+repairRoad;OUZ;VIFNAO;8
+repairRoad;CHUASSB;NQBDHT;7
+265;;CHUASSB 
+ ;#getRouteDescription;853
+ ;addRoad;CHUASSB;CHUASSB;2;-2
+getRouteDescription;71
+#getRouteDescription;211 
+getRouteDescription;464
+130;CHUASSB;2;-3;VIFNAO
+getRouteDescription;211
+881;VIFNAO;1;1;OXAF
+repairRoad;NQBDHT;DXGDRY;-10
+addRoad;CHUASSB;DXGDRY;2;-1
+948;CHUASSB;2;3;DXGDRY;6;6;NQBDHT
+getRouteDescription;853
+getRouteDescription;605
+529;NQBDHT
+ #778;NQBDHT
+repairRoad;DXGDRY;UPE;-4
+addRoad;OXAF;OUZ;5;7
+getRouteDescription;447
+repairRoad;EBMYAJ;VIFNAO;2
+getRouteDescription;464
+0;OUZ;5;-9;CHUASSB
+#rep;airRoad;NQBDHT;UPE;9 
+repairRoad;EBMYAJ;OXAF;9
+addRoad;SQJ;WCKND;1;-7
+addRoad;UPE;SQJ;4;-8
+repairRoad;NQBDHT;WCKND;0
+repairRoad;EBMYAJ;SQJ;2
+71;DXGDRY;2;6;EBMYAJ;5;-4;OUZ
+83;UPE;7;3;EBMYAJ;4;2;SQJ
+addRoad;CHUASSB;OUZ;8;-8
+addRoad;VIFNAO;OUZ;3;7
+432;WCKND;2;9;VIFNAO
+948;OUZ
+381;NQBDHT;6;0;SQJ
+getRouteDescription;600
+addRoad;VIFNA;O;OUZ;2;-5 
+getRouteDescription;170 
+getRouteDescription;211
+83;CHUASSB;6;-4;OXAF
+repairRoad;OXAF;NQBDHT;2
+addRoad;UPE;UPE;4;1
+774;DXGDRY;3;-10;NQBDHT
+getRouteDescription;776
+#424;OUZ;8;-1;UPE 
+585;SQJ;0;-3;CHUASSB;7;1;WCKND
+#getRouteDescription;;330 
+repairRoad;DXGDRY;SQJ;1
+#getRouteDescription;502 
+467;OXAF;5;5;DXGDRY
+addRoad;OUZ;UPE;7;-9
+repairRoad;SQJ;WCKND;-6
+ ;942;CHUASSB 
+addRoad;DXGDRY;NQBDHT;4;-10
+296;VIFNAO;3;-5;OXAF;0;4;VIFNAO
+repairRoad;EBMYAJ;DXGDRY;-3
+addRoad;SQJ;CHUASSB;7;-10
+ repairRoad;E;BMYAJ;EBMYAJ;0 
+667;NQBDHT;9;3;SQJ
+addRoad;OXAF;CHUASSB;9;-8
+ #addRoad;WCKND;OXAF;9;-;6 
+getRouteDescription;464
+#464;DXGDRY 
+addRoad;DXGDRY;VIFNAO;0;-6
+512;EBMYAJ;8;9;OUZ;9;6;DXGDRY
+addRoad;NQBDHT;CHUASSB;0;9
+addRoad;OXAF;WCKND;7;1
+587;DXGDRY;6;-10;UPE;7;-7;EBMYAJ
+139;VIFNAO
+getRouteDescription;853
+addRoad;OXAF;VIFNAO;6;-10
+881;WCKND;6;-5;EBMYAJ
+#648;WCKND;2;6;NQBDHT;5;8;NQBDHT
+getRouteDescription;133
+getRouteDescription;605
+ #addRoad;EBMYAJ;DXGDRY;8;6
+repairRoad;UPE;NQBDHT;1
+#addRoad;VIFNAO;OXAF;2;-9 
+getRouteDescription;71
+ #addRoa;d;VIFNAO;OUZ;7;-5
+424;CHUASSB;6;6;OUZ;0;2;VIFNAO
+ #re;pairRoad;VIFNAO;WCKND;7
+addRoad;VIFNAO;WCKND;3;7
+#repairRoad;;SQJ;VIFNAO;5
+171;DXGDRY;6;-9;DXGDRY;9;;-3;UPE
+addRoad;CHUASSB;SQJ;8;-6 
+repairRoad;NQBDHT;WCKND;7
+ re;pairRoad;NQBDHT;DXGDRY;3
+repairRoad;VIFNAO;WCKND;-3
+getRouteDescription;247
+130;WC;KND 
+getRouteDescription;605
+getRouteDescription;605
+ #repairRoad;DXGDRY;UPE;1 
+repairRoad;OXAF;OXAF;4
+600;OUZ;7;-2;UPE;1;5;DXGDRY
+addRoad;VIFNAO;EBMYAJ;9;-7
+addRoad;CHUASSB;EBMYAJ;5;-2
+684;UPE;0;3;NQBDHT;2;-5;UPE
+addRoad;CHUASSB;NQBDHT;5;9
+addRoad;UPE;DXGDRY;1;-5
+getRouteDescription;203
+439;VIFNAO;5;7;OUZ;5;-8;SQJ
+424;DXGDRY;5;-3;CHUASSB;0;0;CHUASSB
+#g;etRouteDescription;593
+750;EBMYAJ
+getRouteDescription;648
+repairRoad;UPE;UPE;1
+addRoad;VIFNAO;VIFNAO;8;-10
+getRouteDescription;424
+addRoad;NQBDHT;DXGDRY;1;-3
+#repairRoad;OXAF;DXGDRY;0 
+71;DXGDRY;9;3;DXGDRY;9;9;WCKND
+getRouteDescription;600
+getRouteDescription;464
+852;CHUASSB;0;-10;SQJ;9;-2;CHUASSB
+getRouteDescription;567
+addRoad;OUZ;CHUASSB;6;1
+getRouteDesc;ription;130
+repairRoad;SQJ;UPE;-7
+809;SQJ
+765;NQBDHT;0;1;WCKND
+repairRoad;DXGDRY;EBMYAJ;3
+addRoad;OXAF;WCKND;2;-3
+getRouteDescription;192
+ getRouteDescription;130
+repairRoad;DXGDRY;VIFNAO;-2
+addRoad;NQBDHT;EBMYAJ;4;1
+repairRoad;DXGDRY;UPE;8
+repairRoad;EBMYAJ;NQBDHT;0
+424;EBMYAJ
+getRouteDescription;338
+630;EBMYAJ;6;5;VIFNAO;4;-4;VIFNAO
+addRoad;WCKND;DXGDRY;3;-2
+addRoad;SQJ;OUZ;5;-2
+repairRoad;DXGDRY;CHUASSB;5
+#repairRoad;SQJ;VIFNAO;-1
+repairRoad;CHUASSB;VIFNAO;0
+addRoad;WCKND;CHUASSB;4;-6
+addRoad;OUZ;UPE;2;7
+getRouteDescription;130
+repairRoad;VIFNAO;VIFNAO;0
+82;DXGDRY
+repairRoad;EBMYAJ;SQJ;-6
+repairRoad;OUZ;VIFNAO;-7
+repairRoad;OXAF;WCKND;5
+705;WCKND;0;-7;OUZ;4;8;VIFNAO
+addRoad;NQBDHT;UPE;0;3
+468;EBMYAJ;3;-9;NQBDHT;5;-7;DXGDRY
+138;SQJ;9;8;VIFNAO;3;5;CHUASSB
+getRouteDescription;699
+ addRoad;EBMYA;J;CHUASSB;8;2 
+repairRoad;UPE;SQJ;-7
+addRoad;CHUASSB;OXAF;3;4
+repairRoad;DXGDRY;OXAF;-10
+addRoad;UPE;OUZ;7;5
+getRouteDe;scription;160
+getRouteDescription;71
+addRoad;OUZ;OUZ;1;-9
+addRoad;OXAF;UPE;6;-3
+#repairRoad;SQJ;CHUASSB;8 
+addRoad;EBMYAJ;OXAF;7;0
+130;NQBDHT
+repairRoad;NQBDHT;DXGDRY;-9
+repairRoad;WCKND;OUZ;4
+#addRoad;OUZ;UPE;;6;-9
+getRouteDescription;648
+123;VIFNAO;7;-6;UPE
+repairRoad;CHUASSB;NQBDHT;-10
+repairRoad;EBMYAJ;NQBDHT;0
+#getRouteD;escription;464 
+ getRouteDescription;8;41 
+repairRoad;EBMYAJ;UPE;-4 
+addRoad;CHUASSB;EBMYAJ;5;4
+repairRoad;NQBDHT;VIFNAO;-10
+repairRoad;VIFNAO;OUZ;-2
+getRouteDescription;130
+950;DXGDRY;6;-2;VIFNAO 
+424;OXAF;0;-4;OUZ;7;5;OXAF
+getRouteDescription;241
+#a;ddRoad;NQBDHT;EBMYAJ;5;9 
+getRouteDescription;853
+addRoad;WCKND;EBMYAJ;2;-10
+repairRoad;CHUASSB;UPE;1
+519;CHUASSB;7;-2;VIFNAO;8;5;UPE
+#542;CHUASSB;2;8;EBMYAJ 
+getRouteDescription;437
+repairRoad;OUZ;SQJ;3
+getRouteDescription;776
+ #repairRoad;OXAF;WCKND;5 
+repairRoad;SQJ;NQBDHT;-7
+addRoad;DXGDRY;OXAF;6;-8
+ #repairRoad;OUZ;UPE;-3 
+#rep;airRoad;SQJ;DXGDRY;4 
+ #getRouteDescription;211
+addRoad;OUZ;CHUASSB;7;7
+repairRoad;CHUASSB;WCKND;9
+94;EBMYAJ;2;4;OXAF
+getRouteDescription;683
+repairRoad;NQBDHT;OXAF;3
+repairRoad;EBMYAJ;OUZ;-2
+getRouteDescription;648
+651;OUZ;1;-1;OUZ;0;6;EBMYAJ
+ #repairRoad;OUZ;OUZ;0 
+803;UPE
+repairRoad;NQBDHT;EBMYAJ;0
+#addRoad;OXA;F;DXGDRY;8;1
+getRouteDescription;170
+repairRoad;DXGDRY;OUZ;9
+getRouteDescription;160
+464;;WCKND;6;8;NQBDHT;7;-8;OUZ
+#getRouteDescription;83
+getRouteDescription;419
+repairRoad;UPE;WCKND;5
+repairRoad;SQJ;DXGDRY;-10
+addRoad;DXGDRY;SQJ;4;-4
+getRouteDescription;853
+addRoad;WCKND;NQBDHT;5;2
+512;WCKND;1;8;NQBDHT
+#getRou;teDescription;776 
+addRoad;UPE;WCKND;5;-3
+repairRoad;DXGDRY;EBMYAJ;1
+addR;oad;VIFNAO;CHUASSB;0;0 
+ getRouteDescripti;on;480 
+getRouteDescription;130
+240;DXGDRY;7;4;OXAF;2;7;NQBDHT
+addRoad;OXAF;VIFNAO;2;-4
+addRoad;CHUASSB;OUZ;2;-9
+#addRoad;OUZ;WCKND;7;-2
+addRoad;EBMYAJ;NQBDHT;4;-3
+getRouteDescription;620
+527;WCKND
+462;SQJ;1;6;OUZ
+605;EBMYAJ;2;6;OXAF
+addRoad;VIFNAO;SQJ;2;9
+ #964;CHUASSB
+543;SQJ;0;-1;DXGDRY;3;7;SQJ
+704;VIFNAO;9;8;SQJ
+getRouteDescription;427
+addRoad;WCKND;WCKND;6;2
+getRouteDescription;424
+repairRoad;SQJ;UPE;7 
+763;SQJ;9;-5;EBMYAJ;6;2;WCKND
+#addRoad;VIFNAO;OUZ;5;-1 
+getRouteDescription;130
+83;OUZ;2;-10;UPE;4;-10;WCKND
+addRoad;UPE;WCKND;3;-9
+addRoad;EBMYAJ;NQBDHT;4;-3
+repairRoad;CHUASSB;OXAF;-4
+repairRoad;EBMYAJ;SQJ;-3
+getRouteDescription;462
+repairRoad;EBMYAJ;WCKND;-1
+893;WCKND;2;9;EBMYAJ;7;5;DXGDRY
+#625;NQBDH;T 
+ repairRoa;d;OXAF;EBMYAJ;7 
+repairRoad;SQJ;DXGDRY;4
+ #getRouteDescription;853 
+repairRoad;NQBDHT;SQJ;7
+ #getRouteDescripti;on;170
+getRouteDescription;684
+ addRoad;WCKND;OUZ;6;4 
+ #507;UPE;8;-7;OUZ;0;2;WCK;ND 
+repairRoad;EBMYAJ;UPE;7
+986;NQBDHT;4;-10;OUZ;7;-10;NQBDHT
+addRoad;WCKND;UPE;4;4
+repairRoad;OUZ;UPE;3
+addRoad;OUZ;EBMYAJ;6;-3
+repairRoad;CHUASSB;WCKND;-9
+495;OUZ;2;-7;DXGDRY;0;-1;DXGDRY
+807;CHUASSB;5;-9;CHUASSB
+ #516;OU;Z
+repairRoad;EBMYAJ;OXAF;7
+#getRouteDescription;948
+#getRouteDescription;138; 
+repairRoad;CHUASSB;DXGDRY;4
+#addRoad;UPE;DXGDRY;6;-10
+getRouteDescription;160
+ #addRoad;SQJ;WCKND;5;;-9
+;repairRoad;DXGDRY;OUZ;8
+addRoad;VIFNAO;SQJ;6;3
+repairRoad;CHUASSB;SQJ;1
+repairRoad;DXGDRY;EBMYAJ;-10
+getRouteDescription;265
+6;51;VIFNAO;9;8;EBMYAJ;4;4;SQJ
+repairRoad;OUZ;VIFNAO;8
+getRouteDescription;776
+ #782;VIFNAO;7;8;WCK;ND 
+getRo;uteDescription;492
+getRouteDescription;893
+addRoad;WCKND;VIFNAO;6;0
+repairRoad;CHUASSB;OXAF;5
+getRouteDescription;605
+repairRoad;OXAF;OXAF;6
+734;WCKND;5;2;OXAF
+addRoad;SQJ;OXAF;8;-6
+getRouteDescription;704
+repairRoad;SQJ;DXGDRY;-3
+getRouteDescription;648
+getRouteDescription;309
+83;UPE
+getRouteDescription;211
+; 593;EBMYAJ
+52;CHUASSB;6;4;CHUASSB;0;-1;VIFNAO
+addRoad;DXGDRY;CHUASSB;7;4
+#repairRoad;OXAF;;UPE;7
+repairRoad;OXAF;OXAF;-7
+getRouteDescription;648
+ repairRoad;SQJ;WCKND;-8 
+262;NQBDHT
+512;DXGDRY;3;0;SQJ;8;-10;UPE
+948;DXGDRY
+198;VIFNAO;9;2;EBMYAJ;9;9;OXAF
+getRouteDescription;651
+addRoad;CHUASSB;NQBDHT;7;-10
+ getRouteDescriptio;n;138
+817;NQBDHT;1;7;WCKND;3;9;CHUASSB
+getRouteDescription;841
+repairRoad;VIFNAO;UPE;-6
+853;CHUASSB
+ getRouteDescription;881
+#975;;SQJ;0;1;EBMYAJ 
+getRouteDescription;198
+repairRoad;EBMYAJ;OUZ;1
+repairRoad;SQJ;NQBDHT;-7
+getRouteDescription;71
+repairRoad;EBMYAJ;EBMYAJ;-8
+ getRouteDe;scription;421
+73;OXAF;4;-9;UPE;9;4;SQJ
+repairRoad;OUZ;SQJ;-8
+repairRoad;NQBDHT;VIFNAO;-2
+addRoad;WCKND;DXGDRY;8;3
+addRoad;DXGDRY;UPE;0;-3
+ repairRoad;OXAF;WCKND;-2
+repairRoad;EBMYAJ;EBMYAJ;-6
+getRouteDescription;83
+addRoad;SQJ;WCKND;4;-2
+396;WCKND;8;-8;DXGDRY
+#662;EBMYAJ;5;-5;CHUASSB
+#addRoa;d;SQJ;OUZ;9;-3
+#;getRouteDescription;948
+repairRoad;EBMYAJ;CHUASSB;-10
+getRouteDescription;605
+getRouteDescription;464
+addRoad;SQJ;VIFNAO;2;-6
+addRoad;CHUASSB;DXGDRY;6;-10
+repairRoad;EBMYAJ;DXGDRY;4
+getRouteDescription;853
+#getRouteDescr;iption;631 
+getRouteDescription;349
+972;OXAF;6;5;VIFNAO;3;5;CHUASSB
+ #70;VIFNAO 
+getRouteDescription;71
+repairRoad;CHUASSB;WCKND;2
+#getR;outeDescription;390
+516;SQJ;7;-10;EBMYAJ;9;-4;SQJ
+getRouteDescription;776
+repairRoad;EBMYAJ;OXAF;-8
+getRouteDescription;138
+addRoad;CHUASSB;OUZ;1;-7
+getRouteDescription;85
+repairRoad;OUZ;DXGDRY;2
+addRoad;UPE;CHUASSB;9;-8
+ #getRo;uteDescription;160
+repairRoad;UPE;CHUASSB;3
+0;OUZ
+321;SQJ
+repairRoad;OXAF;NQBDHT;-3
+getRouteDescription;196
+repairRoad;SQJ;OXAF;7
+repairRoad;NQBDHT;DXGDRY;-8
+ a;ddRoad;DXGDRY;OXAF;1;-3 
+repairRoad;DXGDRY;UPE;-2
+getRouteDescription;382
+addRoad;VIFNAO;SQJ;6;9
+ getRouteDesc;ription;462
+ #addRoad;UPE;NQBDHT;9;;-3
+ #repairRoad;OXAF;EBMYAJ;4
+ addRoad;SQJ;OXAF;8;-5
+addRoad;NQBDHT;EBMYAJ;1;0
+ #get;RouteDescription;605 
+#repairRoad;OXAF;WCKND;-6 
+repairRoad;CHUASSB;OXAF;1
+addRoad;UPE;NQBDHT;4;-10
+getRouteDescription;170
+addRoad;UPE;VIFNAO;9;-8
+addRoad;EBMYAJ;VIFNAO;3;-7
+363;NQBDHT;6;7;CHUASSB
+ 541;OU;Z 
+ #repairRoad;CHUASSB;OUZ;-4 
+getRouteDescription;651
+addRo;ad;OXAF;SQJ;9;-2
+repairRoad;OXAF;NQBDHT;3
+47;OUZ;8;3;UPE
+repairRoad;UPE;WCKND;-9
+addRoad;DXGDRY;CHUASSB;7;8
+getRouteDescription;730
+;#600;DXGDRY 
+addRoad;EBMYAJ;OUZ;2;8
+repairRoad;EBMYAJ;DXGDRY;9
+672;OUZ
+#417;SQJ;2;2;NQBDHT;9;-10;SQJ 
+ #repairRoad;SQJ;SQJ;;-7
+getRouteDescription;396
+getRouteDescription;120
+getRouteDescription;918
+addRoad;EBMYAJ;OXAF;3;4
+ #g;etRouteDescription;651
+addRoad;OXAF;UPE;8;-10
+250;SQJ
+addRoad;OXAF;CHUASSB;4;-8
+getRouteDescription;704
+repairRoad;DXGDRY;UPE;-10
+addRoad;VIFNAO;DXGDRY;4;9
+93;UPE
+getRouteDescription;998
+getRouteDescription;296
+getRouteDescription;750
+ #424;VIFNAO 
+17;NQBDHT;6;8;OUZ;6;2;OXAF
+#addRoad;DXGD;RY;UPE;4;-3 
+776;WCKND
+ repairRoad;OXAF;O;XAF;-10
+291;CHUASSB;4;-4;DXGDRY;4;3;VIFNAO
+ 464;OXAF;1;3;EB;MYAJ
+repairRoad;NQBDHT;DXGDRY;-5
+getRouteDescription;363
+repairRoad;VIFNAO;NQBDHT;9
+getRouteDescription;651
+repairRoad;NQBDHT;VIFNAO;6
+addRoad;CHUASSB;OUZ;9;-9
+#repairR;oad;NQBDHT;OXAF;-7
+repairRoad;NQBDHT;WCKND;-9
+repairRoad;OUZ;DXGDRY;-4
+getRouteDescription;651
+192;OUZ
+ #getRouteDescription;704 
+280;DXGDRY
+231;UPE
+ #addRoad;EBMYAJ;OXA;F;1;8
+addRoad;SQJ;OXAF;3;4
+684;;OUZ;7;-3;DXGDRY 
+907;DXGDRY
+getRouteDescription;782
+83;DXGDRY;1;6;OUZ;2;-7;WCKND
+addRoad;OXAF;EBMYAJ;4;6
+334;WCKND
+repairRoad;CHUASSB;OUZ;-3
+repairRoad;DXGDRY;EBMYAJ;3
+170;OXAF;5;6;WCKND;1;-7;OUZ
+47;VIFNAO;1;3;NQBDHT;3;-7;CHUASSB
+getRouteDescription;948
+124;OXAF;0;9;OXAF;2;4;EBMYAJ
+235;NQBDHT;5;-10;NQBDHT
+getRouteDescription;492
+ #192;VIFNAO;9;-9;WCKND;;4;2;CHUASSB 
+getRouteDescription;396
+ ge;tRouteDescription;192 
+addRoad;WCKND;DXGDRY;2;-6
+addRoad;SQJ;NQBDHT;0;6
+getRouteDescription;170
+repairRoad;UPE;WCKND;-9
+repairRoad;SQJ;DXGDRY;-4
+170;NQBDHT;2;-2;DXGDRY
+repairRoad;UPE;VIFNAO;-9
+#repairRoad;CHUASSB;SQJ;-8
+repairRoad;WCKND;OXAF;4
+addRoad;DXGDRY;UPE;1;-2
+addRoad;UPE;NQBDHT;6;-5
+;getRouteDescription;71
+addRoad;OXAF;DXGDRY;1;4
+addRoad;SQJ;CHUASSB;7;-5
+ repairRoad;SQJ;DXGDRY;-2
+addRoad;DXGDRY;OXAF;5;2
+ #234;OX;AF 
+repairRoad;EBMYAJ;NQBDHT;0
+getRouteDesc;ription;776
+getRouteDescription;556
+addRoad;EBMYAJ;UPE;7;7
+addRoad;WCKND;CHUASSB;2;5
+getRouteDescription;130
+repairRoad;EBMYAJ;NQBDHT;7
+170;OUZ
+getRouteDescription;818
+283;VIFNAO;1;3;EBMYAJ
+addRoad;DXGDRY;DXGDRY;0;-9
+addRoad;DXGDRY;WCKND;9;1
+29;OUZ;9;9;UPE
+396;OUZ
+getRouteDescription;765
+getRouteDescription;236
+repairRoad;OXAF;NQBDHT;9
+repairRoad;UPE;WCKND;6
+getRouteDescription;47
+repairRoad;OXAF;UPE;1
+315;OUZ
+addRoad;UPE;UPE;4;-10
+ 214;OUZ;8;5;WCKN;D;2;6;OUZ
+getRouteDescription;853
+ #getRouteDescription;;853 
+getRouteDescription;47
+addRoad;OXAF;DXGDRY;9;-10
+addRoad;VIFNAO;SQJ;2;-6
+#379;DXGDRY 
+repairRoad;EBMYAJ;SQJ;-4
+addRoad;WCKND;EBMYAJ;0;3
+getRout;eDescription;600
+330;UPE;9;1;OXAF;8;9;OUZ
+getRouteDescription;605
+#addRoad;WCKND;NQBDHT;9;-4
+366;DXGDRY;2;-2;NQBDHT;0;6;NQBDHT
+repairRoad;NQBDHT;VIFNAO;-3
+ addRoad;WC;KND;EBMYAJ;0;-10 
+getRouteDescription;853
+addRoad;UPE;WCKND;6;5
+#g;etRouteDescription;47
+501;OUZ;8;-5;OXAF;8;-9;NQBDHT
+379;WCKND;8;0;OUZ
+addRoad;OXAF;EBMYAJ;2;-10
+addRoad;EBMYAJ;EBMYAJ;4;2
+17;7;WCKND;6;7;OXAF
+593;OUZ;8;9;OXAF;6;5;VIFNAO
+getRouteDescription;988
+addRoad;OXAF;OXAF;2;6
+getRouteDescription;198
+931;UPE;8;3;VIFNAO;4;4;WCKND
+addRoad;OUZ;SQJ;5;-3
+repairRoad;WCKND;OUZ;8
+addRoad;VIFNAO;NQBDHT;5;1
+ #ge;tRouteDescription;704 
+repairRoad;EBMYAJ;OXAF;-10
+addRoad;OUZ;OUZ;2;5
+repairRoad;CHUASSB;OUZ;-8
+addRoad;UPE;SQJ;5;5
+repairRoad;OUZ;OUZ;-6
+repairRoad;DXGDRY;OUZ;-5
+681;SQJ
+addRoad;VIFNAO;WCKND;4;3
+0;UPE;8;4;DXGDRY
+47;EBMYAJ
+ #addRoad;SQJ;WCKND;8;;-1 
+301;DXGDRY;6;-1;EBMYAJ
+792;NQBDHT
+884;EBMYAJ;6;6;NQBDHT
+repairRoad;OUZ;WCKND;-7
+ #repair;Road;NQBDHT;VIFNAO;-5 
+ repairRoad;OXAF;VIFNAO;7 
+addRoad;SQJ;WCKND;1;1
+#82;NQBDHT;4;;-4;EBMYAJ
+addRoad;UPE;DXGDRY;4;6
+getRouteDescription;71
+107;DXGDRY;0;2;SQJ;7;-3;EBMYAJ
+ ge;tRouteDescription;849
+732;OUZ 
+addRoad;UPE;VIFNAO;0;-3
+ #getRouteDescription;704 
+817;NQBDHT;8;4;VIFNAO
+ getRouteDescription;330 
+getRouteDescription;664
+648;SQJ;5;7;EBMYAJ;6;-6;OXAF
+repairRoad;EBMYAJ;WCKND;8
+repairRoad;VIFNAO;DXGDRY;8
+ #73;7;SQJ 
+repairRoad;OXAF;VIFNAO;-4
+addRoad;SQJ;SQJ;7;-6
+ 721;DXGDRY;9;8;VIFNAO;;9;9;EBMYAJ 
+repairRoad;SQJ;OUZ;0
+ addRoad;EBMYAJ;NQBDHT;0;-7 
+addRoad;OUZ;NQBDHT;5;-10
+repairRoad;CHUASSB;OXAF;8
+getRouteDescription;330
+addRoad;VIFNAO;WCKND;8;5
+getRouteDescription;246
+ #repairRoad;EBMYAJ;CHUASSB;-4; 
+893;CHUASSB;7;2;NQBDHT
+addRoad;EBMYAJ;NQBDHT;9;6
+getRouteDescription;651
+#addRoad;OUZ;OXA;F;4;-8
+getRouteDescription;160
+#addRoad;;OXAF;CHUASSB;3;2
+getRouteDescription;204
+477;OXAF;6;8;WCKND
+getRouteDescription;464
+addRoad;DXGDRY;SQJ;7;-8
+ getRouteDescription;776 
+repairRoad;NQBDHT;UPE;9
+getRouteDescription;704
+getRou;teDescription;130 
+ #r;epairRoad;DXGDRY;WCKND;-9
+ #addRoad;CHUASSB;UPE;7;-2
+ 704;;WCKND
+getRouteDescription;138
+#repairR;oad;EBMYAJ;OXAF;7
+repairRoad;EBMYAJ;OUZ;2 
+repairRoad;EBMYAJ;VIFNAO;-9
+getRouteDescription;721
+repairRoad;NQBDHT;VIFNAO;8
+getRouteDescription;542
+ #repairRoad;SQJ;O;UZ;8
+#getRouteDe;scription;424
+getRouteDescription;160
+196;CHUASSB
+ #repairRoad;NQBDHT;OUZ;-2 
+500;UPE;4;4;VIFNAO
+ getRouteDescription;330
+ getRou;teDescription;972 
+getRouteDescription;893
+getRouteDescription;817
+addRoad;DXGDRY;WCKND;6;8
+addRoad;OUZ;VIFNAO;1;-8
+getRouteDescription;376 
+getRouteDescription;396
+getRouteDescription;651
+941;NQBDHT
+335;VIFNAO
+repairRoad;OUZ;UPE;-8
+addRoad;VIFNAO;WCKND;4;0
+repairRoad;UPE;OUZ;6
+83;OXAF;6;-10;EBMY;AJ;2;4;OXAF
+getRouteDescription;893
+83;UPE;5;-8;CHUASSB;1;3;OXAF
+999;VIFNAO;4;0;CHUASSB;8;-5;VIFNAO
+addRoad;SQJ;UPE;8;0
+ 776;OXAF;4;6;OXAF;7;4;DXGDRY
+getRouteDescription;71
+repairRoad;NQBDHT;UPE;-7
+995;VIFNAO;0;-1;NQBDHT;6;-9;OUZ
+getRouteDescription;198
+repairRoad;OXAF;CHUASSB;8
+repairRoad;UPE;CHUASSB;-1
+addRoad;NQBDHT;DXGDRY;9;1
+#repairRoad;VIFNA;O;SQJ;1
+getRouteDescription;853
+; #addRoad;VIFNAO;OXAF;4;1
+addRoad;VIFNAO;VIFNAO;4;8
+addRoad;VIFNAO;SQJ;5;-1
+getRouteDescription;192
+997;OUZ;8;6;UPE;2;9;NQBDHT
+ 97;WCK;ND 
+#getRouteDescription;948 
+addRoad;NQBDHT;SQJ;8;4
+addRoad;SQJ;SQJ;6;4
+getRouteDescription;462
+ #addRoad;VIFNAO;VIFNAO;5;1 
+#612;CHUASSB 
+addRoad;OXAF;UPE;1;0
+getRouteDescription;776
+getRouteDescription;853
+repairRoad;DXGDRY;EBMYAJ;0
+getRouteDesc;ription;706 
+addRoad;DXGDRY;DXGDRY;2;-6
+621;DXGDRY;4;-2;EBMYAJ
+getRouteDescription;644
+addRoad;OXAF;NQBDHT;3;4
+repairRoad;EBMYAJ;OUZ;0
+612;VIFNAO;1;7;WCKND;1;-2;CHUASSB
+ repairRoad;OUZ;DXGDRY;-5
+addRoad;NQBDHT;UPE;3;3
+957;DXGDRY;2;5;CHUASSB;2;8;EBMYAJ
+repairRoad;SQJ;OUZ;4
+repairRoad;OXAF;VIFNAO;-7
+198;UPE;9;-4;NQBDHT;2;3;CHUASSB
+getRouteDescription;957
+130;OXAF
+getRouteDescription;259
+addRoad;SQJ;OUZ;4;0
+addRoad;NQBDHT;NQBDHT;0;-6
+addRoad;OXAF;SQJ;3;0
+repairRoad;VIFNAO;UPE;-10
+ #getRouteDescriptio;n;423 
+getRouteDescription;175
+repairRoad;OUZ;NQBDHT;-1
+repairRoad;SQJ;VIFNAO;5
+addRoad;EBMYAJ;OUZ;6;-9
+601;NQBDHT
+getRouteDescription;192
+getRouteDescription;593
+; addRoad;OXAF;VIFNAO;7;7
+ #getRouteDescription;19;8
+225;NQBDHT;6;7;CHUASSB;2;5;DXGDRY
+175;SQJ;4;8;SQJ;5;-8;VIFNAO
+getRouteDescription;46
+getRouteDescription;212
+getRouteDescription;704
+ #getRouteDescription;776 
+getRouteDescription;612
+repairRoad;UPE;WCKND;4
+getRouteDescription;324
+repairRoad;NQBDHT;WCKND;-10
+ 326;D;XGDRY 
+ 509;VIFNAO;2;-7;DXGDRY
+71;WCKND;2;4;NQBDHT
+repairRoad;EBMYAJ;DXGDRY;-2
+684;EBMYAJ;8;9;OUZ;8;9;OXAF
+ #repairRoad;NQBDHT;VI;FNAO;-8
+917;DXGDRY;7;-2;WCKND;3;-10;DXGDRY
+getRouteDescription;231
+128;OXAF
+repairRoad;VIFNAO;OUZ;3
+getRouteDescription;983
+730;OXAF;5;0;WCKND;5;-6;OXAF
+addRoad;WCKND;UPE;1;6
+getRouteD;escription;424
+ #repairRoad;VIFNAO;WCKND;0 
+repairRoad;OUZ;VIFNAO;-6
+ #39;CHUASSB
+repairRoad;OXAF;NQBDHT;-8
+getRouteDescription;578
+addRoad;CHUASSB;DXGDRY;4;9
+addRoad;VIFNAO;CHUASSB;4;1
+ 54;6;EBMYAJ;3;8;WCKND
+getRouteDescription;396
+getRouteDescription;512
+getRouteDescription;396
+getRouteDescription;782
+#getRouteDescription;948 
+#getRouteDescription;53
+getRouteDescription;68
+ #34;WCKND;5;0;O;UZ 
+getRouteDescription;757
+getRouteDescription;948
+getRouteDescription;160
+repairRoad;UPE;UPE;9
+repairRoad;CHUASSB;OXAF;2
+addRoad;NQBDHT;DXGDRY;8;-10
+repairRoad;OUZ;SQJ;-10
+repairRoad;OXAF;UPE;2
+addRoad;OXAF;VIFNAO;2;2
+#817;OUZ;9;4;DXGDRY;7;1;DXGDRY 
+addRoad;OXAF;VIFNAO;2;-10
+ #getRouteDescriptio;n;755 
+getRouteDescripti;on;751
+11;OXAF;9;9;UPE
+433;EBMYAJ;7;4;SQJ;7;-1;CHUASSB
+ #addRoa;d;OUZ;EBMYAJ;8;1
+395;WCKND
+731;CHUASSB;2;9;UPE;4;-3;UPE
+addRoad;VIFNAO;NQBDHT;4;-4 
+getRouteDescription;130
+repairRoad;EBMYAJ;DXGDRY;-3
+getRouteDescription;546
+repairRoad;DXGDRY;UPE;-3
+getRouteDescription;605
+getRouteDescription;400
+getRouteDescription;435
+repairRoad;NQBDHT;DXGDRY;3
+getRouteDescription;100
+ #addRoad;OUZ;UPE;4;6 
+addRoad;NQBDHT;NQBDHT;7;4
+addRoad;WCKND;EBMYAJ;5;4
+repairRoad;OUZ;OXAF;2
+getRouteDescription;721
+ repairRoad;EBMYAJ;OUZ;-10 
+ repairRoad;EBMYAJ;CHU;ASSB;-4
+#addRoad;NQBDHT;VIFN;AO;9;5 
+148;WCKND;6;8;EBMYAJ;6;4;SQJ
+getRouteDescription;130
+repairRoad;VIFNAO;UPE;2
+addRoad;SQJ;VIFNAO;7;7
+getRouteDescription;477
+getRouteDescription;948
+getRouteDescription;177
+addRoad;SQJ;DXGDRY;9;4
+addRoad;OXAF;UPE;1;1
+#repairRoad;UPE;E;BMYAJ;-6 
+775;NQBDHT;6;3;OXAF;9;-8;DXGDRY
+repairRoad;CHUASSB;OUZ;8
+ #addRoad;SQJ;UPE;1;-3
+getRouteDescription;601
+addRoa;d;DXGDRY;NQBDHT;2;-3
+repairRoad;EBMYAJ;EBMYAJ;3
+ #addRoad;WCKND;DXGDRY;9;-6 
+getRouteDescription;202
+getRouteDescription;782
+repairRoad;OUZ;CHUASSB;5
+11;OXAF;4;1;OXAF;1;-3;NQBDHT
+repairRoad;EBMYAJ;WCKND;-9
+getRouteDescription;138
+ getRout;eDescription;817
+repairRoad;SQJ;EBMYAJ;-7
+getRouteDescription;330
+#repairRoad;EBMYAJ;OUZ;4
+#704;EBMYAJ;9;5;EBMYA;J
+getRouteDescription;257
+addRoad;NQBDHT;DXGDRY;0;-1
+addRoad;VIFNAO;NQBDHT;;2;3
+addRoad;OXAF;OUZ;8;-2
+457;SQJ;0;3;CHUASSB;1;6;WCKND
+addRoad;OUZ;OXAF;2;-10
+getRouteDescription;542
+343;CHUASSB;1;2;OXAF;2;-9;NQBDHT
+9;VIFNAO
+getRouteDescription;664
+repairRoad;DXGDRY;DXGDRY;-4
+getRouteDescription;517
+addRoad;WCKND;VIFNAO;0;5
+getRouteDescription;424
+getRouteDescription;138
+ #addRoad;VIFNAO;SQJ;7;9
+addRoad;SQJ;OUZ;5;6
+776;DXGDRY
+452;WCKND
+ addRoad;EBMYAJ;NQBDHT;7;-3 
+ #getRouteDescription;138 
+getRouteDescription;512
+addRoad;EBMYAJ;DXGDRY;4;-3
+addRoad;DXGDRY;UPE;8;2
+getRouteDescription;78
+repairRoad;WCKND;NQBDHT;-3
+repairRoad;DXGDRY;NQBDHT;9
+getRouteDescription;83
+addRoad;OXAF;CHUASSB;5;5
+ 660;;OUZ;4;0;EBMYAJ 
+330;UPE;0;-1;NQBDHT
+#;getRouteDescription;957
+getRouteDescription;170
+72;OXAF;2;-7;WCKND;7;-8;CHUASSB
+296;OUZ;7;8;CHUASSB
+addRoad;CHUASSB;NQBDHT;7;1 
+ 776;EBMYAJ;0;-8;SQJ;3;1;VIFNAO 
+996;WCKND;3;7;SQJ
+getRouteDescription;308
+261;OXAF
+getRouteDescription;765
+#re;pairRoad;SQJ;OXAF;-5
+#addRoad;WCKND;DXGDRY;2;1
+repairRoad;UPE;OXAF;-5 
+addRoad;OXAF;OXAF;4;-5
+getRouteDescription;957
+getRouteDescription;776
+addRoad;EBMYAJ;UPE;2;1 
+getRouteDescription;363
+repairRoad;WCKND;CHUASSB;-7
+getRouteDescription;600
+26;SQJ;9;6;CHUASSB
+997;UPE;1;-9;VIFNAO;0;3;OUZ
+repairRoad;EBMYAJ;VIFNAO;-9
+getRouteDescription;542
+addRoad;CHUASSB;WCKND;8;-1
+addRoad;WCKND;DXGDRY;3;-6
+getRouteDescription;704
+getRouteDescription;948
+repairRoad;OXAF;VIFNAO;-10
+repairRoad;EBMYAJ;EBMYAJ;-8
+getRouteDescription;600
+getRouteDescription;198
+getRouteDescription;972
+357;NQBDHT;2;7;VIFNAO;1;8;VIFNAO
+repairRoad;SQJ;DXGDRY;7
+repairRoad;DXGDRY;OUZ;4
+addRoad;NQBDHT;DXGDRY;1;-2
+getRouteDescription;188
+#repairRoad;EB;MYAJ;WCKND;-3
+repairRoad;CHUASSB;VIFNAO;-9
+ #getRouteDescription;834; 
+getRouteDescription;302
+getRouteDescription;198
+repairRoad;WCKND;EBMYAJ;9 
+997;UPE;8;5;VIFNAO
+addRoad;WCKND;DXGDRY;5;-7
+getRouteDescription;782
+repairRoad;DXGDRY;UPE;0
+796;WCKND;4;-7;WCKND
+738;CHUASSB;9;1;WCKND;6;-8;CHUASSB
+824;CHUASSB;3;-1;NQBDHT;2;6;NQBDHT
+addRoad;OUZ;UPE;9;-10
+getRouteDescription;893
+repairRoad;EBMYAJ;DXGDRY;4
+533;WCKND;5;-7;WCKND
+addRoad;EBMYAJ;DXGDRY;9;3
+ #addRoad;WCKND;WCKND;5;-1 
+getRouteDescription;948
+addRoad;VIFNAO;WCKND;4;-4
+114;CHUASSB;2;9;EBMYAJ
+ addRoa;d;SQJ;CHUASSB;2;2 
+addRoad;WCKND;SQJ;4;-1
+getRouteDescription;997
+ 281;WCKN;D
+ addRoad;UPE;;SQJ;2;3 
+getRouteDescrip;tion;997 
+repairRoad;OUZ;NQBDHT;-9
+addRoad;OXAF;OXAF;6;;3
+repairRoad;OXAF;SQJ;-4
+repairRoad;CHUASSB;OUZ;-10
+ #getRouteDescription;704 
+addRoad;CHUASSB;SQJ;0;-5
+addRoad;VIFNAO;VIFNAO;6;7 
+817;DXGDRY
+repairRoad;VIFNAO;UPE;-6
+838;CHUASSB;6;8;SQJ
+getRouteDescription;871
+repairRoad;DXGDRY;WCKND;6
+addRoad;EBMYAJ;OUZ;7;7
+648;VIFNAO;4;-2;NQBDHT
+#151;WCKND;9;-2;CHUASSB;0;-4;;CHUASSB 
+repairRoad;EBMYAJ;WCKND;-2
+getRouteDescription;296
+getRouteDescription;424
+getRouteDescription;542
+getRouteDescription;83
+repairRoad;EBMYAJ;CHUASSB;9
+550;WCKND
+10;WCKND;3;9;CHUASSB;2;5;DXGDRY
+getRouteDescription;170
+211;OXAF;7;3;NQBDHT;6;5;UPE
+ #repairRoad;DXGDRY;UPE;0; 
+#getRouteDescription;7;21
+addRoad;SQJ;NQBDHT;9;7
+repairRoad;VIFNAO;SQJ;-7
+ #554;OUZ;4;-8;SQJ 
+#getRouteDescript;ion;175
+addRoad;OXAF;SQJ;7;0
+repairRoad;DXGDRY;EBMYAJ;-10
+addRoad;DXGDRY;SQJ;1;-8
+#getRouteDescripti;on;225
+addRoad;OXAF;DXGDRY;1;-5
+#83;SQJ
+ 64;5;VIFNAO;3;9;OUZ 
+ getRouteDescriptio;n;322
+#getRouteDescription;;640 
+repairRoad;DXGDRY;OUZ;1
+addRoad;VIFNAO;WCKND;7;7
+getRouteDescription;853
+addRoad;NQBDHT;OUZ;8;8
+repairRoad;OXAF;C;HUASSB;-9
+repairRoad;SQJ;NQBDHT;4
+addRoad;SQJ;VIFNAO;0;-1
+addRoad;NQBDHT;DXGDRY;1;7
+repairRoad;SQJ;DXGDRY;3
+repairRoad;OUZ;WCKND;-5
+getRouteDescription;841
+repairRoad;CHUASSB;OXAF;2
+ re;pairRoad;OUZ;DXGDRY;2
+ #getRo;uteDescription;296
+ repairRo;ad;DXGDRY;UPE;0 
+getRouteDescription;558
+addRoad;WCKND;CHUASSB;6;-6
+972;EBMYAJ
+addRoad;EBMYAJ;NQBDHT;7;-6
+126;VIFNAO;5;-9;NQBDHT;0;1;OXAF
+1;EBMYAJ
+777;CHUASSB;1;-10;DXGDRY
+addRoad;UPE;NQBDHT;6;-3
+repairRoad;OXAF;DXGDRY;-6
+getRouteDescription;787
+addRoad;SQJ;DXGDRY;8;2
+repairRoad;DXGDRY;EBMYAJ;4
+repairRoad;EBMYAJ;OUZ;-7
+rep;airRoad;EBMYAJ;DXGDRY;-7
+getRouteDescription;198
+getRouteDescription;464
+addRoad;DXGDRY;EBMYAJ;6;-1
+addRoad;VIFNAO;OXAF;2;3
+getRouteDescription;565
+#addRo;ad;OXAF;CHUASSB;2;-4 
+getRouteDescription;645
+827;VIFNAO;9;-6;VIFNAO;7;-3;EBMYAJ
+repairRoad;OXAF;VIFNAO;-6
+getRouteDescription;330
+745;OXAF;8;9;OUZ
+getRouteDescription;623
+getRouteDescription;553
+addRoad;CHUASSB;EBMYAJ;8;-4
+777;NQBDHT
+0;SQJ;3;4;NQBDHT;5;7;VIFNAO
+ #684;WCKND;6;5;DXGDRY;5;8;DXGDRY
+816;SQJ;1;-1;NQBDHT
+#getRouteDescription;26
+addRoad;VIFNAO;SQJ;0;3
+;getRouteDescription;972 
+addRoad;OUZ;WCKND;3;-2
+addRoad;DXGDRY;VIFNAO;6;3
+0;DXGDRY;6;0;NQBDHT;8;-1;DXGDRY
+addRoad;OUZ;SQJ;8;6
+repairRoad;OXAF;EBMYAJ;-2
+repairRoad;SQJ;OUZ;1 
+473;DXGDRY;9;9;UPE
+addRoad;WCKND;DXGDRY;2;-6
+getRouteDescription;665
+repairRoad;UPE;WCKND;-8
+repai;rRoad;UPE;WCKND;4
+#837;EBMYAJ;6;0;OUZ
+getRouteDescription;225
+getRouteDescription;782
+11;NQBDHT
+repairRoad;UPE;OUZ;;9 
+repairRoad;WCKND;CHUASSB;-5
+repairRoad;VIFNAO;WCKND;5
+repairRoad;CHUASSB;OXAF;-7
+addRoad;NQBDHT;VIFNAO;0;1
+663;SQJ;4;-5;VIFNAO;8;4;VIFNAO
+459;EBMYAJ
+repairRoad;WCKND;EBMYAJ;5
+ addRoad;CHUASSB;EBMYAJ;5;7 
+getRouteDescription;225
+addRoad;UPE;DXGDRY;6;-8
+ #repairRoad;;DXGDRY;UPE;-10
+addRoad;VIFNAO;NQBDHT;1;5
+251;OXAF;5;4;VIFNAO;6;-1;VIFNAO
+addRoad;UPE;OUZ;0;-7
+addRoad;EBMYAJ;CHUASSB;9;2
+repairRoad;SQJ;OXAF;-2
+getRouteDescription;47
+addRoad;VIFNAO;OXAF;4;0
+ #0;WCKND;0;-8;EBMYAJ;4;4;OXAF 
+#addRoad;OUZ;DXGDRY;3;-3
+repairRoad;NQBDHT;DXGDRY;-10
+19;CHUASSB
+ addRoad;CHUASSB;NQBDHT;5;3 
+addRoad;UPE;CHUASSB;1;2
+repairRoad;EBMYAJ;OUZ;6
+addRoad;SQJ;EBMYAJ;3;2
+4;SQJ;3;3;OXAF;6;0;DXGDRY
+getRouteDe;scription;610
+getRouteDescription;782
+getRouteDescription;746
+addRoad;EBMYAJ;UPE;1;3
+getRouteDescription;225
+ repairR;oad;CHUASSB;OXAF;-4
+addRoad;WCKND;OUZ;2;0 
+getRouteDescription;296
+addRoad;EBMYAJ;EBMYAJ;2;4
+; #addRoad;NQBDHT;DXGDRY;8;-3
+#addRoa;d;WCKND;UPE;9;1 
+getRouteDescription;10
+repairRoad;SQJ;DXGDRY;-6
+#addRoad;UPE;CHUASSB;2;5 
+repairRoad;OUZ;VIFNAO;8
+repairRoad;NQBDHT;VIFNAO;0
+#getRouteDescrip;tion;114 
+468;WCKND 
+repairRoad;NQBDHT;DXGDRY;8
+addRoad;OXAF;OXAF;5;-3
+ repairRoad;;EBMYAJ;WCKND;8
+addRoad;CHUASSB;OUZ;4;0 
+646;WCKND;0;1;EBMYAJ;9;-10;SQJ
+ getRou;teDescription;645 
+addRoad;OXAF;EBMYAJ;6;7
+repairRoad;SQJ;WCKND;-1
+repairRoad;OUZ;VIFNAO;5 
+getRouteDescription;464
+getRouteDescription;648
+ getRouteDescription;211
+repairRoad;SQJ;CHUASSB;-10
+ 339;VIFNAO;0;6;OUZ;6;-5;VIFNAO 
+r;epairRoad;EBMYAJ;CHUASSB;-1 
+883;EBMYAJ;3;-2;NQBDHT;0;5;VIFNAO
+repairRoad;UPE;OUZ;-2
+459;NQBDHT;6;8;CHUASSB;3;5;VIFNAO
+getRouteDescription;893
+297;NQBDHT
+getRouteDescription;424
+getRouteDescription;114
+addRoad;OXAF;OXAF;3;0
+repairRoad;UPE;NQB;DHT;-6 
+repairRoad;SQJ;OUZ;2
+addRoad;NQBDHT;NQBDHT;1;7
+198;OUZ;3;-1;WCKND
+getRouteDescription;487
+#ad;dRoad;CHUASSB;OUZ;7;7 
+addRoad;OXAF;NQBDHT;9;-4
+785;;SQJ;6;4;UPE
+4;NQBDHT;1;1;UPE
+529;NQBDHT;7;9;VI;FNAO
+935;DXGDRY;7;6;WCKND
+ #repairRoad;SQJ;UPE;9
+#addRoad;SQJ;OXAF;2;5 
+addRoad;DXGDRY;OXAF;7;-10
+getRouteDescription;808
+getRouteDescription;979
+211;WCKND;7;-9;OXAF;8;-4;WCKND
+addRoad;NQBDHT;VIFNAO;1;3
+repairRoad;UPE;VIFNAO;-1
+#repairRoad;WCKND;DXGDRY;-4
+957;DXGDRY;3;5;VIFNAO
+; #getRouteDescription;948 
+getRouteDescription;776
+repairRoad;EBMYAJ;EBMYAJ;-6
+ #893;WCKND;8;6;VIFNAO;5;0;CHUASSB
+309;EBMYAJ;0;-3;DXGDRY;3;2;SQJ
+387;DXGDRY;7;-7;WCKND
+#;getRouteDescription;114 
+addRoad;NQBDHT;EBMYAJ;5;8
+getRouteDescription;775
+addRoad;NQBDHT;WCKND;0;9
+972;SQJ;3;3;CHUASSB
+addRoad;OUZ;OXAF;2;-5
+repairRoad;CHUASSB;VIFNAO;0
+addRoad;DXGDRY;WCKND;6;-5
+repairRoad;DXGDRY;EBMYAJ;-5
+addRoad;UPE;SQJ;4;9
+repairRoad;CHUASSB;UPE;5
+ repairRoad;E;BMYAJ;UPE;-3
+600;OXAF;5;9;SQJ;1;9;SQJ
+#addRoad;OXAF;CHUASSB;1;-1 
+getRouteDescription;83
+addRoad;UPE;CHUASSB;8;7
+repairRoad;OXAF;OUZ;-5
+getRouteDescription;682
+71;DXGDRY;1;9;VIFNAO
+getRouteDescription;841
+ #repair;Road;EBMYAJ;VIFNAO;1 
+repairRoad;SQJ;VIFNAO;3
+repairRoad;WCKND;WCKND;-1
+861;OUZ;7;-3;VIFNAO
+addRoad;OUZ;DXGDRY;8;-7
+198;WCKND
+getRouteDescription;109
+repairRoad;CHUASSB;VIFNAO;0
+ addRoad;UPE;DXGDRY;5;-;9
+998;DXGDRY
+ 837;WCKND;3;-7;DXGDRY;6;7;UPE 
+addRoad;SQJ;NQBDHT;9;-6
+getRouteDescription;211
+repairRoad;OUZ;EBMYAJ;3
+ #getRouteDescription;745 
+894;EBMYAJ;0;-5;OUZ
+534;NQBDHT;0;-4;CHUASSB;1;-3;SQJ
+ repairRoad;CHUASSB;EBMYAJ;-10 
+ #repairRo;ad;VIFNAO;UPE;-2
+repairRoad;EBMYAJ;VIFNAO;-7
+getRouteDescription;459
+ #addRoad;EBMYAJ;UPE;7;9 
+ 873;OXAF;2;1;EBMYAJ;2;5;SQJ
+ #596;UP;E;7;7;EBMYAJ 
+getRouteDescription;138
+addRoad;DXGDRY;WCKND;2;-10
+addRoad;OUZ;NQBDHT;2;6
+addRoad;WCKND;EBMYAJ;7;;9
+127;OXAF;8;6;VIFNAO;2;4;OXAF
+getRouteDescription;177
+getRouteDescription;645
+getRouteDescription;222
+repairRoad;NQBDHT;WCKND;-7
+repairRoad;SQJ;UPE;9
+addRoad;NQBDHT;SQJ;4;8
+521;CHUASSB
+repairRoad;VIFNAO;CHUASSB;1
+addRoad;NQBDHT;NQBDHT;7;0
+180;DXGDRY;1;7;SQJ
+getRouteDescription;10
+801;CHUASSB;1;-6;UPE
+addRoad;OUZ;UPE;2;-4
+repairRoad;OXAF;UPE;-10
+596;EBMYAJ
+90;NQBDHT;1;7;OUZ;2;-10;WCKND
+addRoad;CHUASSB;CHUASSB;3;-4
+ repairRoad;EBMYAJ;WCKND;1 
+405;DXGDRY;5;-3;OUZ;9;4;UPE
+repairRoad;SQJ;SQJ;0
+560;SQJ
+96;DXGDRY;8;5;OXAF;7;2;UPE
+586;NQBDHT;5;5;OUZ 
+ ;repairRoad;OXAF;CHUASSB;-8 
+addRoad;VIFNAO;WCKND;9;-5
+addRoad;EBMYAJ;DXGDRY;5;-6
+ ;addRoad;SQJ;DXGDRY;5;4 
+addRoad;VIFNAO;SQJ;1;4
+839;NQBDHT;3;7;EBMYAJ;8;9;OUZ
+getRouteDescription;586
+getRouteDescription;16;0
+addRoad;EBMYAJ;CHUASSB;1;-4
+ getRouteDescription;137
+71;CHUASSB;1;-1;VIFNAO
+796;EBMYAJ;9;-8;CHUASSB;1;-8;OXAF
+0;EBMYAJ
+963;DXGDRY;6;9;NQBDHT
+repairRoad;EBMYAJ;OUZ;4
+getRouteDescription;648
+getRouteDescription;629
+getRouteDescription;138
+ addRoad;WCKND;OXAF;3;-10
+ 114;OXAF;;8;1;EBMYAJ
+getRouteDescription;963
+getRouteDescription;684
+repairRoad;EBMYAJ;VIFNAO;-7
+782;EBMYAJ;4;-5;VIFNAO;4;7;VIFNAO
+396;OUZ;1;-10;DXGDRY
+repairRoad;UPE;VIFNAO;9
+getRouteDescription;293
+addRoad;NQBDHT;DXGDRY;4;-4
+#getRouteDescription;745
+ getRouteDescription;721
+getRouteDescription;600
+14;OXAF;2;8;WCKND
+repairRoad;CHUASSB;OUZ;-3
+repairRoad;VIFNAO;NQBDHT;-2
+repairRoad;SQJ;UPE;5
+repairRoad;EBMYAJ;EBMYAJ;2
+914;VIFNAO;5;-9;NQBDHT
+getRouteDescription;839
+addRoad;VIFNAO;DXGDRY;5;2
+addRoad;EBMYAJ;DXGDRY;3;7
+repairRoad;OXAF;NQBDHT;9
+77;OUZ;8;6;UPE
+repairRoad;CHUASSB;UPE;-10
+repairRoad;UPE;;DXGDRY;-2
+56;VIFNAO;0;-3;DXGDRY
+repairRoad;NQBDHT;SQJ;-5
+ #addRoad;NQBDHT;DX;GDRY;5;-6 
+getRouteDescription;972
+getRouteDescription;477
+getRouteDescription;782
+getRouteDescription;779
+ #repairRoad;;DXGDRY;WCKND;7
+ #repairRoad;UPE;UPE;-10
+addRoad;DXGDRY;UPE;1;0
+ #addRoad;OUZ;SQJ;8;-8
+addRoad;UPE;DXGDRY;5;3
+addRoad;OUZ;NQBDHT;8;-4
+#a;ddRoad;UPE;OXAF;3;-1 
+#addRoad;WCKND;OXAF;1;4
+repairRoad;DXGDRY;UPE;6
+ #repairRoad;SQJ;OXAF;-5
+ 130;SQJ 
+getRouteDescription;792
+repairRoad;CHUASSB;CHUASSB;-1
+ #repairRoad;WCKND;WCKND;4 
+#repa;irRoad;NQBDHT;WCKND;8
+addRoad;DXGDRY;CHUASSB;7;-1
+464;NQBDHT
+ #addRoad;NQBDHT;CHUASSB;3;1
+getRouteDescription;330
+addRoad;VIFNAO;OUZ;3;-6
+583;VIFNAO;1;5;DXGDRY
+repairRoad;CHUASSB;UPE;-4
+addRoad;SQJ;DXGDRY;3;-8
+ #repair;Road;SQJ;UPE;-3
+getRouteDescription;261
+addRoad;WCKND;CHUASSB;4;-5 
+121;CHUASSB;9;3;VIFNAO;1;-3;NQBDHT 
+addRoad;UPE;VIFNAO;8;-2
+getRouteDescription;1
+ repairRo;ad;UPE;UPE;-6 
+addRoad;SQJ;OXAF;8;-4
+ #566;DXGDRY;9;1;VIFNAO;5;1;VIFNAO 
+repairRoad;UPE;OUZ;5
+repairRoad;EBMYAJ;CHUASSB;-2
+repairRoad;EBMYAJ;DXGDRY;8
+getRouteDescription;10
+getRouteDescription;10
+getRouteDescription;586
+addRoad;WCKND;OUZ;4;4
+ repairRoad;SQJ;NQBDHT;;2
+getRouteDescription;821
+#repairRoad;EBMYAJ;WCKND;-2
+repairRoad;EBMYAJ;OXAF;-7
+ #584;EBMYAJ;0;-9;EBMYAJ
+repairRoad;SQJ;CHUASSB;8
+repairRoad;NQBDHT;OUZ;-5
+addRoad;EBMYAJ;OXAF;5;-4
+addRoad;EBMYAJ;CHUASSB;4;-3
+repairRoad;NQBDHT;SQJ;-3
+repairRoad;SQJ;CHUASSB;-10
+addRoad;WCKND;OUZ;1;-3
+ #getRouteDescription;776
+ getRouteDescription;114
+727;UPE;2;9;NQBDHT;7;9;VIFNAO
+repairRoad;EBMYAJ;SQJ;3
+getRouteDescription;776
+330;VIFNAO;7;3;OXAF;7;-10;UPE
+462;OUZ
+addRoad;SQJ;CHUASSB;0;3
+getRouteDescription;745
+ repairRoad;EBMYAJ;DXGDRY;6 
+repairRoad;EBMYAJ;UPE;-8
+#addRoad;VIFNAO;WCKND;7;-1
+0;VIFNAO;3;2;OXAF;6;-9;UPE
+repairRoad;OUZ;VIFNAO;-5 
+ repairRoad;OXAF;EBMYAJ;-5
+#getRouteDescription;996
+768;WCKND;6;1;SQJ;5;-5;SQJ
+ getRouteDescription;600 
+ addRoad;;WCKND;SQJ;9;-4 
+addRoad;EBMYAJ;VIFNAO;6;-9
+addRoad;WCKND;SQJ;1;7
+getRouteDescription;893
+addRoad;SQJ;WCKND;0;2
+ rep;airRoad;SQJ;UPE;-8
+addRoad;VIFNAO;EBMYAJ;5;0
+ #ge;tRouteDescription;54
+getRouteDescription;839
+getRouteDescription;262
+addRoad;VIFNAO;WCKND;4;5
+getRouteDescription;;204
+540;WCKND
+getRouteDescription;596
+addRoad;EBMYAJ;NQBDHT;2;6
+675;VIFNAO;7;1;EBMYAJ;3;-10;EBMYAJ
+948;EBMYAJ;9;7;DXGDRY
+addRoad;OXAF;VIFNAO;0;-3
+189;OXAF;6;-6;UPE;9;1;NQBDHT
+getRouteDescription;776
+addRoad;OXAF;DXGDRY;2;3
+repairRoad;UPE;SQJ;-5
+ repairRoad;UPE;WCKND;-8 
+getRouteDescription;477
+addRoad;SQJ;DXGDRY;7;-4
+repairRoad;CHUASSB;OXAF;5
+addRoad;VIFNAO;DXGDRY;3;9
+repairRoad;OXAF;DXGDRY;1
+repairRoad;NQBDHT;UPE;-7
+repairRoad;UPE;WCKND;-5
+repairRoad;EBMYAJ;SQJ;2
+repairRoad;CHUASSB;VIFNAO;2
+ #repairRoad;DXGDRY;UPE;;-9 
+addRoad;CHUASSB;UPE;2;-3
+#getRouteDescription;92
+repairRoad;NQBDHT;EBMYAJ;9
+getRouteDescription;957
+repairRoad;CHUASSB;UPE;-3
+getRouteDescription;138
+addRoad;SQJ;UPE;9;-9
+repairRoad;SQJ;OXAF;0
+345;EBMYAJ;1;6;OXAF;1;-2;SQJ
+getRouteDescription;83
+ #getRouteDescription;283
+366;SQJ;5;5;UPE
+addRoad;NQBDHT;VIFNAO;7;6
+repairRoad;OXAF;WCKND;-1
+repai;rRoad;OXAF;UPE;-7
+repairRoad;OXAF;NQBDHT;8
+#852;;WCKND;2;8;OUZ;1;6;SQJ 
+getRouteDescription;387
+ 643;D;XGDRY;6;0;UPE
+ #getRouteDescription;5;42 
+getRouteDescript;ion;963 
+getRouteDescription;26
+g;etRouteDescription;180
+addRoad;EBMYAJ;UPE;9;6
+getRouteDescription;973
+489;NQBDHT
+getRouteDescription;363
+addRoad;OUZ;OXAF;9;0
+43;NQBDHT;5;0;OXAF 
+addRoad;DXGDRY;OXAF;9;-7
+repairRoad;NQBDHT;OUZ;-2
+addRoad;UPE;NQBDHT;5;-5
+585;VIFNAO;4;0;EBMYAJ
+repairRoad;CHUASSB;WCKND;;-9
+#rep;airRoad;WCKND;WCKND;5 
+#ad;dRoad;OXAF;UPE;0;-5
+ #repairRoad;CHUASSB;NQBDHT;;-4 
+ #repairRoad;SQJ;OUZ;-7 
+ repairRoad;WCKND;UPE;-6
+addRoad;EBMYAJ;NQBDHT;8;-1
+#repairRoad;OXAF;NQBDHT;5; 
+repairRoad;EBMYAJ;OXAF;8
+addRoad;OXAF;OXAF;6;-4
+getRouteDescription;515
+repairRoad;EBMYAJ;SQJ;-9
+addRoad;CHUASSB;CHUASSB;0;5
+#160;CHUASSB;3;-8;EBMYAJ;8;-9;;OXAF
+192;EBMYAJ
+getRouteDescription;396
+addRoad;WCKND;OXAF;1;9
+ rep;airRoad;OXAF;CHUASSB;-4 
+repairRoad;EBMYAJ;EBMYAJ;0
+330;CHUASSB
+getRouteDescription;584
+repairRoad;OUZ;DXGDRY;-5
+343;OUZ;1;3;OXAF;1;0;NQBDHT
+getRouteDescription;114
+471;VIFNAO;2;2;OUZ;0;7;EBMYAJ
+745;CHUASSB;1;6;CHUASSB;6;2;OXAF
+#addRoad;EBMYAJ;O;UZ;2;3 
+addRoad;OUZ;OXAF;0;1 
+#addRoad;UPE;OXAF;5;8
+948;OXAF;0;1;DXGDRY
+repairRoad;OUZ;SQJ;9
+getRouteDescription;825
+repairRoad;NQBDHT;VIFNAO;4
+addRoad;SQJ;NQBDHT;6;-2
+repairRoad;OXAF;NQBDHT;8
+getRouteDescription;160
+#10;WCKND
+repairRoad;SQJ;CHUASSB;0
+851;DXGDRY;5;3;UPE
+addRoad;WCKND;VIFNAO;7;-2
+addRoad;SQJ;;OUZ;4;2 
+addRoad;WCKND;CHUASSB;1;-7
+ getRouteDesc;ription;26 
+repairRoad;EBMYAJ;NQBDHT;0
+repairRoad;SQJ;WCKND;5
+ #repairRo;ad;DXGDRY;DXGDRY;-1 
+addRoad;NQBDHT;SQJ;4;-4
+repairRoad;VIFNAO;DXGDRY;-1
+addRoad;SQJ;EBMYAJ;3;4
+repairRoad;SQJ;OXAF;7
+ #;addRoad;VIFNAO;WCKND;6;-1 
+repairRoad;CHUASSB;OUZ;-9
+957;WCKND
+47;DXGDRY
+192;UPE;8;-3;UPE
+654;CHUASSB;4;-6;UPE;2;5;SQJ
+getRouteDescription;459
+addRoad;DXGDRY;CHUASSB;6;4
+ #getRouteDescript;ion;64 
+repairRoad;EBMYAJ;WCKND;7
+addRoad;SQJ;DXGDRY;5;-5
+getRouteDescription;648
+getRouteDescription;192
+481;OUZ;2;0;CHUASSB
+101;DXGDRY;7;-10;VIFNAO;2;7;VIFNAO
+getRouteDescription;776
+repairRoad;OUZ;VIFNAO;-3
+getRouteDescription;900
+getRouteDescription;841
+ addRoad;DXGDRY;SQ;J;4;-1
+addRoad;VIFNAO;CHUASSB;5;1
+ addRoad;NQBDHT;OXAF;0;8 
+ repairRoad;C;HUASSB;VIFNAO;-10 
+repairRoad;EBMYAJ;CHUASSB;-5
+ #add;Road;VIFNAO;EBMYAJ;0;-8
+#addRoad;VIFNAO;NQBDHT;9;0
+853;OUZ;8;6;EBMYAJ;9;3;OXAF
+611;UPE
+ 47;CHUASSB 
+getRouteDescription;215
+479;NQBDHT
+713;OUZ;8;-6;EBMYAJ
+addRoad;EBMYAJ;EBMYAJ;0;-3
+addRoad;SQJ;EBM;YAJ;8;-6
+getRouteDescription;931
+addRoad;SQJ;SQJ;3;5
+getRouteDescription;596
+getRouteDescription;138
+getRouteDescription;462
+getRouteDescription;782
+repairRoad;DXGDRY;UPE;1
+ addRoad;OUZ;VIFNAO;3;-1 
+addRoad;NQBDHT;DXGDRY;3;-7
+ addRoad;NQBDHT;WCKND;2;-3
+817;WCKND;7;7;EBMYAJ;;1;6;CHUASSB 
+getRouteDescription;119
+addRoad;CHUASSB;WCKND;5;5
+160;NQBDHT;1;7;EBMYAJ 
+670;EBMYAJ;5;-2;NQBDHT
+getRouteDescription;704
+repairRoad;CHUASSB;VIFNAO;9
+0;OUZ;6;2;EBMYAJ;6;9;NQBDHT
+repairRoad;CHUASSB;NQBDHT;2
+addRoad;DXGDRY;NQBDHT;7;-1
+getRouteDescription;727
+562;CHUASSB;1;0;WCKND
+addRoad;UPE;EBMYAJ;6;-3
+180;SQJ;3;;0;SQJ;9;2;NQBDHT
+708;CHUASSB;3;5;UPE;4;9;SQJ
+repa;irRoad;EBMYAJ;VIFNAO;9 
+375;VIFNAO
+ #ge;tRouteDescription;512 
+repairRoad;OUZ;CHUASSB;-7
+getRouteDescription;600
+repairRoad;EBMYAJ;OUZ;-8
+getRouteDescription;852
+704;OUZ
+repairRoad;VIFNAO;EBMYAJ;0
+getRouteDescription;11
+addRoad;CHUASSB;WCKND;8;-6
+addRoad;CHUASSB;VIFNAO;2;-10
+ 839;OX;AF;6;-9;VIFNAO
+684;UPE
+getRouteDescription;600
+ addRoad;;WCKND;OXAF;0;-8
+addRoad;EBMYAJ;DXGDRY;8;-4
+564;SQJ
+605;CHUASSB
+repairRoad;OUZ;NQBDHT;6
+addRoad;VIFNAO;SQJ;2;-1
+452;VIFNAO;6;5;OXAF;3;7;DXGDRY
+#getRouteDescription;464 
+repairRoad;WCKND;EBMYAJ;5
+211;DXGDRY
+417;OXAF;1;1;EBMYAJ
+addRoad;OUZ;SQJ;7;-2
+getRouteDescription;969
+addRoad;SQJ;CHUASSB;6;-7
+ 49;2;OXAF;4;-10;SQJ;9;2;NQBDHT 
+addRoad;OUZ;CHUASSB;5;-6
+#727;UPE;6;4;OUZ
+getRouteDescription;462
+addRoad;VIFNAO;VIFNAO;8;7
+repairRoad;UPE;NQBDHT;-4
+getRouteDescription;180
+859;OUZ;5;6;NQBDHT
+getRouteDescription;596
+getRouteDescription;192
+addRoad;DXGDRY;EBMYAJ;3;-5
+0;DXGDRY
+getRouteDescription;593
+ getRouteDescription;602
+repairRoad;UPE;EBMYAJ;-2
+addRoad;NQBDHT;OXAF;6;3
+addRoad;DXGDRY;VIFNAO;7;-4
+repairRoad;NQBDHT;EBMYAJ;-1
+repairRoad;EBMYAJ;OUZ;-4
+410;SQJ;2;-3;WCKND
+addRoad;SQJ;OXAF;8;2
+getRouteDescription;645
+470;WCKND;1;-4;WCKND
+169;WCKND;8;0;UPE;7;-5;EBMYAJ
+#repairRoad;VIFNAO;EBMYAJ;4
+518;UPE;1;7;UPE
+repairRoad;OUZ;DXGDRY;6
+ #56;D;XGDRY 
+948;EBMYAJ;7;5;CHUASSB
+repairRoad;OXAF;OXAF;-9
+getRouteDescription;114
+addRoad;UPE;DXGDRY;5;-6
+repairRoad;SQJ;CHUASSB;-6
+841;SQJ;9;-5;WCKND
+addRoad;UPE;WCKND;1;-7
+repairRoad;EBMYAJ;UPE;-2
+addRoad;OXAF;OUZ;5;-8
+getRouteDescription;11
+949;OXAF;5;7;EBMYAJ;6;9;VIFNAO
+addRoad;UPE;DXGDRY;3;8
+#addRoad;OXAF;SQJ;5;-10
+926;WCKND
+repairRoad;CHUASSB;UPE;8
+getRouteDescription;459
+getRouteD;escription;71
+addRoad;OUZ;EBMYAJ;1;-6
+addRoad;CHUASSB;EBMYAJ;4;-4
+addRoad;SQJ;WCKND;4;-6
+535;OXAF
+984;VIFNAO;5;9;VIFNAO;5;5;SQJ
+getRouteDescription;593
+repairRoad;VIFNAO;DXGDRY;8
+addRoad;DXGDRY;OUZ;4;-6
+repairRoad;EBMYAJ;CHUASSB;6
+getRouteDescription;342
+repairRoad;CHUASSB;DXGDRY;-;2 
+getRouteDescri;ption;866
+getRouteDescription;529
+addRoad;EBMYAJ;DXGDRY;4;-10
+addRoad;VIFNAO;OUZ;2;0
+ #addRoad;VIFNAO;VIFNAO;6;-10 
+addRoad;WCKND;DXGDRY;5;-1
+addRoad;CHUASSB;NQBDHT;6;8
+;133;OXAF 
+repairRoad;SQJ;VIFNAO;-4
+addRoad;VIFNAO;VIFNAO;9;-1
+addRoad;UPE;EBMYAJ;0;5
+#repairRoad;VIFNAO;OUZ;2 
+ repairRoad;;CHUASSB;WCKND;-10
+905;UPE;0;-1;SQJ
+33;VIFNAO;3;9;OUZ;7;8;CHUASSB
+repairRoad;CHUASSB;OXAF;7
+getRouteDescription;;727 
+ addRoad;WCKN;D;WCKND;4;7 
+ #getRouteDescription;83
+addRoad;VIFNAO;CHUASSB;5;1
+ #repairRoad;OXAF;VIFNAO;6 
+getRouteDescription;388
+ addRoad;EBMYAJ;SQJ;7;-5 
+ #727;EBMYAJ;0;-8;WCKND
+addRoad;DXGDRY;OXAF;7;-7
+984;SQJ;9;8;VIFNAO;2;9;UPE
+getRout;eDescription;47 
+#repairRoad;OXAF;NQBDHT;0 
+addRoad;EBMYAJ;UPE;5;0
+getRouteDescription;708
+getRouteDescription;891
+repairRoad;EBMYAJ;OXAF;-3
+repairRoad;UPE;VIFNAO;-9
+addRoad;NQBDHT;WCKND;2;-7
+ addRoad;CHUASSB;DXGDRY;6;-3
+repairRoad;NQBDHT;VIFNAO;3
+repairRoad;SQJ;VIFNAO;5
+addRoad;VIFNAO;OUZ;9;5
+972;DXGDRY;1;-1;OXAF
+getRouteDescription;396
+repairRoad;CHUASSB;OUZ;5
+getRouteDescription;11
+addRoad;NQBDHT;CHUASSB;3;9
+getRouteDescription;648
+addRoad;VIFNAO;VIFNAO;6;-7
+repairRoad;OUZ;UPE;5
+repairRoad;EBMYAJ;SQJ;-2
+repairRoad;OUZ;DXGDRY;-10
+repairRoad;OUZ;UPE;-8
+getRouteDescription;464
+repairRoad;CHUASSB;OUZ;8
+addRoad;OUZ;VIFNAO;8;9
+ 555;UPE;9;9;OXAF;6;5;VIFNAO
+#addRoad;CHUASSB;OXAF;2;-7
+225;SQJ;1;3;OXAF;3;-2;CHUASSB
+repairRoad;OXAF;VIFNAO;9 
+repairRoad;NQBDHT;UPE;1
+repairRoad;OXAF;VIFNAO;-8
+getRouteDescription;180
+addRoad;UPE;CHUASSB;1;7
+#addRoad;OUZ;VIF;NAO;3;5 
+repairRoad;VIFNAO;CHUASSB;-3
+addRoad;CHUASSB;SQJ;6;3
+844;CHUASSB
+addRoad;NQBDHT;VIFNAO;7;6
+repairRoad;SQJ;VIFNAO;4
+getRouteDescription;600
+ #addRoad;SQJ;OUZ;3;0 
+getRouteDescription;957
+addRoad;OUZ;VIFNAO;1;9
+addRoad;UPE;OUZ;1;-8
+addRoad;CHUASSB;OUZ;1;2
+46;WCKND;9;5;SQJ
+addRoad;UPE;EBMYAJ;5;-10
+782;EBMYAJ
+ #addR;oad;SQJ;OUZ;3;5
+addRoad;VIFNAO;UPE;8;-5
+repairRoad;SQJ;VIFNAO;1
+#repairRoad;;DXGDRY;VIFNAO;6
+ 447;VIFNAO;2;-9;CHUASSB;2;1;SQJ 
+getRouteDescription;678
+getRouteDescription;452
+ getRouteDescription;;852
+repairRoad;NQBDHT;OUZ;-9
+repairRoad;OXAF;OUZ;-5
+ 279;NQBDHT;9;-4;EBMYAJ;2;;-2;UPE 
+314;CHUASSB;9;8;SQJ 
+getRouteDescription;330
+ #55;0;EBMYAJ;8;6;EBMYAJ;2;-6;UPE 
+134;CHUAS;SB 
+addRoad;SQJ;OXAF;1;-1
+addRoad;EBMYAJ;NQBDHT;4;-3
+addRoad;NQBDHT;DXGDRY;2;-3
+396;OUZ
+addRoad;UPE;VIFNAO;9;4
+ #411;EBMYAJ 
+getRouteDescription;311
+addRoad;SQJ;CHUASSB;5;-3
+getRouteDescription;604
+;addRoad;OUZ;EBMYAJ;1;8
+655;OXAF;7;-3;VIFNAO 
+addRoad;SQJ;UPE;5;-3
+addRoad;VIFNAO;NQBDHT;1;7
+ repairRoad;EBMYAJ;WCKND;-8 
+getRouteDescription;77
+836;SQJ;9;8;CHUASSB;7;8;OUZ
+getRouteDescription;559
+; #getRouteDescription;839 
+addRoad;VIFNAO;NQBDHT;4;-6
+306;UPE
+addRoad;DXGDRY;CHUASSB;7;-1
+addRoad;CHUASSB;OXAF;3;1 
+getRouteDescription;727
+952;DXGDRY;2;-8;DXGDRY;8;3;OUZ
+getRouteDescription;314
+addRoad;WCKND;SQJ;2;4
+#r;epairRoad;UPE;DXGDRY;6 
+107;NQBDHT
+repairRoa;d;VIFNAO;SQJ;9 
+ #708;OUZ;9;-1;S;QJ;8;9;OUZ 
+repairRoad;CHUASSB;VIFNAO;3
+859;EBMYAJ
+getRouteDescription;330
+54;SQJ
+0;NQBDHT;3;6;SQJ
+addRoad;DXGDRY;DXGDRY;2;3
+addRoad;EBMYAJ;OUZ;7;-7
+#getRouteDescription;314
+addRoad;SQJ;EBMYAJ;3;-6
+#addRoad;EBMYAJ;;CHUASSB;4;-5
+getRouteDescription;627
+repairRoad;OUZ;VIFNAO;-1
+repairRoad;EBMYAJ;WCKND;4
+repairRoad;VIFNAO;WCKND;0
+repairRoad;NQBDHT;NQBDHT;1
+repairRoad;EBMYAJ;OXAF;-1
+getRouteDescription;177
+repairRoad;OXAF;EBMYAJ;-8
+491;EBMYAJ;4;4;SQJ
+ #r;epairRoad;SQJ;CHUASSB;4 
+repairRoad;CHUASSB;OUZ;5
+ #328;OUZ;;7;8;CHUASSB;6;8;OXAF 
+addRoad;CHUASSB;SQJ;6;-5
+addRoad;CHUASSB;WCKND;7;8
+getRouteDescription;853
+getRouteDescription;101
+957;NQBDHT;4;5;VIFNAO
+getRouteDescription;464
+#addRoad;UPE;;OXAF;7;8
+ getRouteDescription;593
+repairRoad;SQJ;WCKND;0
+624;EBMYAJ;7;8;SQJ
+getRouteDescription;859
+ #repairRoad;CHUASSB;EBMYAJ;-7 
+getRouteDescription;645
+repairRoad;SQJ;SQJ;-10
+356;OUZ;9;2;VIFNAO
+addRoad;DXGDRY;CHUASSB;9;3
+618;SQJ
+getRouteDescription;437
+getRouteDescription;721
+#repairRoad;UPE;UPE;3 
+getRouteDescription;130
+addRoad;WCKND;UPE;6;4
+repairRoad;CHUASSB;NQBDHT;-8
+#repairRo;ad;OUZ;OXAF;6
+repairRoad;SQJ;OUZ;-2
+addRoad;DXGDRY;SQJ;6;-8
+#getRouteDescription;727
+repairRoad;CHUASSB;NQBDHT;4
+repairRoad;CHUASSB;CHUASSB;-2
+getRouteDescription;130
+getRouteDescription;192
+getRouteDescription;328
+116;;NQBDHT;5;-5;UPE;4;-8;OUZ 
+4;UPE;0;4;OUZ
+repairRoad;SQJ;DXGDRY;-1
+getRouteDescription;330
+repairRoad;NQBDHT;OUZ;-1
+addRoad;UPE;DXGDRY;7;6
+getRouteDescription;712
+312;OUZ;4;5;SQJ;1;3;SQJ
+repairRoad;SQJ;WCKND;4
+addRoad;OXAF;VIFNAO;4;3
+repairRoad;OXAF;SQJ;-3
+repairRoad;VIFNAO;SQJ;-1
+getRouteDescription;721
+179;EBMYAJ
+repairRoad;NQBDHT;OUZ;3
+addRoad;EBMYAJ;UPE;4;-2
+736;SQJ
+#452;VIFNAO;0;-5;SQJ
+ 918;OXAF;7;8;OXAF;6;8;VIFNAO 
+repairRoad;SQJ;CHUASSB;-6
+getRouteDescription;432
+repairRoad;SQJ;NQBDHT;-7
+ getRouteDescription;328 
+repairRoad;WCKND;OXAF;7
+repairRoad;UPE;WCKND;-9
+getRouteDescription;859
+repairRoad;OXAF;OUZ;-3
+getRouteDescription;704
+529;OXAF
+getRouteDescription;332
+21;OXAF
+repairRoad;CHUASSB;OUZ;-1
+addRoad;OUZ;DXGDRY;1;-5
+addRoad;NQBDHT;OUZ;7;5
+getRouteDescription;26
+addRoad;CHUASSB;EBMYAJ;3;2
+repairRoad;OXAF;CHUASSB;8
+repairRoad;SQJ;OXAF;-7
+251;EBMYAJ;2;5;UPE;5;-5;CHUASSB
+repairRoad;SQJ;EBMYAJ;-3
+getRouteDescription;727
+addRoad;OUZ;OUZ;3;3
+addRoad;VIFNAO;OUZ;1;-3
+repairRoad;NQBDHT;CHUASSB;9
+ 600;DXGDRY 
+#424;VIFNAO;;7;-9;SQJ;7;-5;VIFNAO 
+addRoad;WCKND;WCKND;3;-10
+593;SQJ;8;3;DXGDRY
+repairRoad;UPE;NQBDHT;6
+#addRoad;UPE;;CHUASSB;3;5
+#addRoad;WCKND;D;XGDRY;5;-10
+#getRouteDescription;948
+0;WCKND;6;6;DXGDRY
+addRoad;EBMYAJ;SQJ;7;-10
+addRoad;WCKND;CHUASSB;0;7
+getRouteDescription;727
+repairRoad;WCKND;DXGDRY;-2
+getRouteD;escription;10
+addRoad;NQBDHT;EBMYAJ;6;5
+addRoad;VIFNAO;VIFNAO;5;0
+getRouteDescription;583
+addRoad;OUZ;NQBDHT;4;-9
+getRouteDescription;328
+addRoad;WCKND;NQBDHT;3;0
+addRoad;EBMYAJ;VIFNAO;8;1
+447;WCKND;4;-4;OXAF
+ #getRouteDescription;920
+213;UPE;8;8;OUZ
+getRouteDescription;139
+repairRoad;CHUASSB;WCKND;-1
+repairRoad;CHUASSB;UPE;9
+getRouteDescription;192
+#addRoad;DXGDRY;WCKND;5;-5
+ #806;CHUASSB;2;-9;CHUASSB;7;2;SQJ 
+repairRoad;NQBDHT;EBMYAJ;5
+370;SQJ
+ getRouteDescription;180 
+repairRoad;SQJ;UPE;-9
+repairRoad;OXAF;OUZ;-8
+repairRoad;NQBDHT;WCKND;4
+repairRoad;OXAF;DXGDRY;8
+repairRoad;EBMYAJ;UP;E;-6 
+addRoad;SQJ;OUZ;5;-9
+addRoad;CHUASSB;SQJ;2;9
+251;WCKND;8;-8;EBMYAJ
+addRoad;EBMYAJ;DXGDRY;6;-2
+repairRoad;DXGDRY;SQJ;-10
+getRouteDescription;328
+addRoad;DXGDRY;CHUASSB;2;7
+addRoad;OXAF;NQBDHT;2;-2
+repairRoad;EBMYAJ;NQBDHT;9
+addRoad;;OXAF;WCKND;6;2
+getRouteDescription;71
+getRouteDescription;529
+repairRoad;WCKND;EBMYAJ;-10
+387;SQJ
+553;UPE;9;-8;WCKND
+ #getRouteDescription;;853 
+addRoad;;VIFNAO;WCKND;9;5
+ 477;EBMYAJ
+428;DXGDRY;8;6;WCKND;8;5;SQJ
+getRouteDescription;130
+getRouteDescription;862
+ #getRouteDescription;72;7 
+ #repairRoad;UPE;OXAF;6
+#;924;EBMYAJ 
+#;getRouteDescription;609
+43;OXAF;5;8;SQJ;8;-3;OXAF
+709;OUZ;8;9;UPE;5;8;WCKND
+#re;pairRoad;OUZ;DXGDRY;6
+#269;DXGDRY;0;5;DXGDRY;3;9;VIFNAO 
+getRouteDescription;817
+addRoad;EBMYAJ;WCKND;3;-10
+getRouteDescription;396
+getRouteDescription;33
+getRouteDescription;817
+#709;WCKND;3;4;OUZ;3;5;WCKND 
+ #getRouteDescription;709
+repairRoad;WCKND;UPE;2
+984;UPE;2;4;OXAF;0;9;CHUASSB
+494;NQBDHT;3;9;EBMYAJ
+repairRoad;DXGDRY;WCKND;5
+addRoad;NQBDHT;CHUASSB;8;3
+addRoad;VIFNAO;NQBDHT;2;-9
+repairRoad;CHUASSB;DXGDRY;-3
+ #addRoad;SQJ;CHUASSB;1;7
+#getRouteDescrip;tion;396 
+getRouteDescription;841
+getRouteDescription;424
+addRoad;UPE;SQJ;3;8
+#repa;irRoad;OXAF;SQJ;-8
+getRouteDescription;251
+52;VIFNAO;2;9;UPE
+#getRouteDescription;;452
+#repairRoad;EBMYAJ;OXAF;6
+addRoad;SQJ;VIFNAO;2;4
+#repairRoad;UPE;UPE;-8
+ addRoad;DXGDR;Y;UPE;8;7
+addRoad;NQBDHT;EBMYAJ;9;4
+ addRoad;OUZ;UPE;7;3 
+ addRoad;NQBDHT;NQBDHT;4;7 
+getRouteDescription;52
+getRouteDescription;211
+ #repairRoad;SQJ;NQBDHT;-5
+repairRoad;SQJ;CHUASSB;1
+191;CHUASSB;7;8;OUZ
+ getRouteDescription;525 
+727;UPE
+ getRouteDescription;600
+repairRoad;OXAF;CHUASSB;4
+getRouteDescription;542
+ #repairRoad;;VIFNAO;SQJ;3
+#addRoad;WCKND;VIFNAO;9;7 
+addRoad;CHUASSB;VIFNAO;3;2
+addRoad;UPE;CHUASSB;7;-8
+getRouteDescription;33
+198;VIFNAO;1;-6;OXAF;0;6;CHUASSB
+addRoad;UP;E;WCKND;2;-1
+225;WCKND;0;0;CHUASSB
+getRouteDescription;498
+addRoad;WCKND;CHUASSB;1;-1
+ repairRoad;SQJ;N;QBDHT;4 
+repairRoad;CHUASSB;OUZ;3
+getRouteDescription;402
+ addRoad;EBMYAJ;EBMYAJ;8;-7
+repairRoad;EBMYAJ;OUZ;-4
+479;VIFNAO
+9;VIFNAO
+repairRoad;VIFNAO;VIFNAO;-4
+addRoad;DXGDRY;SQJ;7;5
+ #repairRoad;EBMYAJ;CHUASSB;6 
+addRoad;OXAF;EBMYAJ;9;5
+620;WCKND;5;7;VIFNAO
+459;EBMYAJ
+464;SQJ
+344;OUZ
+repairRoad;EBMYAJ;OUZ;-6
+repairRoad;WCKND;UPE;7
+repairR;oad;OUZ;OUZ;5
+repairRoad;SQJ;CHUASSB;0
+addRoad;VIFNAO;UPE;6;-1
+getRouteDescription;128
+repairRoad;OUZ;WCKND;0
+repairRoad;EBMYAJ;NQBDHT;9
+600;OUZ
+repairRoad;WCKND;OXAF;-10
+getRouteDescription;859
+addRoad;CHUASSB;VIFNAO;4;8
+addRoad;NQBDHT;EBMYAJ;4;1
+getRouteDescription;782
+getRouteDescription;918
+ #repai;rRoad;OXAF;UPE;-6
+448;WCKND
+repairRoad;NQBDHT;OUZ;-4
+ #getRouteDescription;648; 
+getRouteDescription;47
+600;OUZ;9;5;UPE
+ getRouteDescription;114
+#repairRoad;EBMYAJ;SQJ;;-4 
+ get;RouteDescription;7
+355;CHUASSB;1;3;SQJ;8;4;CHUASSB
+addRoad;OXAF;DXGDRY;6;3
+511;UPE 
+ #addRoad;DXGDRY;VIFNAO;3;6 
+ getRouteDescription;491 
+repairRoad;OUZ;UPE;-3
+repairRoad;VIFNAO;DXGDRY;-4
+ 262;WCKND 
+addRoad;UPE;OXAF;0;1
+repairRoad;CHUASSB;WCKND;1
+762;VIFNAO;3;2;OXAF
+#645;C;HUASSB
+addRoad;DXGDRY;NQBDHT;4;6
+#161;EBMYAJ;5;2;OXAF;1;-2;CHUASSB 
+ addRoad;D;XGDRY;CHUASSB;7;-3 
+repairRoad;UPE;NQBDHT;5
+getRouteDescription;359
+8;40;UPE
+978;SQJ;4;9;UPE;9;9;DXGDRY
+repairRoad;SQJ;WCKND;-2
+addRoad;EBMYAJ;OXAF;7;4
+getRouteDescription;57
+#9;46;NQBDHT;1;9;OXAF;9;9;UPE 
+repairRoad;UPE;WCKND;8
+addRoad;UPE;SQJ;8;4
+#ad;dRoad;OUZ;DXGDRY;8;-3
+addRoad;VIFNAO;OUZ;4;-3
+ addRoad;VIFNAO;OUZ;4;-9
+929;CHUASSB;7;8;EBMYAJ;8;0;UPE
+addRoad;DXGDRY;OXAF;2;2
+addRoad;WCKND;OXAF;5;6
+addRoad;CHUASSB;NQBDHT;8;-9
+addRoad;SQJ;DXGDRY;6;3
+repairRoad;OXAF;WCKND;2
+addRoad;EBMYAJ;WCKND;4;-7
+repairRoad;EBMYAJ;EBMYAJ;6
+addRoad;UPE;EBMYAJ;9;;-10
+ repairRoad;VIFNAO;WCKND;-;3 
+addRoad;DXGDRY;UPE;7;-2
+addRoad;SQJ;EBMYAJ;3;-5
+addRoad;CHUASSB;SQJ;0;-6
+; #repairRoad;SQJ;CHUASSB;-5 
+428;OXAF;1;-8;OUZ
+repairRoad;OUZ;NQBDHT;-1
+180;OXAF
+addRoad;DXGDRY;OXAF;8;-2
+addRoad;DXGDRY;CHUASSB;4;-10
+getRouteDescription;957
+addRoad;CHUASSB;SQJ;3;9
+343;WCKND
+addRoad;OUZ;SQJ;0;5
+addRoad;WCKND;NQBDHT;4;-9
+repairRoad;EBMYAJ;WCKND;0
+repairRoad;OXAF;DXGDRY;8
+repairRoad;OXAF;CHUASSB;6
+ #getRouteDes;cription;26
+addRoad;EBMYAJ;OUZ;6;7
+getRouteDescription;596
+#180;CHUASSB;9;-6;SQJ;7;-2;UPE 
+getRouteDescription;879
+repairRoad;SQJ;CHUASSB;1
+getRouteDescription;138
+getRouteDescription;972
+;repairRoad;OXAF;DXGDRY;-2
+addRoad;NQBDHT;SQJ;6;8
+repairRoad;DXGDRY;WCKND;3
+170;EBMYAJ
+addRoad;CHUASSB;UPE;1;-4
+addRoad;SQJ;CHUASSB;6;3
+repairRoad;UPE;EBMYAJ;-3
+#getRouteDescription;827 
+addRoad;EBMYAJ;SQJ;3;6
+getRouteDescription;262 
+getRouteDescription;841
+repairRoad;OXAF;OXAF;3
+750;OUZ
+getRouteDescription;684
+ #addRoad;;UPE;EBMYAJ;6;5
+repairRoad;EBMYAJ;SQJ;2
+repairRoad;EBMYAJ;OUZ;-10
+addRoad;OXAF;OXAF;0;-5
+ 404;EBMYAJ;;3;-10;NQBDHT
+repairRoad;CHUASSB;UPE;8 
+addRoad;EBMYAJ;UPE;2;6
+#addRoad;OUZ;DXGD;RY;7;-8 
+addRoad;OUZ;NQBDHT;0;-10
+139;OXAF;9;5;OXAF;1;5;SQJ
+ 170;OXAF;4;1;V;IFNAO
+#a;ddRoad;SQJ;EBMYAJ;1;6
+ #596;CHUASSB;0;1;SQJ 
+605;UPE;4;-8;DXGDRY
+532;DXGDRY
+456;CHUASSB;3;9;WCKND;8;9;SQJ
+555;EBMYAJ;0;-5;NQBDHT
+414;OXAF;8;1;SQJ;7;7;NQBDHT
+addRoad;VIFNAO;WCKND;5;-9
+getRouteDescription;948
+581;DXGDRY;9;9;UPE
+addRoad;WCKND;DXGDRY;2;2
+repairRoad;SQJ;CHUASSB;-4
+getRouteDescription;387
+repairRoad;SQJ;WCKND;0
+repairRoad;OXAF;DXGDRY;-9
+63;UPE
+#addRoad;SQJ;VIFNAO;4;3 
+addRoad;SQJ;OUZ;8;-3
+addRoad;EBMYAJ;WCKND;2;3 
+repairRoad;OXAF;NQBDHT;-9
+repai;rRoad;NQBDHT;NQBDHT;-3 
+getRouteDescription;782
+addRoad;EBMYAJ;SQJ;8;-5
+repairRoad;WCKND;UPE;5
+addRoad;UPE;NQBDHT;9;0
+0;EBMYAJ;5;4;DXGDRY;1;7;UPE
+ #repairRoad;CHUASSB;UPE;-2
+ #846;WCKND;0;-4;EBMYAJ 
+repairRoad;DXGDRY;VIFNAO;6
+getRouteDescription;645
+repairRoad;NQBDHT;NQBDHT;4
+repairRoad;CHUASSB;WCKND;-9
+301;DXGDRY;8;8;WCKND
+addRoad;CHUASSB;CHUASSB;4;3
+getRouteDescription;52
+addRoad;CHUASSB;UPE;2;-3
+#getRouteDescription;776
+repairRoad;EBMYAJ;DXGDRY;-1
+addRoad;OXAF;NQBDHT;5;0
+getRouteDescription;841
+ 894;C;HUASSB;3;6;CHUASSB;6;2;EBMYAJ 
+repairRoad;OXAF;CHUASSB;-8
+getRouteDescription;859
+repairRoad;SQJ;UPE;8
+89;OXAF
+getRouteDescription;296
+#addRoad;EBMYAJ;UPE;3;7
+addRoad;CHUASSB;DXGDRY;7;7
+addRoad;CHUASSB;NQBDHT;7;-10
+0;WCKND
+addRoad;SQJ;NQBDHT;5;3
+repairRoad;NQBDHT;UPE;6
+#getRouteDescription;211
+#ad;dRoad;CHUASSB;CHUASSB;1;-10 
+getRouteDescription;995
+#getRouteDescription;600 
+ 583;NQBDHT;8;-8;SQ;J;0;0;CHUASSB 
+addRoad;EBMYAJ;SQJ;6;8
+#addRoad;DXGDRY;VIFNAO;9;1 
+getRouteDescription;929
+#;repairRoad;OUZ;VIFNAO;-9 
+addRo;ad;DXGDRY;VIFNAO;7;-6
+246;NQBDHT
+ addRoad;UPE;NQBDHT;7;-2 
+addRoad;CHUASSB;OXAF;0;-5
+getRouteDescription;160
+addRoad;UPE;UPE;4;-5
+#rep;airRoad;CHUASSB;OXAF;8
+#ge;tRouteDescription;462 
+getRouteDescription;512
+761;CHUASSB;9;8;SQJ;8;9;WCKND
+repairRoad;WCKND;VIFNAO;7
+164;DXGDRY;8;8;WCKND
+repairRoad;EBMYAJ;WCKND;-9
+getRouteDescription;114
+#17;OXAF
+addRoad;OUZ;DXGDRY;8;-7
+repairRoad;UPE;EBMYAJ;2
+repairRoad;DXGDRY;UPE;7
+177;OXAF;5;2;DXGDRY;3;-1;OXAF
+repairRoad;VIFNAO;OXAF;9
+529;SQJ;0;-9;DXGDRY;0;-7;VIFNAO
+getRouteDe;scription;130 
+107;WCKND;0;7;DXGDRY;1;-1;EBMYAJ 
+repairRoad;CHUASSB;VIFNAO;-9
+ 569;DXGDRY;9;0;OUZ
+#869;UPE;1;-3;UPE
+#;repairRoad;EBMYAJ;WCKND;-7
+ getRouteDescrip;tion;761
+ #repairRoad;NQBDHT;VIFNAO;-2
+274;CHUASSB;4;0;OUZ
+repairRoad;CHUASSB;DXGDRY;7
+getRouteDescription;957
+getRouteDescription;546
+488;VIFNAO;3;9;CHUASSB;3;9;UPE
+getRouteDescription;853
+repairRoad;NQBDHT;OUZ;-7
+ getRouteDescription;363 
+767;WCKND;6;8;OXAF
+addRoad;NQBDHT;CHUASSB;2;4 
+repairRoad;OUZ;OXAF;2
+ge;tRouteDescription;17 
+repairRoad;VIFNAO;VIFNAO;-6
+addRoad;WCKND;WCKND;0;-10
+addRoad;NQBDHT;OUZ;9;1; 
+repairRoad;DXGDRY;OXAF;-3
+302;VIFNAO;9;8;SQJ
+addRoad;CHUASSB;WCKND;5;9
+repairRoad;OXAF;VIFNAO;-6
+addRoad;UPE;WCKND;7;4
+365;DXGDRY;4;-4;DXGDRY
+getRouteDescription;978
+addRoad;WCKND;CHUASSB;1;-9
+getRouteDescription;339
+getRouteDescription;648
+ #addRoad;CHUASSB;OXAF;7;-8 
+re;pairRoad;DXGDRY;UPE;8 
+#getRouteDescription;52
+199;VIFNAO;7;-3;OUZ
+518;DXGDRY
+#addRoad;VIFNAO;UPE;6;0
+repairRoad;VIFNAO;EBMYAJ;6
+repairRoad;CHUASSB;VIFNAO;-2
+getRouteDescription;177 
+#addRoad;UPE;CHUASSB;;5;-5
+409;EBMYAJ
+getRouteDescription;301
+repairRoad;CHUASSB;EBMYAJ;0
+addRoad;VIFNAO;EBMYAJ;6;-5
+getRouteDescription;484
+repairRoad;EBMYAJ;OUZ;5
+repairRoad;VIFNAO;DXGDRY;-6
+853;UPE
+ #repairRoad;;VIFNAO;WCKND;1 
+addRoad;CHUASSB;OXAF;4;-8
+getRouteDescription;296
+ 30;DXGD;RY 
+repairRoad;EBMYAJ;UPE;-1 
+addRoad;DXGDRY;NQBDHT;3;-5
+repairRoad;VIFNAO;SQJ;-2
+addRoad;VIFNAO;DXGDRY;4;7
+428;OUZ;9;4;OUZ;3;-7;NQBDHT
+ #getR;outeDescription;11 
+302;NQBDHT
+getRouteDescription;203 
+ addRoad;OUZ;OUZ;4;-10 
+repairRoad;CHUASSB;OUZ;8
+getRouteDescription;542
+addRoad;WCKND;SQJ;3;-4
+addRoad;CHUASSB;OXAF;8;5
+getRouteDescription;177
+ addRoad;VIFNAO;NQBDH;T;1;3 
+968;SQJ
+getRouteDescription;170
+getRouteDescription;580
+addRoad;SQJ;UPE;5;-4
+addRoad;NQBDHT;CHUASSB;9;8
+360;OUZ;3;9;VIFNAO;7;8;WCKND
+addRoad;OXAF;SQJ;3;-1
+repairRoad;NQBDHT;SQJ;2
+900;DXGDRY 
+repairRoad;EBMYAJ;SQJ;-2
+repairRoad;UPE;NQBDHT;-6
+getRouteDescription;37
+repairRoad;OXAF;UPE;7
+repairRoad;OXAF;NQ;BDHT;-7
+repairRo;ad;NQBDHT;NQBDHT;8 
+getRouteDescription;33
+932;DXGDRY
+#getRouteDescription;396 
+ #repa;irRoad;EBMYAJ;OUZ;0
+addRoad;CHUASSB;OUZ;8;-1
+648;CHUASSB;5;-4;EBMYAJ
+addRoad;VIFNAO;DXGDRY;2;1
+addRoad;NQBDHT;NQBDHT;1;2
+getRouteDescription;817
+getRouteDescription;605
+getRouteDescription;681
+addRoad;DXGDRY;UPE;2;-8 
+repairRoad;SQJ;VIFNAO;-10
+addRoad;NQBDHT;UPE;9;7
+ repairRoad;EB;MYAJ;DXGDRY;-2 
+ 0;UPE;;0;-10;CHUASSB 
+addRoad;SQJ;OUZ;8;6
+repairRoad;NQBDHT;VIFNAO;;8
+644;DXGDRY;5;-1;OUZ;2;7;WCKND
+#repairRoad;OXAF;WCKND;6; 
+repairRoad;NQBDHT;OUZ;9
+repairRoad;SQJ;SQJ;8
+repairRoad;NQBDHT;OUZ;1
+531;UPE
+repairRoad;OXAF;OXAF;7
+getRouteDescription;962
+getRouteDescription;839
+addRoad;CHUASSB;EBMYAJ;7;0
+;getRouteDescription;314
+ getRouteDescription;102 
+addRoad;OUZ;OUZ;9;1
+465;EBMYAJ;1;2;SQJ
+ #getRouteDescription;83 
+repairRoad;OUZ;EBMYAJ;1
+getRouteDescription;464
+356;SQJ
+#addRoad;OXAF;;DXGDRY;6;-5
+getRouteDescription;898
+getRouteDescription;264
+addRoad;VIFNAO;WCKND;3;9
+getRouteDescription;727
+addRoad;VIFNAO;NQBDHT;1;1
+533;SQJ;3;7;NQBDHT
+getRouteDescription;636
+addRoad;UPE;UPE;1;2
+getRouteDescription;493
+addRoad;NQBDHT;CHUASSB;8;-2
+ 211;VIFNAO;6;0;SQ;J;8;-4;UPE 
+#repairRoad;CHU;ASSB;UPE;9
+addRoad;NQBDHT;VIFNAO;4;-6
+repairRoad;SQJ;OUZ;5
+repairRoad;SQJ;OXAF;-7
+addRoad;SQJ;NQBDHT;9;6
+repairRoad;NQBDHT;WCKND;-8
+getRouteDescription;394
+getRouteDescription;935
+getRouteDescription;26 
+getRouteDescription;555
+addRoad;CHUASSB;OUZ;4;6
+repairRoad;UPE;WCKND;0
+ addRoad;DXGDRY;CHUASSB;7;1 
+882;NQBDHT
+addRoad;CHUASSB;EBMYAJ;6;-10
+addRoad;UPE;VIFNAO;;4;-10 
+repairRo;ad;EBMYAJ;OUZ;6 
+973;SQJ
+repairRoad;DXGDRY;UPE;2
+getRouteDescription;164
+addRoad;EBMYAJ;OXAF;6;-6
+getRouteDescription;491
+getRouteDescription;164
+getRouteDescription;946
+repairRoad;VIFNAO;UPE;6
+repairRoad;VIFNAO;DXGDRY;5
+335;OUZ
+repairRoad;EBMYAJ;CHUASSB;7
+ repairRoad;OUZ;VIFNAO;-2 
+repairRoad;SQJ;EBMYAJ;9
+ addRoad;OUZ;NQBDHT;2;-2; 
+861;DXGDRY;9;-4;SQJ;7;-10;SQJ
+addRoad;UPE;DXGDRY;0;-1
+addRoad;EBMYAJ;OXAF;6;1
+addRoad;CHUASSB;CHUASSB;4;-9
+repairRoad;NQBDHT;VIFNAO;3
+getRouteDescription;836
+repairRoad;EBMYAJ;VIFNAO;-1
+repairRoad;OXAF;WCKND;7
+698;OUZ;1;9;SQJ
+547;WCKND;4;-6;SQJ;3;6;OXAF
+repairRoad;VIFNAO;DXGDRY;7
+repairRoad;OUZ;WCKND;7
+getRouteDescription;596
+repairRoad;OXAF;UPE;-3
+47;OXAF;4;-1;NQBDHT;3;-4;EBMYAJ
+addRoad;DXGDRY;VIFNAO;7;3
+512;SQJ;1;-1;UPE;0;2;DXGDRY
+530;OUZ
+ #addRoad;VIFNAO;;EBMYAJ;4;-4 
+repairRoad;OXAF;OUZ;1
+repairRoad;EBMYAJ;SQJ;8
+456;OXAF
+repairRoad;SQJ;VIFNAO;7
+ addRoad;OXAF;WCKND;6;2 
+826;CHUASSB;1;2;UPE;5;2;DXGDRY
+addRoad;NQBDHT;UPE;5;-1
+getRouteDescription;;708 
+957;SQJ;9;5;VIFNAO;3;-3;NQBDHT
+addRoad;WCKND;EBMYAJ;5;-3
+#repairRoad;CHUASSB;DXGDRY;9 
+910;NQBDHT;3;-10;OUZ;9;3;OXAF
+addRoad;UPE;;NQBDHT;1;9 
+ 0;EBMYAJ;5;-2;;NQBDHT;8;3;NQBDHT 
+addRoad;SQJ;SQJ;2;-3
+repairRoad;OXAF;VIFNAO;7
+ #getRouteDescription;114
+repairRoad;NQBDHT;CHUASSB;-9
+getRouteDescription;138
+143;WCKND;6;8;OXAF
+repairRoad;SQJ;NQBDHT;-9
+582;WCKND;2;4;UPE
+addRoad;VIFNAO;OXAF;0;-3
+83;OXAF;3;-2;CHUASSB
+555;EBMYAJ;4;-9;CHUASSB;8;-10;VIFNAO
+repairRoad;NQBDHT;WCKND;-1
+addRoad;NQBDHT;EBMYAJ;3;-10
+addRoad;OUZ;EBMYAJ;1;2
+695;OXAF
+repairRoad;WCKND;WCKND;-3
+addRoad;VIFNAO;EBMYAJ;5;-6
+repairRoad;NQBDHT;DXGDRY;7
+564;UPE;0;3;OUZ
+repairRoad;OXAF;EBMYAJ;6
+getRouteDescription;709
+488;SQJ;1;9;CHUASSB;2;-6;SQJ
+repairRoad;CHUASSB;OXAF;-2
+addRoad;SQJ;OXAF;9;-10
+getRouteDescription;542
+repairRoad;SQJ;EBMYAJ;-1
+640;NQBDHT;0;-9;CHUASSB;5;6;DXGDRY
+repairRoad;WCKND;WCKND;-8
+25;EBMYAJ;0;1;UPE
+745;;SQJ;9;5;WCKND
+#repairRoad;SQ;J;WCKND;0
+828;WCKND;3;-9;UPE;2;2;WCKND
+getRouteDescription;26
+853;CHUASSB;8;-7;UPE;0;3;UPE
+addRoad;OUZ;VIFNAO;4;-5
+#addRoad;CHUASSB;CHUASSB;4;8
+addRoad;CHUASSB;DXGDRY;1;-1
+addRoad;SQJ;WCKND;3;9
+ #157;CHUASSB 
+addRoad;CHUASSB;DXGDRY;3;-4
+#getRout;eDescription;175
+addRoad;DXGDRY;SQJ;8;-4
+getRouteDescription;109
+getRouteDescription;827
+repairRoad;DXGDRY;UPE;-2
+#978;OXAF;1;8;NQBDHT;7;5;UPE
+704;EB;MYAJ
+repairRoad;NQBDHT;OUZ;5
+#repair;Road;NQBDHT;UPE;-5
+330;OXAF;0;6;NQBDHT
+addRoad;CHUASSB;VIFNAO;5;4
+getRouteDescription;83
+repairRoad;OUZ;WCKND;0
+addRoad;DXGDRY;OXAF;9;-10
+130;SQJ
+repairRoad;OUZ;CHUASSB;-10
+repairRoad;SQJ;VIFNAO;8
+repairRoad;DXGDRY;DXGDRY;8
+192;CHUASSB;3;-7;WCKND
+getRouteDescription;198
+getRouteDescription;143
+repairRoad;SQJ;VIFNAO;1
+#repairRoad;EBMYA;J;NQBDHT;-1 
+repairRoad;NQBDHT;VIFNAO;1
+addRoad;UPE;VIFNAO;0;0
+addRoad;VIFNAO;DXGDRY;4;-10
+repairRoad;SQJ;NQBDHT;-3
+328;UPE
+ repairRoad;OUZ;VIFNAO;4 
+repairRoad;EBMYAJ;OUZ;1
+addRoad;OXAF;UPE;6;4
+addRoad;OXAF;UPE;0;1
+getRouteDescription;138
+repairRoad;OXAF;VIFNAO;-2
+repairRoad;OXAF;OXAF;-10
+getRouteDescription;283
+836;CHUASSB;7;-2;EBMYAJ
+251;VIFNAO
+getRouteDescription;143
+#repairRoad;UPE;NQBDHT;5
+repairRoad;EBMYAJ;UPE;2
+getRouteDescription;679
+getRouteDescription;605
+repairRoad;NQBDHT;EBMYAJ;8
+ 275;;CHUASSB;5;-6;VIFNAO
+getRouteDescription;314
+repairRoad;DXGDRY;CHUASSB;-7
+ addRoa;d;UPE;EBMYAJ;8;-10 
+767;NQBDHT
+#repairRoad;SQJ;VIFNAO;-8
+addRoad;DXGDRY;SQJ;1;7
+addRoad;EBMYAJ;WCKND;3;-10
+repairRoad;OXAF;WCKND;8
+getRouteDescription;853
+#118;EBMYAJ
+#repairRoad;EBMYAJ;DXGDRY;-1 
+repairRoad;SQJ;UPE;6
+ 221;WCKND
+718;VIFNAO;4;4;SQJ
+addRoad;NQBDHT;WCKND;9;4
+getRouteDescription;853
+getRouteDescription;283
+getRouteDescription;853
+getRouteDescription;170
+addRoad;OUZ;SQJ;9;4
+208;VIFNAO;7;8;WCKND;2;8;OUZ
+#getRouteDescription;721 
+#repairRoad;OXAF;;VIFNAO;0
+#getRouteDescript;ion;143 
+repairRoad;OXAF;WCKND;-4
+229;NQBDHT;2;9;UPE
+addRoad;UPE;DXGDRY;9;4
+addRoad;DXGDRY;OXAF;6;-1
+repairRoad;CHUASSB;UPE;9
+317;SQJ;0;6;VIFNAO;7;4;VIFNAO
+125;NQBDHT;5;-9;VIFNAO
+getRouteDescription;363 
+getRouteDescription;559
+repairRoad;EBMYAJ;VIFNAO;-2 
+335;OUZ;9;-9;OUZ
+getRouteDescription;817
+repairRoad;OXAF;UPE;-5
+addRoad;VIFNAO;OXAF;5;-1
+repairRoad;CHUASSB;UPE;-4
+getRouteDescription;817
+673;EBMYAJ;6;0;UPE
+839;OUZ
+addRoad;CHUASSB;CHUASSB;0;0
+addRoad;DXGDRY;VIFNAO;0;0
+86;NQBDHT;3;7;SQJ
+getRouteDescription;836
+#getR;outeDescription;776
+addRoad;UPE;EBMYAJ;6;5
+809;DXGDRY
+repairRoad;EBMYAJ;DXGDRY;-4
+getRouteDescription;170
+ repairRoad;VIFNAO;NQBDH;T;3
+repairRoad;EBMYAJ;CHUASSB;8
+283;VIFNAO;8;9;VIFNAO
+415;UPE;5;8;WCKND
+addRoad;OUZ;VIFNAO;7;2
+repairRoad;WCKND;OXAF;-1
+ #addRoad;VIFNAO;EBMYAJ;5;-8
+getRouteDescription;555
+repairRoad;VIFNAO;WCKND;-5
+getRouteDescription;297
+getRouteDescription;77
+addRoad;WCKND;SQJ;6;8
+getRouteDescription;26
+;addRoad;DXGDRY;OXAF;8;5
+repairRoad;OUZ;DXGDRY;-5
+addRoad;WCKND;OU;Z;5;4
+repairRoad;EBMYAJ;CHUASSB;9
+ #getRouteDescription;301
+getRouteDescription;708
+repairRoad;OUZ;CHUASSB;0
+784;WCKND;8;-5;NQBDHT;0;7;UPE
+130;NQBDHT
+addRoad;CHUASSB;UPE;1;0
+addRoad;OUZ;VIFNAO;2;8
+addRoad;UPE;OUZ;4;-7
+addRoad;CHUASSB;UPE;7;7
+addRoad;SQJ;OXAF;1;5
+getRouteDescription;651
+841;CHUASSB;8;-10;NQBDHT;2;-6;EBMYAJ
+getRouteDescription;984
+249;NQBDHT;8;8;CHUASSB;0;-8;WCKND
+982;OXAF;7;7;UPE;9;-1;DXGDRY
+repairRoad;SQJ;NQBDHT;-7
+286;VIFNAO
+addRoad;VIFNAO;UPE;0;2
+690;NQBDHT;3;9;EBMYAJ;7;9;DXGDRY
+addRoad;CHUASSB;EBMYAJ;7;6
+addRoad;WCKND;SQJ;5;0
+ getRouteDescription;170 
+repairRoad;OUZ;CHUASSB;9
+addRoad;NQBDHT;CHUASSB;7;-2
+725;UPE
+addRoad;UPE;NQBDHT;8;4
+addRoad;UPE;OUZ;2;9
+getRouteDescription;456
+134;NQBDHT;1;7;NQBDHT;2;4;WCKND
+#getRouteDescription;767 
+addRoad;NQBDHT;VIFNAO;1;-2
+getRouteDescription;932
+addRoad;UPE;DXGDRY;9;-3
+getRouteDescription;573
+ #getRouteDescr;iption;208
+217;OXAF
+77;EBMYAJ;8;8;UPE
+repairRoad;OXAF;DXGDRY;-7
+repairRoad;OUZ;OUZ;-8
+; #addRoad;DXGDRY;OXAF;6;-5
+526;WCKND;5;9;DXGDRY;3;6;OUZ
+586;VIFNAO;3;-2;SQJ
+repairRoad;CHUASSB;OXAF;-1
+addRoad;WCKND;OXAF;2;-7
+ getRouteDescription;488
+ #9;09;CHUASSB;2;0;CHUASSB 
+#addRoad;WCKND;CHUASSB;4;-10 
+0;OXAF;4;-4;OX;AF
+addRoad;OXAF;UPE;8;-9
+#564;VIFNAO;9;6;;EBMYAJ 
+getRouteDescription;529
+repair;Road;UPE;VIFNAO;-4 
+addRoad;NQBDHT;VIFNAO;4;-5
+addRoad;OUZ;OUZ;3;-6
+addRoad;SQJ;UPE;3;2
+getRouteDescription;192
+repairRoad;OXAF;VIFNAO;1
+215;VIFNAO;0;-3;EBMYAJ;7;2;SQJ
+893;UPE;8;2;OUZ;3;-8;WCKND
+97;EBMYAJ;0;-5;WCKND
+addRoad;VIFNAO;DXGDRY;9;-7
+406;SQJ
+repairRoad;EBMYAJ;UPE;0
+addRoad;NQBDHT;OUZ;5;3
+getRouteDescription;65
+ 958;S;QJ 
+ 578;OXAF;9;-9;SQ;J;0;-5;SQJ 
+addRoad;EBMYAJ;NQBDHT;7;5
+addRoad;VIFNAO;EBMYAJ;1;-10
+627;VIFNAO
+addRoad;NQBDHT;WCKND;5;5
+addRoad;WCKND;CHUASSB;3;-4
+327;EBMYAJ;9;6;VIFNAO;6;9;OXAF
+ #getRouteDescription;9;99
+addRoad;CHUASSB;NQBDHT;7;9
+addRoad;VIFNAO;DXGDRY;1;-4
+repairRoad;VIFNAO;NQBDHT;8
+getRouteDescription;761
+64;WCKND;7;-5;EBMYAJ
+513;DXGDRY
+ #repair;Road;VIFNAO;WCKND;-9
+addRoad;OUZ;WCKND;6;4
+addRoad;NQBDHT;OXAF;9;-1
+0;WCKND;3;7;VIFNAO
+addRoad;NQBDHT;CHUASSB;3;-3
+addRoad;EBMYAJ;OXAF;5;-6
+getRouteDescription;745
+ ;209;OXAF;0;9;UPE;1;-2;SQJ 
+repairRoad;OUZ;VIFNAO;8
+addRoad;UPE;NQBDHT;5;-10
+344;WCKND
+getRouteDescription;539
+ repairRoad;NQBDHT;DXGDRY;-;2
+ #getRouteDescription;;452 
+repairRoad;CHUASSB;WCKND;9
+addRoad;WCKND;CHUASSB;8;4
+addRoad;WCKND;WCKND;1;-1
+getRouteDescription;452
+getRouteDescription;596
+#addRoad;DXGDRY;UPE;2;-4
+repairRoad;CHUASSB;OXAF;1
+addRoad;SQJ;EBMYAJ;3;-1
+#getRouteDescription;524 
+getRouteDescription;459
+addRoad;OUZ;OUZ;3;-3
+359;EBMYAJ
+961;VIFNAO;6;-1;OXAF;5;-5;NQBDHT
+repairRoad;OUZ;VIFNAO;-5
+877;VIFNAO;8;-6;WCKND
+addRoad;NQBDHT;EBMYAJ;7;9
+repairRoad;EBMYAJ;NQBDHT;-6
+addRoad;SQJ;OUZ;6;-9
+addRoad;NQBDHT;OUZ;6;-10
+282;UPE;9;9;OXAF;6;8;WCKND
+ #496;SQJ;8;9;WCKND 
+#getRouteDescripti;on;852
+941;UPE
+getRouteDescription;195
+addRoad;CHUASSB;OUZ;1;5
+repairRoad;CHUASSB;NQBDHT;-2
+addRoad;SQJ;WCKND;8;;2
+0;EBMYAJ
+152;EBMYAJ
+addRoad;OUZ;UPE;7;1
+690;DXGDRY;3;1;NQBDHT;0;-10;CHUASSB
+560;UPE;7;-4;OXAF;0;9;EBMYAJ
+320;UPE;9;9;DXGDRY
+#addRoad;OXAF;OXAF;4;;-7
+getRouteDescription;11
+addRoad;NQBDHT;WCKND;6;4
+repairRoad;VIFNAO;WCKND;-1
+ #getRouteDescription;976
+435;DXGDRY;1;7;SQJ
+#repairRoad;UPE;CHUASSB;-3 
+repairRoad;OXAF;OXAF;2
+474;WCKND;0;-7;VIFNAO;6;0;DXGDRY
+repairRoad;SQJ;WCKND;-8
+getRouteDescription;301
+getRouteDescription;52
+addRoad;SQJ;WCKND;4;9
+repairRoad;OUZ;WCKND;8
+#repairRoad;EBMYAJ;OXAF;;-9 
+#156;UPE;8;9;OUZ 
+addRoad;SQJ;UPE;7;-2
+repairRoad;NQBDHT;NQBDHT;-6
+getRouteDescription;4
+repairRoad;EBMYAJ;WCKND;-2
+repairRoad;SQJ;OXAF;-6
+repairRoad;NQBDHT;NQBDHT;-5
+repairRoad;NQBDHT;UPE;8
+addRoad;CHUASSB;DXGDRY;6;-8
+addRoad;OXAF;VIFNAO;6;3
+452;SQJ;9;-5;DXGDRY;6;9;VIFNAO
+addRoad;DXGDRY;OUZ;4;0
+addRoad;SQJ;WCKND;9;-8
+ repairRoad;OUZ;UPE;-7
+getRouteDescription;180
+addRoad;EB;MYAJ;UPE;8;-9
+repairRoad;NQBDHT;CHUASSB;-9
+ 80;VIFNAO;9;6;OUZ;4;;-10;SQJ 
+repairRoad;VIFNAO;OUZ;-5
+repairRoad;OXAF;OUZ;0
+430;WCKND
+repairRoad;EBMYAJ;OXAF;-6
+getRouteDescription;721
+ addRoad;DXGDRY;DXGDRY;4;-9
+addRoad;DXGDRY;SQJ;8;7
+getRouteDescription;859
+addRoad;SQJ;WCKND;3;-9
+#repairRoad;CHUASSB;WCKND;2
+#addRoad;VIFNAO;CH;UASSB;0;-1 
+repairRoad;UPE;EBMYAJ;-6
+ #addRoad;OXAF;OUZ;2;-4
+887;NQBDHT
+addRoad;UPE;OUZ;7;8
+getRouteDescription;676
+addRoad;VIFNAO;EBMYAJ;9;4 
+getRouteDescription;191
+getRouteDescription;529
+280;DXGDRY
+repairRoad;OUZ;UPE;-3
+522;SQJ;5;1;DXGDRY
+176;DXGDRY;9;9;UPE
+repairRoad;CHUASSB;DXGDRY;8
+repairRoad;VIFNAO;OUZ;-8
+ 709;NQBDHT 
+repairRoad;DXGDRY;DXGDRY;-5
+getRouteDescription;794
+addRoad;OUZ;OUZ;7;9
+repairRoad;SQJ;OUZ;-4
+addRoad;WCKND;WCKND;;8;-5 
+repairRoad;SQJ;VIFNAO;3
+ #getRouteDescription;292; 
+ repairRoad;VIFNAO;OUZ;-10 
+repairRoad;EBMYAJ;VIFNAO;8
+addRoad;OUZ;UPE;8;-10
+ #getRouteDescription;;555
+ #addRoad;EBMYAJ;DXGDR;Y;6;3
+597;DXGDRY
+getRouteDescription;22 
+addRoad;EBMYAJ;SQJ;5;4
+ repairRoad;CHUASSB;SQJ;-1 
+ #addRoad;OXAF;UPE;1;-4 
+83;EBMYAJ;9;-8;OXAF;6;5;NQBDHT
+addRoad;CHUASSB;CHUASSB;4;-9
+getRouteDescription;709
+getRouteDescription;301
+345;WCKND
+#2;NQBDHT
+repairRoad;OXAF;OUZ;5
+addRoad;UPE;SQJ;8;-4
+addRoad;EBMYAJ;SQJ;6;6
+656;SQJ;0;3;OUZ;9;-3;DXGDRY
+getRouteDescription;328
+repairRoa;d;SQJ;OUZ;-8 
+addRoad;NQBDHT;VIFNAO;2;-5
+addRoad;NQBDHT;VIFNAO;7;1
+getRouteDescription;143
+78;CHUASSB;0;-5;OXAF
+getRouteDescription;319
+repairRoad;SQJ;OXAF;8
+repairRoad;CHUASSB;DXGDRY;0
+repairRoad;NQBDHT;WCKND;8
+197;NQBDHT 
+repairRoad;OXAF;WCKND;8
+ #repairRoad;CHUASSB;CHUASSB;0
+ #repairRoad;NQBDHT;OUZ;-5 
+getRouteDescription;456
+#addRoad;NQBDHT;UPE;6;-10 
+addRoad;OXAF;EBMYAJ;2;0
+getRouteDescription;984
+884;UPE;5;8;WCKND
+repairRoad;SQJ;OXAF;5
+getRouteDescription;767
+#928;DXGDRY;;2;4;CHUASSB
+addRoad;VIFNAO;VIFNAO;4;-1
+repairRoad;SQJ;OUZ;4
+repairRoad;VIFNAO;OXAF;3
+addRoad;NQBDHT;DXGDRY;8;-6
+891;NQBDHT;4;-6;NQBDHT;1;4;CHUASSB
+addRoad;SQJ;EBMYAJ;2;-1
+#addRoad;WCKND;CHUASSB;2;0
+#443;CHUASSB 
+253;DXGDRY
+addRoad;WCKND;CHUASSB;8;0
+repairRoad;UPE;UPE;4
+15;DXGDRY;0;-1;EBMYAJ;8;2;OUZ
+getRouteDescription;229
+154;SQJ;9;0;VIFNAO;9;1;EBMYAJ
+ 164;SQJ;0;1;SQJ;8;5;WCKND
+#getRoute;Description;269
+221;VIFNAO;9;8;SQJ
+ 531;SQJ;7;5;;SQJ 
+getRouteDescription;817
+ 853;WC;KND;4;-2;NQBDHT;9;-7;UPE
+452;WCKND;9;-5;OXAF;4;-2;VIFNAO
+26;OXAF
+281;UPE;6;5;VIFNAO
+841;CHUASSB;2;8;DXGDRY
+getRouteDescription;836
+addRoad;WCKND;UPE;2;3
+ #getRouteDescription;;690
+ #1;30;CHUASSB 
+776;WCKND;3;8;CHUASSB;5;6;NQBDHT
+472;UPE;9;3;OXAF
+522;EBMYAJ
+49;SQJ
+addRoad;EBMYAJ;WCKND;0;9
+#addRoad;VIFNAO;;OUZ;7;6
+repairRoad;CHUASSB;SQJ;-10
+654;EBMYAJ
+ #repairRoad;VIFNAO;WCKND;4 
+ #0;CHUASSB;8;-1;VIFNAO 
+5;NQBDHT;0;6;DXGDRY
+ addRoad;DXGDRY;OXAF;0;-5
+getRouteDescription;138
+repairRoad;VIFNAO;OXAF;0
+repairRoad;EBMYAJ;OUZ;-3
+repairRoad;SQJ;UPE;-2
+repairRoad;OUZ;VIFNAO;4
+#addRoad;DXGDRY;CHUASSB;3;;4 
+351;CHUASSB;2;9;EBMYAJ
+getRouteDescription;213
+#addRoad;OXAF;VIFNAO;0;-10 
+addRoad;NQBDHT;CHUASSB;8;0
+getRouteDescription;782
+addRoad;SQJ;SQJ;6;2
+addRoad;SQJ;OUZ;5;7
+addRoad;WCKND;WCKND;1;-10
+addRoad;UPE;WCKND;2;-6
+getRouteDescription;77
+390;EBMYAJ
+0;DXGDRY;6;1;DXGDRY
+ #repairRoad;CHUASSB;OXAF;-7 
+739;OXAF
+addRoad;OXAF;OUZ;5;-2
+addRoad;WCKND;NQBDHT;1;5
+addRoad;UPE;VIFNAO;1;2
+repairRoad;VIFNAO;WCKND;1
+205;SQJ;2;1;EBMYAJ
+229;DXGDRY;2;5;CHUASSB
+ #15;UPE;4;9;SQ;J 
+repairRoad;NQBDHT;OUZ;9
+getRouteDescription;645
+repairRoad;OUZ;OXAF;9
+ addRoad;SQJ;VIFNAO;6;6
+972;SQJ;5;8;NQBDHT
+addRoad;OUZ;SQJ;9;8
+71;EBMYAJ;8;-9;NQBDHT;4;-8;CHUASSB
+getRouteDescription;630
+repairRoad;SQJ;VIFNAO;0
+398;UPE;9;7;WCKND;7;3;SQJ
+964;OXAF
+673;DXGDRY;5;5;CHUASSB
+repairRoad;OXAF;WCKND;3
+getRouteDescription;946
+171;NQBDHT;6;9;CHUASSB;3;9;VIFNAO
+ #getRouteDescription;114 
+addRoad;EBMYAJ;WCKND;8;7 
+getRouteDescription;817
+838;EBMYAJ
+getRouteDescription;170
+160;DXGDRY;8;2;SQJ
+addRoad;NQBDHT;WCKND;4;-9
+addRoad;UPE;SQJ;9;7
+repairRoad;DXGDRY;VIFNAO;-9
+167;CHUASSB
+817;UPE;5;-10;CHUASSB
+ repairRoad;NQBDHT;DXGDRY;-5
+86;DXGDRY
+ repairRoad;EBMYAJ;UP;E;-3
+ #getRouteDescription;551
+repairRoad;UPE;DX;GDRY;3 
+repairRoad;UPE;WCKND;-7
+repairRoad;NQBDHT;OXAF;-7
+repairRoad;EBMYAJ;EBMYAJ;4
+745;WCKND
+repairRoad;SQJ;VIFNAO;-6
+422;CHUASSB;2;8;DXGDRY;1;7;SQJ
+addRoad;VIFNAO;WCKND;2;7
+addRoad;WCKND;OUZ;0;9
+addRoad;UPE;EBMYAJ;2;0
+getRouteDesc;ription;143
+getRouteDescription;80
+getRouteDescription;10
+getRouteDescription;685
+985;DXGDRY;6;7;WCKND;0;-7;WCKND
+#getRouteDescription;836 
+addRoad;CHUASSB;SQJ;9;-5
+getRouteDescription;360
+getRouteDescription;950
+ 605;DXGDRY;3;-9;VIFNAO;8;-9;UPE
+ repairRoad;NQBDHT;OUZ;-9; 
+addRoad;NQBDHT;OUZ;8;4
+#getRouteDescription;100
+addRoad;UPE;UPE;5;-10
+ repairRoad;SQJ;OUZ;4 
+getRouteDescription;984
+getRouteDescription;803
+459;SQJ;7;3;NQBDHT
+489;UPE;3;3;OUZ;0;-5;WCKND
+addRoad;OXAF;WCKND;5;-8
+repairRoad;OXAF;NQBDHT;1
+getRouteDescription;296
+repairRoad;NQBDHT;VIFNAO;-4
+repairRoad;SQJ;CHUASSB;-8
+417;OXAF;8;6;EBMYAJ
+ #getRouteDescription;220 
+198;EBMYAJ
+getRouteDescription;782
+getRouteDescription;137
+581;CHUASSB
+ #614;UPE;5;0;EBMYAJ;9;1;EBMYAJ 
+891;NQBDHT
+getRouteDescription;839
+addRoad;OUZ;DXGDRY;5;-9
+905;OXAF
+repairRoad;WCKND;VIFNAO;-10
+repairRoad;EBMYAJ;NQBDHT;-5 
+getRouteDescription;767
+getRouteDescription;367
+addRoad;CHUASSB;CHUASSB;5;-7
+addRoad;WCKND;NQBDHT;0;3
+getRouteDescription;300
+getRouteDescription;640 
+ 594;OUZ
+addRoad;SQJ;DXGDRY;5;2
+258;CHUASSB;4;-8;CHUASSB
+getRouteDescription;694
+repairRoad;DXG;DRY;DXGDRY;8
+ #getRouteDescription;176 
+ #327;UPE;;4;-9;UPE;6;-4;CHUASSB
+ #getRouteD;escription;529
+addRoad;OUZ;UPE;5;6
+repairRoad;WCKND;VIFNAO;-10
+ repairRoad;CHUASSB;OXAF;-;4 
+ getRouteDescr;iption;491 
+addRoad;VIFNAO;VIFNAO;0;-2
+getRouteDescription;192
+addRoad;CHUASSB;SQJ;9;;-10
+addRoad;EBMYAJ;SQJ;6;8
+addRoad;CHUASSB;OUZ;2;-5
+repairRoad;WCKND;OUZ;-1
+10;NQBDHT;1;-2;EBMYAJ
+ #addRoad;;NQBDHT;VIFNAO;6;-6
+ #addRoad;SQJ;DXG;DRY;8;6 
+repairRoad;NQBDHT;UPE;9
+repairRoad;EBMYAJ;OUZ;-4
+577;WCKND;2;5;OXAF
+getRouteDescription;55
+addRoad;EBMYAJ;OUZ;9;3
+516;WCKND
+addRoad;OUZ;CHUASSB;2;9
+repairRoad;EBMYAJ;OUZ;5
+addRoad;WCKND;UPE;6;-8
+957;UPE;7;4;NQBDHT;6;5;DXGDRY
+repairRoad;DXGDRY;UPE;5
+addRoad;CHUASSB;VIFNAO;1;5
+getRouteDescription;957 
+963;OUZ
+repairRoad;CHUASSB;WCKND;-10
+addRoad;VIFNAO;CHUASSB;2;-10
+getRouteDescription;839
+addRoad;DXGDRY;CHUASSB;8;2
+addRoad;OXAF;UPE;9;8
+277;CHUASSB;0;-3;DXGDRY
+addRoad;SQJ;EBMYAJ;1;0
+addRoad;NQBDHT;OUZ;9;-1
+repairRoad;OXAF;OUZ;-3
+657;WCKND;3;9;CHUASSB
+repairRoad;SQJ;CHUASSB;2
+61;EBMYAJ;0;-9;UPE
+getRouteDescription;5;44 
+718;WCKND 
+getRouteDescription;428
+792;DXGDRY;6;8;WCKND
+getRouteDescription;963
+repairRoad;UPE;WCKND;-6
+ #addRoa;d;NQBDHT;VIFNAO;0;3 
+687;OXAF
+ getRouteDescription;456
+637;DXGDRY;7;9;EBMYAJ
+getRouteDescription;704
+477;DXGDRY;7;-10;CHUASSB
+repairRoad;CHUASSB;OXAF;8
+addRoad;DXGDRY;UPE;7;-5
+addRoad;SQJ;OUZ;8;8
+770;CHUASSB;0;-6;EBMYAJ;2;-7;UPE
+repairRoad;OUZ;CHUASSB;-8
+980;DXGDRY
+addRoad;SQJ;SQJ;2;-7
+getRouteDescription;301
+repairRoad;OUZ;VIFNAO;3
+repairRoad;CHUASSB;NQBDHT;-4
+repairRoad;WCKND;WCKND;2
+206;OUZ;2;-3;EBMYAJ;2;-10;CHUASSB 
+repairRoad;OUZ;VIFNAO;6
+getRouteDescription;180
+ getRouteDescription;494
+#repairRoad;SQJ;UPE;-9
+#getRouteDescrip;tion;391
+addRoad;VIFNAO;DXGDRY;4;3
+repairRoad;CHUASSB;DXGDRY;-2
+ add;Road;OUZ;SQJ;1;1
+getRouteDescription;138
+357;UPE;4;9;SQJ
+repairRoad;WCKND;WCKND;1
+getRouteDescription;320
+addRoad;UPE;CHUASSB;2;-2 
+ #getRouteDescription;351 
+repairRoad;WCKND;WCKND;8
+getRouteDescription;111
+repairRoad;CHUASSB;CHUASSB;-7
+419;WCKND;2;9;EBMYAJ;8;9;OUZ
+0;DXGDRY
+getRouteDescription;26
+getRouteDescription;422
+775;NQBDHT;;7;9;VIFNAO
+addRoad;OXAF;OUZ;2;3
+addRoad;SQJ;OUZ;7;-4
+repairRoad;SQJ;UPE;7
+26;SQJ;7;-4;EBMYAJ
+76;WCKND
+484;EBMYAJ;7;9;DXGDRY;9;9;OUZ
+addRoad;OXAF;OUZ;3;5
+ #repairRoad;NQBDHT;OUZ;1 
+getRouteDescription;684
+addRoad;OXAF;OUZ;4;8
+getRouteDescription;948 
+addRoad;CHUASSB;UPE;;7;-9 
+ repairRoad;EBMYAJ;SQJ;1 
+addRoad;SQJ;WCKND;3;9
+getRouteDescription;484
+ 567;OXAF;1;4;OXAF 
+getRouteDescription;173
+67;CHUASSB
+getRouteDescription;496
+getRouteDescription;75
+ addRoad;NQBDHT;SQJ;1;-4
+707;VIFNAO;6;9;OXAF;9;9;EBMYAJ
+getRouteDescription;456
+getRouteDescription;484
+464;WCKND
+965;SQJ
+751;CHUASSB;2;-8;OXAF
+addRoad;CHUASSB;OUZ;4;-2
+repairRoad;EBMYAJ;WCKND;-4
+getRouteDescription;496 
+repairRoad;NQBDHT;UPE;-9
+addRoad;OUZ;NQBDHT;0;-4
+ #repairRoad;EBMYAJ;CHUASSB;-2
+repairRoad;UPE;OXAF;-5
+ getRouteDes;cription;980 
+#repairRoad;DXGDRY;EBMY;AJ;0 
+ #addRoad;;OUZ;OUZ;8;0 
+ #addRoad;CHUASSB;WCKND;;3;4
+repairRoad;WCKND;CHUASSB;-3
+repairRoad;;CHUASSB;NQBDHT;8 
+addRoad;VIFNAO;OXAF;8;-3
+424;UPE;0;-7;CHUASSB;3;5;CHUASSB
+542;UPE
+464;OXAF
+getRouteDescription;314
+repairRoad;EBMYAJ;DXGDRY;-2
+repairRoad;OXAF;NQBDHT;8
+repairRoad;SQJ;CHUASSB;-10
+getRouteDescription;10
+ addRoad;UPE;OXAF;3;0
+repairRoad;OUZ;VIFNAO;-4
+repa;irRoad;EBMYAJ;DXGDRY;-4
+#repairRoad;OXAF;SQJ;-7
+addRoad;OUZ;NQBDHT;5;6
+ 693;EBMYAJ;4;8;UPE;0;-2;OUZ 
+;getRouteDescription;510 
+getRouteDescription;138
+addRoad;UPE;NQBDHT;4;2
+ #repairRoad;EBMY;AJ;OXAF;-9
+getRouteDescription;484
+getRouteDescription;494
+ #195;O;UZ;4;2;SQJ 
+getRouteDescription;686
+ addRoad;CHUASSB;CHUAS;SB;9;7
+948;OUZ;3;3;NQBDHT;8;4;UPE
+getRouteDescription;564
+repairRoad;OUZ;SQJ;7
+repairRoad;OUZ;CHUASSB;-4
+addRoad;NQBDHT;OXAF;3;-10
+getRouteDescription;697
+getRouteDescription;296
+ getRouteDescription;704
+getRouteDes;cription;707
+#getRouteDe;scription;637
+addRoad;DXGDRY;OX;AF;9;-9 
+repairRoad;NQBDHT;WCKND;-7
+828;OXAF;9;9;UPE;2;9;VIFNAO 
+#addRoad;EBMYAJ;OXAF;0;-2
+repairRoad;NQBDHT;OXAF;7
+#getRouteDescription;;396
+ #repairRoad;VIFNAO;DXGDRY;6 
+getRouteDe;scription;296 
+repairRoad;VIFNAO;OXAF;7
+addRoad;OXAF;DXGDRY;7;-4
+26;EBMYAJ;3;7;CHUASSB;5;9;UPE
+ #addRoad;UPE;SQJ;5;;-4 
+#119;DXGDRY;9;8;VIFNA;O
+ #addRoad;EBMYAJ;NQBDHT;4;7 
+repairRo;ad;OUZ;OUZ;7 
+repairRoad;EBMYAJ;EBMYAJ;-1
+ addRoad;OUZ;;OXAF;8;-9
+ #rep;airRoad;NQBDHT;WCKND;-9
+#ge;tRouteDescription;301 
+769;NQBDHT
+745;UPE;6;-9;NQBDHT
+repairRoad;SQJ;OXAF;-1
+52;UPE;6;6;CHUASSB
+ #addRoad;DXGDRY;OX;AF;1;4 
+addRoad;EBMYAJ;OUZ;4;-8
+addRoad;NQBDHT;VIFNAO;9;7
+getRouteDescription;946
+getRouteDescription;984
+getRouteDescription;11
+repairRoad;CHUASSB;OUZ;2
+ get;RouteDescription;314
+repairRoad;VIFNAO;SQJ;-5
+repairRoad;SQJ;DXGDRY;-4
+#getRouteDescription;839
+getRouteDescription;130
+ repairRoad;NQBDHT;OUZ;-10
+repairRoad;NQBDHT;WCKND;-6
+getRouteDescription;775
+repairRoad;OXAF;OXAF;9
+repairRoad;OXAF;VIFNAO;-2
+#g;etRouteDescription;419 
+addRoad;DXGDRY;OXAF;3;-8
+getRouteDescription;109
+190;OXAF
+getRouteDescription;170
+repairRoad;DXGDRY;WCKND;0
+repairRoad;EBMYAJ;OXAF;8
+getRouteDescription;1
+;#997;NQBDHT
+getRouteDescription;721
+26;EBMYAJ
+ addRoad;SQJ;CHUASSB;1;2 
+addRoad;EBMYAJ;EBMYAJ;9;1
+508;OXAF;9;8;DXGDRY;1;-9;CHUASSB
+ #repairRoad;WCKND;;CHUASSB;7 
+addRoad;VIFNAO;VIFNAO;2;1
+407;WCKND;7;3;EBMYAJ
+addRoad;OXAF;UPE;4;-5
+getRouteDescription;445
+repairRoad;EBMYAJ;DXGDRY;1
+repairRoad;DXGDRY;UPE;-5
+getRouteDescription;24
+getRouteDescription;114
+getRouteDescripti;on;767
+repairRoad;UPE;;WCKND;8
+609;SQJ
+addRoad;SQJ;SQJ;5;-1
+repairRoad;DXGDRY;WCKND;-2
+getRouteDescription;119
+getRouteDescription;282
+898;NQBDHT;6;9;DXGDRY
+510;NQBDHT
+addRoad;CHUASSB;VIFNAO;5;-2
+addRoad;VIFNAO;DXGDRY;6;-4
+getRouteDescription;605
+repairRoad;VIFNAO;SQJ;-1
+ #11;CHUAS;SB 
+addRoad;DXGDRY;WCKND;1;0
+repairRoad;DXGDRY;VIFNAO;-9
+getRouteDescription;170
+#817;WCKND;2;-3;WCKND;1;0;NQBDHT
+#addRoad;EBMYAJ;WCKND;2;-2
+743;OXAF
+ addR;oad;NQBDHT;OXAF;2;1
+getRouteDescription;335
+88;NQBDHT;1;-6;EBMYAJ;9;8;EBMYAJ
+#114;SQJ;7;5;UPE;0;9;NQBDHT 
+488;CHUASSB
+repairRoad;OUZ;UPE;5
+addRoad;WCKND;WCKND;0;-1
+ad;dRoad;WCKND;UPE;3;9 
+ #repairRoad;WCKND;DXGDRY;-5 
+;#getRouteDescription;782
+137;EBMYAJ
+addRoad;EBMYAJ;SQJ;1;-5
+addRoad;NQBDHT;UPE;5;2
+462;OUZ;5;-4;OXAF;8;-8;EBMYAJ
+addRoad;OUZ;NQBDHT;0;7
+getRouteDescription;328
+ #getRouteDe;scription;157
+repairRoad;VIFNAO;DXGDRY;-10
+382;VIFNAO;5;-8;CHUASSB;1;-3;EBMYAJ
+ #repairRoad;CHUASSB;NQBDHT;1 
+addRoad;VIFNAO;NQBDHT;9;-5 
+304;SQJ;4;9;EBMYAJ
+707;VIFNAO;5;-10;OXAF;7;7;WCKND
+repairRoad;OUZ;CHUASSB;-6
+getRouteDescription;123
+repairRoad;SQJ;CHUASSB;-5
+ #540;DXGDR;Y
+repairRoad;EBMYAJ;OUZ;-1 
+332;VIFNAO;0;-10;CHUASSB;3;-1;CHUASSB
+ #70;VIFNAO;8;-8;DXGDRY;8;-1;NQBDH;T 
+455;UPE
+getRouteDesc;ription;860
+repairRoad;OUZ;VIFNAO;-7 
+repairRoad;EBMYAJ;UPE;2 
+repairRoad;WCKND;EBMYAJ;7
+getRouteDescription;327
+repairRoad;VIFNAO;OUZ;-2
+getRouteDescription;192
+340;NQBDHT;4;0;EBMYAJ
+addRoad;WCKND;SQJ;8;-7
+repairRoad;OXAF;NQBDHT;4
+repairRoad;SQJ;VIFNAO;6
+repairRoad;NQBDHT;DXGDRY;9
+repairRoad;SQJ;CHUASSB;-3
+addRoad;OUZ;OUZ;0;8
+repairRoad;WCKND;VIFNAO;2
+getRouteDescription;333
+775;OUZ;7;-8;WCKND;9;-3;EBMYAJ
+repairRoad;NQBDHT;DXGDRY;-8
+getRouteDescription;83
+repairRoad;DXGDRY;VIFNAO;-8
+getRouteDescription;360
+repairRoad;OUZ;SQJ;7
+#addRoad;DXGDRY;OUZ;3;8
+ #756;EBMYAJ;4;9;SQJ
+getRouteDescription;957
+104;OUZ;2;0;OUZ
+repairRoad;DXGDRY;UPE;1
+repairRoad;OXAF;NQBDHT;-7
+638;NQBDHT;4;1;EB;MYAJ 
+addRoad;VIFNAO;EBMYAJ;0;-5 
+ addRoad;EBMYAJ;EB;MYAJ;1;0
+ 191;EBMYAJ;2;-7;UPE 
+addRoad;WCKND;UPE;9;-1
+0;OXAF;2;-7;NQBDHT
+#repairRoad;NQBDHT;DXG;DRY;5 
+628;UPE;9;9;OXAF
+addRoad;OXAF;UPE;8;-7
+220;OXAF;1;-4;OXAF;5;-4;OXAF
+356;OXAF;0;1;NQBDHT;3;-4;WCKND
+getRouteDescription;767
+repairRoad;OXAF;O;UZ;5 
+ 274;OXAF;6;8;CHUASSB;2;9;EBMYAJ 
+getRouteDescription;776
+#getRouteDescription;96 
+repairRoad;SQJ;CHUASSB;-9
+addRoad;OXAF;CHUASSB;9;-4
+getRouteDescription;221
+65;NQBDHT;8;-4;CHUASSB
+ getRouteDescripti;on;927 
+#addRoad;NQBDHT;WCKND;6;5 
+addRoad;NQBDHT;VIFNAO;3;4
+ addRoad;VIFNAO;UPE;1;4
+320;CHUASSB
+addRoad;DXGDRY;SQJ;3;-10
+addRoad;SQJ;DXGDRY;5;5
+getRouteDescription;229
+ #getRouteDescription;707
+addRoad;OXAF;WCKND;1;-6
+addRoad;NQBDHT;WCKND;5;3
+addRoad;WCKND;DXGDRY;6;-1
+getRouteDescription;139
+ 492;WCKND;8;5;NQBDHT;0;8;VIFNAO 
+repairRoad;DXGDRY;OXAF;8
+addRoad;DXGDRY;DXGDRY;7;0
+getRouteDescription;102
+repairRoad;SQJ;OUZ;-7
+#addRoad;DXGDRY;WCKND;6;6 
+addRoad;DXGDRY;NQBDHT;2;3
+462;;SQJ
+getRouteDescription;208
+ addRoad;UPE;OXAF;7;;-10
+addRoad;OUZ;UPE;1;4
+#getRouteDescripti;on;134 
+getRouteDescription;114
+addRoad;UPE;WCKND;1;4
+getRouteDescription;899
+addRoad;SQJ;NQBDHT;3;4
+repairRoad;OXAF;WCKND;-10
+getRouteDescription;352
+getRouteDescription;10
+275;DXGDRY;5;6;WCKND;0;-6;UPE
+#getRo;uteDescription;828
+getRouteDescription;725
+repairRoad;SQJ;WCKND;8
+0;WCKND
+654;DXGDRY;0;3;UPE;6;-10;WCKND
+#528;OUZ;6;8;OUZ 
+addRoad;OXAF;DXGDRY;0;2
+addRoad;WCKND;OUZ;6;5
+addRoad;OXAF;WCKND;6;-4
+addRoad;DXGDRY;UPE;2;6
+repairRoad;WCKND;OXAF;7
+repairRoad;OUZ;OUZ;7
+addRoad;CHUASSB;VIFNAO;7;9
+addRoad;NQBDHT;UPE;0;-10
+#repairRoad;OUZ;NQBDH;T;-9
+859;SQJ;6;8;EBMYAJ;0;-10;OUZ
+ #getRouteDe;scription;775
+addRoad;CHUASSB;OXAF;8;-9
+getRouteDescription;836
+getRouteDescription;320
+addRoad;WCKND;DXGDRY;6;0
+911;VIFNAO;7;9;NQBDHT;2;9;UPE
+repairRoad;DXGDRY;WCKND;-10
+addRoad;VIFNAO;NQBDHT;6;9
+464;NQBDHT;5;-6;OXAF
+getRouteDescription;357
+715;OUZ
+getRouteDescription;360
+ 235;DXGDR;Y 
+ #addRoad;CHUASSB;UPE;7;-9 
+969;OUZ
+getRouteDescription;477
+950;NQBDHT;0;-9;DXGDRY;7;3;OXAF
+addRoad;SQJ;OUZ;4;2
+repairRoad;OXAF;NQBDHT;-8
+ #repairRoad;OXAF;VI;FNAO;-10 
+#740;UPE;0;3;OXAF
+114;SQJ
+188;NQBDHT
+repairRoad;CHUASSB;VIFNAO;-8
+addRoad;DXGDRY;VIFNAO;6;-5
+addRoad;UPE;CHUASSB;3;-10
+repairRoad;SQJ;DXGDRY;3
+addRoad;WCKND;OXAF;9;-10
+repairRoad;CHUASSB;SQJ;8
+repairRoad;CHUASSB;NQBDHT;-3
+addRoad;OUZ;UPE;8;2
+864;WCKND;9;1;DXGDRY;4;1;UPE
+addRoad;CHUASSB;NQBDHT;0;-9
+getRouteDescription;709
+repairRoad;UPE;WCKND;-10
+addRoad;OUZ;UPE;5;-6
+repairRoad;EBMYAJ;VIFNAO;0
+repairRoad;OUZ;OUZ;-9
+283;WCKND
+addRoad;VIFNAO;SQJ;3;-9
+238;DXGDRY;1;-9;VIFNAO;1;-9;CHUASSB
+getRouteDescription;242
+addRoad;OUZ;SQJ;1;-2
+addRoad;NQBDHT;OXAF;6;-6
+addRoad;SQJ;EBMYAJ;0;-7
+363;OUZ
+282;OUZ
+repairRoad;UPE;WCKND;0
+getRouteDescription;963
+2;95;VIFNAO 
+repairRo;ad;OUZ;UPE;-8 
+getRouteDescription;221
+getRouteDescription;555
+repairRoad;DXGDRY;CHUASSB;0
+477;DXGDRY
+911;UPE
+repairRoad;EBMYAJ;DXGDRY;0
+488;OXAF
+addRoad;OUZ;EBMYAJ;2;6
+repairRoad;WCKND;DXGDRY;-4
+repairRoad;OUZ;NQBDHT;3
+702;SQJ;1;7;DXGDRY;3;8;OXAF 
+ #repairRoad;DXGDRY;WCKND;5 
+addRoad;OXAF;CHUASSB;4;7
+getRouteDescription;645
+repairRoad;OUZ;DXGDRY;-8
+getRouteDescription;83
+addRoad;SQJ;UPE;2;7
+addRoad;OUZ;CHUASSB;8;-2
+getRouteDescription;363
+564;OUZ;7;-1;OXAF;3;7;OXAF
+getRouteDescription;156
+#getRouteDescription;841 
+474;CHUASSB;9;8;VIFNAO
+498;SQJ
+repairRoad;DXGDRY;UPE;5
+693;CHUASSB 
+745;DXGDRY;6;-5;EBMYAJ
+getRouteDescription;303
+repairRoad;SQJ;WCKND;-9
+#repa;irRoad;EBMYAJ;OXAF;-10 
+#repairRoad;WCKND;DXGDRY;-6 
+getRouteDescription;289
+64;SQJ
+ #640;UPE;9;9;DXGDRY;2;8;CHUASSB
+addRoad;EBMYAJ;OUZ;6;1
+ #addRoad;VIFNAO;OUZ;4;3 
+getRouteDescription;853
+getRo;uteDescription;172 
+addRoad;NQBDHT;WCKND;6;-6
+ #repairRoad;UPE;WCKND;;0 
+ #addRoad;SQJ;OXAF;5;9 
+ #0;DXGDRY
+getRouteDescription;456
+580;DXGDRY
+repairRoad;WCKND;UPE;9
+getRouteDescription;77
+593;OUZ
+297;UPE
+getRouteDescription;529
+addRoad;OXAF;UPE;4;-8
+repairRoad;EBMYAJ;SQJ;2
+repairRoad;OXAF;DXGDRY;-1
+getRouteDescription;198
+addRoad;VIFNAO;OXAF;5;0
+getRouteDescription;861
+repairRoad;OXAF;OUZ;8
+542;;SQJ;5;1;WCKND;2;-10;EBMYAJ
+ #addRoad;OXAF;NQBDHT;9;9
+repairRoad;SQJ;NQBDHT;-1
+addRoad;DXGDRY;VIFNAO;8;-5
+551;EBMYAJ;0;2;CHUASSB
+addRoad;WCKND;UPE;2;2
+0;WCKND;1;0;NQBDHT;8;7;WCKND
+617;CHUASSB;2;2;UPE;3;6;OXAF
+ getRo;uteDescription;128 
+getRouteDescription;853
+33;WCKND;1;6;WCKND
+0;WCKND;9;2;NQBDHT;7;0;CHUASSB
+getRouteDescription;972
+ getRouteDescription;156 
+ repairRoa;d;WCKND;OXAF;-2 
+180;CHUASSB;2;-6;SQJ
+#getRouteDescription;177
+getRouteDescription;684
+ addRoad;SQJ;;SQJ;0;-8
+#addRoad;NQBDHT;;NQBDHT;7;-10 
+125;UPE
+ #repairRoad;SQJ;DXGDRY;0 
+getRouteDescription;817
+ repairRoad;;OUZ;WCKND;6 
+addRoad;UPE;DXGDRY;7;-9
+addRoad;WCKND;VIFNAO;9;1
+addRoad;CHUASSB;NQBDHT;;4;9 
+getRouteDescription;71
+addRoad;EBMYAJ;CHUASSB;0;2
+addRoad;UPE;CHUASSB;8;-9
+getRouteDescription;533
+372;OXAF;3;8;DXGDRY;7;9;EBMYAJ
+getRouteDescription;164
+addR;oad;WCKND;SQJ;3;-6
+ getRouteDescription;381
+addRoad;NQBDHT;NQBDHT;9;2
+addRoad;SQJ;OXAF;5;-8
+419;CHUASSB
+52;CHUASSB
+ #addRoad;CHUASSB;VIFNAO;8;-10
+addRoad;OUZ;UPE;8;1
+getRouteDescripti;on;156
+addRoad;NQBDHT;EBMYAJ;1;-2
+addRoad;OXAF;SQJ;8;8
+repairRoad;VIFNAO;UPE;-1
+repairRoad;SQJ;NQBDHT;-5
+175;WCKND
+getRouteDescription;77
+759;OUZ
+getRouteDescription;221
+addRoad;OUZ;OUZ;2;4; 
+getRouteDescription;437
+repairRoad;WCKND;NQBDHT;-6
+getRouteDescription;648
+getRouteDescription;119
+addRoad;OUZ;VIFNAO;2;-1
+#190;OUZ;1;-5;EBMYAJ 
+327;WCKND;6;5;UPE
+addRoad;NQBDHT;SQJ;1;2
+repairRoad;OXAF;NQBDHT;0
+getRouteDescription;327
+addR;oad;DXGDRY;OUZ;6;5
+613;NQBDHT;6;-2;OXAF
+428;NQBDHT;2;-10;VIFNAO;3;-7;OXAF
+ #addRoad;UPE;CHUASSB;7;-1 
+#addRoad;VIFNAO;VIFNAO;0;;-4 
+591;SQJ;4;9;UPE;3;9;CHUASSB
+repairRoad;DXGDRY;UPE;8
+ #71;OUZ;3;-8;DXGDRY;5;-4;UPE
+ repairRoad;CH;UASSB;WCKND;-10 
+addRoad;VIFNAO;WCKND;9;7
+996;EBMYAJ
+repairRoad;DXGDRY;WCKND;-8
+repairRoad;DXGDRY;WCKND;1
+repairRoad;EBMYAJ;OUZ;1
+addRoad;DXGDRY;OXAF;4;7
+0;SQJ;7;-2;WCKND;6;-8;EBMYAJ
+rep;airRoad;WCKND;OXAF;0
+repairRoad;NQBDHT;OXAF;-8
+getRouteDescription;946
+#g;etRouteDescription;270
+0;EBMYAJ;4;;-7;SQJ 
+repairRoad;EBMYAJ;CHUASSB;-4
+repairRoad;UPE;WCKND;-3
+getRouteDescription;429
+repairRoad;NQBDHT;DXGDRY;-3
+addRoad;NQBDHT;OUZ;0;-8
+getRouteDescription;177
+getRouteDescription;266
+367;NQBDHT;8;-7;DXGDRY;1;6;EBMYAJ
+repairRoad;NQBDHT;OUZ;-1
+71;UPE
+repairRoad;OUZ;DXGDRY;-6 
+235;SQJ
+repairRoad;SQJ;UPE;-2
+709;EBMYAJ
+addRoad;EBMYAJ;OUZ;3;-9 
+732;EBMYAJ;4;-4;NQBDHT;9;-3;OUZ
+repairRoad;DXGDRY;WCKND;-6; 
+repairRoad;OXAF;UPE;5
+getRouteDescription;637
+getRouteDescription;859
+802;EBMYAJ;3;-5;SQJ;2;0;SQJ
+getRouteDescription;23
+addRoad;UPE;VIFNAO;3;-7
+repairRoad;DXGDRY;CHUASSB;-10
+#addRoad;NQBDHT;VIF;NAO;9;9
+getRouteDescription;518
+#addR;oad;VIFNAO;CHUASSB;9;9 
+getRouteDescription;600
+getRouteDescription;156
+repairRoad;NQBDHT;CHUASSB;3
+#900;DXGDRY;8;0;VIFNAO;3;-1;OXAF
+288;NQBDHT;2;-2;NQBDHT;2;-4;WCKND
+999;OUZ;8;9;EBMYAJ
+ getRouteDescription;388; 
+repairRoad;CHUASSB;UPE;-8
+616;DXGDRY;1;5;DXGDRY
+addRoad;DXGDRY;OXAF;4;8
+617;OUZ
+getRouteDescription;831
+addRoad;SQJ;CHUASSB;5;-2
+262;OXAF;9;9;EBMYAJ;9;8;VIFNAO
+0;OXAF;3;7;WCKND;6;-2;EBMYAJ
+addRoad;EBMYAJ;WCKND;7;5
+213;CHUASSB;4;9;UPE;9;1;EBMYAJ
+getRouteDescription;935
+155;VIFNAO;6;9;OXAF
+345;NQBDHT
+156;OXAF;0;-4;UPE
+ 94;4;DXGDRY;8;4;OXAF;2;4;SQJ 
+340;DXGDRY;9;2;WCKND;7;1;OXAF
+addRoad;OXAF;OUZ;7;-3
+addRoad;NQBDHT;NQ;BDHT;1;-2
+repairRoad;SQJ;NQBDHT;9
+getRouteDescription;703
+ #addRoad;CHUASSB;WCKND;5;-10
+514;SQJ
+getRouteDescription;946
+#getRouteDescrip;tion;363 
+ 852;WCKND;5;1;UPE;7;-4;EBMYAJ
+ getRouteDescription;;707 
+getRouteDescription;296
+ #;repairRoad;SQJ;VIFNAO;1
+ ;addRoad;DXGDRY;SQJ;4;-3
+802;VIFNAO;7;-8;OUZ 
+#addRoad;;VIFNAO;OUZ;6;4 
+726;OUZ;3;9;VIFNAO 
+#getRouteDescription;596
+repairRoad;NQBDHT;OUZ;8
+addRoad;VIFNAO;WCKND;2;9
+71;OUZ;9;-1;EBMYAJ
+353;UPE
+getRouteDescription;11
+repairRoad;SQJ;VIFNAO;-7
+#repairRoad;NQBDHT;NQBDHT;;7 
+repairRoad;EBMYAJ;NQBDHT;9
+ getRouteDescription;997 
+addRoad;NQBDHT;SQJ;8;4
+ repairRoad;VIFNAO;WCKND;-9 
+addRoad;OUZ;DXGDRY;4;6
+repairRoad;OUZ;SQJ;-6
+178;OUZ;9;-8;UPE
+addRoad;UPE;WCKND;6;1
+ repairRoad;NQBD;HT;WCKND;-8
+ #repairRoad;OUZ;SQJ;-2 
+534;CHUASSB
+getRouteDes;cription;596 
+addRoad;OUZ;UPE;9;7
+getRouteDescription;463
+getRouteDescription;741
+getRouteDescription;213
+addRoad;NQBDHT;CHUASSB;1;-7
+119;CHUASSB;3;-1;SQJ
+getRouteDescription;130
+getRouteDescription;160
+151;VIFNAO;6;-9;DXGDRY;2;2;WCKND
+ #addRoa;d;OXAF;NQBDHT;5;6
+getRouteDescription;828
+44;CHUASSB;4;5;OUZ
+;583;DXGDRY 
+addRoad;NQBDHT;OXAF;1;7
+#getRouteDescription;71 
+getRouteDescription;983
+getRouteDescription;330
+ #getRouteDescription;47
+#repairRoa;d;CHUASSB;OXAF;3
+88;DXGDRY;9;-9;SQJ
+getRouteDescription;645
+getRouteDescription;424
+repairRoad;SQJ;CHUASSB;-6 
+repairRoad;VIFNAO;NQBDHT;-2
+addRoad;SQJ;CHUASSB;2;-7
+#repairRoad;VIFNAO;DXGDRY;;2 
+getRouteDescription;776
+getRouteDescription;396
+repairRoad;NQBDHT;OUZ;9
+858;DXGDRY;7;9;EBMYAJ;7;7;UPE
+getRouteDescription;839 
+repairRoad;NQBDHT;DXGDRY;7
+ #getRo;uteDescription;47 
+addRoad;DXGDRY;VIFNAO;7;-7
+ 652;WCKND;;2;9;EBMYAJ 
+repairRoad;CHUASSB;OXAF;2
+repairRoad;DXGDRY;CHUASSB;-1
+addRoad;OUZ;SQJ;0;4
+getRouteDescription;151
+170;DXGDRY;9;-8;CHUASSB;1;-9;DXGDRY
+546;OUZ;8;-7;DXGDRY
+repairRoad;DXGDRY;EBMYAJ;-1
+ getRouteDescription;274 
+ #repairRoad;OUZ;DXGDRY;-10 
+ rep;airRoad;DXGDRY;WCKND;5
+getRouteDescription;837
+getRouteDescription;15
+getRouteDescription;775
+getRouteDescription;596
+getRouteDescription;170
+getRouteDescription;661
+repairRoad;NQBDHT;UPE;1
+repairRoad;DXGDRY;VIFNAO;1
+496;EBMYAJ;3;3;WCKND
+repairRoad;DXGDRY;;WCKND;-7
+addRoad;EBMYAJ;OXAF;0;-8
+ repairRoad;NQBDHT;UPE;-4
+repairRoad;SQJ;DXGDRY;-2
+addRoad;CHU;ASSB;OXAF;1;9 
+addRoad;NQBDHT;UPE;2;2
+getRouteDescription;316
+repairRoad;SQJ;WCKND;0
+ getRouteDescription;415 
+702;VIFNAO;4;-6;OUZ
+getRouteDescription;745
+addRoad;WCKND;EBMYAJ;0;4
+getRouteDescription;327
+getRouteDescription;763
+getRouteDescription;756
+704;SQJ
+addRoad;EBMYAJ;CHUASSB;7;-5
+addRoad;WCKND;EBMYAJ;1;-3
+234;EBMYAJ;9;1;UPE;2;-10;CHUASSB
+ad;dRoad;VIFNAO;UPE;7;-1 
+ #getRouteDe;scription;519
+repairRoad;NQBDHT;UPE;-4
+#getRouteDescription;978 
+addRoad;VIFNAO;EBMYAJ;9;-7
+repairRoad;WCKND;OUZ;5
+repairRoad;OUZ;VIFNAO;-8
+#repairRoad;;WCKND;UPE;8 
+repairRoad;OUZ;CHUASSB;5
+repairRoad;CHUASSB;DXGDRY;1
+getRouteDescription;318
+183;UPE;8;9;OUZ
+181;DXGDRY
+ addRoad;SQJ;OXAF;0;-7 
+repairRoad;CHUASSB;OXAF;2
+addRoad;EBMYAJ;WCKND;3;8
+getRouteDescription;110 
+repairRoad;CHUASSB;NQBDHT;5
+addRoad;OXAF;OUZ;9;9
+32;OUZ;0;-1;OXAF;2;8;WCKND
+ #re;pairRoad;OUZ;NQBDHT;1
+addRoad;WCKND;EBMYAJ;1;5
+545;OXAF;9;9;EBMYAJ;7;7;UPE
+782;NQBDHT;5;-1;VIFNAO;1;-1;SQJ
+ getRouteDescription;725
+178;VIFNAO;9;8;SQJ
+addRoad;OUZ;DXGDRY;3;-2
+repairRoad;WCKND;CHUASSB;-6
+getRouteDescription;456
+getRouteDescription;780
+addRoad;VIFNAO;UPE;2;1
+getRouteDescription;208
+repairRoad;CHUASSB;NQBDHT;-10
+#975;EBMYAJ;2;9;WCK;ND 
+getRouteDescription;702
+ getRouteDescription;586 
+addRoad;DXGDRY;DXGDRY;1;-8
+#getRouteDescription;;839 
+repairRoad;OUZ;UPE;-10
+314;OXAF;2;4;OXAF
+a;ddRoad;UPE;OXAF;5;6 
+getRouteDescription;488
+getRouteDescription;371
+ #707;CHUASSB;3;-2;VIFNAO 
+repairRoad;VIFNAO;CHUASSB;6
+getRouteDescription;585
+addRoad;OXAF;DXGDRY;5;-9 
+repairRoad;OUZ;WCKND;8
+addRoad;WCKND;OXAF;3;8 
+repairRoad;OUZ;WC;KND;-8 
+repairRoad;NQBDHT;VIFNAO;-1
+getRouteDescription;637
+addRoad;VIFNAO;CHUASSB;7;9
+addRoad;CHUASSB;CHUASSB;6;-7
+repairRoad;CHUASSB;DXGDRY;6
+0;SQJ;8;-7;OXAF;9;4;EBMYAJ
+addRoad;CHUASSB;OXAF;1;1
+360;CHUASSB;0;4;DXGDRY;3;0;NQBDHT
+getRouteDescription;712
+repairRoad;CHUASSB;NQBDHT;8
+421;VIFNAO
+ #getRouteDescription;5;2 
+ addRoa;d;CHUASSB;OUZ;8;0 
+getRouteDescription;10
+getRouteDescription;274
+getRouteDescription;856
+getRouteDescription;971
+ getRouteDescription;478
+addRoad;VIFN;AO;UPE;5;8 
+getRouteDescription;796
+848;CHUASSB;6;8;OXAF
+addRoad;SQJ;OUZ;9;1
+426;UPE
+#repairRoad;;OUZ;CHUASSB;-6
+addRoad;NQBDHT;OXAF;0;-10
+addRoad;DXGDRY;VIFNAO;0;-6
+712;EBMYAJ
+234;CHUASSB;5;6;UPE
+#repairRoad;UPE;;VIFNAO;-7
+getRouteDescription;302
+repairRoad;OXAF;OUZ;-2
+373;CHUASSB;6;0;CHUASSB;4;-3;WCKND
+0;SQJ;5;-9;NQBDHT;8;-10;OXAF
+#repairRoad;OUZ;NQB;DHT;-7 
+repairRoad;VIFNAO;OUZ;-8
+repairRoad;NQBDHT;UPE;-6
+892;UPE
+addRoad;CHUASSB;DXGDRY;3;6
+ #addRoad;WCKND;CHUASSB;7;-3
+getRouteDescription;183
+getRouteDescr;iption;978
+addRoad;SQJ;VIFNAO;0;1
+229;EBMYAJ;9;9;UPE
+getRouteDescription;242
+#repairRoad;S;QJ;NQBDHT;9 
+711;NQBDHT
+addRoad;EBMYAJ;CHUASSB;5;-10
+282;NQBDHT;6;0;SQJ;3;6;OUZ
+getRouteDescription;775
+repairRoad;NQBDHT;VIFNAO;6
+ #getRouteDescription;301
+repairRoad;OXAF;VIFNAO;-2
+addRoad;CHUASSB;SQJ;9;4
+getRouteDescription;963
+getRouteDescription;452
+#;69;SQJ 
+ addRoad;OXAF;NQBDHT;1;6
+ #234;VIFNAO;6;4;SQJ;0;4;EBMYAJ
+ 8;23;WCKND
+repairRoad;SQJ;EBMYAJ;7 
+addRoad;UPE;VIFNAO;5;-2
+repairRoad;SQJ;NQBDHT;7
+repairRoad;SQJ;OUZ;-4
+ #g;etRouteDescription;221
+repairRoad;EBMYAJ;OUZ;-4
+367;CHUASSB;4;3;EBMYAJ
+getRouteDescription;974
+repairRoad;CHUASSB;UPE;-9
+addRoad;VIFNAO;WCKND;6;-4
+repairRoad;SQJ;WCKND;;2
+422;WCKND
+repairRoad;CHUASSB;OXAF;8
+ #841;NQBDHT
+ #addRoad;OXAF;U;PE;2;-8 
+getRouteDescription;966
+ repairRoad;NQBDHT;OUZ;;-10
+ getRouteDescription;302
+addRoad;OUZ;OUZ;4;-1
+addRoad;OXAF;EBMYAJ;9;-6
+addRoad;WCKND;OXAF;4;5
+repairRoad;WCKND;CHUASSB;-3
+getRouteDescription;558
+272;CHUASSB
+addRoad;DXGDRY;OUZ;2;-6
+addRoad;SQJ;NQBDHT;0;-10
+961;VIFNAO;0;-5;OXAF;9;-7;NQBDHT
+addRoad;NQBDHT;SQJ;6;6
+#repairRoad;VIFNAO;EBMYAJ;-7
+684;SQJ
+getRouteDescription;767
+addRoad;NQBDHT;CHUAS;SB;9;2 
+addRoad;CHUASSB;NQBDHT;1;7
+getRouteDescription;171
+addRoad;WCKND;OXAF;3;-4
+#977;WCKND
+repairRoad;CHUASSB;DXGDRY;-2
+ 738;;EBMYAJ;0;2;SQJ;1;5;DXGDRY
+getRouteDescription;690
+repairRoad;CHUASSB;VIFNAO;3
+addRoad;OUZ;EBMYAJ;6;1
+;#208;NQBDHT;3;5;WCKND
+repairRoad;UPE;OXAF;5
+882;CHUASSB;2;0;OUZ
+getRouteDescription;316
+getRouteDescription;236
+#27;4;UPE 
+repairRoad;SQJ;DXGDRY;-8
+getRouteDescription;419
+577;UPE;8;-3;VIFNAO;9;-8;DXGDRY
+getRouteDescription;267
+99;OXAF;7;8;SQJ
+getRouteDescription;119
+490;NQBDHT;0;-7;UPE;4;7;WCKND
+repairRoad;NQBDHT;VIFNAO;5
+ repairRoad;NQBDHT;UPE;-9
+repairRoad;CHUASSB;UPE;1
+117;OUZ
+repairRoad;DXGDRY;UPE;7
+repairRoad;OUZ;VIFNAO;-9
+addRoad;SQJ;NQBDHT;3;-3 
+addRoad;EBMYAJ;SQJ;3;6
+addRoad;NQBDHT;VIFNAO;1;-1
+getRouteDescription;539
+repairRoad;OUZ;DXGDRY;-9
+ #731;DXGDRY;2;5;UPE
+ repairRoad;NQBDHT;;EBMYAJ;-10 
+ 224;SQJ;7;-4;NQBDHT;2;-10;NQBDHT
+ #290;SQJ;7;-3;NQBDHT;4;6;EBMYAJ 
+787;WCKND;1;8;NQBDHT;6;9;DXGDRY
+456;SQJ
+860;UPE
+getRouteDescription;756
+getRouteDescription;884
+addRoad;CHUASSB;NQBDHT;7;6
+repairRoad;VIFNAO;EBMYAJ;9
+repairRoad;EBMYAJ;UPE;-3 
+ #988;UPE;5;9;W;CKND 
+repairRoad;NQBDHT;WCKND;3
+getRouteDescription;496
+ ;#addRoad;SQJ;OXAF;7;-2 
+addRoad;OUZ;OUZ;4;0
+11;DXGDRY;1;-8;VIFNAO
+ r;epairRoad;CHUASSB;OXAF;-8
+repairRoad;EBMYAJ;NQBDHT;-1
+#getRouteDescription;344
+repairRoad;EBMYAJ;SQJ;-10
+repairRoad;SQJ;DXGDRY;1
+ #re;pairRoad;OXAF;UPE;8
+ getRouteDescription;140
+repairRoad;OUZ;UPE;0
+repairRoad;CHUASSB;DXGDRY;-8
+735;CHUASSB
+addRoad;UPE;WCKND;8;-1
+ repairRoad;OX;AF;NQBDHT;5
+getRouteDescription;690
+getRouteDesc;ription;567 
+addRoad;OXAF;DXGDRY;7;9
+ #addRoad;OUZ;EBMYAJ;5;-1
+repairRoad;CHUASSB;OUZ;6
+repairRoad;EBMYAJ;CHUASSB;5
+addRoad;NQBDHT;EBMYAJ;5;-9
+repairRoad;EBMYAJ;SQJ;-2
+addRoad;OUZ;EBMYAJ;3;-9 
+addRoad;OXAF;EBMYAJ;1;-2
+getRouteDescription;698
+getRouteDescription;613
+getRouteDescription;911
+addRoad;WCKND;SQJ;2;-5
+repairRoad;SQJ;OUZ;-1
+ 0;CHUASSB;5;-10;VIFNAO;5;;-5;DXGDRY
+repairRoad;EBMYAJ;OXAF;9
+ 466;CHUASSB;7;-2;SQJ;4;1;CHUASSB 
+191;WCKND;0;2;OUZ;4;-5;NQBDHT
+ #getRouteDes;cription;91
+getRouteDescription;698
+611;CHUASSB;9;8;SQJ
+397;OXAF;6;8;WCKND
+getRouteDescription;611
+addRoad;DXGDRY;UPE;9;-3
+ getRouteDescription;505 
+repairRoad;OUZ;OUZ;-7
+ #addRoad;CHUASSB;WCKND;3;-2
+198;SQJ;3;-1;NQBDHT
+addRoad;VIFNAO;DXGDRY;2;-1
+repairRoad;CHUASSB;VIFNAO;7
+ #addRoad;NQBDHT;OX;AF;4;-3 
+679;WCKN;D;0;-7;OUZ
+addRoad;UPE;SQJ;3;3
+730;NQBDHT;2;-2;NQBDHT;1;4;DXGDRY
+repairRoad;OUZ;VIFNAO;-3
+repairRoad;CHUASSB;OUZ;0
+addRoad;NQBDHT;EBMYAJ;7;-7
+repairRoad;CHUASSB;NQBDHT;6
+ ;getRouteDescription;836 
+repairRoad;SQJ;DXGDRY;-2 
+ #getRouteDescription;519 
+addRoad;UPE;SQJ;6;6 
+addRoad;EBMYAJ;OUZ;0;-1
+355;DXGDRY;1;-2;VIFNAO;3;-1;OXAF
+0;DXGDRY;1;-7;NQBDHT;1;-2;CHUASSB
+614;OUZ;7;2;OUZ
+ getRouteDescription;605 
+ #191;OXAF;3;3;UPE;9;6;DXGDRY
+27;UPE;9;9;OXAF
+addRoad;WCKND;VIFNAO;1;7
+getRouteDescription;282
+repairRoad;EBMYAJ;SQJ;4
+ #getRouteDes;cription;282 
+357;NQBDHT;8;-4;WCKND
+getRouteDescription;647 
+211;OXAF
+repairRoad;;SQJ;CHUASSB;1
+294;OXAF;0;2;EBMYAJ;8;0;VIFNAO
+ #addRoad;CHUASSB;NQBDHT;4;9 
+600;DXGDRY
+50;CHUASSB
+489;NQBDHT
+getRouteDescription;360
+repairRoad;EBMYAJ;CHUASSB;-6
+addRoad;CHUASSB;WCKND;9;-6
+186;CHUASSB;4;-2;SQJ;0;8;NQBDHT
+getRouteDescription;10
+556;CHUASSB;3;9;UPE
+ #repairRoad;EBM;YAJ;OUZ;8
+645;DXGDRY
+repairRoad;OUZ;OXAF;2
+addRoad;VIFNAO;VIFNAO;9;-6
+getRouteDescription;320
+getRouteDescription;533
+ 751;D;XGDRY;8;8;WCKND;7;8;VIFNAO 
+addRoad;VIFNAO;SQJ;7;7
+555;UPE;6;9;NQBDHT;2;-8;OXAF
+repairRoad;SQJ;VIFNAO;8
+552;OXAF;7;7;NQBDHT;4;9;OXAF
+repairRoad;OUZ;VIFNAO;1
+getRouteDescription;452
+483;OUZ;1;5;EBMYAJ
+814;OUZ;9;0;SQJ
+getRouteDescription;180
+ #addRoa;d;DXGDRY;OXAF;4;2 
+addRoad;DXGDRY;DXGDRY;9;-7
+getRouteDescription;665
+repairRoad;OUZ;OUZ;-1
+360;CHUASSB;7;-6;SQJ;2;-2;WCKND
+getRouteDescription;911
+ ge;tRouteDescription;834
+329;WCKND;4;3;UPE
+repairRoad;OXAF;DXGDRY;-8
+repairRoad;VIFNAO;OXAF;8
+getRouteDescription;756
+repairRoad;WCKND;WCKND;7
+repairRoad;CHUASSB;NQBDHT;6
+addRoad;OXAF;CHUASSB;3;1
+repairRoad;VIFNAO;VIFNAO;-8
+addRoad;WCKND;CHUASSB;8;-9
+addRoad;SQJ;NQBDHT;1;-3
+repairRoad;OXAF;OUZ;0
+627;EBMYAJ
+ #addRoad;VIFNAO;UPE;7;3
+repairRoad;CHUASSB;NQBDHT;0
+getRouteDescrip;tion;86
+456;UPE;1;-3;DXGDRY;1;-1;OXAF
+742;CHUASSB
+getRouteDescription;194
+addRoad;SQJ;OXAF;5;9
+addRoad;NQBDHT;EBMYAJ;9;5
+repairRoad;EBMYAJ;VIFNAO;-1
+getRouteDescription;884
+repairRoad;EBMYAJ;OUZ;-9
+getRouteDescription;134
+ #repairRoad;UPE;VIFNAO;-4
+repairRoad;CHUASSB;VIFNAO;-6
+repairRoad;OUZ;NQBDHT;6
+repairRoad;WCKND;OUZ;5
+addR;oad;DXGDRY;SQJ;5;-8
+getRouteDescription;211
+ ;repairRoad;OXAF;OUZ;-9
+getRouteDescription;600
+#getRout;eDescription;751 
+addRoad;VIFNAO;NQBDHT;8;2
+ #;595;VIFNAO 
+addRoad;EBMYAJ;SQJ;8;-1
+ #getRouteDescription;183 
+#getRouteDesc;ription;461 
+addRoad;VIFNAO;DXGDRY;9;7
+addRoad;NQBDHT;NQBDHT;6;4
+428;NQBDHT;9;5;EBMYAJ
+859;DXGDRY
+#repairRoad;CHUA;SSB;OUZ;9 
+repairRoad;WCKND;VIFNAO;-5
+869;CHUASSB
+387;DXGDRY
+#repairRoad;OXAF;UPE;-3
+261;EBMYAJ
+#addRoad;WCKND;EBMYAJ;6;6 
+addRoad;OXAF;EBMYAJ;9;-6
+repairRoad;SQJ;VIFNAO;-4
+328;NQBDHT
+repairRoad;CHUASSB;WCKND;-8
+repairRoad;OXAF;OUZ;-9
+addRoad;NQBDHT;NQBDHT;0;-7
+repairRoad;SQJ;OXAF;4
+addRoad;OUZ;CHUASSB;5;-6
+getRouteDescription;591
+getRouteDescription;556
+repairRoad;WCKND;UPE;3
+ #a;ddRoad;OUZ;VIFNAO;9;3 
+getRouteDescription;751
+repairRoad;EBMYAJ;DXGDRY;-1
+addRoad;SQJ;OUZ;1;-10
+ #repairRoad;EBMYAJ;SQJ;-5
+#addRoad;OXAF;CHUASSB;5;9 
+574;OXAF;7;2;CHUASSB;8;5;CHUASSB
+getRouteDescription;911
+ #addRoad;CHUASSB;OXAF;6;9 
+repairRoad;EBMYAJ;SQJ;-10
+getRouteDescription;24
+136;DXGDRY
+repairRoad;VIFNAO;UPE;-10
+ 435;EBMYAJ;6;;0;OUZ;1;0;SQJ
+getRouteDescription;496
+ getRouteDescription;727 
+getRouteDescription;512
+getRouteDescription;751
+412;NQBDHT
+ #addRoad;VIFNAO;DXGDRY;6;0
+repairRoad;OUZ;DX;GDRY;-3
+276;OXAF;2;-9;OUZ
+addRoad;CHUASSB;EBMYAJ;6;8
+ #getRouteDescription;419
+getRouteDescription;648
+addRoad;VIFNAO;DXGDRY;5;-9
+getRouteDescription;848
+#374;CHUASS;B 
+ getRouteDescription;628; 
+getRouteDescription;893
+addRoad;UPE;WCKND;9;-5
+addRoad;SQJ;WCKND;8;4
+repairRoad;SQJ;UPE;-10
+getRouteDescription;657
+160;EBMYAJ
+ #52;EBMYAJ;3;-9;WCKND
+#addRoad;O;UZ;CHUASSB;6;-10
+getRouteDescription;262
+ #repairRoad;CHUASSB;OUZ;-5
+addRoad;OUZ;OXAF;2;-2
+330;OXAF;9;-8;UPE
+addRoad;VIFNAO;OXAF;6;9
+repairRoad;DXGDRY;WCKND;1
+getRouteDescription;824
+repairRoad;EBMYAJ;VIFNAO;0
+#addRoad;UPE;CHUASSB;3;-7 
+repairRoad;DXGDRY;UPE;3
+291;SQJ;2;5;SQJ
+addRoad;OUZ;EBMYAJ;6;7
+#15;SQJ;2;-5;SQJ;0;-7;SQJ
+addRoad;UPE;WCKND;9;-7
+addRoad;OXAF;UPE;;4;-7 
+addRoad;VIFNAO;DXGDRY;4;-8
+getRouteDescription;10
+509;SQJ
+ getRouteDescription;32;7 
+repairRoad;WCKND;NQBDHT;-5
+888;OXAF
+repairRoad;OXAF;WCKND;-4 
+repairRoad;NQBDHT;OUZ;1
+404;DXGDRY;4;-4;OXAF 
+104;OXAF
+addRoad;NQBDHT;CHUASSB;9;-6
+ addRoad;WCKND;NQBDHT;;3;8
+602;VIFNAO;0;-6;OUZ;6;-2;NQBDHT
+repairRoad;CHUASSB;NQBDHT;-10
+addRoad;CHUASSB;OUZ;3;7
+addRoad;WCKND;DXGDRY;9;1
+repairRoad;VIFNAO;DXGDRY;-10
+ addRoad;OXAF;UP;E;9;4
+addRoad;OUZ;OXAF;6;2
+ #repairRoad;SQJ;OXAF;-7
+ getRoute;Description;33 
+ #212;OXAF;6;8;CHUASSB 
+repairRoad;VIFNAO;SQJ;-6
+getRouteDescription;71
+repairRoad;SQJ;CHUASSB;4
+ rep;airRoad;EBMYAJ;CHUASSB;5
+repairRoad;OUZ;DXGDRY;8
+getRouteDescription;709
+getRouteDescription;591
+repairRoad;EBMYAJ;UPE;-5
+addRoad;NQBDHT;DXGDRY;0;-10
+addRoad;NQBDHT;OUZ;2;-9
+760;UPE
+repairRoad;SQJ;UPE;-3
+ #repairRoad;EBMYAJ;OUZ;-5
+repairRoad;VIFNAO;VIFNAO;-1
+getRouteDescription;71
+addRoad;NQBDHT;SQJ;2;-6
+repairRoad;SQJ;UPE;7
+addRoad;SQJ;DXGDRY;5;5
+addRo;ad;NQBDHT;UPE;2;-4
+getRouteDescription;47
+addRoad;EBMYAJ;NQBDHT;2;6
+getRouteDescription;33
+addRoad;OUZ;VIFNAO;2;-10
+repairRoad;CHUASSB;DXGDRY;-9
+105;OXAF 
+getRouteDescription;130
+456;OUZ;3;-9;OXAF;7;-6;OUZ
+getRouteDescription;782
+repairRoad;SQJ;VIFNAO;-3
+getRouteDescription;933
+;#452;OUZ;7;3;NQBDHT
+repairRoad;OUZ;UPE;-9
+484;CHUASSB;1;3;DXGDRY;6;6;DXGDRY
+repairRoad;EBMYAJ;NQBDHT;-3
+296;CHUASSB;0;5;OUZ
+getRouteDescription;934
+405;CHUASSB
+addRoad;EBMYAJ;VIFNAO;5;0
+repairRoad;OUZ;DXGDRY;-4
+295;NQBDHT;2;-10;CHUASSB;8;-4;OUZ
+repairRoad;NQBDHT;DXGDRY;9
+addRoad;WCKND;OUZ;7;-4
+178;CHUASSB;0;2;OUZ
+ #getRouteDescription;957
+addRoad;DXGDRY;O;UZ;4;-4 
+397;DXGDRY;2;-9;VIFNAO;4;5;OUZ
+addRoad;DXGDRY;DXGDRY;6;0
+getRouteDescription;52
+getRouteDescription;221
+409;OUZ;5;6;WCKND
+#getRouteDesc;ription;72
+repairRoad;DXGDRY;CHUASSB;-7
+getRouteDescription;363
+ #repairRoad;DXGDRY;;OUZ;6
+repairRoad;SQJ;VIFNAO;2
+0;SQJ;2;-7;DXGDRY 
+getRouteDescription;834
+119;OUZ
+repairRoad;VIFNAO;UPE;2
+0;EBMYAJ;1;-1;DXGDRY;7;-8;WCKND
+ #47;NQBDHT 
+529;UPE
+addRoad;OXAF;UPE;3;2
+repairRoad;CHUASSB;NQBDHT;2
+#addRoad;SQJ;CHUASSB;3;-5 
+addRoad;UPE;NQBDHT;9;6
+154;VIFNAO;0;-1;CHUASSB;2;5;EBMYAJ
+988;SQJ;2;5;WCKND
+192;VIFNAO
+ #getRouteDescription;498
+324;OUZ;9;9;DXGDRY
+getRouteDescription;788
+getRouteDescription;324
+addRoad;NQBDHT;OXAF;1;8
+addRoad;CHUASSB;WCKND;8;7
+addRoad;CHUASSB;UPE;7;-1
+ repa;irRoad;EBMYAJ;UPE;-8 
+getRouteDescription;415
+addRoad;WCKND;CHUASSB;2;-3
+235;CHUASSB
+repairRoad;NQBDHT;EBMYAJ;4
+#addRoad;NQBDHT;DXGDRY;6;2
+repairRoad;VIFNAO;OXAF;-9
+getRouteDescription;522
+getRouteDescription;698
+repairRoad;SQJ;EBMYAJ;-2
+ #;getRouteDescription;859 
+#addRoad;DXGDRY;DXGDRY;6;-9
+repairRoad;OUZ;OUZ;3
+#repairRoad;NQBDHT;VIFNAO;5
+getRouteDescription;836
+ getRouteDescription;456 
+getRouteDescription;99
+addRoad;EBMYAJ;UPE;7;-8
+519;VIFNAO;1;-6;DXGDRY;9;9;DXGDRY
+283;OUZ;4;-10;WCKND
+addRoad;WCKND;DXGDRY;1;2
+getRouteDescription;282
+addRoad;WCKND;UPE;0;-1
+#0;D;XGDRY 
+#repairRoad;UPE;;VIFNAO;-4
+repairRoad;SQJ;CHUASSB;0
+repairRoad;OXAF;DXGDRY;1
+#addRoad;VIFNAO;VIFNAO;1;9 
+ #repairRoad;UPE;NQBDHT;4
+262;OUZ;2;-10;WCKND
+#611;SQJ;6;-1;CHUASSB
+repairRoad;VIFNAO;DXGDRY;7
+855;NQBDHT;4;7;OXAF
+repairRoad;SQJ;VIFNAO;-4
+addRoad;SQJ;VIFNAO;5;-10
+repairRoad;DXGDRY;WCKND;4
+addRoad;OXAF;EBMYAJ;4;-2
+ #repairRoad;EBMYAJ;SQJ;;-1 
+ ;179;UPE;5;-6;DXGDRY
+getRouteDescription;841
+addRoad;DXGDRY;WCKND;3;2
+repairRoad;OUZ;OUZ;4
+#addRoad;VIFNAO;CHUASSB;5;-3
+210;OUZ
+129;SQ;J
+193;NQBDHT
+repairRoad;OXAF;NQBDHT;1
+588;NQBDHT;2;4;OXAF;7;5;UPE
+repairRoad;VIFNAO;VIFNAO;5
+addRoad;UPE;EBMYAJ;3;-5
+getRouteDescription;26
+getRouteDescription;415
+#repairRoad;;OXAF;CHUASSB;-10 
+;#getRouteDescription;422 
+repairRoad;SQJ;UPE;9
+ #addRoad;OUZ;EBMYAJ;2;-8
+getRouteDescription;143
+getRouteDescription;586
+getRouteDescription;576
+716;OXAF;3;8;DXGDRY
+#819;UP;E;0;-5;SQJ
+getRouteDescription;159
+getRouteDescription;170
+addRoad;WCKND;OXAF;7;-7
+getRouteDescription;726
+repa;irRoad;WCKND;WCKND;-4 
+repairRoad;OUZ;EBMYAJ;-5
+addRoad;CHUASSB;OXAF;5;-4
+447;NQBDHT;0;1;VIFNAO
+ getRouteD;escription;10
+ #addRoad;CHUASSB;NQBDHT;9;3 
+getRouteDescription;462
+getRouteDescription;556
+getRouteDescription;160
+repairRoad;CHUASSB;DXGDRY;3 
+addRoad;VIFNAO;SQJ;2;-4
+ #698;DXGDRY;9;-8;DX;GDRY;3;-9;SQJ
+604;EBMYAJ
+addRoad;DXGDRY;CHUASSB;2;-9
+323;CHUASSB
+ #0;CHUASSB;3;-5;SQJ
+addRoad;NQBDHT;OUZ;9;7
+#addRoad;EBMYAJ;SQJ;2;-3 
+repairRoad;SQJ;NQBDHT;-8
+addRoad;OXAF;SQJ;1;7
+repairRoad;NQBDHT;DXGDRY;-1
+#171;UPE;0;-3;NQBDHT;4;-4;WCKND; 
+repairRoad;SQJ;CHUASSB;4
+ getRouteDescription;;988 
+repairRoad;DXGDRY;WCKND;-3
+repairRoad;NQBDHT;VIFNAO;-6
+getRouteDescription;591
+600;CHUASSB
+#getRouteDescriptio;n;893
+getRouteDescription;723
+repairRoad;EBMYAJ;NQBDHT;-10
+getRouteDescrip;tion;865
+ #52;UPE;0;8;NQBDHT;0;8;EBMYAJ
+addRoad;OXAF;VIFNAO;4;9
+addRoad;WCKND;CHUASSB;5;0
+getRouteDescription;435
+getRouteDescription;445
+0;DXGDRY
+addRoad;DXGDRY;SQJ;0;-10
+addRoad;OUZ;SQJ;6;2
+getRouteDescription;229
+getRouteDescription;756
+#addRoad;EBMYAJ;U;PE;7;-3
+getRouteDescription;651
+10;UPE;8;-9;DXGDRY;9;-7;CHUASSB
+addRoad;DXGDRY;OXAF;9;-9
+#getRouteDescription;698
+repairRoad;SQJ;NQBDHT;0
+getRouteDescription;492
+repairRoad;WCKND;EBMYAJ;-10
+getRouteDescription;143
+822;VIFNAO
+getRouteDescription;491
+ #ge;tRouteDescription;302
+ #66;OXAF 
+addRoad;EBMYAJ;DXGDRY;3;0
+ getRouteDescriptio;n;817 
+repairRoad;NQBDHT;SQJ;0
+addRoad;DXGDRY;OXAF;8;-2
+repairRoad;CHUASSB;DXGDRY;1
+repairRoad;OXAF;OXAF;-3
+repairRoad;EBMYAJ;DXGDRY;3
+repairRoad;OUZ;VIFNAO;4
+addRoad;DXGDRY;DXGDRY;5;-5
+ #g;etRouteDescription;690
+repairRoad;SQJ;SQJ;0
+getRouteDescription;727
+addRoad;EBMYAJ;UPE;7;9
+getRouteDescription;726
+addRoad;EBMYAJ;WCKND;6;1
+ repairRoad;NQBDHT;;SQJ;-4
+#getRo;uteDescription;99
+getRouteDescription;877
+addRoad;SQJ;OUZ;6;-3
+ 990;NQBDHT;1;9;OXAF;;6;9;VIFNAO
+189;SQJ;1;-10;OUZ;2;2;CHUASSB
+458;WCKND;5;9;UPE
+#817;OXAF;7;-3;SQJ
+repairRoad;NQBDHT;OUZ;6
+addRoad;EBMYAJ;DXGDRY;9;-7
+getRouteDescription;415
+328;OXAF;0;4;SQJ;9;-8;WCKND
+addRoa;d;DXGDRY;OUZ;5;-6
+7;SQJ;5;0;DXGDRY
+getRouteDescription;52
+#repairRoad;VIF;NAO;WCKND;0 
+; addRoad;OXAF;CHUASSB;7;7
+277;UPE;3;-5;SQJ
+ #167;VIFNAO;9;-5;UPE 
+repairRoad;EBMYAJ;DXGDRY;9
+addRoad;WCKND;WCKND;7;0
+71;DXGDRY;4;-2;VIFNAO
+addRoad;OUZ;OUZ;5;-4
+418;OUZ;1;-2;OUZ
+716;OXAF
+#296;VIFNAO;4;-7;OUZ;2;8;EBMYAJ
+getRouteDescription;815
+getRouteDescription;328
+353;WCKND
+804;VIFNAO
+562;OUZ;7;-5;NQBDHT
+453;VIFNAO;6;-6;NQBDHT;8;-10;DXGDRY
+repairRoad;EBMYAJ;NQBDHT;-4
+getRouteDescription;675
+get;RouteDescription;314 
+496;UPE;6;-4;SQJ
+getRouteDescription;709
+853;VIFNAO;4;9;CHUASSB
+getRouteDescription;975
+repairRoad;VIFNAO;CHUASSB;-2
+26;OXAF
+getRouteDescription;721
+585;VIFNAO;7;9;NQBDHT;1;9;OXAF
+getRouteDescription;948
+getRouteDescription;721
+addRoad;EBMYAJ;WCKND;2;4
+addRoad;DXGDRY;;EBMYAJ;1;1 
+addRoad;UPE;OXAF;9;5
+repairRoad;NQBDHT;OUZ;-4
+addRoad;EBMYAJ;VIFNAO;6;-5
+addRoad;DXGDRY;WCKND;1;2
+getRouteDescription;512
+getRouteDescription;767
+repairRoad;CHUASSB;SQJ;-4
+addRoad;OUZ;OUZ;5;-2
+getRouteDescription;203
+getRouteDescription;908
+ #repairRoad;;OXAF;UPE;-8
+getRouteDescription;360
+583;;DXGDRY 
+ repairRo;ad;NQBDHT;OUZ;3
+getRouteDescription;302
+repairRoad;WCKND;CHUASSB;-4
+addRoad;UPE;EBMYAJ;6;3
+repairRoad;CHUASSB;OUZ;-6
+551;NQBDHT;4;8;SQJ
+repairRoad;VIFNAO;DXGDRY;7
+ #54;2;OXAF
+repairRoad;CHUASSB;VIFNAO;9
+addRoad;EBMYAJ;VIFNAO;1;-6
+getRouteDescription;484
+getRouteDescription;305
+repairRoad;EBMYAJ;VIFNAO;-3
+ #getRouteDescription;707 
+repairRoad;OUZ;WCKND;-1
+ #getRouteDescription;83 
+;60;OUZ
+repairRoad;OXAF;OUZ;0
+751;WCKND
+addRoad;WCKND;NQBDHT;7;-4
+getRouteDescription;865
+repairRoad;UPE;OXAF;-4
+repairRoad;DXGDRY;OUZ;-7
+#251;DXGDRY 
+; #addRoad;OXAF;NQBDHT;0;-3 
+#getRouteDescription;902 
+ #repairRoad;;SQJ;CHUASSB;-8 
+repairRoad;NQBDHT;DXGDRY;3
+getRouteDescription;581
+addRoad;VIFNAO;EBMYAJ;8;-2
+repairRoad;WCKND;WCKND;7
+repairRoad;EBMYAJ;OXAF;4
+addRoad;NQBDHT;EBMYAJ;1;-8
+ addRoad;NQBDHT;UPE;9;-10
+repairRoad;CHUASSB;UPE;-2
+99;SQJ;3;0;WCKND;8;8;OXAF
+addRoad;SQJ;SQJ;9;0
+getRouteDescription;858
+ repairRoad;CHUASSB;DXGDRY;3
+getRouteDescription;838
+getRouteDescription;858
+repairRoad;EBMYAJ;OXAF;9
+addRoad;SQJ;OUZ;4;-7
+496;NQBDHT;5;-3;VIFNAO
+307;EBMYAJ
+ #repairR;oad;SQJ;OUZ;9
+addRoad;VIFNAO;SQJ;0;5
+getRouteDescription;555
+0;UPE
+416;OUZ;8;9;EBMYAJ
+addRoad;WCKND;EBMYAJ;7;6
+51;S;QJ;4;5;SQJ;4;-5;UPE
+621;OXAF;6;8;;WCKND;8;9;DXGDRY 
+getRouteDescription;581
+608;NQBDHT;2;9;UPE
+ getRout;eDescription;983 
+repairRoad;EBMYAJ;VIFNAO;-6
+addRoad;CHUASSB;SQJ;8;1
+repairRoad;OUZ;VIFNAO;5
+#addRoad;;WCKND;NQBDHT;0;0 
+; #addRoad;WCKND;SQJ;4;1 
+get;RouteDescription;972
+getRouteDescription;846
+#repairRoad;SQJ;UPE;1
+repairRoad;EBMYAJ;WCKND;5
+ #740;VIFNAO;4;-9;EBMYAJ 
+682;OUZ;9;9;DXGDRY
+add;Road;CHUASSB;SQJ;5;7 
+258;UPE
+addRoad;EBMYAJ;OXAF;6;7
+repairRoad;DXGDRY;VIFNAO;7
+addRoad;UPE;OUZ;0;3
+repairRoad;OXAF;NQBDHT;5 
+123;DXGDRY;3;8;OXAF
+#repairRoad;NQBDHT;CHUASSB;2
+getRouteDescription;564
+414;CHUASSB;3;9;WCKND
+176;NQBDHT;2;9;WCKND;5;-6;OUZ
+396;UPE;7;-9;UPE;1;9;UPE
+addRoad;OXAF;UPE;4;-3
+#repairRoad;;UPE;WCKND;-6 
+721;OUZ;8;3;WCKND
+repairRoad;VIFNAO;UPE;-5
+repairRoad;SQJ;WCKND;-5 
+getRouteDescription;14
+getRouteDescription;170
+getRouteDescription;452
+#add;Road;EBMYAJ;CHUASSB;7;-5
+repairRoad;NQBDHT;DXGDRY;5
+ getRouteDescription;460
+505;CHUASSB;3;9;WCKND;8;9;SQJ
+repairRoad;CHUASSB;OUZ;-10
+repairRoad;OUZ;VIFNAO;4
+202;UPE
+addRoad;EBMYAJ;UPE;2;-9
+#addRoad;SQJ;EBMYAJ;2;0 
+repairRoad;NQBDHT;OUZ;-6
+912;OUZ;5;9;NQBDHT;1;8;WCKND
+repairRoad;OUZ;UPE;7
+405;SQJ;6;5;DXGDRY
+#397;CHUASSB;2;5;D;XGDRY
+getRouteDescription;997
+getRouteDescription;87
+getRouteDescription;259
+addRoad;OXAF;NQBDHT;8;2
+addRoad;EBMYAJ;WCKND;4;3
+addRoad;WCKND;WCKND;9;-10
+ #getRouteDescription;172 
+#repairRoad;DXGDR;Y;UPE;3 
+repairRoad;EBMYAJ;UPE;-10
+repairRoad;EBMYAJ;NQBDHT;7 
+ addRoad;WC;KND;UPE;1;7
+addRoad;EBMYAJ;VIFNAO;7;5
+addRoad;VIFNAO;EBMYAJ;3;4
+#addRoad;NQBDHT;EBMYAJ;3;7 
+addRoad;WCKND;NQBDHT;7;8
+repairRoad;NQBDHT;NQBDHT;-6
+getRouteDescription;170
+repairRoad;VIFNAO;NQBDHT;-10
+#;repairRoad;OUZ;OXAF;4 
+addRoad;WCKND;NQBDHT;6;9
+addRoad;SQJ;OUZ;7;7
+369;OXAF
+17;UPE
+ addRoad;OXAF;WCKND;2;1
+ getRouteDescription;628 
+repairRoad;DXGDRY;SQJ;4
+getRouteDescription;512
+repairRoad;CHUASSB;UPE;8
+#addRoad;NQBDHT;V;IFNAO;7;-5
+684;EBMYAJ;5;3;NQBDHT
+ #repairRoad;SQJ;CHUASSB;-7
+repairRoad;SQJ;SQJ;-6
+getRouteDescription;270
+#;736;OUZ;8;9;OXAF
+repairRoad;EBMYAJ;OUZ;-7
+addRoad;CHUASSB;OUZ;3;-1
+repairRoad;WCKND;UPE;-1
+getRouteDescription;707
+repairRoad;EBMYAJ;WCKND;0
+repairRoad;UPE;OXAF;-7 
+addRoad;CHUASSB;OUZ;1;-3
+ #getRouteDescription;846
+getRouteDescription;726
+156;UPE;8;-6;NQBDHT;8;9;SQJ
+repairRoad;OUZ;VIFNAO;9
+ repairRoad;;CHUASSB;SQJ;9
+getRouteDescription;773
+addRoad;SQJ;SQJ;1;-5
+625;WCKND;5;2;VIFNAO
+repairRoad;EBMYAJ;NQBDHT;5
+repairRoad;NQBDHT;OUZ;-8
+getRouteDescription;605
+getRouteDescription;984
+addRoad;OUZ;WCKND;2;-7
+658;UPE;3;9;CHUASSB
+repairRoad;OUZ;OXAF;9
+getRouteDescription;787
+repairRoad;OUZ;VIFNAO;-10
+ #6;48;OXAF
+repairRoad;UPE;WCKND;-9
+repairRoad;UPE;OUZ;0
+getRouteDescription;581
+230;CHUASSB;8;-7;OXAF;5;8;SQJ
+addRoad;UPE;NQBDHT;7;2
+getRouteDescription;142
+repairRoad;VIFNAO;DXGDRY;6
+addRoad;EBMYAJ;NQBDHT;2;4
+ addRoad;DXGDRY;OXAF;;0;9 
+118;VIFNAO;5;-10;OUZ;3;-1;EBMYAJ
+getRouteDe;scription;324 
+ #getRoute;Description;11
+ 424;NQBDHT;3;-9;UPE
+getRouteDescription;529
+ addR;oad;NQBDHT;CHUASSB;4;2
+581;;DXGDRY 
+addRoad;SQJ;SQJ;5;-3
+605;VIFNAO
+783;CHUASSB
+repairRoad;SQJ;UPE;8
+183;NQBDHT 
+getRouteDescription;319
+getRouteDescription;386
+repairRoad;DXGDRY;CHUASSB;-5
+addRoad;VIFNAO;DXGDRY;5;-2
+getRouteDescription;682
+721;EBMYAJ;1;-7;UPE;9;-9;NQBDHT
+ #repairRoad;SQJ;OUZ;6 
+#add;Road;WCKND;VIFNAO;9;0 
+getRouteDescription;180
+212;OXAF;6;2;CHUASSB;7;-1;VIFNAO
+repairRoad;OUZ;OUZ;-8
+getRouteDescription;422
+123;SQJ
+630;EBMYAJ;2;9;CHUASSB;3;9;UPE
+repairRoad;SQJ;OXAF;-4
+addRoad;EBMYAJ;UPE;3;-7
+getRouteDescription;899
+ #addRoad;VIFNAO;OUZ;8;-;10
+addRoad;OXAF;UPE;3;6
+#getRouteD;escription;363 
+717;DXGDRY;0;9;OXAF
+addRoad;OUZ;CHUASSB;0;8
+ #getRouteDescription;106 
+getRouteDescription;836
+repairRoad;VIFNAO;OUZ;6
+repairRoad;CHUASSB;DXGDRY;4
+repairRoad;VIFNAO;DXGDRY;-7
+addRoad;NQBDHT;OUZ;2;0
+440;NQBDHT 
+0;EBMYAJ;8;-2;OXAF
+ getRouteDescription;422
+repairRoad;NQBDHT;CHUASSB;0
+930;OXAF
+addRoad;DXGDRY;VIFNAO;3;-10
+addRoad;VIFNAO;SQJ;4;5
+ getRouteDescription;912
+ #502;VIFNAO 
+repairRoad;SQJ;DXGDRY;-10
+addRoad;EBMYAJ;EBMYAJ;3;-6
+#repairRoad;CHUASSB;WCKND;-5 
+repairRoad;CHUASSB;DXGDRY;-2
+getRouteDescription;464
+repairRoad;NQBDHT;UPE;-4
+getRouteDescription;727
+getRouteDescription;415
+898;SQJ
+repairRoad;OXAF;WCKND;-4
+repairRoad;EBMYAJ;NQBDHT;-6
+624;EBMYAJ;3;-6;VIFNAO
+#408;CHUASSB;8;-5;UPE 
+getRouteDescription;978
+ 518;SQJ;0;7;UPE
+ #addRoad;EBMYAJ;SQJ;4;-6 
+repairRoad;UPE;SQJ;-4
+repairRoad;NQBDHT;WCKND;4
+addRoad;NQBDHT;EBMYAJ;2;-1
+getRouteDescription;882
+getRouteDescription;165
+ getRouteDescription;972
+294;VIFNAO;7;8;WCKND;5;9;UPE
+addRoad;SQJ;SQJ;3;4
+getRouteDescription;775
+getRouteDescription;721
+repairRoad;UPE;WCKND;-5
+#getRouteDescription;82
+getRouteDescription;586
+repairRoad;VIFNAO;OXAF;2
+getRouteDescription;477
+repairRoad;CHUASSB;WCKND;6
+repairRoad;DXGDRY;UPE;-7
+getRouteDescription;183
+ #42;7;NQBDHT;0;-2;CHUASSB;6;-3;CHUASSB
+repairRoad;SQJ;UPE;-2
+ #getRouteDescrip;tion;545
+addRoad;WCKND;OXAF;2;-9 
+ 898;EBMYAJ;7;-8;SQJ 
+getRouteDescription;533
+getRouteDescription;756
+260;NQBDHT
+repairRoad;CHUASSB;OUZ;1
+addRoad;UPE;EBMYAJ;9;5
+repairRoad;WCKND;SQJ;-2
+repairRoad;UPE;WCKND;4
+addRoad;OUZ;VIFNAO;8;-10
+repairRoad;OXAF;UPE;-9
+getRouteDescription;194
+repairRoad;SQJ;OUZ;-10
+getRouteDescription;853 
+addRoad;VIFNAO;OXAF;3;-2 
+#;328;EBMYAJ;3;6;NQBDHT
+repairRoad;OXAF;DXGDRY;2
+getRouteDescription;630
+repairRoad;VIFNAO;OUZ;9
+repairRoad;CHUASSB;OXAF;1
+349;DXGDRY;9;9;OUZ
+getRouteDescription;552
+getRouteDescription;787
+repairRoad;EBMYAJ;UPE;9
+281;VIFNAO;7;9;VIFNAO
+addRoad;WCKND;OXAF;5;3
+ #addRoad;WCKND;UPE;7;;-7
+addRoad;EBMYAJ;WCKND;1;2
+ #565;CHUASSB;4;-10;OUZ;5;8;NQBDHT
+getRouteDescription;314
+getRouteDescription;605
+#addRoa;d;CHUASSB;OUZ;4;-7
+getRouteDescription;;130 
+repairRoad;DXGDRY;WCKND;1
+addRoad;OXAF;OXAF;5;-7
+addRoad;OUZ;SQJ;9;5
+addRoad;NQBDHT;DXGDRY;3;-2
+getRouteDescription;416
+ #addRoad;EBMYAJ;EBMYAJ;1;5 
+repairRoad;EBMYAJ;CHUASSB;5
+getRouteDescription;828
+727;UPE;7;-7;VIFNAO
+#repairRoad;NQBDHT;UPE;7 
+608;DXGDRY;5;9;OUZ;1;8;OUZ
+973;DXGDRY;3;5;CHUASSB;0;1;UPE
+repairRoad;CHUASSB;OUZ;-6
+getRouteDescription;542
+getRouteDescription;279
+repairRoad;CHUASSB;UPE;5
+ ;#repairRoad;SQJ;EBMYAJ;4
+692;UPE;0;-4;CHUASSB
+ ;#repairRoad;DXGDRY;SQJ;-5
+repairRoad;NQBDHT;OUZ;-10
+878;EBMYAJ;7;-3;VIFNAO
+703;OUZ;2;8;WCKND
+#repa;irRoad;OXAF;WCKND;-1
+getRouteDescription;776
+#;addRoad;OXAF;OUZ;2;8 
+350;OUZ;4;-5;WCKND
+getRouteDescription;357
+ ;#getRouteDescription;878 
+getRouteDescription;786
+ addRoad;NQBDHT;O;UZ;1;6
+getRouteDescription;787
+885;OUZ
+repairRoad;VIFNAO;UPE;-1
+repairRoad;CHUASSB;DXGDRY;-3
+addRoad;SQJ;VIFNAO;5;-6
+addRoad;SQJ;SQJ;2;-3
+ repairRoad;OXAF;DXGDRY;1
+addRoad;OUZ;WCKND;4;-6
+getRouteDescription;608
+397;VIFNAO;4;5;NQBDHT
+getRouteDescription;494
+repairRoad;EBMYAJ;NQBDHT;-1
+addRoad;VIFNAO;CHUASSB;0;-9
+#797;OXAF;6;9;VIFNAO;9;8;SQJ
+addRoad;VIFNAO;DXGDRY;0;-9
+repairRoad;EBMYAJ;SQJ;5
+getRouteDescription;183
+ getRouteDescripti;on;505 
+ #addRoad;OUZ;NQBDHT;3;;-1 
+952;OUZ;2;8;WCKND;5;9;UPE
+repairRoad;CHUASSB;DXGDRY;-9
+73;CHUASSB;8;1;EBMYAJ
+repairRoad;NQBDHT;OXAF;-2
+getRouteDescription;496
+0;SQJ;9;-5;DXGDRY;0;-9;UPE 
+513;OUZ
+22;OXAF
+980;VIFNAO;2;6;WCKND
+repairRoad;VIFNAO;EBMYAJ;7
+addRoad;DXGDRY;VIFNAO;1;-7
+addRoad;VIFNAO;EBMYAJ;0;5
+addRoad;NQBDHT;DXGDRY;8;-6
+367;CHUASSB;3;9;UPE;9;9;DXGDRY
+addRoad;OXAF;WCKND;4;1
+573;CHUASSB;3;9;UPE
+#addRoad;OUZ;EBMYAJ;4;2 
+458;UPE
+getRouteDescription;243
+getRouteDescription;999
+305;DXGDRY;0;-7;VIFNAO;8;0;NQBDHT
+894;UPE
+repairRoad;NQBDHT;UPE;-6
+ #;731;EBMYAJ;9;9;VIFNAO
+repairRoad;EBMYAJ;UPE;9
+194;WCKND;1;8;NQBDHT;6;9;CHUASSB
+getRouteDescription;31
+repairRoad;OXAF;DXGDRY;0
+addRoad;OUZ;NQBDHT;6;-5
+addRoad;DXGDRY;DXGDRY;3;8
+230;WCKND;5;9;UPE;2;9;NQBDHT
+repairRoad;OUZ;NQBDHT;7
+#529;NQBDHT 
+ #getRouteDescript;ion;491 
+repairRoad;CHUASSB;NQBDHT;6
+ #getRouteDescription;716 
+getRouteDescription;373
+addRoad;EBMYAJ;CHUASSB;7;9
+613;DXGDRY;2;1;WCKND
+repairRoad;OXAF;WCKND;-7
+getRouteDescription;183
+ addRoad;NQB;DHT;UPE;2;4 
+repairRoad;VIFNAO;SQJ;9
+ repairRoad;VIFNAO;;UPE;4 
+repairRoad;CHUASSB;VIFNAO;-4
+324;UPE
+getRouteDescription;506
+;#addRoad;SQJ;OXAF;5;-6 
+addRoad;VIFNAO;OXAF;2;4
+#getRouteDescription;628 
+getRouteDescription;788
+ #getRouteDescription;603 
+getRouteDescription;230
+getRouteDescription;414
+441;OXAF;6;8;CHUASSB
+addRoad;DXGDRY;SQJ;3;6
+31;EBMYAJ
+540;VIFNAO;3;-10;NQBDHT
+repairRoad;OXAF;VIFNAO;0
+getRouteDescription;66
+addRoad;UPE;VIFNAO;3;-3
+ repairRoad;VIFNAO;DXGDRY;5
+119;VIFNAO;6;3;CHUASSB;3;-2;OUZ 
+addRoad;UPE;CHUASSB;0;-1
+repairRoad;OUZ;UPE;-2
+getRouteDescription;65
+repairRoad;SQJ;CHUASSB;-7
+repairRoad;EBMYAJ;OUZ;2
+ 910;VIFNA;O 
+getRouteDescription;605
+repairRoad;EBMYAJ;CHUASSB;0
+119;OUZ
+getRouteDescription;11
+getRouteDescription;264
+397;EBMYAJ
+ #getRouteDes;cription;47
+getRouteDescription;984
+repairRoad;UPE;WCKND;1 
+0;SQJ
+addRoad;SQJ;VIFNAO;0;1
+repairRoad;;OXAF;VIFNAO;-2
+ repairRoad;VIFNAO;UPE;8 
+getRouteDescription;212
+repairRoad;OUZ;WCKND;-10
+ getRouteDescription;7;89
+463;EBMYAJ;2;9;CHUASSB
+repairRoad;SQJ;OXAF;3
+512;SQJ;8;-5;NQBDHT;3;-9;OXAF
+repairRoad;UPE;WCKND;-2
+getRouteDescription;414
+ 48;6;VIFNAO
+ #getRouteDescription;586 
+#addRoad;SQJ;OUZ;3;-7 
+28;OUZ;5;-9;VIFNAO;8;-10;OUZ
+getRouteDescription;651
+getRouteDescription;11
+getRouteDescription;505
+435;UPE;9;5;WCK;ND
+addRoad;OXAF;CHUASSB;6;-7
+ repairRoad;VIFNAO;WCKND;0
+addRoad;WCKND;UPE;4;9
+getRouteDescription;999
+getRouteDescription;325
+getRouteDescription;651
+716;OXAF;8;-9;NQBDHT;9;9;NQBDHT
+getRouteDescription;377
+841;CHUASSB
+addRoad;OUZ;DXGDRY;2;-9
+83;CHUASSB;8;9;WCKND;7;-5;EBMYAJ
+repairRoad;OXAF;NQBDHT;-3 
+663;VIFNAO;8;8;UPE
+ #repairRoad;OXAF;EBM;YAJ;4 
+ #addRoad;;OXAF;VIFNAO;8;-2
+repairRoad;OUZ;WCKND;-5
+repairRoad;UPE;WCKND;9
+addRoad;CHUASSB;OUZ;7;-5
+235;UPE;4;-4;NQBDHT;4;-7;CHUASSB
+addRoad;VIFNAO;UPE;1;4
+435;SQJ
+repairRoad;OXAF;UPE;0
+getRouteDescription;731
+repairRoad;SQJ;EBMYAJ;-5
+;getRouteDescription;596
+repairRoad;OXAF;OUZ;-8
+repairRoad;SQJ;VIFNAO;9
+ repairRoad;OUZ;UPE;-6
+repairRoad;NQBDHT;OUZ;9
+ #getRouteDescription;703
+709;;DXGDRY
+934;UPE
+335;CHUASSB;1;7;CHUASSB
+getRouteDescription;721
+addRoad;OUZ;EBMYAJ;0;1
+416;OUZ;4;5;DXGDRY;9;6;WCKND
+repairRoad;DXGDRY;WCKND;8
+505;OXAF;1;5;OUZ
+getRouteDescription;651
+265;V;IFNAO
+getRouteDescrip;tion;262 
+943;DXGDRY
+addRoad;NQBDHT;OXAF;9;-7
+ #addRoad;NQBDHT;DXGDRY;7;-5
+258;NQBDHT;2;0;SQJ
+getRouteDescription;816
+501;OUZ;3;-1;EBMYAJ;2;2;OUZ
+getRouteDescription;709
+repairRoad;OUZ;WCKND;3
+repairRoad;OUZ;OUZ;3
+repairRoad;SQJ;WCKND;-9
+getRouteDescription;283
+addRoad;DXGDRY;OUZ;7;8
+repairRoad;EBMYAJ;OUZ;-8
+getRouteDescription;797
+ #g;etRouteDescription;99
+repairRoad;DXGDRY;UPE;-9
+repairRoad;NQBDHT;OUZ;1
+repairRoad;WCKND;OUZ;-1
+40;DXGDRY
+repairRoad;EBMYAJ;VIFNAO;4
+repairRoad;SQJ;UPE;-3
+repairRoad;UPE;OUZ;8
+487;WCKND;5;9;UPE;4;9;SQJ
+#re;pairRoad;SQJ;CHUASSB;-4 
+getRouteDescription;957
+repairRoad;OXAF;VIFNAO;5
+addRoad;NQBDHT;VIFNAO;5;3
+repairRoad;UPE;OXAF;-2
+getRouteDescription;488
+addRoad;UPE;WCKND;7;0
+addRoad;SQJ;OUZ;6;-10
+515;EBMYAJ;9;9;EBMYAJ;7;4;CHUASSB
+156;EBMYAJ;5;-9;VIFNAO;4;9;UPE
+repairRoad;VIFNAO;OXAF;0
+624;UPE;8;9;OUZ
+963;OXAF;0;9;NQBDHT
+addRoad;OXAF;NQBDHT;1;1
+getRouteDescription;684
+getRouteDescription;160
+addRoad;NQBDHT;OUZ;7;4
+ #addRoad;OXAF;SQJ;9;-4 
+addRoad;SQJ;VIFNAO;8;3
+addRoad;SQJ;OUZ;4;1
+repairRoad;VIFNAO;DXGDRY;-1
+72;OXAF;7;-2;SQJ;5;7;OXAF
+372;SQJ;9;-3;EBMYAJ;4;8;SQJ
+getRouteDescription;743
+ #getRouteDescription;581
+getRouteDescription;45
+getRouteDescription;434
+#repairRoad;SQJ;OXAF;2
+581;UPE
+ 871;SQJ
+getRouteDescription;47
+getRouteDescription;575
+addRoad;NQBDHT;EBMYAJ;7;0
+ #getRouteDescription;853 
+getRouteDescription;399
+919;SQJ;0;-10;VIFNAO
+getRouteDescription;452
+repairRoad;SQJ;CHUASSB;2
+getRouteDescription;912
+366;UPE;7;-3;WCKND
+addRoad;DXGDRY;UPE;1;-10
+; getRouteDescription;10 
+addRoad;DXGDRY;OUZ;1;9
+496;UPE;7;-5;EBMYAJ
+repairRoad;OUZ;EBMYAJ;-4
+198;OUZ;2;1;SQJ
+repairRoad;VIFNAO;UPE;2
+add;Road;CHUASSB;NQBDHT;2;7
+repairRoad;VIFNAO;WCKND;-9
+addRoad;OXAF;VIFNAO;3;6
+727;NQBDHT;1;2;VIFNAO;6;-4;SQJ
+ addRoad;CHUASSB;NQBDHT;4;-8 
+repairRoad;CHUASSB;OUZ;-4
+addRoad;SQJ;CHUASSB;7;-9
+addRoad;OXAF;NQBDHT;9;9
+repairRoad;CHUASSB;NQBDHT;0
+608;DXGDRY;8;3;NQBDHT;2;3;WCKND
+addRoad;DXGDRY;WCKND;0;-10
+351;VIFNAO;5;1;SQJ
+165;SQJ;3;-4;UPE;7;7;UPE
+getRouteDescription;556
+441;CHUASSB;3;4;EBMYAJ
+793;EBMYAJ;3;9;NQBDHT;1;8;WCKND
+getRouteDescription;911
+ repairRoad;VIFNAO;DXGDRY;-5
+594;DXGDRY;5;9;UPE;8;4;OXAF
+764;UPE;0;4;UPE
+getRouteDescription;745
+getRouteDescription;529
+repairRoad;VIFNAO;NQBDHT;-6
+#addRoad;WCKND;WCKND;4;-4 
+#addRoad;UPE;CHUASSB;8;-5 
+addRoad;UPE;OUZ;9;-6
+ #;getRouteDescription;351 
+getRouteDescription;465
+repairRoad;WCKND;WCKND;-7
+addRoad;CHUASSB;OUZ;7;6
+addRoad;VIFNAO;NQBDHT;3;9
+addRoad;OUZ;OUZ;5;-1
+repairRoad;WCKND;VIFNAO;-6
+repairRoad;SQJ;VIFNAO;6
+ #addRoad;SQJ;OXAF;7;-2
+getRouteDescription;698
+648;DXGDRY
+getRouteDescription;86
+addRoad;VIFNAO;CHUASSB;3;7
+repairRoad;VIFNAO;WCKND;5
+496;SQ;J;0;-3;OXAF;7;6;SQJ 
+278;OUZ;2;0;CHUASSB
+ #repairRoad;UPE;VIFNAO;-6 
+repairRoad;CHUASSB;UPE;-7
+40;OXAF;1;-9;WCKN;D
+ #535;EBMYAJ;3;1;CHUASSB
+#548;OUZ;9;-4;VIFNAO;5;9;U;PE
+getRouteDescription;613 
+getRouteDescription;119
+758;WCKND
+repairRoad;OUZ;OUZ;0
+addRoad;WCKND;EBMYAJ;0;7
+ ;repairRoad;UPE;SQJ;3 
+736;SQJ;2;-9;OUZ;3;8;UPE
+addRoad;NQBDHT;EBMYAJ;6;1
+addRoad;UPE;WCKND;5;2
+#addRoad;VIF;NAO;CHUASSB;1;-5
+repairRoad;SQJ;NQBDHT;-9
+getRouteDescription;271 
+addRoad;CH;UASSB;OUZ;8;9 
+314;OXAF;3;3;NQBDHT
+621;OXAF
+repairRoad;OXAF;OUZ;-9
+getRouteDescript;ion;327
+addRoad;CHUASSB;NQBDHT;4;-3
+addRoad;WCKND;CHUASSB;6;-4
+ #10;SQJ;0;4;DXGDRY
+addRoad;CHUASSB;SQJ;1;-1
+repairRoad;EBMYAJ;UPE;-8
+repairRoad;WCKND;SQJ;8
+89;OUZ;1;9;SQJ
+357;DXGDRY;8;-10;UPE
+ #getRouteDescription;997 
+addRoad;SQJ;WCKND;2;-9
+repairRoad;WCKND;NQBDHT;4
+ 937;OUZ;6;-4;CHUASSB 
+repairRoad;WCKND;WCKND;-8 
+getRouteDescription;984
+repairRoad;OUZ;VIFNAO;2
+getRouteDescription;339
+repairRoad;OUZ;OXAF;3
+getRouteDescription;836
+545;SQJ;3;-3;VIFNAO;8;-7;OUZ
+getRouteDes;cription;573 
+52;WCKND;9;9;SQJ;5;5;UPE
+addRoad;UPE;WCKND;3;5
+getRouteDescription;432
+getRouteDes;cription;593 
+939;SQJ;1;9;OUZ
+222;CHUASSB
+repairRoad;VIFNAO;DXGDRY;9
+getRouteDescription;952
+repairRoad;EBMYAJ;OXAF;-1
+addRoad;VIFNAO;NQBDHT;2;-8 
+ #974;OUZ;4;8;VIFNAO;1;8;OUZ 
+addRoad;NQBDHT;UPE;1;0
+addRoad;OUZ;DXGDRY;7;3
+repairRoad;OXAF;OXAF;2
+ addRoad;;OUZ;UPE;2;3 
+ repairRoad;SQJ;EBMYAJ;2
+ repairRoad;VIFNAO;OXAF;;0
+772;SQJ
+57;OXAF;7;-1;SQ;J;9;0;SQJ
+addRoad;VIFNAO;WCKND;5;-1
+addRoad;OUZ;NQBDHT;9;0
+addRoad;OXAF;VIFNAO;9;-3
+addRoad;VIFNAO;VIFNAO;9;7
+ #getRouteDesc;ription;260 
+187;EBMYAJ;0;9;CHUASSB;6;-1;DXGDRY
+addRoad;DXGDRY;CHUASSB;6;-2
+addRoad;EBMYAJ;SQJ;9;0
+311;DXGDRY;0;5;VIFNAO;7;3;WCKND
+ #repairRoad;VIFNAO;UPE;2
+#addRoad;DXGDRY;SQJ;6;3
+ #getRouteDescription;963
+3;UPE;9;9;OXAF
+addRoad;SQJ;OUZ;0;9
+0;DXGDRY;8;-6;NQBDHT
+rep;airRoad;SQJ;OXAF;3 
+ 502;OUZ;1;-7;OUZ;6;4;VIFNAO
+repairRoad;SQJ;OUZ;-3
+addRoad;OUZ;OUZ;3;-5
+getRouteDescription;839
+repairRoad;EBMYAJ;OXAF;-6
+addRoad;DXGDRY;OXAF;3;7 
+addRoad;OXAF;SQJ;7;-7 
+addRoad;UPE;UPE;1;-5
+ #addRoa;d;EBMYAJ;WCKND;7;-3 
+0;OXAF;6;-7;OUZ;8;7;EBMYAJ
+repairRoad;NQBDHT;VI;FNAO;-2
+repairRoad;VIFNAO;CHUASSB;-5
+getRouteDescription;349
+addRoad;VIFNAO;VIFNAO;6;-6
+ #r;epairRoad;NQBDHT;OUZ;-8
+addRoad;SQJ;VIFNAO;5;-1
+959;OUZ;0;9;VIFNAO
+addRoad;OUZ;OXAF;3;-2
+71;EBMYAJ;6;6;OUZ
+repairRoad;VIFNAO;NQBDHT;7
+ addRoad;CHUASSB;EBMYAJ;1;-7
+419;NQBDHT
+addRoad;SQJ;DXGDRY;5;-7
+435;NQBDHT;8;-4;NQBDHT
+getRouteDescription;555
+717;CHUASSB;3;9;UPE;7;9;EBMYAJ
+174;VIFNAO
+getRouteDescription;684
+399;CHUASSB;2;9;EBMYAJ;9;9;OXAF
+ 607;OXAF;2;-3;SQJ 
+repairRoad;EBMYAJ;OXAF;6
+ #843;EBMYAJ;7;9;DXGDRY
+155;CHUASSB
+repairRoad;OUZ;NQBDHT;-6
+650;DXGDRY;9;4;UPE
+repairRoad;CHUASSB;DXGDRY;-9
+addRoad;OUZ;NQBDHT;8;9
+getRouteDescription;630
+getRouteDescription;143
+getRouteDescription;10
+getRouteDescription;997
+addRoad;OUZ;EBMYAJ;8;-8
+193;NQBDHT;8;-6;OUZ;2;1;SQJ
+209;OXAF
+618;OXAF;9;-10;WCKND
+repairRoad;UPE;OUZ;-8
+repairRoad;DXGDRY;UPE;-2 
+repairRoad;WCKND;NQBDHT;-2
+getRouteDescription;704
+addRoad;DXGDRY;OUZ;7;6 
+addRoad;OUZ;OUZ;7;-7
+addRoad;VIFNAO;NQBDHT;4;-1
+getRouteDescription;485
+#;getRouteDescription;898
+getRouteDescription;346
+repairRoad;SQJ;CHUASSB;2
+465;OXAF;8;-10;WCKND
+getRouteDescription;86
+#repairRoad;VIFNAO;OXAF;9
+repairRoad;NQBDHT;OXAF;6
+repairRoad;VIFNAO;UPE;-3
+getRouteDescription;459
+repairRoad;EBMYAJ;OXAF;3
+ repairRoad;EBMYAJ;DXGDRY;-3
+195;OUZ;5;9;NQBDHT
+ getRouteDe;scription;700 
+addRoad;UPE;VIFNAO;1;-4
+824;CHUASSB;8;1;OUZ;8;7;UPE
+getRouteDescription;194
+addRoad;EBMYAJ;NQBDHT;6;2
+484;WCKND
+320;EBMYAJ;5;8;EBMYAJ;4;-6;UPE
+addRoad;OXAF;CHUASSB;7;-2
+ #getRouteDescription;898 
+#getRouteDescription;978 
+repairRoad;OXAF;NQBDHT;-5
+repairRoad;EBMYAJ;OXAF;-6
+ 65;NQBDHT
+getRouteDescription;186
+getRouteDescription;155
+getRouteDescription;884
+817;EBMYAJ;2;9;UPE
+ #addRoad;NQBDHT;OXAF;9;3
+ 130;VIFNAO;5;-10;CHUASSB;7;5;OXAF 
+298;OXAF;9;1;OUZ
+getRouteDescription;586
+792;OXAF;6;3;VIFNAO
+getRouteDescription;464
+addRoad;SQJ;NQBDHT;1;-9
+addRoad;VIFNAO;OUZ;6;-3
+getRouteDescription;47
+getRouteDescription;469
+addRoad;UPE;UPE;9;-9
+getRouteDescription;505
+getRouteDescription;357
+886;OXAF;3;5;NQBDHT;0;0;WCKND
+addRoad;CHUASSB;OUZ;0;-10
+repairRoad;WCKND;CHUASSB;-6
+715;NQBDHT;7;-10;NQBDHT;3;1;CHUASSB
+73;VIFNAO
+addRoad;UPE;DXGDRY;8;7
+#repairRoad;SQJ;UPE;-7
+getRouteDescription;586
+50;OXAF
+getRouteDescription;385
+getRouteDescription;611
+;#getRouteDescription;8
+addRoad;EBMYAJ;SQJ;7;-9
+650;WCKND;6;2;EBMYAJ;9;0;OUZ
+568;DXGDRY;9;5;W;CKND;4;1;DXGDRY 
+#getRout;eDescription;134 
+addRoad;CHUASSB;OUZ;4;5
+395;CHUASSB
+314;UPE;7;1;EBMYAJ;0;1;CHUASSB
+getRouteDescription;524
+addRoad;OUZ;EBMYAJ;0;0
+958;UPE;7;9;EBMYAJ
+getRouteDescription;456
+addRoad;WCKND;EBMYAJ;9;-9
+addRoad;OXAF;UPE;2;9
+getRouteDescription;797
+addRoad;OUZ;WCKND;3;8
+621;CHUASSB;2;3;VIFNAO;3;-8;UPE
+220;EBMYAJ;8;;4;NQBDHT
+ repairRoad;VIFNAO;DXGDRY;-1
+645;CHUASSB;5;7;OUZ
+315;CHUASSB;3;-8;OUZ;2;-4;CHUASSB
+#328;VIFNAO;3;4;DXGDRY
+addRoad;OUZ;CHUASSB;7;-2
+#repairRoad;VIFN;AO;DXGDRY;7
+274;SQJ
+72;VIFNAO;0;1;EBMYAJ
+repairRoad;EBMYAJ;CHUASSB;-4
+repairRoad;NQBDHT;OUZ;3
+addRoad;DXGDRY;CHUASSB;7;-2
+getRouteDescription;230
+addRoad;CHUASSB;UPE;2;-4
+#repairRoad;SQJ;NQBDHT;-9 
+#addRoad;O;UZ;VIFNAO;2;7
+repairRoad;EBMYAJ;VIFNAO;-6

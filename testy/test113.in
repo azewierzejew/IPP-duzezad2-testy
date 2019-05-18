@@ -1,0 +1,4200 @@
+addRoad;GUX;ZOE;5;9
+134;FKX
+915;FKX;2;-5;ZJM
+getRouteDescription;915
+ #getRoute;Description;915 
+133;WICZ
+898;WICZ;4;2;IEJUR
+repairRoad;IEJUR;IEJUR;-4
+103;GUX;8;-10;FKX
+addRoad;ZJM;YQQ;5;-10
+addRoad;IEJUR;CPOZ;7;3
+repairRoad;CPOZ;XDIGI;-6
+#getRouteDescription;;915
+ addRoad;ZJM;ZJM;9;-5 
+77;CPOZ
+addRoad;ZJM;TEK;1;5
+addRoad;IEJUR;ZOE;8;-10
+getRouteDescription;915
+addRoad;TEK;XDIGI;0;8
+getRouteDescription;915
+addRoad;ZOE;YQQ;8;3
+addRoad;ZOE;ZOE;3;6
+addRoad;GUX;CP;OZ;6;-7 
+addRoad;IEJUR;YQQ;6;5
+repairRoad;GUX;GUX;1
+24;ZJM;4;6;GUX
+getRouteDescription;741
+addRoad;XDIGI;FKX;4;0
+addRoad;;IEJUR;XDIGI;6;0 
+782;CPOZ;7;-6;CPOZ;3;2;XDIGI
+addRoad;ZOE;WICZ;9;8
+getRouteDescription;915
+addRoad;ZOE;GUX;6;-8
+ addRoad;YQQ;FKX;1;-5
+repairRoad;ZOE;YQQ;8
+915;ZJM;6;-8;IEJUR;8;4;WICZ
+#getR;outeDescription;915 
+repairRoad;FKX;XDIGI;-10
+getRouteDescription;436
+addRoad;FKX;ZOE;4;-10
+ getRouteDe;scription;957 
+ getRouteDescription;915
+ ;getRouteDescription;47 
+repairRoad;FKX;XDIGI;-3
+#getRouteDescription;915 
+addRoad;GUX;CPOZ;3;9
+915;XDIGI
+getRouteDescription;915
+addRoad;ZOE;CPOZ;7;-7
+getRouteDescription;915
+getRouteDescription;915
+addRoad;YQQ;FKX;6;-8
+getRouteDescription;915
+repairRoad;TEK;TEK;5
+repairRoad;GUX;CPOZ;-10
+436;GUX
+ #repairRoad;;IEJUR;XDIGI;4 
+getRouteDescription;807
+repairRoad;WICZ;ZJM;2
+751;GUX;5;9;GUX
+754;CPOZ
+addRoad;FKX;FKX;0;-2
+; 542;GUX
+addRoad;YQQ;TEK;0;-4
+636;GUX
+161;YQQ;8;0;YQQ
+getRouteDescription;915
+getRouteDescription;915
+858;GUX
+repairRoad;CPOZ;YQQ;-6
+getRouteDescription;915
+repairRoad;IEJUR;YQQ;-6
+#49;3;CPOZ 
+addRoad;YQQ;XDIGI;1;8
+581;ZJM;3;1;ZOE;8;4;XDIGI
+#addRoad;;YQQ;CPOZ;6;9 
+addRoad;YQQ;CPOZ;1;-2
+getRouteDescription;919
+#getRouteDescription;639
+addRoad;IEJUR;CPOZ;2;2
+repa;irRoad;CPOZ;TEK;-4 
+repairRoad;ZJM;YQQ;5
+236;XDIGI;2;3;GUX;2;-10;XDIGI
+ getRo;uteDescription;99
+addRoad;FKX;CPOZ;6;-4
+addRoad;TEK;WICZ;1;-4
+repairRoad;ZOE;WICZ;-4
+repairRoad;YQQ;CPOZ;0
+915;YQQ;5;5;CPOZ;3;9;ZJM
+getRouteDescription;38
+addRoad;ZJM;IEJUR;7;-4
+repairRoad;IEJUR;WICZ;5
+622;XDIGI
+915;XDIGI;4;-8;ZJM;7;8;ZJM
+29;IEJUR;8;4;CPOZ;3;6;ZJM
+87;FKX;5;0;WICZ
+915;FKX
+repairRoad;YQQ;CPOZ;-10
+addRoad;ZOE;YQQ;3;-5
+addRoad;ZJM;YQQ;3;1
+#addRoad;IE;JUR;ZJM;2;4
+addRoad;YQQ;TEK;3;7
+getRouteDescription;915
+repairRoad;XDIGI;YQQ;-9
+getRouteDescription;877
+repairRoad;;GUX;ZJM;4
+ #repairRoad;IEJUR;CPOZ;9
+repairRoad;FKX;GUX;-9
+879;FKX;6;8;YQQ
+231;WICZ
+528;CPOZ;2;-4;GUX;3;-10;GUX
+ #592;FKX 
+getRouteDescription;915
+addRoad;CPOZ;ZOE;1;-3
+getRouteDescription;879
+954;WICZ
+repairRoad;GUX;WICZ;9
+ #addRoad;FKX;YQQ;4;;8
+addRoad;ZOE;TEK;4;;-7 
+repairRoad;ZOE;WICZ;-4
+repairRoad;TEK;GUX;-8
+ getRouteDescripti;on;915 
+addRoad;ZJM;ZOE;0;-7
+getRouteDescription;5
+getRouteDescription;879
+addRoad;YQQ;CPOZ;2;-8
+repairRoad;ZJM;ZOE;-3
+repairRoad;IEJUR;FKX;-6
+915;IEJUR;2;-3;TEK
+915;TEK
+283;FKX;2;4;ZJM;8;8;WICZ
+repairRoad;WICZ;CPOZ;-5
+getRouteDescription;897
+repairRoad;FKX;TEK;-10
+ getRouteDescription;879 
+repairRoad;ZJM;TEK;7
+getRouteDescription;283
+283;FKX;1;-7;YQQ;5;5;IEJUR
+repairRoad;ZOE;IEJUR;-2
+addRoa;d;ZJM;FKX;3;2
+804;FKX
+0;YQQ;0;-6;YQQ
+getRouteDescription;201
+repairRoad;GUX;WICZ;-10
+repairRoad;TEK;CPOZ;-5
+repairRoad;FKX;ZJM;6
+addRoad;XDIGI;GUX;1;-1
+ repairRoad;TEK;CPOZ;-4 
+264;WICZ
+#getRouteDescripti;on;915 
+getRouteDescription;379
+ getRouteD;escription;283
+ #repairRoad;ZJM;CPOZ;;-7
+187;XDIGI;8;0;CPOZ;0;3;ZOE
+addRoad;GUX;GUX;4;1
+ #repairRoad;FKX;ZOE;9
+60;FKX
+662;FKX;2;-9;XDIGI;4;-4;XDIGI
+#702;YQQ;8;8;ZOE 
+getRouteDescription;702
+ 593;TEK
+addRoad;ZOE;ZOE;3;0
+ addRoad;XDIGI;XDIGI;4;9
+#getRouteDescription;879
+683;XDIGI
+337;CPOZ
+repairRoad;CPOZ;CPOZ;-7
+addRoad;CPOZ;WICZ;2;9
+186;CPOZ;8;3;GUX;3;-2;ZOE
+#addRoad;IEJUR;;ZJM;1;3 
+getRouteDescription;702
+ 753;WICZ 
+48;IEJUR;2;-2;GUX;7;7;GUX
+ #getRouteDescription;702 
+980;IEJUR
+repairRoad;IEJUR;YQQ;2
+repairRoad;WICZ;XDIGI;3
+893;YQQ
+addRoad;ZOE;ZJM;5;-6
+getRouteDescription;283
+repairRoad;IEJUR;CPOZ;-3
+#addRoa;d;ZJM;FKX;8;-6 
+addRoad;YQQ;CPOZ;5;0
+#getRouteDescription;283
+addRoad;WICZ;CPOZ;1;-8
+getRouteDescription;879
+getRouteDescription;283
+addRoad;XDIGI;CPOZ;1;-2 
+getRouteDescription;159
+addRoad;WICZ;CPOZ;8;5
+ 122;IEJUR;5;-8;FKX;2;8;ZJM
+#6;72;IEJUR
+565;ZOE
+566;FKX
+602;CPOZ
+addRoad;ZJM;YQQ;0;6
+#addRoad;XDIGI;CPOZ;4;3
+getRouteDescription;427
+repairRoad;ZOE;CPOZ;7
+repairRoad;CPOZ;ZOE;-10
+961;FKX;4;9;YQQ
+repairRoad;ZOE;GUX;6
+#addRoad;WICZ;GUX;9;4 
+getRouteDescription;879
+getRouteDescription;915
+addRoad;FKX;IEJUR;7;-5
+getRouteDescription;283
+getRouteDescription;648
+576;IEJUR;7;2;XDIGI;4;4;FKX
+repairRoad;TEK;TEK;-2
+getRouteDescription;122
+getRouteDescription;283
+addRoad;TEK;WICZ;1;-2
+repairRoad;ZJM;WICZ;-3
+addRoad;YQQ;ZJM;4;-8
+13;ZOE
+getRouteDescription;614
+repairRoad;GUX;FKX;-9
+getRouteDescription;32
+getRouteDescription;702
+ getRouteDescription;177; 
+#112;CPOZ;6;2;WICZ;7;3;FKX
+addRoad;XDIGI;TEK;6;2 
+addRoad;ZJM;IEJUR;8;-3
+ ad;dRoad;GUX;TEK;3;-6 
+getRouteDescription;368
+repairRoad;GUX;CPOZ;-5
+#addRoad;YQQ;CPOZ;6;;-10
+getRouteDescription;122
+repairRoad;ZOE;IEJUR;4
+getRouteDescription;763
+addRoad;IEJUR;TEK;3;-6
+repairRoad;ZJM;IEJUR;-4
+299;WICZ;8;5;YQQ
+getRouteDescription;283
+430;TEK;4;1;TEK;9;3;CPOZ
+getRouteDescription;134
+#re;pairRoad;CPOZ;WICZ;9 
+ #getRouteDescripti;on;702
+915;ZJM;4;5;ZOE
+addRoad;WICZ;WICZ;9;-6
+getRouteDescription;915
+addRoad;WICZ;FKX;4;2
+addRoad;WICZ;XDIGI;3;6
+addRoad;XDIGI;FKX;4;-5
+addRoad;ZOE;YQQ;9;4
+repairRoad;XDIGI;YQQ;-2
+addRoad;WICZ;ZOE;3;3
+ #addR;oad;WICZ;IEJUR;7;0
+getRouteDescription;879
+380;CPOZ;7;3;IEJUR;4;5;WICZ
+getRouteDescription;299
+repairRoad;GUX;FKX;-8
+repairRoad;CPOZ;XDIGI;1
+repairRoad;ZJM;ZJM;6
+ repairRoad;ZO;E;YQQ;-1 
+getRouteDescription;915
+getRouteDescription;122
+repairRoad;XDIGI;IEJUR;-8
+addRoad;IEJUR;IEJUR;6;-4
+repairRoad;IEJUR;TEK;1
+addRoad;ZOE;IEJUR;1;0
+283;XDIGI;6;-3;CPOZ
+getRouteDescription;283
+getRouteDescription;182
+955;CPOZ;9;4;TEK
+addRoad;GUX;FKX;3;-5
+377;GUX
+getRouteDescription;299
+277;TEK
+getRouteDescription;879
+702;WICZ;0;-10;WICZ
+879;YQQ;0;-9;TEK
+addRoad;CPOZ;YQQ;0;3
+getRouteDescription;940
+addRoad;ZOE;CPOZ;8;-6
+repairRoad;CPOZ;WICZ;-2
+repairRoad;ZOE;GUX;4
+repairRoad;TEK;FKX;-7
+getRouteDescription;299
+906;CPOZ
+repairRoad;IEJUR;YQQ;8
+getRouteDescription;915
+getRouteDescription;168
+192;XDIGI;6;-3;XDIGI
+getRouteDescription;826 
+r;epairRoad;XDIGI;ZOE;7
+getRouteDescription;380
+addRoad;WICZ;FKX;5;9
+265;FKX;8;-5;GUX
+repairRoad;TEK;ZJM;8
+addRoad;CPOZ;TEK;5;1
+getRouteDescription;283
+ #addRoad;ZJM;GUX;9;3 
+887;WICZ;2;-4;ZOE
+getRouteDescription;380
+repairRoad;FKX;CPOZ;-10
+repairRoad;ZJM;WICZ;2
+ 505;FKX;6;-2;CPOZ 
+addRoad;TEK;XDI;GI;1;8 
+repairRoad;ZOE;GUX;-4
+199;YQQ;1;1;GUX
+addRoad;ZOE;TEK;1;2
+ #add;Road;FKX;FKX;9;-3 
+352;FKX;2;4;;FKX 
+ repairRoad;ZJM;FKX;7
+ #334;FKX;2;-8;CPOZ 
+repairRoad;ZOE;WICZ;4
+repairRoad;TEK;GUX;-9
+265;YQQ;3;5;TEK;4;-4;FKX
+#addRoad;FKX;WICZ;9;2 
+repairRoad;ZJM;WICZ;-3
+getRouteDescription;122
+775;IEJUR;0;6;GUX
+addRoad;XDIGI;TEK;3;-4
+repairRoad;TEK;CPOZ;-8
+ addRoad;IEJUR;CPOZ;9;-10 
+; repairRoad;ZOE;IEJUR;0 
+addRoad;GUX;GUX;8;-7
+repairRoad;GUX;XDIGI;1
+repairRoad;FKX;YQQ;0
+796;YQQ;4;-8;YQQ
+getRouteDescription;283
+;repairRoad;YQQ;IEJUR;-4 
+ #109;ZOE;1;-8;FKX;8;-6;YQQ 
+repairRoad;CPOZ;ZJM;4
+addRoad;YQQ;CPOZ;6;-4
+305;XDIGI;0;-7;FKX;0;-6;ZJM
+#repairRoad;XDIGI;CPOZ;;-3
+addRoad;;WICZ;TEK;8;4 
+getRouteDescription;879
+702;ZJM;5;-4;YQQ
+111;CPOZ;1;8;GUX
+addRoad;IEJUR;TEK;0;6
+518;WICZ
+addRoad;ZOE;WICZ;8;-3
+800;XDIGI;3;0;GUX
+repairRoad;GUX;CPOZ;3
+879;ZOE;1;-5;YQQ;1;-3;ZJM
+repairRoad;XDIGI;TEK;8
+addRoad;XDIGI;XDIGI;2;1
+ #915;YQQ;4;4;TEK;5;-7;;YQQ
+repairRoad;YQQ;WICZ;-5
+getRouteDescription;265
+0;ZOE
+getRouteDescription;265
+878;FKX;6;-4;CPOZ;7;3;IEJUR
+repairRoad;CPOZ;GUX;1
+getRouteDescription;37
+609;XDIGI;0;4;YQQ
+getRouteDescription;444
+165;YQQ
+addRoad;ZJM;XDIGI;2;7
+addRoad;TEK;GUX;1;8
+repairRoad;ZOE;FKX;2
+ get;RouteDescription;18 
+ #531;CP;OZ 
+addRoad;ZJM;ZJM;3;-8
+656;CPOZ
+repairRoad;CPOZ;YQQ;8
+addRoad;XDIGI;XDIGI;8;1
+repairRoad;ZOE;TEK;-8
+ #getRouteDescr;iption;783
+20;CPOZ
+repairRoad;FKX;WICZ;-10
+getRouteDescription;879
+repairRoad;IEJUR;XDIGI;0
+#getRouteDescription;915
+getRouteDescription;299
+122;TEK;1;-3;TEK
+addRoad;ZOE;IEJUR;5;-9
+#repairR;oad;YQQ;IEJUR;8
+repairRoad;GUX;FKX;-4
+addRoad;WICZ;CPOZ;4;;-5
+repairRoad;WICZ;GUX;0
+0;ZOE;5;-6;FKX;4;-9;WICZ
+repairRoad;FKX;XDIGI;-3
+ repairRoad;XDIGI;YQQ;4
+368;GUX;1;1;YQQ;6;8;FKX
+#addRoad;FKX;IEJUR;5;-9 
+getRouteDescription;368
+75;ZJM;8;1;ZJM
+#getRouteDe;scription;702
+ #254;GUX;5;-9;ZOE;1;9;XDIGI 
+repairRoad;FKX;WICZ;-6
+397;ZOE;8;4;XDIGI
+getRouteDescription;653
+repairRoad;IEJUR;TEK;-4
+977;WICZ;2;-2;GUX
+getRouteDescription;411
+repairRoad;FKX;YQQ;6
+repairRoad;YQQ;TEK;2
+ getRouteDescr;iption;283 
+repairRoad;ZOE;GUX;-2
+317;CPOZ;7;7;ZOE
+getRouteDescription;541
+ getRouteDescription;941 
+addRoad;ZOE;ZJM;5;-6
+getRouteDescription;397
+;addRoad;FKX;YQQ;4;-5
+repairRoad;WICZ;CPOZ;-9
+addRoad;WICZ;TEK;2;7
+repairRoad;GUX;WICZ;-10
+addRoad;FKX;;GUX;3;4
+#repairRoad;IEJUR;;CPOZ;5
+878;FKX;5;-3;IEJUR
+getRouteDescription;609
+repairRoad;IEJUR;CPOZ;-2
+getRouteDescription;110
+repairRoad;FKX;TEK;-9
+#addRoad;IEJUR;CPOZ;4;2 
+161;TEK;8;9;XDIGI
+repairRoad;GUX;FKX;2
+#322;CPOZ;;0;9;WICZ
+addRoad;WICZ;WICZ;8;-4
+996;ZJM;1;8;TEK
+getRouteDescription;299
+repairRoad;CPOZ;WICZ;8
+repairRoad;GUX;CPOZ;0
+addRoad;YQQ;IEJUR;6;0
+getRouteDescription;915
+getRouteDescription;265
+addRoad;ZOE;GUX;9;-9
+380;ZOE;5;2;YQQ
+addRoad;IEJUR;IEJUR;9;-8
+#repairRoad;IEJUR;;FKX;-10
+addRoad;GUX;WICZ;5;8
+repairRoad;GUX;XDIGI;-7
+repairRoad;ZOE;FKX;9
+#repairRoad;GUX;TEK;-3
+getRouteDescription;107
+255;IEJUR
+getRouteDescription;520
+getRouteDescription;368
+ repair;Road;ZOE;TEK;-7 
+ getRouteDesc;ription;317 
+29;ZOE;5;9;GUX
+addRoad;CPOZ;CPOZ;6;-1
+902;FKX;4;4;XDIGI;1;2;GUX
+902;TEK;1;1;ZOE;9;-10;TEK
+repairRoad;FKX;WICZ;6
+getRouteDescription;397
+addRoad;TEK;IEJUR;1;6
+ 0;;CPOZ;2;-1;IEJUR;7;-9;ZJM 
+ getRouteDescription;380 
+getRouteDescription;397
+878;XDIGI;4;-6;GUX
+ #283;XDIGI;8;0;WICZ
+repairRoad;ZJM;GUX;0
+addRoad;WICZ;TEK;8;4
+repairRoad;ZJM;GUX;-9
+getRouteDescription;900
+ addRoad;GUX;XDIGI;;4;-1
+283;ZJM;3;-6;XDIGI;1;8;ZJM
+getRouteDescription;364
+851;GUX;3;9;CPOZ;1;8;YQQ
+#addRoad;TEK;ZOE;9;6
+repairRoad;ZJM;FKX;-3
+#getRoute;Description;878
+addRoad;ZJM;WICZ;6;6
+repairRoad;XDIGI;WICZ;-10
+getRouteDescription;317
+691;WICZ;2;9;CPOZ;2;-8;ZJM
+144;XDIGI;7;7;XDIGI;6;9;TEK
+repairRoad;YQQ;CPOZ;-5
+addRoad;YQQ;GUX;7;8
+repairRoad;ZOE;XDIGI;-6
+939;IEJUR;7;2;XDIGI;3;8;WICZ
+ #164;TEK;7;2;YQQ 
+#addRoad;IEJUR;GUX;3;8
+305;YQQ;8;5;WICZ
+836;FKX;4;6;XDIGI
+addRoad;TEK;WICZ;5;-8
+getRouteDescription;166
+ 691;YQQ;6;-10;XDIGI;5;1;GUX 
+addRoad;GUX;GUX;6;-10
+addRoad;GUX;YQQ;9;4
+addRoad;TEK;IEJUR;9;5
+getRouteDescription;397
+repairRoad;CPOZ;YQQ;4 
+ getRouteDescription;317
+repairRoad;ZOE;GUX;1
+305;CPOZ;5;3;ZJM
+getRouteDescription;317
+repairRoad;XDIGI;WICZ;-7
+836;CPOZ
+230;YQQ;0;-4;IEJUR
+repairRoad;ZOE;WICZ;-1 
+addRoad;FKX;TEK;1;-6
+repairRoad;GUX;ZJM;6
+getRouteDescription;417
+addRoad;TEK;FKX;0;-2
+getRouteDescription;722
+getRouteDescription;897
+addRoad;CPOZ;ZJM;2;-3
+getRouteDescription;691
+getRouteDescription;317
+getRouteDescription;832
+addRoad;FKX;WICZ;5;8
+511;GUX;3;-8;GUX;5;1;IEJUR
+addRoad;YQQ;WICZ;2;-7
+addRoad;IEJUR;XDIGI;7;8
+addRoad;WICZ;ZJM;9;4
+addRoad;GUX;XDIGI;9;-10
+ addRoad;;GUX;ZOE;1;9 
+repairRoad;GUX;FKX;4
+repairRoad;TEK;CPOZ;3 
+repairRoad;ZJM;YQQ;-4
+ 415;G;UX
+repairRoad;CPOZ;WICZ;9
+ #addRoad;TEK;WICZ;;6;-9 
+#repairRoad;FKX;XDIGI;-3
+repairRoad;ZOE;ZJM;3
+getRouteDescription;691
+getRouteDescription;939
+0;ZOE
+894;WICZ;3;-4;IEJUR;1;9;FKX
+repairRoad;YQQ;CPOZ;4
+265;IEJUR
+555;XDIGI;7;2;IEJUR
+repairRoad;FKX;ZOE;-10
+getRouteDescription;368
+getRouteDescription;283
+#repa;irRoad;ZOE;TEK;-5
+repairRoad;ZOE;ZJM;4
+getRouteDescription;397
+getRouteDescription;17
+repairRoad;TEK;WICZ;-1
+ addRoad;YQQ;YQQ;4;-8 
+repairRoad;TEK;CPOZ;0
+976;FKX
+29;XDIGI;6;4;ZJM
+ getRouteDescription;122 
+getRouteDescription;836
+repairRoad;XDIGI;WICZ;-1
+#getRouteDescription;939 
+getRouteDescription;849 
+addRoad;ZJM;GUX;2;-7
+repairRoad;FKX;WICZ;-9
+repairRoad;YQQ;GUX;-2
+#479;FKX;8;-4;FKX;7;8;GUX
+getRouteDescription;995
+555;XDIGI;8;-9;WICZ
+addRoad;WICZ;XDIGI;2;9
+addRoad;ZJM;YQQ;2;-4
+getRouteDescription;412
+ #getRou;teDescription;454 
+ getRouteDescript;ion;851 
+repairRoad;CPOZ;WICZ;0
+repairRoad;ZJM;ZJM;-7 
+getRouteDescription;902
+repairRoad;ZOE;WICZ;4
+addRoad;CPOZ;FKX;7;-2
+getRouteDescription;86
+#repairRoad;ZOE;CPOZ;-6 
+ #222;FKX;6;8;YQQ;1;8;XDIGI 
+addRoad;IEJUR;TEK;0;2
+getRouteDescription;29
+295;ZJM
+getRouteDescription;179
+ #878;FKX;5;;-6;CPOZ;8;-1;ZOE
+getRouteDescription;940
+getRouteDescription;770
+getRouteDescription;691
+addRoad;CPOZ;WICZ;2;8
+getRouteDescription;562
+906;ZJM;9;-10;ZOE;2;5;ZOE
+addRoad;TEK;ZJM;1;-9
+#repairRoad;ZJM;WICZ;6
+ #getRouteDescription;185 
+addRoad;XDIGI;FKX;3;-8
+addRoad;IEJUR;WICZ;7;-6
+712;ZJM
+getRouteDescription;222
+ 210;WICZ;0;5;;ZOE
+getRouteDescription;207
+getRouteDescription;939
+repairRoad;ZJM;TEK;5
+repairRoad;FKX;XDIGI;-9
+addRoad;FKX;WICZ;3;5
+getRouteDescription;915
+207;YQQ;9;0;IEJUR;7;8;IEJUR
+addRoad;WICZ;YQQ;3;-7
+addRoad;TEK;FKX;5;-3
+getRouteDescription;846
+getRouteDescription;353
+966;IEJUR
+repairRoad;ZJM;TEK;2
+addRoad;WICZ;IEJUR;4;-3
+repairRoad;YQQ;CPOZ;5
+addRoad;CPOZ;FKX;4;0
+#77;ZOE
+ repairRoad;ZOE;XDIGI;-8 
+ #repairRoad;TEK;YQQ;4 
+972;WICZ;3;8;XDIGI
+ repairRoad;CPOZ;ZJM;-2
+repairRoad;CPOZ;FKX;2
+repairRoad;ZOE;ZJM;-5
+repairRoad;XDIGI;XDIGI;-4
+#getRouteDescription;718 
+addRoad;IEJUR;YQQ;4;-9
+repairRoad;ZOE;FKX;-7
+addRoad;C;POZ;GUX;8;0 
+#repairRoad;CPOZ;WICZ;-6 
+getRouteDescription;953
+repairRoad;XDIGI;ZJM;-10
+addRoad;IEJUR;WICZ;6;2
+addRoad;TEK;CPOZ;5;-3
+340;IEJUR
+repairRoad;FKX;IEJ;UR;4
+repairRoad;FKX;ZOE;-9
+getRouteDescription;996
+ #345;;YQQ
+repairRoad;TEK;CPOZ;-3
+317;FKX
+getRouteDescription;851
+getRouteDescription;635
+ getRouteDescription;662
+397;YQQ
+addRoad;CPOZ;XDIGI;6;5
+235;GUX;9;-3;WICZ;6;-3;TEK
+repairRoad;GUX;CPOZ;-7
+getRouteDescription;504
+ ;#677;WICZ
+#29;ZJ;M 
+939;YQQ
+931;GUX;6;1;GUX
+107;IEJUR
+addRoad;WICZ;ZOE;7;-7
+repairRoad;XDIGI;GUX;-9
+addRoad;ZJM;ZJM;1;9
+getRouteDescription;878
+getRouteDescription;148
+924;ZJM;7;9;ZJM
+addRoad;ZJM;YQQ;5;6
+repairRoad;ZOE;WICZ;-1
+getRouteDescription;924
+addRoad;GUX;FKX;8;-10
+addRoad;ZOE;WICZ;8;-8
+ #repairRoad;WICZ;FKX;6
+repairRoad;FKX;WICZ;0
+repairRoad;XDIGI;YQQ;-10
+repairRoad;GUX;TEK;-7
+ getRouteDescription;317
+getRouteDescription;902
+ addRoad;TEK;YQQ;5;-7 
+getRouteDescription;137
+ #getRouteDescription;229 
+ #0;ZJM;6;-8;FKX 
+getRouteDescription;299
+ 702;ZJM 
+addRoad;WICZ;ZJM;1;4
+#repairRo;ad;TEK;YQQ;-1
+ #getRouteDescri;ption;613
+getRouteDescription;972
+ #getRouteDescription;167 
+507;FKX
+#addRoad;CPOZ;YQQ;8;-4
+addRoad;IEJUR;CPOZ;9;7
+getRouteDescription;836
+447;GUX;3;-6;TEK;0;-8;GUX
+addRoad;GUX;YQQ;2;-3
+#222;ZOE 
+repairRoad;YQQ;WICZ;8
+repairRoad;IEJUR;TEK;-2
+ ;repairRoad;IEJUR;CPOZ;8
+addRoad;YQQ;XDIGI;9;-3
+getRouteDescription;759
+repairRoad;FKX;XDIGI;-3
+repairRoad;ZOE;YQQ;-1
+addRoad;XDIGI;ZJM;4;-1
+ re;pairRoad;GUX;TEK;1 
+repairRoad;XDIGI;TEK;7
+repairRoad;ZOE;FKX;-9
+addRoad;CPOZ;ZOE;4;-4
+addRoad;XDIGI;GUX;8;-7
+#repairRoad;XDIG;I;WICZ;1
+878;CPOZ;6;-10;YQQ
+getRouteDescription;851
+addRoad;WICZ;ZJM;4;-2
+getRouteDescription;397
+getRouteDescription;397
+getRouteDescription;122
+addRoad;GUX;CPOZ;2;-2
+#503;;ZJM 
+addRoad;FKX;IEJUR;2;3
+getRouteDescription;275
+ getRouteDescription;;368
+addRoad;IEJUR;ZOE;7;-5
+addRoad;FKX;YQQ;8;-9
+repairRoad;FKX;TEK;8
+45;FKX;6;5;CPOZ;6;-7;ZOE
+555;XDIGI;0;4;;ZJM 
+repairRoad;IEJUR;CPOZ;9
+0;IEJUR
+750;WICZ;4;7;ZOE;0;-1;ZJM
+#addRoad;WICZ;TEK;3;-6
+ #addRoad;ZJM;ZJM;5;5
+ #getRouteDescription;996 
+ getRouteDescription;702
+getRouteDescription;368
+getRouteDescription;919
+getRouteDescription;951
+getRouteDescription;93
+repairRoad;ZOE;ZOE;9
+repairRoad;ZOE;YQQ;-7
+ addRoad;ZJM;ZOE;0;1
+228;GUX;0;-6;XDIGI
+397;CPOZ;1;-3;IEJUR
+ repairRoad;ZJM;WICZ;2
+118;XDIGI;8;4;ZOE;3;6;ZJM
+addRoad;TEK;WICZ;9;-2
+getRouteDescription;380
+#addRoad;TEK;GUX;7;1 
+repairRoad;ZOE;YQQ;-1
+458;ZJM
+addRoad;CPOZ;YQQ;8;-3
+getRouteDescription;879
+getRouteDescription;305
+addRoad;ZJM;GUX;4;-5
+436;IEJUR;1;-9;GUX;0;-1;YQQ
+903;ZJM
+669;GUX;2;6;YQQ;6;3;GUX
+#607;ZJM 
+getRouteDescription;380
+#r;epairRoad;FKX;GUX;5
+getRouteDescription;397
+repairRoad;CPOZ;FKX;-7
+addRoad;IEJUR;IEJUR;1;2
+getRouteDescription;431
+repairRoad;YQQ;ZJM;-9
+ getRouteD;escription;915 
+getRouteDescription;122
+repairRoad;XDIGI;TEK;0
+getRouteDescription;122
+getRouteDescription;836
+ #735;IEJUR;5;-7;TEK
+ #addRoa;d;ZOE;FKX;2;5
+getR;outeDescription;222 
+getRouteDescription;455
+getRouteDescription;222
+getRouteDescription;879
+addRoad;CPOZ;ZJM;1;2
+getRouteDescription;759
+repairRoad;IEJUR;TEK;-3
+555;ZJM;1;0;YQQ
+getRouteDescription;702
+addRoad;FKX;CPOZ;7;5
+getRouteDescription;352
+89;ZJM 
+#addRoad;ZOE;YQQ;9;6 
+815;IEJUR;7;-3;FKX
+getRout;eDescription;380
+612;WICZ;3;-5;YQQ;2;3;YQQ
+addRoad;XDIGI;CPOZ;8;7
+addRoad;FKX;WICZ;7;-3
+repairRoad;FKX;CPOZ;7
+addRoad;ZOE;IEJUR;1;-5
+getRouteDescription;122
+addRoad;CPOZ;YQQ;8;-8
+addRoad;FKX;YQQ;2;3
+222;FKX
+addRoad;IEJUR;IEJUR;4;-9
+572;ZOE;5;9;GUX
+ getRouteDescript;ion;915
+575;ZJM;2;6;FKX
+265;ZOE;7;-6;ZJM
+repairRoad;XDIGI;CPOZ;-5
+0;ZJM;1;4;ZOE
+repairRoad;ZOE;IEJUR;-9
+getRouteDescription;177
+ #repairRoad;ZJM;FKX;9
+repairRoad;WICZ;IEJUR;-7
+repairRoad;YQQ;GUX;-3
+863;ZJM
+getRouteDescription;815
+addRoad;GUX;FKX;9;-7
+611;WICZ
+repairRoad;ZOE;XDIGI;-5
+addRoad;ZOE;CPOZ;5;-3
+ getRouteDescription;283 
+#486;IEJUR;5;-4;TEK 
+repairRoad;YQQ;ZJM;9
+getRouteDescription;324
+addRoad;TEK;ZJM;1;-1
+addRoad;IEJUR;TEK;2;-4
+addRoad;GUX;IEJUR;9;9
+0;TEK
+repairRoad;CPOZ;GUX;6
+getRouteDescription;222
+getRouteDescription;555
+getRouteDescription;248
+5;96;YQQ;1;1;GUX 
+ #repairRoad;;TEK;GUX;2
+addRoad;WICZ;FKX;7;2
+getRouteDescription;572
+getRouteDescription;400
+repairRoad;ZOE;YQQ;-6
+getRouteDescription;879
+ #getRou;teDescription;265 
+ getRouteDescription;728 
+ #addRoad;;TEK;ZJM;0;7
+repairRoad;ZOE;;GUX;-4 
+addRoad;WICZ;IEJUR;6;4
+getRouteDescription;;393 
+getRouteDescription;215
+627;TEK;8;-7;ZOE;3;-7;XDIGI
+getRouteDescription;570
+repairRoad;ZOE;CPOZ;2
+994;WICZ;2;-9;WICZ;1;-9;XDIGI
+564;IEJUR;7;4;YQQ;9;7;XDIGI
+getRouteDescription;355
+29;YQQ;1;-2;FKX
+getRouteDescription;781
+addRoad;IEJUR;WICZ;2;-2
+getRouteDescription;702
+repairRoad;ZJM;YQQ;-5
+ #getRouteDescription;305 
+addRoad;IEJUR;ZJM;0;-8
+repairRoad;TEK;ZOE;-5
+ 878;CPOZ;4;5;GUX
+addRoad;FKX;YQQ;3;3
+repairRoad;FKX;TEK;-7
+addRoad;YQQ;XDIGI;6;-4
+ #repairRoad;IEJUR;YQQ;3 
+473;CPOZ;5;9;GUX
+#repairRoad;ZOE;IEJUR;-2 
+repairRoad;XDIGI;FKX;1
+ 0;ZOE
+ #289;YQQ;6;-2;G;UX;7;-5;YQQ 
+addRoad;CPOZ;CPOZ;2;-5
+#repairRoad;ZOE;;IEJUR;7 
+addRoad;WICZ;GUX;7;2
+getRouteDescription;122
+repairRoa;d;WICZ;ZOE;-1
+ #getRo;uteDescription;836
+addRoad;XDIGI;ZJM;2;-1
+getRouteDescription;56
+repairRoad;FKX;XDIGI;3
+getRouteDescription;851
+getRouteDescription;691
+getRouteDescription;736
+repairRoad;GUX;XDIGI;-7
+getRouteDescription;915 
+repairRoad;XDIGI;ZJM;9
+addRoad;WICZ;ZOE;3;-8
+460;FKX;4;9;ZOE
+addRoad;WICZ;WICZ;4;8
+902;YQQ;9;-3;ZJM;1;-1;YQQ
+repairRoad;ZJM;ZJM;-4
+ #106;CPOZ;4;7;YQQ;0;0;T;EK
+repairRoad;FKX;XDIGI;-10
+addRoad;CPOZ;GUX;8;-5
+getRouteDescription;596
+getRouteDescription;702
+;#672;TEK;9;0;GUX
+ addRoad;YQQ;XDIGI;1;-3
+addRoad;FKX;TEK;7;8 
+repairRoad;FKX;CPOZ;-2
+#repairRoad;I;EJUR;CPOZ;-2
+repairRoad;CPOZ;ZOE;-5
+addRoad;ZJM;YQQ;5;9
+addRoad;TEK;YQQ;4;2
+#961;GUX;4;4;ZOE 
+repairRoad;XDIGI;ZJM;-6
+ repairRoad;FKX;YQQ;8
+ addRoad;;TEK;XDIGI;7;-5 
+ repairRoad;WICZ;GUX;-10
+repairRoad;TEK;YQQ;-3
+repairRoad;GUX;TEK;5
+addRoad;IEJUR;FKX;1;4
+addRoad;;ZJM;ZJM;7;6
+addRoad;IEJUR;CPOZ;9;7
+getRouteDescription;29
+repairRoad;YQQ;YQQ;2
+264;ZOE
+ #getRo;uteDescription;972 
+ addRo;ad;TEK;ZJM;2;3
+getRouteDescription;596
+repairRoad;XDIGI;YQQ;-10
+776;ZJM;2;7;CPOZ;2;9;WICZ
+0;FKX;1;3;GUX
+repairRoad;CPOZ;GUX;-8
+29;XDIGI;3;1;WICZ;0;-10;ZOE
+getRouteDescription;283
+repairRoad;ZOE;WICZ;6
+repairRoad;IEJUR;GUX;9
+addRoad;YQQ;CPOZ;6;2
+repairRoad;ZOE;CPOZ;-10
+addRoad;CPOZ;IEJUR;1;-7
+#repairRoad;CPOZ;WICZ;7 
+#getRouteDescription;;819
+addRoad;YQQ;ZOE;3;-6
+repairRoad;FKX;WICZ;2
+getRouteDescription;662
+repairRoad;TEK;WICZ;5
+getRouteDescription;963
+getRouteDescription;815
+repairRoad;FKX;TE;K;-6
+getRouteDescription;878
+getRouteDescription;939
+815;YQQ;8;8;ZJM;2;-8;YQQ
+repairRoad;YQQ;TEK;2
+repairRoad;ZJM;WICZ;4
+ 789;YQQ
+addRoad;YQQ;GUX;6;-6
+#getRoute;Description;794
+repairRoad;XDIGI;CPOZ;2
+addRoad;ZOE;ZJM;4;-1
+repairRoad;WICZ;FKX;-2
+getRouteDescri;ption;856
+getRouteDescription;874
+getRouteDescription;851
+26;9;CPOZ;4;-3;WICZ;3;-2;ZJM
+getRouteDescription;915
+865;XDIGI
+ addRoad;FKX;WI;CZ;1;1
+getRouteDescription;555
+addRoad;ZJM;TEK;2;7
+986;WICZ
+repairRoad;GUX;CPOZ;-2
+getRouteDescription;781
+addRoad;YQQ;WICZ;4;-5
+repairRoad;ZJM;ZJM;4
+getRouteDescription;157
+repairRoad;CPOZ;WICZ;-6
+#getRouteDescription;283
+addRoad;YQQ;ZOE;4;6
+ #repairRoad;Z;OE;FKX;7 
+getRouteDescription;54
+addRoad;CPOZ;GUX;6;-6
+;repairRoad;FKX;GUX;3 
+646;ZOE;8;8;YQQ
+repairRoad;WICZ;WICZ;5
+ #getRouteDescription;751
+getRouteDescription;866
+getRouteDescription;915
+#addRoad;ZOE;CPOZ;8;0 
+499;WICZ;4;6;FKX
+getRouteDescription;340
+0;WICZ;0;-4;WICZ;6;6;CPOZ
+#getRouteDes;cription;499 
+getRouteDescription;815
+addRoad;WICZ;WICZ;5;-6
+addRoad;XDIGI;ZJM;9;-10
+ ;repairRoad;FKX;FKX;7 
+repairRoad;GUX;FKX;3
+466;WICZ;0;8;XDIGI
+addRoad;CPOZ;IEJUR;5;2
+repairRoad;XDIGI;XDIGI;6
+ #addRoad;CPOZ;WICZ;7;6
+getRouteDescription;572
+#722;IEJUR;4;3;IEJUR;7;-5;IEJUR
+894;WICZ;4;7;ZJM;2;4;YQQ
+addRoad;TEK;ZJM;8;7
+getRouteDescription;996
+ #619;IEJUR;3;-8;ZOE 
+getRouteDescription;836
+repairRoad;YQQ;WICZ;-5
+repairRoad;GUX;TEK;-5
+repairRoad;WICZ;TEK;-4
+#addRoad;WICZ;WICZ;3;-9 
+845;WICZ;4;8;FKX
+778;ZOE;4;0;TEK
+843;GUX;9;-7;IEJUR
+354;XDIGI 
+316;TEK;1;5;FKX;1;-10;FKX
+279;GUX
+repairRoad;CPOZ;ZOE;-7
+addRoad;WICZ;ZOE;3;8
+addRoad;CPOZ;ZOE;3;-5
+addRoad;GUX;ZOE;8;-1
+#repairRoad;FKX;XDIGI;-10
+getRouteDescription;122
+#repairRoad;TEK;FKX;;3
+repairRoad;IEJUR;YQQ;8
+repairRoad;WICZ;TEK;2
+addRoad;GUX;ZJM;0;7
+528;ZJM;8;8;WICZ
+getRouteDescription;818
+repairRoad;XDIGI;YQQ;9
+#repairRoad;ZJM;YQQ;8 
+addRoad;FKX;FKX;8;1
+addRoad;ZOE;YQQ;7;-9
+getRouteDescription;575
+107;FKX;9;4;WICZ
+251;ZJM;4;8;GUX;1;8;XDIGI
+258;ZOE;7;7;CPOZ
+856;GUX;8;4;FKX
+ #add;Road;YQQ;CPOZ;1;-2
+ getRouteDescription;49;9
+addRoad;WICZ;ZOE;7;-7
+getRouteDescription;575
+720;IEJUR;4;1;TEK
+675;XDIGI;5;-2;ZJM;0;-6;YQQ
+getRouteDescription;528
+addRoad;ZOE;YQQ;5;9
+addRoad;GUX;XDIGI;9;-1
+getRouteDescription;397
+661;IEJUR;0;0;ZOE
+#getRouteDescription;972
+ #getRoute;Description;460 
+3;XDIGI;7;5;IEJUR;4;5;WICZ
+repairRoad;IEJUR;YQQ;2
+repairRoad;GUX;YQQ;-8
+repairRoad;CPOZ;WICZ;-10
+repairRoad;ZOE;TEK;-7
+ #addRoad;ZOE;ZOE;4;4 
+681;FKX
+addRoad;CPOZ;WICZ;3;-4
+addRoad;GUX;YQQ;5;8
+ 947;ZOE;7;-8;;ZOE 
+addRoad;TEK;CPOZ;8;4
+#575;WICZ;0;5;TEK
+#addRo;ad;TEK;IEJUR;2;0 
+repairRoad;TEK;GUX;3
+ getRouteDescription;633 
+getRouteDescription;249
+ #29;XDIGI 
+getRouteDescription;471
+3;IEJUR;6;9;ZJM
+ #990;XDIGI;4;-2;ZJM;8;-2;XDIGI
+#repairRoad;ZOE;CPOZ;1
+getRouteDescription;438
+repairRoad;ZOE;ZOE;-;2
+902;CPOZ
+addRoad;CPOZ;WICZ;1;9
+addRoad;GUX;IE;JUR;2;-6
+258;ZOE
+987;CPOZ;1;8;YQQ;6;8;FKX
+repairRoad;YQQ;IEJUR;-3
+addRoad;FKX;WICZ;5;2
+628;WICZ;2;7;WICZ
+repairRoad;TEK;YQQ;3
+495;CPOZ;4;7;XDIGI;3;3;ZOE
+getRouteDescription;779
+0;YQQ
+repairRoad;GUX;GUX;-1
+addRoad;ZJM;FKX;7;-7
+repairRoad;FKX;CPOZ;-5
+repairRoad;FKX;XDIGI;7
+528;WICZ
+368;XDIGI;3;-10;WICZ;8;1;ZOE
+getRouteDescription;188
+getRouteDescription;775
+getRouteDescription;122
+815;GUX;6;-6;YQQ;7;7;WICZ
+repairRoad;ZJM;FKX;4
+addRoad;TEK;GUX;0;9
+repairRoad;CPOZ;TEK;-1
+#149;IEJUR;9;9;;GUX;5;9;ZOE 
+780;XDIGI
+addRoad;GUX;YQQ;9;8
+#879;XDIGI;4;;8;FKX 
+repairRoad;TEK;CPOZ;4
+addRoad;XDIGI;ZJM;7;4
+832;XDIGI;8;5;ZOE;7;7;CPOZ
+addRoad;ZJM;IEJUR;4;6
+repairRoad;FKX;XDIGI;8
+getRouteDescription;362
+repairRoad;XDIGI;ZJM;-5
+973;YQQ
+getRouteDescription;919
+getRouteDescription;555
+#addRoa;d;YQQ;CPOZ;7;-3 
+repairRoad;FKX;XDIGI;8
+317;FKX
+repairRoad;IEJUR;YQQ;-7
+4;05;ZJM;1;8;TEK 
+getRouteDescription;747
+repairRoad;GUX;CPOZ;8
+repairRoad;XDIGI;FKX;7
+597;WICZ;1;-3;TEK;0;3;ZOE
+addRoad;FKX;CPOZ;9;0
+460;YQQ;4;8;CPOZ;1;-2;IEJUR 
+ ge;tRouteDescription;368
+addRoad;WICZ;ZOE;1;6
+ g;etRouteDescription;380
+repairRoad;GUX;TEK;-10
+repairRoad;GUX;TEK;-3 
+getRouteDescription;575
+addRoad;YQQ;WICZ;8;-2
+714;YQQ;5;9;ZJM
+addRoad;ZOE;XDIGI;4;4
+addRoad;GUX;WICZ;8;-10
+repairRoad;ZJM;XDIGI;3
+getRouteDescription;314
+addRoad;GUX;XDIGI;0;-7
+ addRoad;;XDIGI;WICZ;3;-10
+803;WICZ;5;6;IEJUR;7;7;WICZ
+ getRouteDescription;499 
+repairRoad;ZOE;WICZ;-7
+addRoad;IEJUR;WICZ;7;5
+ getRouteD;escription;815 
+ addRoad;FKX;YQQ;;9;-5 
+397;YQQ;1;-5;YQQ
+addRoad;YQQ;ZJM;4;2
+getRouteDescription;78
+addRoad;IEJUR;CPOZ;9;6
+770;YQQ
+getRouteDescription;646
+732;CPOZ;6;0;WICZ
+repairRoad;ZOE;IEJUR;5; 
+addRoad;YQQ;ZJM;6;9
+;getRouteDescription;593 
+addRoad;CPOZ;TEK;0;4
+ #repairRoad;FKX;GUX;6 
+263;ZJM;2;7;CPOZ
+ #addRoad;IEJUR;GUX;3;8 
+ #639;WICZ;7;-6;WICZ;1;-10;ZOE
+addRoad;YQQ;CPOZ;;7;1 
+addRoad;TEK;TEK;1;7
+836;WICZ
+getRouteDescription;940
+addRoad;WICZ;FKX;7;-2
+50;TEK;1;8;FKX
+repairRoad;FKX;TEK;6
+addRoad;ZJM;ZOE;5;5
+38;ZOE;9;8;WICZ
+addRoad;ZOE;IEJUR;3;-6
+addRoad;IEJUR;CPOZ;5;3
+repairRoad;IEJUR;FKX;-1
+addRoad;ZJM;ZOE;7;9
+getRouteDescription;263
+ 911;CPOZ;6;-8;TEK;0;0;FKX 
+getRouteDescription;368
+repairRoad;GUX;GUX;-5
+addR;oad;YQQ;IEJUR;9;-5 
+ addRoad;ZOE;ZJM;5;6
+441;FKX;9;-9;WICZ;9;0;ZOE
+getRouteDescription;776
+497;TEK
+repairRoad;IEJUR;TEK;2
+repairRoad;XDIGI;IEJUR;6
+ repairRoad;CPOZ;ZJM;8 
+ #repairRoad;GUX;IEJUR;3
+ #addRoad;IE;JUR;WICZ;1;-6 
+repairRoad;IEJUR;FKX;-4
+368;YQQ;7;3;IEJUR
+504;XDIGI;5;6;IEJUR;1;-3;IEJUR
+repairRoad;IEJUR;TEK;7
+105;YQQ;3;7;YQQ
+getRouteDescription;886
+getRouteDescription;499
+851;ZOE;1;3;WICZ;0;-3;TEK
+addRoad;GUX;CPOZ;3;2
+repairRoad;CPOZ;XDIGI;-2
+repairRoad;FKX;ZJM;5
+repairRoad;FKX;WICZ;-3
+getRouteDescription;608
+getRouteDescription;173
+repairRoad;XDIGI;CPOZ;8
+ repa;irRoad;ZOE;FKX;9 
+repairRoad;ZOE;TEK;-3
+repairRoad;ZJM;IEJUR;-4
+ #addRoad;ZJM;IEJUR;2;;-6 
+372;YQQ
+60;YQQ;5;-1;YQQ
+ getRo;uteDescription;283 
+getRouteDescription;856
+addRoad;CPOZ;TEK;1;-1
+addRoad;GUX;YQQ;1;-5
+repairRoad;FKX;ZJM;8
+getRouteDescription;405
+#repairRoad;IEJUR;CP;OZ;-7
+addRoad;IEJUR;ZOE;5;-5
+repairRoad;FKX;CPOZ;-8
+915;WICZ;7;6;CPOZ;8;2;TEK
+repairRoad;ZOE;YQQ;2
+ 871;ZJM
+getRouteDescription;406
+ #repairRoad;XDIGI;CPOZ;-2
+addRoad;TEK;TEK;3;-4
+addRoad;ZOE;ZJM;2;4
+addRoad;CPOZ;ZJM;0;-7
+68;CPOZ;6;2;XDIGI;4;2;XDIGI
+repairRoad;FKX;CPOZ;9
+addRoad;IEJUR;ZJM;7;7
+#getRouteDescription;251 
+ #getRouteDescription;575 
+getRouteDescription;170
+283;FKX;0;-6;ZOE
+776;YQQ
+497;XDIGI
+getRouteDescription;996
+repairRoad;YQQ;FKX;-10
+499;YQQ 
+698;GUX
+addRoad;IEJUR;IEJUR;1;4
+getRouteDescription;941
+getRouteDescription;368
+ addRoad;CPOZ;CPOZ;8;-6 
+repairRoad;ZOE;FKX;-2
+getRouteDescription;258
+getRouteDescription;861
+ 100;CPOZ;7;9;IEJUR 
+604;TEK;1;5;WICZ;9;8;ZOE
+ #getRouteDescription;4;23
+#604;WICZ;0;-10;YQQ; 
+addRoad;FKX;CPOZ;3;4
+#809;WICZ;1;-7;IEJUR;0;-10;YQQ
+addRoad;TEK;FKX;8;5
+843;YQQ;1;9;XDIGI
+#addRoad;FKX;IEJUR;;0;-3
+repairRoad;IEJUR;XDIGI;-5 
+getRouteDescription;119
+repairRoad;YQQ;CPOZ;-10
+ #repairRoad;;GUX;WICZ;4 
+repairR;oad;IEJUR;CPOZ;3 
+addRoad;ZJM;GUX;9;-5
+ #ad;dRoad;ZJM;ZOE;3;8 
+addRoad;ZOE;ZOE;2;1
+845;IEJUR
+getRouteDescription;397
+addRoad;GUX;XDIGI;1;2
+549;WICZ;7;9;IEJUR
+0;GUX;7;1;GUX;5;-5;CPOZ
+addRoad;FKX;IEJUR;3;-6
+repairRoad;ZJM;GUX;6
+getRouteDescription;691
+getRouteDescription;397
+getRouteDescription;407
+getRouteDescription;263
+repairRoad;ZJM;WICZ;-9
+293;CPOZ;0;-9;YQQ;8;-3;ZOE
+122;IEJUR;2;-7;CPOZ;0;-1;XDIGI
+getRouteDescription;118
+ #addRoad;XDIGI;FKX;0;0
+repairRoad;ZOE;FKX;-7
+addRoad;ZOE;IEJUR;5;5
+repairRoad;YQQ;XDIGI;7
+646;GUX;;6;-4;ZOE 
+#repairRoad;WICZ;FKX;-6
+getRouteDescription;832
+repairRoad;WICZ;WICZ;8
+addRoad;GUX;YQQ;4;2
+addRoad;GUX;YQQ;8;-4
+ getRouteDescription;843
+addRoad;ZOE;YQQ;2;-6
+repairRoad;ZOE;;CPOZ;-5 
+553;TEK
+addRoad;GUX;WICZ;0;-8
+getRouteDescription;857
+addRoad;FKX;XDIGI;7;8
+#607;;ZOE
+repairRoad;XDIGI;ZJM;4
+245;ZOE;7;8;CPOZ 
+getRouteDescription;714
+#addRoad;IEJUR;CPOZ;0;-;7 
+#repairRoad;GUX;ZOE;4 
+repairRoad;ZJM;WICZ;8
+555;XDIGI;5;-3;IEJUR
+845;GUX;7;-5;TEK
+58;XDIGI;1;9;YQQ;6;8;IEJUR
+getRouteDescription;777
+getRouteDescription;915
+addRoad;GUX;GUX;0;2
+getRouteDescription;816
+addRoad;XDIGI;WICZ;2;-1
+146;FKX;7;-2;WICZ;0;-7;XDIGI
+repairRoad;IEJUR;IEJUR;9
+getRouteDescription;987
+522;ZOE
+902;WICZ;3;-10;IEJUR;4;5;TEK
+776;ZOE;2;0;CPOZ
+repairRoad;ZOE;XDIGI;-8
+getRouteDescription;815
+repairRoad;GUX;ZJM;4
+; #repairRoad;ZJM;WICZ;-1
+360;IEJUR;7;-4;ZJM
+addRoad;WICZ;FKX;0;9
+getRouteDescription;879
+repairRoad;;XDIGI;ZJM;0
+addRoad;YQQ;TEK;8;9
+repairRoad;ZJM;WICZ;-5
+getRouteDescription;966
+repairRoad;IEJUR;ZJM;4
+addRoad;XDIGI;FKX;8;-6
+addRoad;CPOZ;FKX;5;6
+addRoad;TEK;TEK;4;-9
+393;TEK
+addRoad;GUX;ZJM;3;6 
+repairRoad;GUX;GUX;-7
+repairRoad;ZOE;FKX;8
+getRouteDescription;396
+addRoad;TEK;ZJM;9;-9 
+getRouteDescription;118
+getRouteDescription;836
+repairRoad;XDIGI;YQQ;-3
+repairRoad;FKX;TEK;-7
+ addRoad;CPOZ;TEK;4;4 
+repairRoad;WICZ;WICZ;4
+getRouteDescription;492
+ #addRoad;;XDIGI;CPOZ;6;-8 
+ repairRoad;XDIGI;FKX;7 
+486;ZOE;0;-9;FKX
+ getRo;uteDescription;735 
+repairRoad;XDIGI;FKX;-4
+ad;dRoad;YQQ;IEJUR;9;-5
+addRoad;YQQ;IEJUR;3;-6
+repairRoad;ZJM;YQQ;-2
+getRouteDescription;596
+ repairRoad;ZJM;XDIGI;3 
+addRoad;YQQ;ZOE;3;4
+addRoad;TEK;ZJM;0;-4
+ 0;WICZ;1;0;CPOZ 
+addRoad;YQQ;GUX;6;4
+getRouteDescription;397
+repairRoad;ZOE;TEK;-2
+addRoad;CPOZ;YQQ;7;9
+528;ZJM;5;3;FKX;3;-3;IEJUR
+28;CPOZ
+repairRoad;IEJUR;CPOZ;3
+addRoad;WICZ;ZJM;0;4
+repairRoad;GUX;WICZ;5
+addRoad;FKX;FKX;6;-3
+repairRoad;YQQ;YQQ;4
+ getRouteDescription;359 
+ addRoad;XDIGI;ZJM;0;-5
+190;FKX;6;8;YQQ
+#702;IEJUR;2;9;ZOE;4;6;ZOE
+getRouteDescription;90
+ 38;TEK;4;5;IEJUR
+ #getRouteDescription;3;80 
+522;IEJUR
+#repairRoad;IEJ;UR;IEJUR;-7
+getRouteDescription;691
+repairRoad;XDIGI;IEJUR;-7
+ #repairRo;ad;IEJUR;TEK;-9
+943;YQQ;4;0;CPOZ;2;-1;XDIGI
+repairRoad;XDIGI;WICZ;-8
+699;IEJUR;1;-1;CPOZ;3;-5;ZJM
+ #addRoad;WICZ;;ZJM;8;-4
+#addRoad;IEJUR;ZOE;6;-10 
+repairRoad;FKX;ZJM;4
+ #getRout;eDescription;110 
+360;CPOZ
+getRouteDescription;939
+getRouteDescription;902
+getRouteDescription;299
+getRouteDescription;815
+#getRouteDescription;29 
+repairRoad;YQQ;IEJUR;6
+repairRoad;FKX;YQQ;4
+#9;44;ZJM 
+getRouteDescription;258
+996;TEK
+repairRoad;ZJM;YQQ;-6
+getRouteDescription;856
+repairRoad;CPOZ;YQQ;6
+repairRoad;TEK;YQQ;4
+getRouteDescription;902
+addRoad;XDIGI;GUX;0;4
+809;IEJUR;5;-3;ZOE;4;-4;WICZ
+addRoad;ZJM;WICZ;4;-10
+getRouteDescription;914
+repairRoad;FKX;FKX;7
+68;ZOE;9;8;WICZ
+getRouteDescription;190
+ #repairRo;ad;WICZ;XDIGI;3 
+addRoad;GUX;FKX;5;-3
+addRoad;XDIGI;FKX;0;-10
+addRoad;WICZ;;ZOE;3;5 
+repairRoad;GUX;YQQ;3
+;#249;ZJM;0;9;TEK 
+repairRoad;WICZ;FKX;-1
+repairRoad;ZOE;YQQ;4
+#repairRoad;ZOE;ZJM;7
+getRouteDescription;179 
+30;GUX;4;-3;CPOZ
+addRoad;WICZ;XDIGI;9;7
+getRouteDescription;575
+284;FKX
+827;ZOE;3;6;ZJM
+;#839;WICZ;3;-3;ZOE 
+addRoad;ZOE;XDIGI;3;-3
+996;WICZ;7;-1;IEJUR;0;-2;FKX
+getRouteDescription;776
+ #repai;rRoad;TEK;CPOZ;4 
+addRoad;FKX;ZJM;7;2
+601;TEK 
+950;FKX;7;-5;GUX
+getRouteDescription;915
+ getRouteDescription;118 
+545;YQQ;5;9;ZJM
+addRoad;XDIGI;IEJUR;3;5
+847;CPOZ;4;-10;GUX
+#856;FKX;0;9;WICZ
+addRoad;XDIGI;CPOZ;4;-6
+232;ZOE;0;1;WICZ
+#addRoad;FKX;XDIGI;5;4 
+60;YQQ;7;-5;IEJUR;1;-2;CPOZ
+addRoad;FKX;WICZ;3;-6
+repairRoad;GUX;TEK;2
+438;CPOZ;1;6;XDIGI;8;-4;GUX
+991;YQQ;4;0;CPOZ;8;-5;WICZ
+ #repairRoad;FKX;ZOE;-7
+addRoad;XDIGI;TEK;4;-2
+repairRoad;ZOE;YQQ;-2
+getRouteDescription;58
+getRouteDescription;150
+getRouteDescription;118
+repairRoad;IEJUR;YQQ;-8
+475;YQQ;7;6;GUX
+ #getRo;uteDescription;594
+getRouteDescription;630
+addRoad;IEJUR;CPOZ;9;-2
+getRouteDescription;499
+ #912;TEK;1;5;WICZ;8;8;ZJM 
+ getRouteDescription;915
+#repairRoad;ZJM;FKX;;5 
+addRoad;GUX;XDIGI;2;-7
+repairRoad;CPOZ;TEK;-1 
+repairRoad;ZJM;GUX;-1
+#136;CPOZ 
+addRoad;WICZ;FKX;6;9
+737;ZJM;6;2;GUX
+addRoad;IEJUR;TEK;0;4
+170;FKX;1;8;TEK;1;5;WICZ
+#get;RouteDescription;944
+repairRoad;WICZ;GUX;5
+repairRoad;CPOZ;WICZ;-2
+305;IEJUR
+getRouteDescription;100
+addRoad;ZJM;ZJM;9;-2
+repairRoad;YQQ;WICZ;-6
+920;TEK;4;-9;XDIGI
+#addRoad;XDIGI;F;KX;0;-7 
+getRouteDescription;29
+getRouteDescription;380
+repairRoad;TEK;WICZ;-10
+addRoad;YQQ;IEJUR;8;0
+addRoad;CPOZ;FKX;4;-9
+; #getRouteDescription;891 
+695;GUX
+305;YQQ
+381;XDIGI;4;8;FKX
+ addRoad;ZJM;ZJM;5;-7 
+addRoad;ZJM;TEK;2;-2
+311;IEJUR;3;7;TEK
+405;IEJUR;0;9;ZOE
+addRoad;GUX;WICZ;3;6
+832;ZJM
+addRoad;FKX;WICZ;0;0
+ getRouteDescription;305
+repairRoad;TEK;IEJUR;-4
+repairRoad;YQQ;CPOZ;;5 
+repairRoad;YQQ;WICZ;8
+getRouteDescription;698 
+ #addRoad;ZOE;IEJUR;4;-4 
+957;WICZ;2;5;GUX;9;9;IEJUR
+getRouteDescription;263
+addRoad;CPOZ;GUX;2;-8
+getRouteDescription;843
+162;TEK;9;-10;XDIGI
+repairRoad;TEK;YQQ;8
+repairRoad;XDIGI;YQQ;4
+ #addRoad;CPOZ;ZOE;0;-2; 
+827;ZJM;2;7;TEK
+repairRoad;XDIGI;TEK;4
+addRoad;ZJM;TEK;6;8
+repairRoad;FKX;YQQ;-7
+addRoad;CPOZ;ZJM;3;-3
+getRouteDescription;702
+addRoad;CPOZ;CPOZ;2;-3
+repairRoad;GUX;CPOZ;-7
+addRoad;XDIGI;CPOZ;1;-1
+repairRoad;WICZ;WICZ;-3
+ #addRoad;GUX;YQQ;7;0
+ #repairR;oad;FKX;ZJM;5
+996;ZJM;6;-1;WICZ
+ #re;pairRoad;FKX;WICZ;1 
+getRouteDescription;851
+getRouteDescription;222
+addRoad;TEK;FKX;5;6
+ addRoad;;CPOZ;IEJUR;4;8
+repairRoad;GUX;YQQ;2
+repairRoad;ZOE;YQQ;-5
+ #addRoad;FKX;F;KX;1;8
+addRoad;ZOE;FKX;0;-9
+ #930;;WICZ 
+repairRoad;FKX;YQQ;3
+repairRoad;FKX;FKX;-8
+#265;IEJUR;8;-5;;ZOE;1;2;CPOZ 
+addRoad;CPOZ;XDIGI;2;-5
+addRoad;YQQ;ZJM;8;;-9 
+935;GUX;5;-3;GUX;6;3;ZJM
+repairRoad;TEK;YQQ;0
+329;YQQ
+#add;Road;TEK;GUX;5;-3 
+getRouteDescription;368
+getRouteDescription;588 
+getRouteDescription;58
+repairRoad;IEJUR;GUX;4
+repairRoad;XDIGI;YQQ;3
+#addRoad;TE;K;WICZ;0;-8
+361;IEJUR
+ #getRouteDescription;317 
+addRoad;YQQ;CPOZ;1;-8
+repairRoad;XDIGI;ZJM;5
+addRoad;ZJM;CPOZ;2;2
+repairRoad;ZOE;GUX;-3
+#;repairRoad;FKX;GUX;3
+getRouteDescription;3
+repairRoad;IEJUR;GUX;1
+addRoad;YQQ;ZJM;0;-6
+repairRoad;XDIGI;GUX;1
+repairRoad;IEJUR;YQQ;8
+repairRoad;YQQ;ZOE;1
+691;XDIGI;3;-10;WICZ;5;9;TEK
+733;WICZ;8;8;ZJM;2;7;CPOZ
+addRoad;TEK;TEK;8;-4
+ #3;YQ;Q
+repairRoad;CPOZ;ZOE;7
+addRoad;CPOZ;YQQ;4;-3
+repairRoad;CPOZ;XDIGI;2
+repairRoad;WICZ;ZJM;5
+getRouteDescription;610
+getRouteDescription;815
+164;GUX;8;-9;IEJUR
+851;WIC;Z;6;-9;IEJUR 
+getRouteDescription;733
+repairRoad;TEK;ZJM;-9
+repairRoad;TEK;ZJM;7
+875;ZJM;5;9;YQQ
+561;GUX
+855;WICZ
+repairRoad;ZOE;ZJM;-4
+addRoad;TEK;ZOE;5;1
+getRouteDescription;305
+repairRoad;ZOE;IEJUR;-4
+addRoad;ZOE;XDIGI;5;1
+ addRoad;ZOE;IEJUR;7;-7
+repairRoad;ZOE;ZJM;-6
+ repairRoad;GUX;ZJM;-6 
+getRouteDescri;ption;56
+addRoad;XDIGI;FKX;5;-7
+getRouteDescription;957
+repairRoad;GUX;YQQ;8
+addRoad;YQQ;WICZ;3;5
+607;ZOE;3;6;ZJM;4;8;GUX
+getRouteDescription;843
+125;ZOE
+repairRoad;ZOE;XDIGI;-5
+addRoad;CPOZ;ZJM;8;1
+0;YQQ;8;-9;GUX
+741;WICZ;8;8;ZJM;3;6;ZOE
+493;CPOZ;9;4;TEK
+addRoad;CPOZ;ZJM;2;9
+addRoad;XDIGI;XDIGI;3;7
+getRouteDescription;242
+addRoad;GUX;ZOE;3;6
+#addRoad;Y;QQ;WICZ;4;6 
+997;TEK
+getRouteDescription;38
+138;FKX;2;-5;FKX
+ #addRoad;XDIGI;WICZ;2;-4
+ #15;ZOE;2;7;ZOE
+907;IEJUR;2;-6;GUX;4;5;YQQ
+691;ZOE;7;2;IEJUR;2;-6;CPOZ
+getRouteDescription;902
+436;CPOZ
+ repairRoad;XDIGI;YQQ;9 
+repairRoad;YQQ;WICZ;3
+#addRoad;XDIGI;I;EJUR;5;4 
+ getRou;teDescription;555
+ ;repairRoad;WICZ;WICZ;-4
+addRoad;XDIGI;GUX;1;-7
+repairRoad;IEJUR;IEJUR;6
+addRoad;ZJM;YQQ;8;-10
+130;ZJM
+25;ZOE;1;8;FKX;6;-9;IEJUR
+getRouteDescription;472
+addRoad;FKX;GUX;8;7
+14;ZOE;9;5;XDIGI;7;2;ZOE
+repairRoad;GUX;YQQ;-1
+repairRoad;CPOZ;FKX;-10
+repairRoad;FKX;IEJUR;8
+getRouteDescription;100
+addRoad;WICZ;XDIGI;9;2
+ addRoad;TEK;WICZ;2;-10 
+addRoad;WICZ;CPOZ;3;-9
+0;ZOE;3;-3;IEJUR
+repairRoad;GUX;CPOZ;0
+514;XDIGI;9;9;TEK;7;-2;TEK
+addRoad;IEJUR;ZJM;8;5
+856;ZJM;6;2;FKX;6;0;FKX
+ repairRoad;GUX;YQQ;;1 
+944;YQQ;0;7;ZOE
+repairRoad;TEK;WICZ;9
+addRoad;XDIGI;IEJUR;3;-6
+getRouteDescription;446
+addRoad;IEJUR;GUX;6;-10
+addRoad;WICZ;ZJM;8;-7
+getRouteDescription;380
+572;WICZ;4;-5;GUX;6;1;WICZ
+repairRoad;ZOE;GUX;-2
+getRouteDescription;843
+getRouteDescription;607
+addRoad;TEK;XDIG;I;3;1
+addRoad;YQQ;ZOE;5;2
+ #ge;tRouteDescription;397 
+getRouteDescription;915
+631;YQQ;0;-1;FKX
+399;CPOZ;4;0;ZJM
+repairRoad;CPOZ;WICZ;-10
+ #addRoad;TEK;FKX;2;-2 
+492;TEK
+addRoad;ZJM;ZOE;4;-10
+getRouteDescription;460
+ #getRouteDescription;317 
+addRoad;IEJUR;IEJUR;3;-5
+repairRoad;TEK;XDIG;I;-3 
+repairRoad;TEK;TEK;-1
+803;CPOZ
+addRoad;GUX;CPOZ;0;-1
+getRouteDescription;845
+ addRoad;XDIGI;ZJM;2;2 
+repairRoad;IEJUR;YQQ;8
+addRoad;TEK;FKX;0;1
+ add;Road;TEK;TEK;4;-4 
+getRouteDescription;815
+779;GUX;2;-9;GUX
+968;FKX
+addRoad;GUX;ZJM;2;1
+repairRoad;ZOE;YQQ;-10
+512;XDIGI
+ #g;etRouteDescription;170 
+583;TEK;1;9;WICZ;8;8;YQQ
+repairRoad;YQQ;YQQ;-6
+addRoad;CPOZ;IEJUR;3;5
+#repairRoad;FKX;FKX;-9
+#954;TEK 
+addRoad;ZJM;XDIGI;8;-8
+repairRoad;ZJM;YQQ;0
+repairRoad;TEK;ZJM;0
+getRouteDes;cription;827
+#addRoad;FKX;IEJUR;2;3
+ addRoad;XDIGI;WICZ;1;-2
+ getRouteDescription;541
+getRouteDescription;499
+repairRoad;ZOE;XDIGI;-6
+getRouteDescription;915
+602;ZJM;7;4;IEJUR;3;7;TEK
+addRoad;TEK;YQQ;4;2
+getRouteDescription;714
+957;WICZ;9;2;ZOE;5;-5;WICZ
+ repairRoad;IEJUR;IEJU;R;-1
+repairRoad;ZOE;IEJUR;6
+#816;FKX;;8;-5;XDIGI;8;5;WICZ 
+repairRoad;IEJUR;CPOZ;-7
+ #getRouteDescription;631 
+repairRoad;FKX;CPOZ;8
+#addRoad;TEK;ZOE;9;-5
+addRoad;CPOZ;CPOZ;0;-1
+getRouteDescription;170
+addRoad;ZOE;GUX;1;9
+299;FKX
+repairRoad;FKX;WICZ;-8
+ #repairRoad;ZOE;YQQ;1
+repairRoad;WICZ;XDIGI;7
+addRoad;CPOZ;YQQ;6;-5
+repairRoad;GUX;IEJUR;5
+repairRoad;YQQ;ZJM;9
+#getRouteDescription;845 
+repairRoad;TEK;FKX;-1
+187;XDIGI;1;-3;TEK
+getRouteDescription;856
+ #repairRoad;TEK;GUX;;5 
+addRoad;IEJUR;CPOZ;6;-4
+776;CPOZ;3;-5;FKX
+ #repairRoad;YQQ;ZJM;9 
+addRoad;CPOZ;TEK;6;9
+addRoad;YQQ;TEK;5;8
+repair;Road;XDIGI;CPOZ;-2 
+343;FKX
+getRouteDescription;956
+getRouteDescription;58
+597;GUX
+736;CPOZ
+479;CPOZ
+ #add;Road;ZJM;XDIGI;2;-8 
+getRouteDescription;989
+getRouteDescription;38
+getRouteDescription;422
+528;IEJUR;8;6;YQQ;6;-10;WICZ 
+addRoad;CPOZ;CPOZ;7;-7
+ repairRoad;ZJM;Z;JM;1
+getRouteDescription;604
+ repairRoad;ZOE;YQQ;8
+661;IEJUR
+277;CPOZ
+ r;epairRoad;YQQ;CPOZ;-1
+addRoad;W;ICZ;YQQ;8;-6 
+getRouteDescription;38
+#;107;ZJM
+repairRoad;ZJM;WICZ;9
+961;WICZ;6;-7;FKX;8;5;FKX
+addRoad;GUX;ZOE;;0;7
+repairRoad;ZOE;FKX;-10
+repairRoad;FKX;YQQ;-4
+640;CPOZ;6;0;;ZJM 
+addRoad;YQQ;YQQ;0;-8
+addRoad;YQQ;GUX;9;-3
+addRoad;ZOE;FKX;3;9
+repairRoad;GUX;YQQ;8
+ #repairRoad;ZJM;TEK;3 
+repairRoad;TEK;CPOZ;-3
+addRoad;YQQ;XDIGI;6;9
+290;GUX;;8;4;FKX
+ #repairRoad;ZO;E;XDIGI;5 
+#24;8;TEK 
+addRoad;CPOZ;ZJM;9;1
+getRouteDescription;674
+#getRouteDescription;627 
+getRouteDescription;630
+ getRouteDe;scription;702 
+992;TEK;3;3;XDIGI;3;9;TEK
+755;CPOZ;5;4;XDIGI;5;1;FKX
+476;TEK;9;4;CPOZ
+getRouteDescription;792
+442;WICZ;4;-4;XDIGI;6;1;XDIGI
+440;XDIGI;6;-2;FKX
+addRoad;YQQ;WICZ;1;6
+addRoad;CPOZ;XDIGI;0;2
+repairRoad;FKX;ZOE;-3
+repairRoad;ZOE;XDIGI;-2
+getRouteDescription;520
+repairRoad;GUX;GUX;4
+getRouteDescription;545
+addRoad;XDIGI;TEK;1;-8
+repairRoad;TEK;ZJM;8
+#addRoad;FKX;IEJUR;;3;8
+repairRoad;ZOE;CPOZ;-4
+#addRoad;FKX;ZJM;6;-3 
+453;XDIGI
+getRouteDescription;299
+getRouteDescription;;604
+repairRoad;YQQ;WICZ;-5
+addRoad;ZJM;CPOZ;4;9
+repairRoad;YQQ;CPOZ;-10
+372;WICZ
+repairRoad;CPOZ;ZOE;2
+addRoad;CPOZ;WICZ;2;5
+repairRoad;IEJUR;GUX;4
+909;IEJUR
+108;IEJUR
+#repairRoad;TEK;;YQQ;4 
+getRouteDescriptio;n;714 
+repairRoad;XDIGI;IEJUR;-9
+704;WICZ;3;2;WICZ;2;3;XDIGI
+addRoad;ZJM;TEK;1;-6
+getRouteDescription;902
+repairRoad;GUX;WICZ;7
+repairRoad;CPOZ;WICZ;-5
+#repairRoad;Z;JM;FKX;0
+addRoad;FKX;YQQ;2;2
+getRouteDescription;875
+addRoad;ZOE;TEK;9;-2
+repairRoad;ZOE;XDIGI;-3
+repairRoad;IEJUR;ZOE;-7
+getRouteDescription;495
+#0;;FKX;6;4;WICZ 
+addRoad;CPOZ;XDIGI;8;-1
+#repairRoad;TEK;GUX;-2 
+addRoad;YQQ;ZOE;5;9
+getRouteDe;scription;996
+repairRoad;ZJM;WICZ;-8
+ addRoad;;TEK;FKX;0;3 
+382;IEJUR;9;-6;FKX;9;9;YQQ
+repairRoad;IEJUR;YQQ;-10
+repairRoad;ZJM;ZOE;9
+#g;etRouteDescription;263
+repairRoad;ZOE;CPOZ;9
+660;IEJUR;1;7;IEJUR
+702;CPOZ;8;8;YQQ
+ #11;5;ZOE;7;-10;WICZ 
+0;CPOZ
+319;WICZ
+894;CPOZ
+repairRoad;XDIGI;TEK;-3
+repairRoad;YQQ;FKX;-1
+ addRoad;FKX;CPOZ;6;7
+ #30;5;GUX 
+; getRouteDescription;283
+addRoad;YQQ;FKX;6;-9
+getRouteDescription;755
+getRouteDescription;875
+getRouteDescription;836
+469;IEJUR;7;8;ZJM
+#ge;tRouteDescription;504 
+getRouteDescription;476
+addRoad;XDIGI;XDIGI;6;9
+addRoad;IEJUR;YQQ;7;-10
+repairRoad;GUX;ZJM;-2
+repairRoad;IEJUR;IEJUR;-5
+getRouteDescription;403
+repairRoad;XDIGI;GUX;9
+ repairRoad;TEK;IEJUR;-9 
+getRouteDescriptio;n;246
+addRoad;WICZ;ZJM;3;7
+getRouteDescription;568
+addRoad;YQQ;WICZ;9;-1
+addRoad;TEK;XDIGI;9;5 
+906;XDIGI;4;-3;IEJUR;5;6;WICZ 
+225;IEJUR;1;4;GUX;6;4;IEJUR
+repairRoad;XDIGI;FKX;0
+getRouteDe;scription;602
+0;TEK;1;2;GUX
+506;FKX;7;8;IEJUR
+repairRoad;XDIGI;IEJUR;7
+repairRoad;ZJM;YQQ;-8
+299;IEJUR;7;2;XDIGI
+ #repairRoad;XDIGI;ZJM;4
+addRoad;YQQ;YQQ;8;-10
+#getRouteDescription;596
+addRoad;ZOE;FKX;2;-4
+434;XDIGI;8;-2;TEK;6;-8;YQQ
+getRouteDescription;815
+646;FKX 
+getRouteDescription;856
+repair;Road;WICZ;XDIGI;-6 
+54;TEK;4;0;TEK;4;0;TEK
+addRoad;ZJM;IEJUR;1;2
+getRouteDescription;604
+ ad;dRoad;WICZ;CPOZ;3;-2
+871;ZOE;7;9;CPOZ
+repairRoad;FKX;CPOZ;4
+#getRouteDescription;832 
+3;XDIGI;0;2;WICZ 
+repairRoad;WICZ;FKX;-2
+addRoad;GUX;FKX;7;-5
+addRoad;IEJUR;ZOE;8;9
+631;GUX;1;8;YQQ
+290;WICZ;7;3;FKX
+getRouteDescription;18
+444;YQQ;6;8;FKX
+addRoad;FKX;WICZ;7;1
+getRouteDescription;607
+908;WICZ;8;9;ZJM
+getRouteDescription;845
+addRoad;YQQ;YQQ;9;-7
+addRoad;ZOE;GUX;2;-6
+repairRoad;GUX;TEK;4
+ #repairRoad;TEK;XDIGI;5 
+addRoad;ZOE;FKX;5;-4
+getRouteDescription;692
+repairRoad;IEJUR;ZJM;-3
+getRouteDescription;317
+repairRoad;XDIGI;WICZ;-5
+repairRoad;GUX;ZOE;-5
+ #128;ZOE;1;2;T;EK
+ #addRoad;XDIGI;ZJM;1;;-4 
+addRoad;FKX;XDIGI;6;-5
+ repair;Road;ZJM;CPOZ;8 
+getRouteDescription;245
+397;ZJM
+repairRoad;WICZ;WICZ;5
+714;IEJUR
+repairRoad;ZOE;XDIGI;-8
+933;CPOZ;3;-2;XDIGI;0;8;TEK
+ g;etRouteDescription;741 
+143;GUX;2;-6;WICZ
+getRouteDescription;397
+ getRouteDescription;;575 
+748;FKX;2;8;ZJM;7;8;IEJUR
+#addRoad;YQQ;WICZ;0;-10
+repairRoad;IEJUR;TEK;2
+addRoad;XDIGI;ZJM;4;-7
+addRoad;IEJUR;YQQ;9;5
+repairRoad;GUX;ZJM;-8
+ addRoad;ZOE;GU;X;2;-1
+getRouteDescription;733
+getRouteDescription;740
+addRoad;YQQ;ZJM;6;7
+getRouteDescription;50
+ #417;YQQ;0;9;GUX;2;-7;ZOE 
+repairRoad;XDIGI;ZJM;-8
+repairRoad;WICZ;IEJ;UR;6 
+getRouteDescription;464
+770;IEJUR;9;5;GUX;3;8;YQQ
+ 38;ZOE;;0;9;GUX
+addRoad;XDIGI;IEJUR;6;-8
+481;GUX;2;-5;GUX
+ #repairRoad;CPOZ;WICZ;-3 
+repairRoad;IEJUR;WICZ;1
+getRouteDescription;596
+getRouteDescript;ion;368
+getRouteDescription;721 
+repairRoad;GUX;ZJM;1
+ 23;YQQ;3;2;WICZ 
+repairRoad;WICZ;IEJUR;-8
+repairRoad;WICZ;WICZ;-8
+addRoad;ZOE;WICZ;8;8
+ repairRoad;GUX;TEK;9 
+ addRoad;FKX;IEJUR;;7;-3
+getRouteDescription;469
+addRoad;WICZ;GUX;9;-3
+696;GUX;4;9;YQQ;5;9;ZOE
+ repairRoad;XDIGI;CPOZ;8
+addRoad;WICZ;GUX;6;2
+addRoad;IEJUR;TEK;1;3
+repairRoad;ZOE;TEK;-3
+getRouteDescription;170
+#255;IEJUR;3;7;TEK
+getRouteDescription;;311 
+repairRoad;IEJUR;CPOZ;0
+ 230;WICZ
+addRoad;IEJUR;IEJUR;6;;-3
+#getRoute;Description;3
+addRoad;YQQ;TEK;2;-5
+repairRoad;IEJUR;TEK;6
+525;ZOE;8;0;CPOZ;8;-6;ZJM
+repairRoad;FKX;XDIGI;-7
+repairRoad;CPOZ;WICZ;7
+ #addRoad;GUX;ZJM;2;1 
+repairRoad;XDIGI;IEJUR;-5
+getRouteDescription;251
+748;WICZ
+getRouteDescription;875
+repairRoad;IEJUR;WICZ;5
+addRoad;CPOZ;ZOE;6;-5
+getRouteDescription;170
+696;TEK
+repairRoad;GUX;CPOZ;4
+#get;RouteDescription;702 
+getRouteDescription;646
+getRouteDescription;50
+addRoad;ZJM;ZJM;2;-3
+getRouteDescription;834
+getRouteDescription;996
+repairRoad;ZOE;ZOE;2 
+ ad;dRoad;ZJM;YQQ;6;4 
+586;FKX
+655;GUX
+getRouteDescription;118
+getRouteDescription;239
+394;IEJUR;4;5;WICZ
+ #repairRoad;;WICZ;YQQ;-8 
+292;TEK;1;4;GUX;7;-5;TEK
+366;TEK;0;4;WICZ
+getRouteDescription;646
+ #getRouteDe;scription;602 
+ repairRoad;ZJM;;ZOE;-3 
+getRouteDescription;463
+repairRoad;ZOE;XDIGI;-7
+getRouteDescription;939
+#repairRoad;GUX;WICZ;-10
+repairRoad;TEK;FKX;3
+ 626;;FKX;6;8;YQQ
+getRouteDescription;815
+getRouteDescription;902
+repairRoad;CPOZ;WICZ;6
+repairRoad;WICZ;TEK;9
+getRouteDescription;311
+repairRoad;XDIGI;ZJM;-5
+repairRoad;WICZ;CPOZ;-3
+repairRoad;FKX;WICZ;0
+; #380;WICZ;0;1;IEJUR 
+getRouteDescription;122
+752;XDIGI
+repairRoad;XDIGI;TEK;-1
+repairRoad;ZOE;FKX;3
+addRoad;XDIGI;GUX;6;3
+addRoad;TEK;CPOZ;9;-9
+addRoad;ZJM;CPOZ;4;-2
+556;TEK;3;8;YQQ
+188;YQQ
+addRoad;TEK;YQQ;3;-10
+getRouteDescription;149
+ #repair;Road;TEK;CPOZ;-1
+281;ZOE
+getRouteDescription;380
+addRoad;ZJM;CPOZ;7;-5
+getRouteDescription;908
+getRouteDescription;476
+ ge;tRouteDescription;545
+addRoad;ZJM;CPOZ;1;-4
+addRoad;ZJM;ZOE;6;-7
+getRouteDescription;583
+getRouteDescription;939
+ getRouteDescription;166
+465;ZOE;9;-3;XDIGI;1;-7;TEK
+getRouteDescription;149
+#325;YQQ;0;-10;CPOZ;9;-9;ZJM
+addRoad;TEK;TEK;5;9
+getRouteDescription;424
+#addRoad;ZOE;ZJM;0;8 
+#addRoad;YQQ;XDIGI;3;-5
+addRoad;XDIGI;GU;X;6;-5
+repairRoad;GUX;TEK;-6
+730;FKX;2;8;ZJM;4;8;GUX
+repairRoad;YQQ;FKX;3 
+#get;RouteDescription;29 
+getRouteDescription;702
+528;ZOE;8;-6;TEK
+ #574;ZJM;7;9;ZOE;9;3;ZOE
+addRoad;GUX;FKX;4;-8
+871;FKX
+getRouteDescription;222
+repairRoad;GUX;XDIGI;-4
+871;CP;OZ;1;0;GUX 
+610;ZOE;8;3;FKX
+addRoad;XDIGI;FKX;4;8
+addRoad;TEK;TEK;5;3
+repairRoad;FKX;GUX;-3
+ #getRouteDescription;;575
+741;ZJM
+addRoad;TEK;YQQ;9;-3
+ #addRoad;XDIGI;WICZ;6;8 
+ #addRoad;IEJUR;IEJUR;;9;8
+458;YQQ;3;0;XDIGI
+getRouteDescription;122
+ #repairRoad;ZOE;FKX;-10 
+addRoad;XDIGI;ZOE;5;9
+getRouteDescription;147
+getRouteDescription;58
+12;TEK;0;1;WICZ;7;1;TEK
+636;FKX;7;1;CPOZ
+repairRoad;XDIGI;FKX;-6
+addRoad;WICZ;YQQ;0;-7
+repairRoad;TEK;XDIGI;-2
+getRouteDescription;397
+getRouteDescription;493
+ #rep;airRoad;TEK;IEJUR;-3 
+repairRoad;IEJUR;ZJM;-9
+590;FKX
+ #addRoad;XDIGI;FKX;2;1 
+repairRoad;XDIGI;TEK;6
+#rep;airRoad;FKX;TEK;8
+#repairRoad;TEK;CPOZ;1
+;#addRoad;XDIGI;ZOE;6;7
+addRoad;WICZ;FKX;3;-3
+addRoad;FKX;FKX;8;-3
+repairRoad;GUX;ZJM;-8
+addRoad;XDIGI;XDIGI;3;-10
+#addRoad;IE;JUR;ZOE;7;0 
+repairRoad;GUX;TEK;4
+getRouteDescription;748
+addRoad;GUX;ZOE;6;8
+getRouteDescription;499
+129;ZJM;1;0;YQQ
+ repairRoad;GUX;TEK;-10
+getRouteDescription;394
+getRouteDescription;38
+addRoad;ZJM;TEK;0;1
+428;CPOZ;5;7;ZOE;2;-8;TEK
+getRouteDescription;879
+#repairRoad;IEJ;UR;CPOZ;0
+addRoad;ZOE;XDIGI;7;8
+ #getRouteDescription;380
+addRoad;TEK;GUX;0;0
+ addRoad;FKX;WICZ;8;7 
+repairRoad;ZOE;ZJM;3
+getRouteDescription;423
+659;WICZ;1;1;WICZ
+addRoad;YQQ;WICZ;6;-4
+648;IEJUR
+addRoad;TEK;GUX;8;4
+repairRoad;IEJUR;GUX;6
+repairRoad;WICZ;WICZ;0
+a;ddRoad;CPOZ;CPOZ;6;-7
+repairRoad;GUX;YQQ;-5
+601;XDIGI;6;9;ZJM;5;-2;ZOE
+ 297;XDIGI;0;-3;YQQ
+getRouteDescription;831
+getRouteDescription;879
+ 119;YQQ;4;-1;YQQ 
+894;CPOZ;3;9;GUX;4;9;ZJM
+499;ZJM;8;-8;ZOE
+addRoad;FKX;TEK;9;7
+646;GUX;1;-8;FKX
+addRoad;CPOZ;GUX;9;0
+ #9;64;YQQ;9;-3;ZOE;0;6;TEK
+32;TEK
+repairRoad;CPOZ;WICZ;6
+ #getRouteDescription;843 
+addRoad;ZJM;ZOE;9;-5
+repairRoad;GUX;WICZ;2
+getRouteDescription;572
+#607;CPOZ;0;0;CPOZ 
+getRouteDescription;815
+addRoad;WICZ;ZOE;6;7
+addRoad;YQQ;ZOE;6;5
+repairRoad;YQQ;FKX;6
+846;CPOZ;1;2;WICZ;5;-10;TEK
+addRoad;ZOE;ZOE;7;-5
+getRouteDescription;586
+getRouteDescription;255
+addRoad;ZOE;IEJUR;7;-7
+addRoad;TEK;XDIGI;0;-5
+getRouteDescription;750
+596;ZOE
+repairRoad;GUX;YQQ;1
+ repairRoad;ZOE;TEK;8
+getRouteDescription;705
+269;GUX
+ repairRoad;IEJUR;ZJM;-3
+getRouteDescription;637
+repairRoad;IEJUR;WICZ;8
+ 510;ZOE;8;;-1;YQQ 
+addRoad;IEJUR;ZOE;9;-6
+699;GUX;8;4;FKX
+ getRouteDescri;ption;972 
+getRou;teDescription;702 
+ #repairRoad;XDIGI;YQ;Q;8 
+repairRoad;ZOE;WICZ;-8
+getRouteDescription;368
+ #repairRoad;YQQ;YQQ;-8
+addRoad;YQQ;WICZ;1;-1
+330;ZJM;8;9;WICZ;9;8;ZOE
+604;IEJUR
+ addRoad;TEK;FKX;5;-1 
+985;GUX;4;-7;ZJM
+addRoad;YQQ;TEK;3;-1
+addRoad;ZJM;YQQ;5;2
+0;TEK
+addRoad;TEK;YQQ;1;-8
+addRoad;WICZ;YQQ;6;1
+addRoad;ZJM;IEJUR;9;-1
+repairRoad;YQQ;WICZ;3
+addRoad;YQQ;TEK;3;6
+getRouteDescription;915
+#973;GUX;8;;3;TEK
+getRouteDescription;851
+addRoad;ZOE;FKX;8;-6
+addRoad;IEJUR;FKX;4;-3
+getRouteDescription;49
+getRouteDescription;149
+repairRoad;ZJM;FKX;-8
+addRoad;TEK;YQQ;5;4
+repairRoad;FKX;YQQ;-8
+getRouteDescription;305
+309;XDIGI;3;-3;WICZ;2;-1;XDIGI
+addRoad;ZOE;WICZ;9;-8
+ #983;CPO;Z;5;-9;FKX 
+815;IEJUR;9;-3;CPOZ;0;-7;ZOE
+addRoad;XDIGI;FKX;8;-8
+335;ZJM
+getRouteDescription;691
+getRouteDescription;65
+#getRouteDescription;;394
+addRoad;CPOZ;CPOZ;3;-5
+ 343;ZJM;3;-8;WICZ;0;-4;FKX
+13;CPOZ;;5;-6;IEJUR;7;-10;IEJUR
+getRouteDescription;337
+addRoad;GUX;YQQ;0;0
+repairRoad;TEK;WICZ;-9
+305;WICZ
+getRouteDescription;626
+repairRoad;XDIGI;TEK;6
+#getRouteDescription;9;81
+repairRoad;CPOZ;GUX;-8
+addRoad;TEK;YQQ;9;-1
+addRoad;FKX;FKX;2;5
+491;YQQ;8;8;WICZ
+repairRoad;TEK;CPOZ;-4
+0;GUX;7;-9;TEK;0;2;YQQ
+addRoad;ZOE;XDIGI;3;-1
+addRoad;TEK;YQQ;7;3
+ ;#getRouteDescription;795 
+#ad;dRoad;GUX;XDIGI;2;6
+repairRoad;ZOE;WICZ;-3
+ #addRoad;WICZ;XDIGI;0;-8
+ #addRoad;IEJUR;ZJM;3;0 
+ 82;XDIGI;1;-4;ZJM 
+addRoad;YQQ;GUX;4;4
+ #731;CPOZ;4;8;FKX;2;-1;GUX
+929;WICZ;0;-5;CPOZ
+getRouteDescription;469
+getRouteDescription;900
+#getRouteDescription;998
+#getRouteDescription;122 
+ #317;YQQ;2;-5;IEJUR;;8;2;TEK 
+repairRoad;CPOZ;WICZ;-3
+555;IEJUR;9;-7;ZJM;6;8;ZOE
+repairRoad;IEJUR;TEK;-10
+ addRoad;GUX;GUX;2;-9
+repairRoad;TEK;WICZ;-5
+addRoad;IEJUR;YQQ;6;-7
+addRoad;FKX;ZJM;9;-10
+repairRoad;TEK;CPOZ;7
+528;XDIGI
+856;IEJUR;7;-9;TEK
+16;IEJUR;4;8;XDIGI;0;-2;XDIGI
+360;ZOE;5;-9;WICZ;7;1;YQQ
+getRouteDescription;263
+repairRoad;TEK;WICZ;3
+addRoad;IEJUR;FKX;1;2
+addRoad;TEK;ZJM;5;-10
+#getRouteDescription;469
+getRouteDescription;507
+repairRoad;ZOE;TEK;5
+getRouteDescription;691
+getRouteDescription;912
+addRoad;TEK;WICZ;3;8
+572;TEK
+ #getRouteDescription;;255
+787;CPOZ
+60;TEK
+ ge;tRouteDescription;410
+511;ZOE;0;-3;YQQ
+972;FKX
+;addRoad;TEK;ZOE;5;-1 
+getRouteDescription;377
+572;IEJUR;1;0;GUX;7;8;FKX
+repairRoad;GUX;TEK;-5
+getRouteDescription;730
+#repairRoad;;ZOE;WICZ;-6 
+491;TEK;3;4;FKX
+getRouteDescription;556
+repairRoad;ZOE;YQQ;-1
+ #0;WICZ;2;8;FKX
+873;YQQ
+addRoad;XDIGI;WICZ;8;4
+ getRouteDescription;757
+addRoad;WICZ;ZOE;4;-7
+987;CPOZ;8;-10;ZJM;3;8;FKX
+329;CPOZ 
+580;GUX;5;9;ZOE
+#955;XDIGI;2;0;Z;OE 
+ 402;XDIGI 
+getRouteDescription;408
+repairRoad;ZJM;GUX;8
+repa;irRoad;GUX;WICZ;1
+getRouteDescription;71
+addRoad;CPOZ;IEJUR;0;-4
+819;IEJUR;7;8;ZJM;2;9;XDIGI
+getRouteDescription;908
+838;FKX;4;8;WICZ;1;9;TEK
+repairRoad;FKX;GUX;-6
+getRouteDescription;38
+getRouteDescription;251
+433;TEK
+#483;XDIGI
+addRoad;GUX;GUX;0;-3
+addRoad;WICZ;XDIGI;2;9
+getRouteDescription;915
+#repairRoad;ZOE;WICZ;-6 
+444;ZJM;2;-10;YQQ;8;-10;IEJUR
+addRoad;XDIGI;GUX;1;6
+getRouteDescription;776
+addRoad;ZJM;FKX;6;-7
+526;XDIGI
+969;GUX;1;9;YQQ;6;8;FKX
+ 965;YQQ;9;-5;ZJM;4;-;9;YQQ
+#getRouteDescription;580 
+repairRoad;WICZ;ZOE;-7
+addRoad;CPOZ;ZJM;9;-2
+getRouteDescription;879 
+getRouteDescription;733
+#getRouteDescription;939
+505;ZOE;0;1;ZOE;0;9;WICZ
+getRouteDescription;310 
+406;ZJM
+ #getRouteDescription;491
+repairRoad;ZJM;GUX;-9
+repairRoad;GUX;TEK;5
+888;CPOZ;;3;-6;GUX;0;8;IEJUR 
+addRoad;XDIGI;YQQ;1;-10
+addRoad;ZJM;WICZ;9;-1 
+80;WICZ;3;6;TEK
+repairRoad;FKX;IEJUR;-1
+addRoad;IEJUR;FKX;0;7
+getRouteDescription;575
+addRoad;CPOZ;IEJUR;3;4
+getRouteDescription;499
+getRouteDescription;838 
+repairRoad;ZOE;XDIGI;5
+456;CPOZ
+ getRouteDescri;ption;850 
+repairRoad;TEK;GUX;5
+getRouteDescription;122
+31;XDIGI
+repairRoad;CPOZ;XDIGI;-4
+ repairRoad;GUX;Z;OE;0
+repairRoad;GUX;ZJM;-1
+getRouteDescription;311
+repairRoad;CPOZ;WICZ;-7
+691;WICZ;0;-5;WICZ;3;5;FKX
+addRoad;WICZ;CPOZ;6;8
+ #addRoad;XDIGI;ZOE;6;-7 
+repairRoad;WICZ;XDIGI;-8 
+681;XDIGI;2;3;FKX;9;-4;YQQ
+addRoad;ZOE;YQQ;0;-8
+ #getRouteDescription;702 
+getRouteDescription;815
+repairRoad;FKX;GUX;7
+addRoad;WICZ;XDIGI;9;3
+getRouteDescription;50
+getRouteDescription;996
+ #get;RouteDescription;375 
+getRouteDescription;853
+addRoad;CPOZ;GUX;7;4
+255;GUX;4;-7;ZOE;2;2;ZOE
+ #addRoad;ZOE;XDI;GI;6;-3
+repairRoad;GUX;CPOZ;-8
+addRoad;ZOE;XDIGI;2;-7
+addRoad;YQQ;TEK;7;6
+ addRoad;;ZOE;IEJUR;7;-6
+775;WICZ
+979;GUX;7;-1;WICZ;1;6;GUX
+getRouteDescription;933
+getRouteDescription;715
+930;CPOZ;2;9;WICZ
+repairRoad;WICZ;WICZ;6
+106;YQQ;6;8;IEJUR
+getRouteDescription;360
+ repairRoad;IEJUR;WICZ;;1
+ ;#addRoad;CPOZ;CPOZ;7;-3
+451;WICZ;8;9;ZJM;1;8;TEK
+887;CPOZ
+repairRoad;ZJM;CPOZ;4
+repairRoad;FKX;ZJM;-2
+repairRoad;ZOE;IEJUR;-9
+936;TEK;1;6;CPOZ;8;0;YQQ
+repairRoad;IEJUR;YQQ;-6
+repairRoad;ZOE;XDIGI;-6
+691;XDIGI;9;5;GUX;6;-3;GUX
+getRouteDescription;730
+18;YQQ;3;-2;ZJM
+repairRoad;FKX;YQQ;6
+repairRoad;GUX;GUX;3
+repairRoad;FKX;WICZ;-2
+470;YQQ;0;6;WICZ
+915;TEK;6;-2;ZOE;2;4;YQQ
+335;YQQ;6;8;FKX;2;8;ZJM 
+getRouteDescription;476
+ 44;ZOE;3;-10;GUX;7;4;IEJUR
+getRouteDescription;128
+223;YQQ;7;-3;ZJM;3;3;TEK
+#addRoad;TEK;;TEK;1;-2
+repairRoad;XDIGI;YQQ;-5
+828;TEK
+repairRoad;XDIGI;XDIGI;-8
+getRouteDescription;741 
+addRoad;FKX;FKX;4;9
+35;IEJUR
+299;YQQ;4;-2;GUX
+ getRout;eDescription;555 
+ getRouteD;escription;397
+getRouteDescription;410
+#repair;Road;ZOE;WICZ;-7 
+109;IEJUR;7;9;CPOZ
+addRoad;FKX;ZJM;9;-7
+72;ZOE
+ getRouteDescription;3;60 
+#repairRoad;CPOZ;GUX;0 
+getRouteDescription;827
+167;ZOE
+ repairRoad;ZOE;ZJM;-10 
+repairRoad;ZJM;CPOZ;2
+212;GUX;1;6;ZJM
+addRoad;FKX;ZOE;0;-5
+19;FKX;1;8;TEK
+addRoad;ZJM;ZJM;3;-10
+addRoad;TEK;CPOZ;3;9
+29;WICZ;9;7;ZJM
+118;ZJM;1;4;YQQ;1;8;TEK
+#addRoad;TEK;YQQ;9;;5 
+addRoad;GUX;XDIGI;4;7
+repairRoad;IEJUR;GUX;-9
+ addRoad;YQQ;IEJUR;6;;5
+ #addRoad;YQQ;IEJUR;5;-6 
+ #getRouteDescription;122
+addRoad;ZOE;CPOZ;9;-4
+getRouteDescription;219
+444;ZOE;2;-6;FKX;1;-3;WICZ
+addRoad;WICZ;CPOZ;9;-8
+getRouteDescription;12
+getRouteDescription;491
+#901;WI;CZ;5;4;TEK;8;-4;TEK 
+546;GUX;8;9;ZOE;0;7;YQQ
+addRoad;XDIGI;CPOZ;1;-1
+repairRoad;GUX;XDIGI;9
+515;ZJM;4;9;GUX;5;9;ZOE
+892;ZOE;0;5;IEJUR;0;6;GUX
+repairRoad;XDIG;I;TEK;-9 
+994;TEK;7;7;ZOE
+getRouteDescription;188
+ getRouteDescription;596
+repairRoad;ZOE;WICZ;-8
+repairRoad;IEJUR;TEK;-7
+repairRoad;XDIGI;WICZ;-9 
+getRouteDescription;833
+ getR;outeDescription;405 
+addRoad;TEK;FKX;9;-8
+repairRoad;FKX;ZJM;7
+; 375;ZOE 
+getRouteDescription;915
+getRouteDescription;505
+367;IEJUR
+addRoad;WICZ;GUX;2;8
+494;YQQ;3;5;XDIGI;9;-9;ZOE
+repairRoad;TEK;ZOE;-5
+getRouteDescription;596
+ #162;;YQQ 
+addRoad;IEJUR;CPOZ;5;-7
+getRouteDescription;887
+ repairRoad;IEJUR;WICZ;4
+repairRoad;CPOZ;GUX;-3
+getRouteDescription;776
+ addRoad;ZJM;CPOZ;3;-7
+addRoad;WICZ;IEJUR;9;;9
+ getRouteDesc;ription;791 
+ #repairRoad;;XDIGI;GUX;-9
+addRoad;WICZ;ZJM;9;-2
+repairRoad;ZOE;IEJUR;-5
+ #repairRoad;GUX;ZOE;-2 
+getRouteDescription;122
+addRoad;IEJUR;TEK;3;-8
+ #addRoad;TEK;Z;JM;6;8 
+0;ZJM
+addRoad;GUX;ZOE;5;-10
+repairRoad;ZOE;FKX;2
+;#addRoad;GUX;WICZ;6;5 
+getRouteDescription;940
+ #19;Z;OE;8;-9;XDIGI
+repairRoad;XDIGI;CPOZ;2
+addRoad;ZJM;CPOZ;4;5
+649;TEK;1;4;FKX;9;8;WICZ
+getRouteDescription;528
+addRoad;ZOE;CPOZ;0;-4
+getRouteDescription;188 
+getRouteDescription;258
+ getRouteDescriptio;n;879 
+getRouteDescription;987
+addRoad;GUX;WICZ;6;-9
+701;ZJM;4;-8;ZOE;5;7;ZJM
+getRouteDescription;515
+repairRoad;ZJM;FKX;-7
+276;GUX;1;9;YQQ;1;8;CPOZ
+ #repairRoad;ZOE;TEK;7
+addRoad;IEJUR;ZJM;0;1
+repairRoad;GUX;CPOZ;3
+repairRoad;WICZ;XDIGI;8
+645;IEJUR;7;-5;CPOZ
+#getRouteDescription;311 
+repairRoad;IEJUR;WICZ;9
+#118;IEJUR;9;-10;ZOE;4;4;WICZ 
+ #getRouteDescription;702 
+ g;etRouteDescription;460
+811;YQQ
+ ;#122;WICZ;9;-7;FKX
+repairRoad;TEK;TEK;3
+addRoad;XDIGI;IEJUR;8;-6
+979;WICZ;2;0;TEK;1;4;CPOZ
+getRouteDescription;871
+ 912;W;ICZ;3;-6;TEK
+addRoad;ZOE;ZJM;9;5
+addRoad;XDIGI;WICZ;3;-10
+ #getRouteDescription;865
+getRouteDescription;499
+ #repairRoad;GUX;ZJM;;9 
+repairRoad;TEK;XDIGI;2
+addRoad;GUX;GUX;6;9
+repairRoad;XDIGI;ZJM;0
+808;ZJM;2;8;FKX
+repairR;oad;FKX;IEJUR;6 
+getRouteDescription;273
+repairRoad;XDIGI;TEK;-4
+addRoad;YQQ;FKX;8;9
+addRoad;YQQ;IEJUR;0;-2
+#9;86;ZJM;4;9;GUX
+getRouteDescription;128
+addRoad;CPOZ;ZOE;0;-9
+addRoad;FKX;ZJM;4;9
+748;XDIGI
+getRouteDescription;290
+305;TEK;0;-5;TEK
+76;YQQ;4;3;XDIGI
+repairRoad;GUX;CPOZ;4
+getRouteDescription;97
+ addRoad;WICZ;WICZ;4;3 
+getRouteDescription;843
+repairRoad;ZJM;YQQ;;0 
+ repairRoad;IEJUR;ZOE;-3
+#repairRoad;FKX;CPOZ;7 
+320;ZJM;9;6;FKX
+addRoad;XDIGI;IEJUR;6;5
+getRouteDescription;170
+getRouteDescription;121
+ getRouteDescrip;tion;284
+845;ZOE;7;3;TEK;9;8;ZOE
+getRouteDescription;732
+getRouteDescription;915
+#737;ZJM;7;;-5;IEJUR;7;8;ZOE 
+addRoad;WICZ;CPOZ;0;-6
+0;YQQ
+addRoad;YQQ;TEK;9;-3
+getRouteDescription;66
+994;XDIGI;5;;-5;IEJUR;4;3;YQQ 
+repairRoad;XDIGI;GUX;9
+726;CPOZ;6;9;FKX
+583;YQQ;2;3;CPOZ
+#repa;irRoad;WICZ;GUX;-4
+222;GUX
+addRoad;CPOZ;XDIGI;7;-8
+ getRouteDescripti;on;170 
+repairRoad;FKX;CPOZ;6
+repairRoad;GUX;CPOZ;2
+addRoad;CPOZ;XDIGI;2;-10
+repairRoad;XDIGI;WICZ;-9
+repairRoad;XDIGI;TEK;0
+repairRoad;IEJUR;YQQ;-5
+addRoad;GUX;WICZ;9;6
+543;CPOZ;0;-3;TEK;9;0;WICZ
+244;TEK;6;-4;ZJM
+938;FKX
+ #addRoad;;FKX;IEJUR;1;-7 
+getRouteDescription;879
+#repairRoad;C;POZ;YQQ;-8 
+addRoad;FKX;XDIGI;0;-3
+repairRoad;IEJUR;ZJM;-10
+845;ZOE;5;-5;IEJUR
+394;ZJM;7;9;WICZ
+getRouteDescription;600
+addRoad;CPOZ;WICZ;6;-2
+257;FKX
+; repairRoad;YQQ;GUX;-8
+getRouteDescription;177
+addRoad;GUX;GUX;6;-8
+repairRoad;ZJM;YQQ;6
+251;TEK;9;-10;;IEJUR;3;2;GUX 
+repairRoad;TEK;FKX;1
+0;ZJM;1;-8;XDIGI;3;-10;GUX
+addRoad;XDIGI;ZJM;3;-3
+ repair;Road;ZJM;ZOE;9 
+871;WICZ;3;-4;GUX;5;-10;WICZ
+addRoad;ZOE;IEJUR;5;2
+addRoad;CPOZ;WICZ;7;-5
+655;IEJUR;1;-8;XDIGI
+addRoad;CPOZ;ZJM;6;3
+getRouteDescription;576
+repairRoad;IEJUR;TEK;-3
+getRouteDescription;828
+addRoad;YQQ;ZOE;7;9
+getRouteDescription;3
+repairRoad;FKX;YQQ;-10
+ repairRoad;GUX;ZJM;7
+846;WICZ
+repairRoad;IEJUR;ZJM;5
+repairRoad;IEJUR;WICZ;-8
+; addRoad;IEJUR;XDIGI;5;-3 
+repairRoad;CPOZ;WICZ;1
+addRoad;WICZ;FKX;8;-3
+824;WICZ;7;4;WICZ
+repairRoad;CPOZ;WICZ;0
+addRoad;WICZ;WICZ;2;4
+repairRoad;FKX;YQQ;3; 
+addRoad;GUX;IEJUR;8;4
+ #88;ZOE;0;2;YQQ;2;-8;GUX 
+#repairR;oad;ZOE;IEJUR;5 
+repairRoad;XDIGI;YQQ;3
+repairRoad;YQQ;FKX;5
+283;ZJM;7;9;YQQ;3;0;WICZ
+344;ZJM;2;;7;CPOZ
+ repairRoad;TEK;TEK;0
+getRouteDescription;188
+228;TEK;1;8;FKX;8;7;GUX
+addRoad;FKX;YQQ;5;-6
+getRouteDescription;444
+repairRoad;YQQ;FKX;5
+getRouteDescription;142
+addRoad;CPOZ;YQQ;8;-1
+856;YQQ;3;-10;XDIGI
+ #getRouteDesc;ription;68
+718;ZOE;3;1;FKX;0;2;FKX
+repairRoad;IEJUR;YQQ;6
+ #repairRoad;IE;JUR;TEK;4 
+repairRoad;GUX;TEK;;-6 
+repairRoad;TEK;CP;OZ;9 
+repairRoad;FKX;XDIGI;3
+892;YQQ;5;-9;ZJM
+255;ZJM;5;4;WICZ
+ getRoute;Description;912
+getRouteDescription;604
+addRoad;YQQ;TEK;2;9
+getRouteDescription;604
+getRouteDescription;604
+addRoad;FKX;GUX;3;-7
+#repairRoad;ZJM;YQQ;-6 
+ #;getRouteDescription;596
+ 483;FK;X;2;0;ZOE
+ addRoad;ZOE;CPOZ;6;5 
+#326;IEJUR
+addRoad;WICZ;ZOE;6;6
+addRoad;ZJM;TEK;7;4
+getRouteDescription;930
+getRouteDescription;845
+ 691;FKX;7;3;FKX;9;-1;XDIGI
+repairRoad;TEK;ZJM;-6
+ getRouteDescription;7;41
+437;XDIGI;9;3;WICZ;0;4;ZOE
+repairRoad;CPOZ;WICZ;-4
+addRoad;IEJUR;CPOZ;8;-3
+repairRoad;GUX;ZOE;4
+getRouteDescription;786
+repairRoad;ZJM;CPOZ;9
+addRoad;TEK;CPOZ;3;-5
+ 329;T;EK;9;-5;WICZ;4;2;XDIGI 
+getRouteDescription;976
+repairRoad;TEK;FKX;-6
+repairRoad;ZOE;WICZ;-5
+getRouteDescription;871
+getRouteDescription;476
+getRouteDescription;46
+ #getRouteDes;cription;263
+0;ZJM;6;-8;ZOE
+getRouteDescription;290
+addRoad;XDIGI;YQQ;5;3
+420;YQQ;9;-5;CPOZ
+ #addRoad;TEK;IEJUR;7;-5
+addRoad;ZJM;YQQ;7;8
+getRouteDescription;474
+132;TEK;3;7;IEJUR
+addRoad;CPOZ;ZJM;2;-9
+addRoad;YQQ;IEJUR;4;-2
+getRouteDescription;864
+repairRoad;ZOE;CPOZ;5
+ 1;GU;X
+repairRoad;FKX;TEK;-6
+387;YQQ;1;-7;IEJUR
+repairRoad;IEJUR;ZOE;-2
+addRoad;FKX;YQQ;9;-4
+getRouteDescription;900 
+567;CPOZ;4;-6;CPOZ
+repairRoad;YQQ;ZOE;-2
+ getRouteDescr;iption;714 
+ #repairRoad;GUX;TEK;-2 
+addRoad;WICZ;CPOZ;7;-2
+getRouteDescription;115
+#addRoad;FKX;ZOE;0;2
+addRoad;WICZ;GUX;7;8
+ addRoad;GU;X;CPOZ;2;-10 
+repairRoad;YQQ;GUX;-4
+963;TEK;1;8;GUX
+addRoad;XDIGI;ZOE;2;-4
+addRoad;WICZ;IEJUR;9;-10
+repairRoad;IEJUR;YQQ;6
+591;ZJM;4;9;GUX;5;9;ZOE
+addRoad;ZOE;GUX;2;1
+335;TEK;0;-7;FKX
+addRoad;ZOE;IEJUR;6;1
+repairRoad;FKX;IEJUR;-9
+800;WICZ
+366;IEJUR;7;-8;XDIGI
+719;XDIGI;8;-1;GUX;5;-8;TEK
+addRoad;ZJM;WICZ;8;-9
+ #addRoad;FKX;TEK;;0;8 
+addRoad;ZJM;XDIGI;1;7
+ addRoad;CPOZ;;WICZ;6;2
+getRouteDescription;556
+getRouteDescription;122
+ 6;ZOE;5;8;ZOE;9;5;ZJM
+47;TEK
+#repairRoad;ZOE;IEJUR;-10 
+getRouteDescription;626
+repairRoad;IEJUR;GUX;-7
+581;WICZ;7;-5;WICZ;4;2;CPOZ
+132;GUX;6;6;TEK
+996;YQQ;4;-9;IEJUR
+ repairRoad;IEJUR;ZJM;-2
+addRoad;IEJUR;FKX;0;4
+666;GUX;0;3;GUX;0;-1;WICZ
+982;ZOE;7;9;CPOZ;2;9;ZJM 
+987;ZJM;7;-10;ZJM
+#repairRoa;d;TEK;FKX;4
+getRouteDescription;469
+repairRoad;FKX;XDIGI;6
+addRoad;TEK;ZJM;3;5
+getRouteDescription;912
+getRouteDescription;730
+addRoad;ZOE;ZOE;6;-3
+ 505;YQQ;1;5;CPOZ;9;0;CPOZ 
+getRouteDescription;106
+addRoad;TEK;IEJUR;3;6
+404;TEK
+repairRoad;ZJM;CPOZ;9
+getRouteDescription;776
+repairRoad;YQQ;YQQ;8
+getRouteDescription;58
+getRouteDescription;843
+631;XDIGI;6;1;ZOE;6;4;ZJM
+655;CPOZ;1;-5;XDIGI
+932;FKX;8;7;GUX;4;9;ZJM
+getRouteDescription;880
+ #996;YQQ;2;-8;CPOZ;7;5;W;ICZ
+ addRoad;ZOE;ZOE;0;5
+;repairRoad;FKX;GUX;4 
+342;IEJUR;2;-9;YQQ;6;2;WICZ
+repairRoad;GUX;FKX;4
+#addRoad;GUX;ZOE;7;;2
+getRouteDescription;58
+repairRoad;YQQ;Y;QQ;-4 
+addRoad;WICZ;YQQ;0;2
+repairRoad;IEJUR;YQQ;2
+addRoad;GUX;ZOE;9;2
+getRouteDescription;819
+111;IEJUR;4;-9;IEJUR
+975;FKX;1;8;XDIGI;5;1;WICZ
+380;XDIGI;0;-10;FKX
+964;ZOE
+262;XDIGI;0;-6;ZOE
+repairRoad;XDIGI;IEJUR;-4
+499;IEJUR;9;-2;CPOZ
+getRouteDescription;702
+286;TEK;9;7;CPOZ;7;9;ZOE
+getRouteDescription;619
+getRouteDescription;646
+366;IEJUR;7;8;FKX
+432;XDIGI;1;9;YQQ
+ #repairRoad;TEK;ZJM;-5 
+; addRoad;FKX;WICZ;3;8
+addRoad;YQQ;ZOE;4;4
+getRouteDescription;397
+getRouteDescription;329
+addRoad;YQQ;TEK;9;-10
+ addRoad;;TEK;XDIGI;6;6
+repairRoad;IEJUR;ZJM;6
+getRouteDescription;486
+repairRoad;XDIGI;ZOE;-8
+ repairRoad;IEJUR;ZJM;8 
+703;YQQ;8;0;TEK;4;-7;XDIGI
+711;GUX;5;9;ZOE
+874;IEJUR;7;7;XDIGI;3;8;TEK
+ getRouteDescription;6;3 
+addRoad;WICZ;TEK;0;-3
+0;CPOZ
+ addRoad;;IEJUR;GUX;7;9
+getRouteDescription;3;99
+#86;XDIGI;2;-1;YQQ;9;2;YQQ 
+repairRoad;XDIGI;CPOZ;4
+repairRoad;IEJUR;YQQ;-6
+604;FKX;7;9;XDIGI;2;-9;ZOE
+0;WICZ;2;7;ZOE
+addRoad;FKX;GUX;4;-5
+getRouteDescription;481
+ repairRoad;FK;X;CPOZ;0 
+ repairRo;ad;FKX;WICZ;4 
+100;IEJUR;5;9;ZOE
+ #repairRoad;ZOE;CPOZ;7
+addRoad;WICZ;YQQ;9;-4
+repairRoad;WICZ;XDIGI;-3
+addRoad;XDIGI;ZOE;6;-5
+849;ZOE;9;3;TEK
+ #getRouteDesc;ription;646 
+getRouteDescription;827
+repairRoad;XDIGI;TEK;4
+ 854;FKX;2;3;GUX
+getRouteDescription;432
+330;CPOZ;5;9;WICZ
+addRoad;TEK;YQQ;9;-1
+addRoad;YQQ;XDIGI;2;-10
+repairRoad;GUX;GUX;-7
+getRouteDescription;694
+getRouteDescription;110
+addRoad;TEK;ZOE;8;2
+repairRoad;IEJUR;YQQ;6
+getRouteDescription;190
+addRoad;ZJM;XDIGI;9;-7
+getRouteDescription;499
+addRoad;TEK;XDIGI;0;2
+;addRoad;WICZ;CPOZ;6;4
+665;ZOE;8;6;IEJUR;6;8;YQQ
+ getRouteDescription;506 
+addRoad;XDIGI;FKX;9;1
+#288;TEK;9;-4;TEK;4;-4;IEJUR
+repairRoad;ZOE;ZJM;-4
+403;CPOZ;7;9;IEJUR;9;9;GUX
+121;XDIGI;6;5;XDIGI
+0;ZJM;6;4;GUX;5;7;WICZ
+942;YQQ;5;9;ZJM
+ addRoad;CPOZ;GUX;0;5 
+134;FKX
+ #;425;YQQ;8;8;ZOE;8;6;IEJUR 
+ repairRoad;FKX;GUX;9 
+267;XDIGI;1;9;GUX
+594;WICZ
+repairRoad;TEK;ZJM;7
+repairRoad;TEK;YQQ;1
+102;ZJM
+ #repairRoad;ZOE;ZJM;5
+478;FKX;3;-4;IEJUR;8;5;FKX
+ repairRoad;IEJUR;TEK;-4 
+getRouteDescription;555
+getRouteDescription;118
+repairRoad;FKX;ZOE;1
+repairRoad;TEK;IEJUR;6
+363;IEJUR;3;7;TEK
+getRouteDescription;963
+ getRouteDescription;952 
+961;WICZ;1;-6;XDIGI;8;0;XDIGI
+getRouteDescription;953
+getRouteDescription;832
+82;CPOZ
+233;YQQ;6;8;IEJUR
+#repairRoad;FKX;F;KX;1
+7;86;IEJUR;7;9;CPOZ;3;9;GUX
+repairRoad;XDIGI;ZJM;-3
+#963;TEK;;1;9;WICZ;7;7;ZOE 
+ #repairRoad;ZOE;WICZ;-1
+addRoad;TEK;IEJUR;1;-9
+addRoad;GUX;ZOE;4;6
+57;GUX;6;4;CPOZ;4;6;TEK
+repairRoad;XDIGI;YQQ;0
+getRouteDescription;276
+getRouteDescription;575
+100;YQQ;4;3;YQQ
+repairRoad;TEK;WICZ;8
+ #addRoad;CPOZ;XDIGI;5;-9 
+ #getRouteDescription;149
+repairRoad;FKX;WICZ;1
+addRoad;ZOE;TEK;3;7
+getRouteDescription;432
+52;ZOE
+25;ZJM;8;0;FKX
+repairRoad;XDIGI;YQQ;-8
+510;CPOZ;2;-3;CPOZ;7;-4;IEJUR
+#25;9;FKX;6;-10;YQQ;7;0;TEK 
+addRoad;FKX;IEJUR;3;4 
+repairRoad;FKX;IEJUR;-3
+942;ZOE;9;-1;WICZ;1;;5;YQQ 
+repairRoad;IEJUR;GUX;-4
+repairRoad;TEK;XDIGI;0
+repairRoad;GUX;CPOZ;-5
+addRoad;FKX;FKX;0;6
+getRouteDescription;267
+ #733;WICZ;1;-4;ZOE
+addRoad;TEK;WICZ;2;-4
+ 111;WICZ 
+addRoad;ZJM;TEK;9;-5
+addRoad;YQQ;GUX;8;-5
+addRoad;CPOZ;XDIGI;0;0 
+457;ZOE;7;-8;CPOZ
+ #getRouteDescription;771 
+addRoad;WICZ;YQQ;6;-9
+getRouteDescription;380
+216;GUX;1;8;TEK;1;9;WICZ
+557;CPOZ;1;8;YQQ
+addRoad;ZJM;GUX;2;8
+addRoad;CPOZ;ZJM;6;-10
+getRouteDescription;222
+getRouteDescription;128
+860;CPOZ;2;9;ZJM 
+getRouteDescription;578
+getRouteDescription;206
+881;IEJUR;0;-3;FKX
+repairRoad;GUX;YQQ;-2
+getRouteDescription;602
+repairRoad;IEJUR;YQQ;3
+ repairRoad;FKX;CPOZ;4 
+639;TEK;1;9;ZJM;6;-7;TEK
+addRoad;WICZ;XDIGI;4;3
+get;RouteDescription;894 
+addRoad;TEK;WICZ;1;9
+ #getRouteDe;scription;255 
+494;YQQ
+addRoad;WICZ;ZOE;7;-10
+845;ZOE
+838;ZOE
+repairRoad;TEK;YQQ;7
+3;ZJM;0;-2;TEK 
+addRoad;YQQ;FKX;1;-6
+addRoad;WICZ;YQQ;3;4
+repairRoad;ZOE;YQQ;-1
+getRouteDescription;118 
+repai;rRoad;YQQ;IEJUR;-5 
+297;TEK
+addR;oad;TEK;YQQ;5;9
+#repairRoad;FKX;CPOZ;-1 
+getRouteDescription;757
+addRoad;WICZ;ZJM;0;6
+ addRoad;TEK;G;UX;2;7 
+915;IEJUR;6;2;WICZ;5;1;WICZ
+getRouteDescription;394
+addRoad;TEK;YQQ;5;-5
+329;YQQ;1;-9;CPOZ
+getRouteDescription;596
+addRoad;CPOZ;TEK;9;6
+394;ZOE;3;-6;XDIGI;7;-5;GUX
+ ;#getRouteDescription;684 
+#getRouteDescription;665
+addRoad;TEK;CPOZ;8;9
+62;ZJM;2;9;XDIGI
+repairRoad;GUX;ZJM;8
+ #addRoad;YQQ;XDIGI;9;8
+getRouteDescrip;tion;265
+#repairRoad;CPOZ;CPOZ;6 
+140;ZOE;7;8;GUX;6;-4;GUX
+addRoad;GUX;XDIGI;3;-10
+getRouteDescription;190
+getRouteDescription;972
+addRoad;CPOZ;WICZ;9;-2
+getRouteDescription;122
+repairRoad;TEK;ZJM;-4
+addRoad;CPOZ;XDIGI;3;-7
+675;FKX
+#repairRo;ad;WICZ;XDIGI;8 
+getRouteDescription;963
+777;YQQ;1;8;CPOZ;7;9;IEJUR
+addRoad;ZJM;CPOZ;1;2
+733;YQQ;2;-8;YQQ
+addRoad;ZJM;IEJUR;7;1
+getRouteDescription;365
+repairRoad;GUX;CPOZ;-5
+ #getRouteDescription;874
+#repairRoad;ZOE;XDIGI;;9
+repairRoad;ZJM;WICZ;-3
+repairRoad;WICZ;GUX;9
+ 317;TEK
+ ;#getRouteDescription;856 
+ #addRoad;;GUX;YQQ;1;7 
+repairRoad;IEJUR;XDIGI;4
+getRouteDescription;871
+getRouteDescription;879
+repairRoad;TEK;ZJM;-10
+;#getRouteDescription;149
+repairRoad;CPOZ;WICZ;-7
+ getRouteDescription;117
+670;WICZ;2;9;GUX;1;9;XDIGI
+733;ZOE;2;0;YQQ
+183;ZJM;3;9;ZOE
+ addRoa;d;WICZ;XDIGI;5;-9
+addRoad;CPOZ;GUX;8;0
+addRoad;FKX;ZOE;3;-7
+addRoad;WICZ;GUX;6;-2 
+getRouteDescription;368
+827;GUX;1;-8;ZJM;8;2;YQQ
+getRouteDescription;591
+963;CPOZ;4;-5;GUX
+addRoad;ZOE;TEK;7;1
+repairRoad;FKX;IEJUR;6
+getRouteDescription;969
+#repairRoad;XDIGI;GUX;2 
+addRoad;ZJM;CPOZ;0;2
+315;TEK
+getRouteDescription;942
+addRoad;CPOZ;YQQ;5;-2
+ repairRoad;FKX;ZJM;-2
+repairRoad;CPOZ;IEJUR;-9
+getRouteDescription;476
+#repairRoa;d;TEK;XDIGI;6
+addRoad;FKX;ZJM;8;6
+ getRouteDescription;;269
+#getRouteDescription;3 
+repairRoad;WICZ;CPOZ;-2
+addRoad;XDIGI;IEJUR;4;-10
+444;WICZ;1;8;YQQ;0;-4;FKX
+915;TEK
+repairRoad;TEK;GUX;-2
+getRouteDescription;904
+ #repairRoad;ZOE;FKX;9
+getRouteDescription;319
+repairRoad;XDIGI;WICZ;2
+repairRoad;ZJM;TEK;-5
+repairRoad;FKX;WICZ;3
+#repairRoad;ZJM;GUX;-2
+;#addRoad;FKX;YQQ;1;9 
+ 335;XDIGI
+#getRouteDescription;128
+getRouteDescription;861
+addRoad;WICZ;FKX;5;-2
+#addRoad;WICZ;TEK;0;-2
+846;CPOZ
+0;CPOZ;2;-10;YQQ
+ #982;IEJUR;9;2;TEK;7;3;;ZOE 
+360;TEK
+0;TEK;4;3;ZJM;2;2;YQQ
+addRoad;WICZ;ZJM;0;-10
+; #repairRoad;ZOE;WICZ;-4 
+13;7;TEK;1;9;ZOE
+getRouteDescription;258
+repairRoad;ZOE;ZOE;-8
+295;ZOE;4;-10;WICZ;2;0;IEJUR
+rep;airRoad;ZOE;XDIGI;0 
+getRouteDescription;311
+726;IEJUR;0;-10;YQQ;0;5;CPOZ
+29;ZOE;5;2;YQQ;2;-7;TEK
+addRoad;GUX;GUX;5;-7
+addRoad;ZOE;GUX;7;-7
+; #addRoad;YQQ;YQQ;0;1
+addRoad;WICZ;YQQ;7;-6
+#;addRoad;GUX;YQQ;2;1 
+518;GUX;1;-6;TEK;5;-9;ZOE
+repairRoad;FKX;CPOZ;3
+repairRoad;YQQ;WICZ;7
+getRouteDescription;141
+addRoad;TEK;FKX;5;-5
+repairRoad;ZOE;GUX;2
+397;ZJM;5;2;YQQ;4;-8;ZJM
+addRoad;ZOE;WICZ;4;6
+317;WICZ;9;3;IEJUR;8;5;GUX
+700;WICZ;2;9;CPOZ 
+addRoad;GUX;XDIGI;9;-2
+972;FKX;4;4;FKX;4;-9;YQQ
+ #repairRoad;FKX;XD;IGI;-10 
+repairRoad;CPOZ;IEJUR;-5
+getRouteDescription;469
+addRoad;WICZ;FKX;2;2 
+; repairRoad;FKX;IEJUR;-7 
+0;IEJUR;8;-10;CPOZ;5;8;IEJUR
+repairRoad;ZOE;XDIGI;-1
+#repairRoad;GUX;WICZ;-9 
+149;IEJUR;2;1;IEJUR
+repairRoad;GUX;FKX;4
+repairRoad;TEK;ZJM;-5
+0;ZJM
+951;ZJM;2;8;FKX
+addRoad;YQQ;ZOE;0;-4
+#ad;dRoad;YQQ;GUX;4;7 
+29;ZJM;6;8;YQQ;4;1;GUX
+#512;;ZJM
+getRouteDescription;225 
+addRoad;TEK;YQQ;6;-5
+getRouteDescription;9;92 
+g;etRouteDescription;741
+53;YQQ;1;8;CPOZ;3;9;GUX
+repairRoad;FKX;WICZ;8
+repairRoad;XDIGI;IEJUR;3
+721;ZOE;4;1;ZOE;2;-10;GUX
+ #;898;YQQ;1;9;XDIGI 
+704;FKX;7;-10;ZOE;9;5;ZJM
+repairRoad;ZOE;TEK;1
+addRoad;WICZ;YQQ;6;-6
+666;WICZ;2;9;CPOZ;3;9;GUX
+276;XDIGI
+addRoad;XDIG;I;TEK;3;-8
+addRoad;CPOZ;FKX;7;-4
+addRoad;ZJM;IEJUR;1;2
+addRoad;ZOE;GUX;9;-7
+getRouteDescription;874
+712;CPOZ;1;2;CPOZ;0;-5;XDIGI
+987;WICZ;3;-9;Z;OE 
+addRoad;GUX;CPOZ;4;8
+repairRoad;CPOZ;WICZ;-2
+getRouteDescription;394
+repairRoad;TEK;ZOE;-7
+getRouteDescription;282
+addRoad;IEJUR;FKX;5;9
+103;WICZ;4;-9;FKX;4;-3;ZOE
+332;GUX;2;9;WICZ;4;8;FKX
+repairRoad;FKX;GUX;-2
+getRouteDescription;808
+207;GUX;0;-1;XDIGI
+getRouteDescription;969
+repairRoad;ZJM;YQQ;-4
+ repairRoad;YQQ;CPOZ;;-2
+repairRoad;ZJM;YQQ;-7
+177;WICZ
+ #addRoad;WICZ;;CPOZ;6;-8
+ #addRoad;CPOZ;YQQ;5;-1 
+ 767;GUX;5;-4;ZJM;1;-1;ZOE 
+addRoad;IEJUR;GUX;4;2
+getRouteDescription;608
+addRoad;CPOZ;XDIGI;6;-5
+#repairRoad;FKX;X;DIGI;0
+getRouteDescription;165
+getRouteDescription;265
+289;FKX
+getRouteDescription;815
+getRouteDescription;583
+getRouteDescription;276
+addRoad;ZJM;XDIGI;9;-7 
+getRouteDescription;555
+repairRoad;ZOE;WICZ;-5
+69;XDIGI;3;6;IEJUR;7;2;YQQ
+repairRoad;CPOZ;WICZ;-1 
+131;GUX;6;4;CPOZ;3;3;GUX
+addRoad;XDI;GI;WICZ;6;-4
+repairRoad;YQQ;WICZ;6
+539;XDIGI;4;8;FKX
+addRoad;ZJM;XDIGI;1;0
+#addRoad;IEJUR;XDIGI;0;5 
+g;etRouteDescription;299 
+718;TEK;9;7;XDIGI
+ #617;CPOZ;9;2;CPOZ;1;9;GUX 
+#getRout;eDescription;432 
+repairRoad;GUX;IEJUR;;-8
+repairRoad;TEK;YQQ;-6
+addRoad;XDIGI;TEK;6;7
+getRouteDescription;355
+repai;rRoad;ZOE;WICZ;-2
+addRoad;TEK;FKX;6;-3
+305;IEJUR;8;-1;ZOE;5;0;YQQ
+getRouteDescri;ption;874
+addRoad;ZJM;CPOZ;0;7
+getRouteDescription;827
+repairRoad;XDIGI;WICZ;-2
+repairRoad;TEK;YQQ;-8
+repairRoad;GUX;CPOZ;-10
+addRoad;ZJM;GUX;4;-10
+repairRoad;XDIGI;WICZ;-7
+577;TEK
+addRoad;ZOE;IEJUR;2;-6
+;getRouteDescription;9 
+getRouteDescription;874
+; #addRoad;FKX;GUX;3;5
+506;WICZ;6;-9;GUX
+#getRoute;Description;193 
+addRoad;ZOE;IEJUR;1;0
+getRouteDescription;122
+getRouteDescription;714
+712;YQQ;7;3;IEJUR
+26;IEJUR;3;-7;ZJM;5;-4;FKX
+addRoad;CPOZ;YQQ;7;;8 
+201;ZOE;2;6;ZJM
+867;YQQ
+getRouteDescription;555
+addRoad;WICZ;FKX;8;6
+addRoad;XDIGI;IEJUR;4;3
+ getRouteDescription;397
+ #addRoad;ZJM;XDIGI;8;-6
+repairRoad;YQQ;IEJUR;6
+addRoad;XDIGI;YQQ;9;2
+getRouteDescription;385
+ get;RouteDescription;546 
+ addRoad;ZJM;;GUX;9;-4
+0;TEK;5;-1;ZOE;9;0;WICZ 
+300;XDIGI;5;-3;TEK
+getRouteDescription;583
+138;ZJM;7;3;ZOE;5;5;ZOE
+getRouteDescription;283
+getRouteDescription;106
+addRoad;CPOZ;IEJUR;4;4 
+ repairRoad;IEJUR;YQQ;-9
+670;TEK;2;-7;IEJUR
+repairRoad;ZOE;IEJUR;-1
+642;GUX;4;9;ZJM;2;8;FKX
+repairRoad;YQQ;CPOZ;4
+476;TEK;6;5;WICZ
+14;IEJUR
+addRoad;YQQ;YQQ;3;-2
+getRouteDescription;476
+repairRoad;IEJUR;GUX;9
+#;addRoad;FKX;ZJM;6;5
+ #repairRoad;WICZ;YQQ;-8 
+getRouteDescription;620
+#repai;rRoad;TEK;IEJUR;-10
+repairRoad;TEK;TEK;2
+repairRoad;WICZ;XDIGI;-7
+ #getRouteDesc;ription;987
+#getRouteDescription;460
+getRouteDescription;286
+getRouteDescription;38
+getRouteDescription;335
+getRouteDescription;969
+getRouteDescription;818
+ repairRo;ad;WICZ;ZJM;1
+ repairRoad;GUX;YQQ;-9 
+addRoad;YQQ;WICZ;8;-8
+repairRoad;ZOE;XDIGI;0
+ #286;GUX;1;7;CPOZ;2;-2;;WICZ
+repairRoad;XDIGI;CPOZ;-3
+ repai;rRoad;CPOZ;YQQ;2
+repairRoad;WICZ;ZOE;0
+getRouteDescription;286
+repairRoad;IEJUR;GUX;-9
+528;WIC;Z;5;-4;ZOE 
+repairRoad;YQQ;YQQ;4
+446;YQQ 
+; repairRoad;ZOE;WICZ;-6
+repairRoad;IEJUR;ZJM;5
+repairRoad;ZOE;TEK;-1
+#repairRoad;XDIGI;CPOZ;-9 
+805;CPOZ;4;4;TEK;3;-5;ZOE
+addRoad;TEK;ZOE;1;6
+addRoad;CPOZ;XDIGI;2;7
+714;XDIGI
+getRouteDescription;575
+addRoad;XDIGI;ZJM;3;-4
+getRouteDescription;530
+repairRoad;ZOE;XDIGI;2
+602;CPOZ;3;-2;TEK;9;4;WICZ
+ 701;ZOE;7;9;CPOZ
+777;ZJM;2;-4;GUX;0;-5;WICZ
+repairRoad;TEK;ZJM;1
+repairRoad;CPOZ;GUX;0
+#getRouteDescription;137 
+repairRoad;IEJUR;ZJM;-6
+getRouteDescription;912
+ getRouteDescription;405
+548;GUX;9;9;IEJUR
+repairRoad;GUX;WICZ;1
+getRouteDescription;569
+addRoad;ZOE;TEK;1;3
+ #repairRoad;CPOZ;WICZ;9
+661;XDIGI
+repairRoad;CPOZ;TEK;9
+786;XDIGI
+addRoad;CPOZ;CPOZ;3;-5
+getRouteDescription;880
+repairRoad;ZJM;YQQ;-1
+getRouteDescription;109
+repairRoad;GUX;TEK;-3
+ #getRouteDescription;84 
+#ad;dRoad;ZJM;XDIGI;2;-7
+68;ZOE
+getRouteDescription;381
+#a;ddRoad;IEJUR;CPOZ;0;2
+addRoad;TEK;XDIGI;9;-7
+ #519;XDIGI;5;-7;GUX;4;3;WICZ 
+repairRoad;ZOE;ZJM;-1
+getRouteDescription;352
+addRoad;GUX;YQQ;9;-5
+addRoa;d;WICZ;ZJM;6;-7
+779;ZJM;2;9;CPOZ
+765;CPOZ
+addRoad;XDIGI;WICZ;9;1
+getRouteDescription;170
+#getRouteDes;cription;118 
+repairRoad;ZOE;FKX;1
+871;YQQ;5;-2;ZOE;5;1;XDIGI
+repairRoad;ZOE;FKX;-9
+310;YQQ
+331;ZJM;2;-1;ZJM;8;2;ZOE
+498;TEK
+repairRoad;ZJM;TEK;2
+repairRoad;IEJUR;ZJM;3
+ #151;XDIGI 
+getRouteDescription;451
+repairRoad;IEJUR;XDIGI;8
+repairRoad;TEK;ZJM;4
+addRoad;GUX;YQQ;4;1
+repairRoad;YQQ;ZJM;-8
+ #repairRoa;d;XDIGI;ZJM;-10 
+addRoad;CPOZ;WICZ;7;8
+getRouteDescription;68
+addRoad;ZJM;FKX;2;6
+repairRoad;ZOE;XDIGI;4
+62;XDIGI
+getRouteDescription;290
+repairRoad;GUX;IEJUR;-1
+addRoad;IEJUR;TEK;4;-2
+repairRoad;FKX;TEK;-7
+131;ZJM
+addRoad;TEK;TEK;6;-6
+repairRoad;CPOZ;WICZ;5
+813;ZJM;8;9;WICZ;3;8;XDIGI
+repairRoad;ZOE;GUX;-4
+addRoad;XDIGI;ZJM;0;-2
+ #getRouteDescription;50
+getRouteDescription;58
+getRouteDescription;19
+getRouteDescription;894
+addRoad;IEJUR;IEJUR;7;5
+repairRoad;ZJM;CPOZ;-8
+addRoad;ZJM;GUX;4;-2
+repairRoad;YQQ;WICZ;-3
+548;ZJM;5;2;ZJM 
+0;ZJM;9;6;;WICZ;8;1;TEK
+#repairRoad;XDIGI;ZJM;1 
+repairRoad;IEJUR;GUX;-9
+repairRoad;F;KX;CPOZ;-9
+getRouteDescription;631
+#add;Road;IEJUR;TEK;2;-10 
+ ge;tRouteDescription;515 
+repairRoad;XDIGI;IEJUR;3
+getRouteDescription;206
+#578;YQQ;5;-10;Y;QQ 
+repairRoad;ZOE;GUX;7
+ #repairRoad;ZOE;XDIGI;5 
+getRouteDescri;ption;697 
+578;ZOE
+ #776;WICZ
+addRoad;GUX;CPOZ;8;-1
+#addRoad;IEJUR;XDIGI;1;-9 
+getRouteDescription;16
+ 443;;ZJM;0;6;YQQ;6;-1;TEK 
+addRoad;WICZ;YQQ;9;3
+repairRoad;ZOE;XDIGI;-4
+98;YQQ;0;-9;;WICZ
+addRoad;TEK;TEK;5;-8
+ #repairRoad;;TEK;ZJM;4
+ #getRouteDescription;980 
+getRouteDescription;100
+53;CPOZ
+getRouteDescription;943
+getRouteDescription;986
+repairRoad;XDIGI;FKX;-6
+941;XDIGI
+repairRoad;FKX;GUX;-10
+942;WICZ;3;6;GUX
+939;TEK;5;8;GUX
+repairRoad;FKX;CPOZ;0
+getRouteDescription;404
+796;ZJM;0;6;FKX
+25;CPOZ;3;-7;YQQ 
+repairRoad;ZOE;GUX;-7
+255;WICZ;3;-5;TEK 
+repairRoad;IEJUR;WICZ;-2
+getRouteDescription;607
+repairRoad;YQQ;ZJM;2
+472;WICZ;2;2;TEK;7;7;ZJM
+repairRoad;CPOZ;WICZ;9
+repairRoad;ZJM;YQQ;1
+#addRoad;WICZ;TEK;3;;-7
+repairRoad;IEJUR;GUX;-5
+addRoad;GUX;GUX;9;9
+addRoad;YQQ;FKX;8;9
+repairRoad;GUX;TEK;3
+65;CPOZ
+#addRoad;FKX;YQQ;1;-7
+674;CPOZ;9;8;GUX
+getRouteDescription;444
+ addRoad;TEK;IEJUR;5;-6 
+810;FKX;0;-3;IEJUR
+addRoad;ZJM;ZOE;7;1
+getRouteDescription;583
+addRoad;IEJUR;TEK;6;-8
+ repairRo;ad;ZOE;TEK;2 
+ #repairRoad;FKX;ZJ;M;-2
+#getRouteDescription;81
+repairRoad;IEJUR;WICZ;-7
+repairRoad;TEK;ZOE;1
+addRoad;YQQ;IEJUR;5;6
+#getRouteDescription;5;80
+repairRoad;GUX;FKX;6
+addRoad;ZOE;TEK;3;0
+402;XDIGI;0;-1;IEJUR;7;6;CPOZ
+repairRoad;ZJM;XDIGI;-6
+#7;07;YQQ
+ #addRoad;GUX;ZJM;6;1
+addRoad;XDIGI;ZJM;3;3
+repairRoad;XDIGI;IEJUR;7
+addRoad;ZOE;ZJM;1;1 
+874;FKX
+634;ZJM;2;9;CPOZ;9;9;TEK
+874;ZJM;5;-3;TEK
+#getRouteDescription;610 
+getRouteDescription;714
+539;IEJUR;4;6;GUX
+#repairRoad;GUX;TEK;-2 
+ 390;YQQ;7;-4;CPOZ;1;-9;XDIGI 
+addRoad;IEJUR;CPOZ;8;2
+getRouteDescription;353
+ #getRouteDescripti;on;874 
+561;ZOE;2;9;WICZ;5;-10;FKX
+525;TEK;6;-6;GUX;6;3;WICZ
+addRoad;CPOZ;IEJUR;9;-3
+addRoad;ZOE;XDIGI;9;-6
+792;TEK;3;9;GUX;8;6;FKX
+ #addRoa;d;GUX;TEK;0;-4 
+addRoad;IEJUR;YQQ;7;-4
+getRouteDescription;361
+repairRoad;FKX;XDIGI;-10
+109;WICZ;0;;4;XDIGI;2;0;ZOE
+repairRoad;FKX;XDIGI;0
+0;IEJUR
+276;IE;JUR
+repairRoad;FKX;FKX;-7
+getRouteDescription;283 
+repairRoad;CPOZ;ZOE;8
+repairRoad;ZOE;CPOZ;-3
+903;GUX;5;9;ZOE
+repairRoad;YQQ;FKX;7
+addRoad;YQQ;WICZ;6;-1
+getRouteDescription;;986 
+936;XDIGI;5;6;WICZ
+getRouteDescription;170
+getRouteDescription;555
+repairRoad;WICZ;WICZ;9
+819;XDIGI;5;-6;WICZ;0;-10;CPOZ
+addRoad;TEK;YQQ;5;-10
+getRouteDescription;368
+addRoad;ZOE;WICZ;1;-1
+ repairRoad;ZJM;XDIGI;-1 
+repairRoad;IEJUR;WICZ;5
+repairRoad;CPOZ;ZJM;-2
+ ;#26;WICZ 
+#914;XDIG;I;8;7;ZOE 
+ repairRoad;;IEJUR;GUX;7
+repairRoad;FKX;YQQ;-3
+ getRouteDescription;4;86
+addRoad;GUX;TEK;6;2
+getRouteDescription;122
+addRoad;ZOE;ZOE;7;-1
+getRouteDescription;190
+402;IEJUR;2;-5;FKX;2;1;YQQ
+repairRoad;GUX;WICZ;-5
+repairRoad;IEJUR;IEJUR;5
+repairRoad;T;EK;YQQ;-5 
+311;ZJM
+repairRoad;FKX;ZOE;7
+repairRoad;XDIGI;GUX;-3
+ #getRouteDescription;18;3 
+repairRoad;XDIGI;GUX;-1
+getRouteDescription;730
+repairRoad;ZOE;ZJM;3
+getRouteDescription;54
+repairRoad;YQQ;TEK;-9
+getRouteDescription;902
+repairRoad;IEJUR;ZJM;6
+479;ZOE;9;-6;FKX;3;-4;TEK
+repairRoad;XDIGI;WICZ;7
+addRoad;XDIGI;CPOZ;4;-3
+ addRoad;;FKX;ZJM;9;0
+961;XDIGI;2;-3;;YQQ;3;-1;TEK 
+repairRoad;ZJM;FKX;-4
+ #addRoad;WICZ;ZOE;6;-5 
+addRoad;ZOE;TEK;;2;6 
+repairRoad;IEJUR;GUX;8
+repairRoad;ZJM;CPOZ;-6
+addRoad;IEJUR;ZOE;9;-3
+repairRoad;GUX;CPOZ;-9
+addRoad;CPOZ;GUX;6;2
+repairRoad;FKX;XDIGI;-9
+repairRoad;IEJUR;FKX;-2
+493;ZOE;9;-2;FKX
+addRoad;CPOZ;FKX;5;-10
+addRoad;GUX;ZJM;7;7
+getRouteDescription;912
+repairRoad;ZJM;IEJUR;-7
+getRouteDescription;972
+getRouteDescription;945
+#repairRoad;XDIGI;ZJM;-1
+repairRoad;ZOE;GUX;3
+getRouteDescription;60 
+addRoad;FKX;FKX;5;-4
+568;FKX;5;0;XDIGI;4;-10;GUX
+addRoad;TEK;CPOZ;2;6
+getRouteDescription;432
+repairRoad;ZOE;TEK;3
+repairRoad;CPOZ;TEK;-1
+getRouteDescription;726
+getRouteDescription;672
+getRouteDescription;720
+579;TEK;4;7;ZOE;3;0;ZJM
+addRoad;FKX;ZJM;0;7
+856;XDIGI;9;-8;GUX;0;-6;ZJM 
+830;YQQ;4;0;YQQ
+ 813;IEJ;UR 
+addRoad;TEK;GUX;1;2
+295;ZOE
+748;CPOZ
+repairRoad;FKX;GUX;-8
+addRoad;ZOE;TEK;8;-6
+ repairRoad;CPOZ;GUX;-7 
+getRouteDescription;356
+addRoad;IEJUR;CPOZ;3;-1
+repairRoad;ZOE;FKX;-5
+getRouteDescription;344
+ #436;;ZJM;6;-1;FKX;9;-7;WICZ
+getRouteDescription;689
+getRouteDescription;969 
+addRoad;CPOZ;IEJUR;3;-7
+170;XDIGI
+repairRoad;FKX;XDIGI;-4
+282;IEJUR;2;9;IEJUR
+addRoad;XDIGI;CPOZ;7;9
+getRouteDescription;366
+addRoad;XDIGI;WICZ;2;3
+#getRouteDescription;;753 
+ad;dRoad;FKX;GUX;6;6
+ #repairRoad;XD;IGI;CPOZ;1 
+addRoad;XDIGI;CPOZ;6;-9
+ getRouteDescription;642
+repairR;oad;IEJUR;CPOZ;-5
+repairRoad;TEK;ZJM;-1
+ #getRouteDescription;480
+813;ZOE;5;4;ZJM
+266;FKX;0;0;IEJUR
+repairRoad;TEK;XDIGI;-6
+repairRoad;YQQ;WICZ;9
+getRouteDescription;483
+891;IEJUR
+addRoad;ZJM;FKX;9;-3
+290;TEK;4;-10;GUX
+addRoad;GUX;XDIGI;0;8
+repairRoad;TEK;IEJUR;-2
+addRoad;IEJUR;CPOZ;5;9
+ #getRouteDescription;139
+repairRoad;ZOE;CPOZ;-6 
+979;FKX
+getRouteDescription;711
+addRoad;YQQ;ZOE;7;-8
+939;ZJM;3;-7;XDIGI
+98;ZOE
+ addRoad;WICZ;G;UX;1;9
+ addRoad;ZJM;;CPOZ;6;-1
+647;GUX;6;9;FKX;9;6;TEK
+getRouteDescription;183
+getRouteDescription;405
+getRouteDescription;733 
+ #repairRoad;IEJUR;;FKX;-8
+repairRoad;GUX;CPOZ;0
+993;GUX;0;2;WICZ
+ repairRoad;XDIGI;ZJM;0
+getRouteDescription;309
+addRoad;YQQ;CPOZ;2;5
+ #getRouteDescription;933 
+892;YQQ;0;-9;FKX
+198;ZJM
+ #repairRoad;YQQ;CPOZ;0
+#addRoad;ZJM;WICZ;8;1
+getRouteDescription;702
+#6;XDIGI 
+getRouteDescription;963 
+repairRoad;FKX;XDIGI;3
+addRoad;WICZ;WICZ;9;-2
+33;TEK;9;9;CPOZ
+623;ZOE;4;-5;GUX
+ #repa;irRoad;TEK;CPOZ;8
+addRoad;GUX;XDIGI;6;9
+addRoad;FKX;IEJUR;8;-2
+getRouteDescription;258
+addRoad;XDIGI;IEJUR;9;-1
+380;ZOE;3;8;GUX;7;-10;CPOZ
+515;YQQ;8;-1;XDIGI;6;-2;ZJM 
+getRouteDescription;702
+ repairRoad;YQQ;WICZ;0 
+addRoad;ZOE;TEK;0;-9
+addRoad;YQQ;WICZ;3;-7
+ #187;ZOE;3;0;TEK;7;-1;WICZ
+ repairRoad;GUX;TEK;-2
+addRoad;YQQ;GUX;0;-10
+addRoad;WICZ;ZOE;9;-7
+repairRoad;CPOZ;XDIGI;-5
+repairRoad;TEK;TEK;-7
+addRoad;WICZ;GUX;7;1
+ getRouteDescr;iption;969 
+addRoad;WICZ;ZJM;8;2
+repairRoad;CPOZ;TEK;-6
+getRouteDescription;665
+986;ZJM;2;1;TEK
+934;ZJM;2;9;XDIGI
+ repairRoad;ZOE;CPOZ;3
+966;WICZ
+getRouteDescription;487
+#repairRoad;IEJUR;CPO;Z;-4 
+getRouteDescription;963
+addRoad;YQQ;TEK;1;-6
+addRoad;WICZ;CPOZ;7;-7
+#addRoad;GUX;WICZ;5;2
+addRoad;GUX;IEJUR;2;-4 
+addRoad;TEK;ZOE;0;-10
+repairRoad;XDIGI;CPOZ;-2
+addRoad;CPOZ;TEK;1;-9
+addRoad;FKX;IEJUR;9;-5
+repairRoad;GUX;ZJM;-2
+getRouteDescription;856
+repairRoad;ZJM;WICZ;-2
+addRoad;XDIGI;TEK;7;0
+addRoad;WICZ;WICZ;2;5
+getRouteDescription;394
+getRouteDescription;363
+getRouteDescription;949
+666;ZOE;7;0;WICZ
+repairRoad;WICZ;WICZ;3
+584;WICZ;2;-4;CPOZ
+ ad;dRoad;XDIGI;ZOE;9;6
+; getRouteDescription;486 
+getRouteDescription;62
+ addRoad;FKX;GUX;8;5
+getRouteDescription;572
+93;IEJUR
+getRouteDescription;122
+addRoad;CPOZ;GUX;3;-8
+addRoad;ZJM;XDIGI;1;2
+ #addRoad;FKX;YQQ;;3;8
+addRoad;IEJUR;FKX;6;1
+getRouteDescription;283
+repairRoad;XDIGI;ZOE;-3
+ #addRoad;GUX;WICZ;7;-10
+addRoad;CPOZ;XDIGI;2;5
+getRouteDescription;686
+ getRouteDescription;194 
+ 777;ZJM 
+#ad;dRoad;GUX;ZOE;1;6
+getRouteDescription;322
+repairRoad;IEJUR;IEJUR;-8
+925;XDIGI;6;-9;XDIGI
+ 99;3;FKX 
+177;CPOZ
+getRouteDescription;626
+repairRoad;FKX;GUX;0
+ #getRouteDescripti;on;493 
+ repairRoad;XDIGI;GUX;-10 
+addRoad;ZJM;GUX;4;-3
+repairRoad;XDIGI;GUX;-9
+ #repairRoad;GUX;YQQ;1
+; repairRoad;XDIGI;IEJUR;5 
+getRouteDescription;233
+addRoad;TEK;GUX;2;4
+addRoad;ZJM;YQQ;2;-1
+463;YQQ
+addRoad;WICZ;IEJUR;7;-2
+ repairR;oad;FKX;YQQ;5
+repairRoad;FKX;WICZ;8
+getRouteDescription;394
+getRouteDescription;263
+ #a;ddRoad;IEJUR;IEJUR;3;-1
+994;YQQ;1;8;CP;OZ;6;9;FKX
+addRoad;TEK;TEK;0;4
+444;ZJM;2;3;CPOZ
+53;GUX;9;-5;WICZ;3;5;WICZ
+repairRoad;ZOE;GUX;0
+932;ZJM
+getRouteDescription;99
+getRouteDescription;62
+ 493;FKX
+addRoad;ZOE;XDIGI;3;4
+ addRoad;YQQ;ZJM;5;5 
+ repairRoa;d;TEK;ZJM;3 
+;#669;WICZ 
+repairRoad;GUX;XDIGI;6
+521;GUX;4;-2;CPOZ;9;-7;CPOZ
+getRouteDescription;828
+repairRoad;ZJM;YQQ;7
+getRouteDescription;626
+addRoad;TEK;WICZ;4;-9
+getRouteDescription;986
+ge;tRouteDescription;190 
+addRoad;WICZ;TEK;7;4
+0;TEK
+getRouteDescription;430
+ addRoad;WICZ;YQQ;1;7
+289;XDIGI;6;0;TEK;3;;7;YQQ 
+repairRoad;YQQ;ZOE;2
+repairRoad;IEJUR;ZJM;-3
+ repairRoad;GUX;CPOZ;-2
+repairRoad;IEJUR;CPOZ;-9
+getRouteDescription;57
+getRouteDescription;18
+739;TEK;2;-7;GUX;0;3;XDIGI
+getRouteDescription;403
+addRoad;ZOE;FKX;3;-7
+repairRoad;ZOE;ZOE;2
+ #582;FKX;4;9;ZO;E 
+repairRoad;ZOE;YQQ;-2
+433;WICZ
+580;FKX
+repairRoad;TEK;CPOZ;-5
+ getRouteDesc;ription;934 
+0;ZOE;0;2;GUX
+ addRoad;ZOE;XDIGI;6;-2
+701;YQQ;4;9;CPOZ
+addRoad;IEJUR;YQQ;7;1
+addRoad;XDIGI;GUX;3;8
+970;FKX;4;-8;YQQ;4;0;GUX
+getRouteDescription;957
+684;GUX
+repairRoad;CPOZ;WICZ;-8
+512;XDIGI;8;5;ZOE
+addRoad;ZOE;WICZ;;4;0
+914;GUX;7;8;WICZ
+getR;outeDescription;526
+addRoad;FKX;YQQ;6;-8
+ #getRouteDescriptio;n;50 
+addRoad;GUX;XDIGI;2;5
+138;ZJM;5;;9;YQQ 
+repairRoad;XDIGI;GUX;8
+getRouteDescription;403
+#getRouteDescription;878 
+addRoad;IEJUR;ZJM;3;8
+474;XDIGI
+repairRoad;YQQ;CPOZ;1
+getRouteDescription;368
+getRouteDescription;133
+getRouteDescription;701
+addRoad;TEK;GUX;7;1
+repairRoad;GUX;ZOE;9
+getRouteDescription;691
+876;ZJM;3;-6;GUX
+repairRoad;YQQ;WICZ;-5
+174;XDIGI;8;5;ZOE;4;9;FKX
+addRoad;YQQ;ZOE;5;5
+ #addRoad;WICZ;ZJM;;2;6
+repairRoad;XDIGI;TEK;5
+#rep;airRoad;YQQ;ZJM;2 
+969;ZJM;9;-7;FKX
+21;YQQ
+addRoad;ZJM;IEJUR;3;-1
+addRoad;YQQ;ZJM;6;4
+getRouteDescription;394
+ #addRoad;TEK;WICZ;;6;7
+413;GUX
+getRouteDescription;262
+getRouteDescription;111
+ repairRoad;XDIGI;FKX;-10 
+getRouteDescription;174
+addRoad;FKX;ZJM;4;-10
+repairRoad;WICZ;FKX;6
+addRoad;YQQ;FKX;8;-8
+repairRoad;ZOE;FKX;-9
+726;FKX;9;7;YQQ
+addRoad;YQQ;YQQ;8;3
+ repairRoad;;ZOE;CPOZ;-8
+getRouteDescription;856
+ getRouteDescription;832
+getRouteDescription;591
+repairRoad;ZOE;ZJM;-1
+getRouteDescription;944
+getRouteDescription;149
+ #addRoad;WICZ;IEJUR;4;5 
+getRouteDescription;523
+repairRoad;ZOE;ZJM;0
+ getRouteDescription;828 
+repairRoad;TEK;CPOZ;-8
+repairRoad;XDIGI;WICZ;0
+#repairRoad;GUX;FKX;4
+ #repairRoad;TEK;Z;JM;-3
+repairRoad;WICZ;ZJM;0
+getRouteDescription;447
+addRoad;CPOZ;YQQ;8;-4
+addRoad;TEK;ZJM;9;-7
+ #r;epairRoad;ZOE;ZOE;9
+getRouteDescription;815
+repairRoad;FKX;GUX;0
+addRoad;CPOZ;ZJM;9;1
+ 34;9;TEK 
+repairRoad;ZOE;YQQ;-4
+369;GUX
+repairRoad;YQQ;GUX;4
+addRoad;XDIGI;XDIGI;5;-5
+499;GUX;1;2;ZOE
+130;ZOE
+getRouteDescription;843
+repairRoad;YQQ;ZOE;1
+getRouteDescription;506
+100;ZOE;0;-1;FKX
+634;FKX;8;-10;CPOZ
+addRoad;IEJUR;YQQ;7;9
+getRouteDescription;915
+984;FKX;6;8;YQQ
+903;GUX
+repairR;oad;IEJUR;TEK;1 
+ #148;CPOZ;6;9;;FKX
+ addRoad;GUX;YQ;Q;2;4
+283;TEK;7;8;ZJM
+addRoad;FKX;TEK;1;5
+548;XDIGI;8;-4;IEJUR
+repairRoad;XDIGI;TEK;3
+repairRoad;GUX;ZJM;-7
+addRoad;XDIGI;WICZ;9;-6
+repairRoad;GUX;CPOZ;-8
+774;FKX;8;0;XDIGI;3;9;TEK
+ getRouteDescription;676 
+repairRoad;YQQ;XDIGI;8
+#;936;WICZ 
+207;GUX
+512;ZOE;5;4;IEJUR
+getRouteDescription;832 
+504;CPOZ;6;-1;ZJM
+addRoad;FKX;GUX;8;-3
+addRoad;WIC;Z;ZOE;9;4 
+459;ZJM
+getRouteDescription;700
+addRoad;IEJUR;FKX;6;-1
+repairRoad;WICZ;CPOZ;-2
+ repairRoad;Y;QQ;GUX;-2 
+14;IEJUR;6;8;YQQ
+740;XDIGI
+repairRoad;FKX;CPOZ;0
+#887;;WICZ 
+ #getRouteDescription;262 
+ #getRouteDescription;726
+repairRoad;ZOE;GUX;4
+ repairRoa;d;ZJM;XDIGI;8
+addRoad;WICZ;YQQ;6;-2
+getRouteDescription;19
+addRoad;;YQQ;CPOZ;5;8
+repairRoad;ZOE;XDIGI;-1
+getRouteDescription;864
+getRouteDescription;466
+807;WICZ;9;8;ZOE;5;9;GUX
+getRouteDescription;267
+getRouteDescription;564
+getRouteDescription;553
+ #addRoad;XDIGI;FKX;4;-7
+ repairRoad;FKX;IEJ;UR;1
+repairRoad;ZJM;YQQ;-5 
+334;ZJM;2;9;CPOZ
+addRoad;TEK;IEJUR;2;8
+addRoad;TEK;FKX;6;5
+#776;TEK;0;7;GUX;3;-2;GUX 
+#getRoute;Description;888
+addRoad;ZOE;YQQ;2;5
+ #5;CPOZ;3;-4;XDIGI 
+repairRoad;FKX;ZJM;1
+addRoad;ZJM;TEK;1;-9
+addRoad;GUX;TEK;3;-4
+#r;epairRoad;ZOE;WICZ;-3
+repairRoad;FKX;YQQ;-10
+getRouteDescription;173
+ getRouteDescription;255 
+addRoad;CPOZ;WICZ;6;-6
+getRouteDescription;631
+getRouteDescription;580
+repairRoad;YQQ;CPOZ;-4
+240;YQQ
+786;XDIGI;7;8;CPOZ;4;4;YQQ
+312;CPOZ
+repairRoad;TEK;IEJUR;-1
+ 977;TEK 
+getR;outeDescription;711
+#65;IEJUR;8;7;Z;JM
+921;FKX;6;;0;FKX
+; getRouteDescription;652 
+addRoad;GUX;ZOE;1;8 
+repairRoad;ZOE;FKX;-2
+repairRoad;FKX;GUX;6
+47;YQQ;0;-1;GUX
+getRouteDescription;225
+repairRoad;FKX;IEJUR;-3 
+85;ZJM
+getRouteDescription;85;1 
+ a;ddRoad;ZJM;WICZ;6;4
+ repairRoad;F;KX;XDIGI;-4 
+addRoad;FKX;XDIGI;9;6
+422;CPOZ;6;7;WICZ
+repairRoad;ZOE;ZOE;0
+183;ZOE;9;9;WICZ
+addRoad;ZOE;YQQ;1;6
+33;FKX;4;-2;XDIGI;2;-9;IEJUR
+25;GUX;2;9;WICZ
+getRouteDescription;491
+ #rep;airRoad;TEK;YQQ;-4
+932;IEJUR;7;-4;YQQ;4;0;TEK
+repairRoad;FKX;CPOZ;9
+ge;tRouteDescription;890
+addRoad;TEK;XDIGI;1;8
+repairRoad;IEJUR;GUX;-4
+repairRoad;TEK;ZJM;9
+repairRoad;IEJUR;CPOZ;7
+ r;epairRoad;FKX;GUX;2
+#ad;dRoad;CPOZ;GUX;1;9
+ getRouteDescr;iption;580
+addRoad;ZJM;YQQ;6;3
+getRouteDescription;878
+539;TEK;1;-1;YQQ;5;3;YQQ
+getRouteDescription;807
+ 989;TE;K
+getRouteDescription;148
+repairRoad;TEK;XDIGI;-9
+addRoad;GUX;ZOE;9;5
+#repairRoad;FKX;IEJUR;-3 
+ #addRoad;F;KX;TEK;9;-9 
+344;GUX;2;-7;FKX;9;6;CPOZ
+addRoad;ZOE;IEJUR;5;0
+repairRoad;ZJM;WICZ;7
+476;YQQ
+getRouteDescription;148
+#repairRoad;FKX;CPOZ;4
+addRoad;WICZ;XDIGI;5;2
+addRoad;GUX;ZOE;1;7
+addRoad;ZOE;TEK;6;-3
+addRoad;TEK;ZJM;8;3
+getRouteDescri;ption;686 
+getRouteDescription;709
+repairRoad;YQQ;FKX;-7
+924;TEK;3;8;XDIGI
+repairRoad;GUX;GUX;5
+702;CPOZ;6;9;ZOE
+repairRoad;ZOE;IEJUR;2
+getRouteDescription;394
+repairRoad;ZOE;WICZ;-5
+ #297;ZOE;8;8;IEJUR;7;8;XDIGI
+repairRoad;TEK;ZOE;-1
+;getRouteDescription;73 
+ repairRoad;FKX;IEJUR;6 
+repairRoad;ZOE;TEK;0
+repairRoad;FKX;FKX;5
+11;XDIGI;2;5;ZOE
+ #299;;CPOZ
+526;WICZ
+addRoad;ZOE;ZOE;1;2
+repairRoad;GUX;GUX;-3
+663;GUX;6;-10;XDIGI;7;;7;WICZ
+getRouteDescription;305
+addRoad;XDIGI;GUX;5;-2
+getRouteDescription;137
+#getRouteDescription;183
+getRouteDescription;330
+ #addRoad;GUX;XDIGI;6;7 
+ #getRouteDescription;450
+428;YQQ;9;-3;WICZ
+addRoad;YQQ;IEJUR;8;6
+45;FKX;0;-2;YQQ
+629;CPOZ;2;9;ZJM;5;9;YQQ
+666;ZOE;9;1;FKX
+getRouteDescription;934
+#getRou;teDescription;684
+getRouteDescription;908
+repairRoad;ZOE;TEK;4
+#31;CPOZ; 
+127;TEK;6;-1;TEK;5;4;ZJM
+307;TEK;8;1;ZOE
+addRoad;YQQ;XDIGI;0;-7
+addRoad;XDIGI;IEJUR;2;-7
+repairRoad;TEK;WICZ;0
+#990;FKX;4;8;WICZ 
+631;CPOZ;7;-8;ZJM;1;-4;WICZ
+addRoad;TEK;GUX;5;8
+repairRoad;ZOE;WICZ;3
+addRoad;FKX;FKX;1;6
+ getRouteDescription;100
+addRoad;XDIGI;GUX;5;-3
+addRoad;YQQ;ZJM;6;-6
+repairRoad;TEK;WICZ;1
+repairRoad;ZOE;WICZ;-3
+698;YQQ;1;9;XDIGI
+ addRoa;d;FKX;CPOZ;9;-6 
+646;ZJM
+441;CPOZ;2;9;WICZ;2;9;GUX
+addRoad;FKX;IEJUR;8;-2
+getRouteDescription;254
+344;GUX;4;8;FKX
+repairRoad;GUX;ZJM;3
+ad;dRoad;ZOE;GUX;2;7 
+#ge;tRouteDescription;515
+repairRoad;ZJM;CPOZ;4
+getRouteDescription;879
+getRouteDescription;290
+addRoad;FKX;XDIGI;4;-8
+ 876;FKX
+repairRoad;ZJM;XDIGI;2
+addRoad;GUX;GUX;5;6
+getRouteDescription;861
+repairRoad;ZOE;IEJUR;2
+getRouteDescription;122
+repairRoad;ZOE;FKX;-9
+addRoad;FKX;ZOE;5;8
+808;TEK 
+repairRoad;WICZ;IEJUR;6
+164;YQQ;5;9;ZJM
+#124;ZJM;3;9;WICZ;3;7;FKX 
+repairRoad;IEJUR;YQQ;-4
+getRouteDescription;646
+addRoad;FKX;XDIG;I;9;-3
+addRoad;YQQ;ZJM;0;-8
+375;ZJM
+addRoad;IEJUR;GUX;;2;4
+812;ZOE
+getRouteDescription;969
+#getRouteDescription;838 
+a;ddRoad;CPOZ;FKX;6;8
+905;FKX;2;-10;FKX
+repairRoad;ZOE;FKX;-9
+repairRoad;XDIGI;WICZ;-1
+ #addRoad;ZJM;XDIGI;7;6
+getRouteDescription;355
+addRoad;FKX;GUX;2;-5
+ #getRouteDescrip;tion;737
+getRouteDescription;330
+getRouteDescription;986
+addRoad;YQQ;TEK;1;-9
+0;Y;QQ;8;1;YQQ;6;-9;CPOZ 
+repairRoad;C;POZ;YQQ;-5 
+#r;epairRoad;YQQ;WICZ;4 
+#addRoad;ZJM;YQQ;;6;6
+addRoad;IEJUR;XDIGI;4;-9
+addRoad;WICZ;WICZ;8;-9
+ #repairRoad;FKX;WICZ;0
+#repairRoad;Y;QQ;ZOE;-9
+#addRoad;YQQ;IEJUR;7;3
+addRoad;XDIGI;ZJM;1;2
+getRouteDescription;984
+getRouteDescription;;360
+getRouteDescription;305
+getRouteDescription;695
+ addRoad;YQQ;TEK;5;;5
+repairRoad;XDIGI;GUX;-4
+0;ZOE;8;-10;GUX
+459;ZJM;8;9;WICZ;8;9;YQQ
+repairRoad;GUX;WICZ;8
+getRouteDescription;878
+ getRouteDescription;30;5 
+164;ZJM
+0;XDIGI;4;1;ZJM;8;-1;YQQ
+ #repairRoad;ZOE;CPOZ;-5 
+repairRoad;GUX;ZJM;5
+addRoad;ZOE;IEJUR;1;0
+addRoad;TEK;TEK;7;3
+ #890;ZO;E;8;0;IEJUR 
+addRoad;ZOE;WICZ;4;8
+repairRoad;WICZ;XDIGI;-8
+getRouteDescription;885
+addRoad;ZJM;WICZ;5;-4
+addRoad;GUX;XDIGI;2;4
+#getRouteDescription;556 
+addRoad;GUX;GUX;3;-5
+addRoad;ZJM;XDIGI;3;-4
+repairRoad;IEJUR;ZJM;4
+addRoad;XDIGI;GUX;6;3
+addRoad;ZJM;TEK;8;-7
+288;IEJUR
+181;WICZ;4;-1;TEK
+580;TEK;7;-5;ZOE;4;-2;ZJM
+getRouteDescription;506
+0;YQQ;0;3;ZJM;5;0;;TEK
+addRoad;IEJUR;ZOE;3;-9
+getRouteDescription;994
+ getRouteDescription;626
+repairRoad;ZOE;XDIGI;7
+getRouteDescription;330
+repairRoad;TEK;ZJM;2
+repairRoad;IEJUR;YQQ;2
+addRoad;CPOZ;ZJM;4;8
+632;XDIGI;6;3;ZOE;5;-10;GUX
+getRouteDescription;491
+getRouteDescription;874
+ addRoad;ZJM;GUX;4;8 
+563;CPOZ
+repairRoad;GUX;ZOE;-9
+ addRo;ad;XDIGI;FKX;9;8 
+getRouteDescription;924
+getRouteDescription;996
+getRouteDescription;97
+addRoad;IEJUR;CPOZ;7;-5
+getRouteDescription;394
+repairRoad;WICZ;TEK;4
+984;ZJM
+repairRoad;ZJM;WICZ;2
+730;IEJUR
+380;IEJUR;5;6;ZJM
+#747;IEJUR;1;-6;TEK;9;6;IEJUR 
+451;WICZ;5;-10;XDIGI;8;-2;XDIGI
+addRoad;IEJUR;GUX;7;2
+865;ZOE
+216;ZOE;8;0;TEK
+ #repairR;oad;XDIGI;GUX;-3
+repairRoad;GUX;ZOE;3
+ addRoad;XDIGI;ZOE;4;1 
+226;WICZ;8;-3;YQQ;7;6;YQQ
+addRoad;ZJM;ZOE;9;-6
+repairRoad;TEK;YQQ;-2
+681;ZJM
+addRoad;FKX;ZJM;5;5
+getRouteDescription;730
+repairRoad;GUX;TEK;-5
+addRoad;XDIGI;YQQ;9;-7
+492;IEJUR
+repairRoad;CPOZ;YQQ;-3
+getRouteDescription;572
+942;IEJUR
+getRouteDescription;451
+repairRoad;XDIGI;FKX;-6 
+repairRoad;GUX;GUX;3
+getRouteDescription;994
+getRouteDescription;957
+addRoad;XDIGI;WICZ;9;-4
+ #repairRoad;IEJUR;IEJUR;7
+repairRoad;ZJM;CPOZ;0
+repairRoad;FKX;GUX;4
+addRoad;TEK;WICZ;4;-4
+getRouteDescription;928
+addRoad;ZOE;ZOE;5;3
+getRouteDescription;381
+203;WICZ;8;9;ZJM;2;9;CPOZ
+repairRoad;FKX;YQQ;-5
+797;CPOZ
+getRouteDescription;263
+repairRoad;XDIGI;YQQ;2
+addRoad;GUX;GUX;2;6
+repairRoad;ZOE;TEK;-6
+repairRoad;FKX;ZJM;9
+ #addRoad;;XDIGI;WICZ;3;2 
+getRouteDescription;189
+getRouteDescription;170
+542;XDIGI;0;3;ZJM
+167;CPOZ;4;9;CPOZ;0;5;XDIGI
+addRoad;IEJUR;ZOE;6;7
+repairRoad;IEJUR;TEK;6
+addRoad;XDIGI;CPOZ;2;0
+getRouteDescription;36
+getRouteDescription;827
+repairRoad;YQQ;ZJM;9
+ repairRoad;ZOE;ZJM;-4
+#addRoad;GU;X;TEK;7;3
+repairRoad;TEK;WICZ;-3
+ #add;Road;GUX;YQQ;8;8 
+476;XDIGI;3;0;YQQ;1;-7;FKX
+repairRoad;XDIGI;WICZ;6
+ #addRoa;d;IEJUR;TEK;0;-1 
+addRoad;IEJUR;WICZ;4;6
+addRoad;IEJUR;ZOE;0;4
+addRoad;IEJUR;CPOZ;4;2
+196;FKX;1;7;ZOE
+repairRoad;CPOZ;WICZ;4
+getRouteDescription;807
+ #repa;irRoad;ZJM;TEK;2
+getRouteDescription;137
+63;TEK
+repairRoad;IEJUR;CPOZ;-10
+;addRoad;ZOE;YQQ;2;9 
+repairRoad;TEK;CPOZ;5
+ #addRoad;ZOE;WICZ;3;;-3
+getRouteDescription;924
+771;IEJUR;7;8;FKX
+repairRoad;ZJM;ZJM;1
+#;39;GUX;7;-8;ZJM
+#getRouteDescription;263 
+addRoad;TEK;CPOZ;9;9
+getRouteDescription;547
+getRouteDescription;827
+addRoad;YQQ;FKX;4;8
+986;YQQ;4;4;TEK;9;-8;ZOE
+g;etRouteDescription;572
+ addRoad;ZOE;;TEK;2;-9
+ getRouteDe;scription;669
+addRoad;CPOZ;TEK;2;-8
+addRoad;IEJUR;TEK;4;-5
+ #addRoad;FKX;IEJ;UR;3;3 
+ #repa;irRoad;FKX;ZJM;9
+addRoad;ZOE;CPOZ;8;3
+206;CPOZ
+addRoad;XDIGI;ZJM;6;2
+repairRoad;WICZ;YQQ;-10
+addRoad;XDIGI;IEJUR;4;9
+repairRoad;ZOE;ZOE;5
+addRoad;GUX;ZJM;5;-8
+779;TEK;5;-7;TEK
+getRouteDesc;ription;29 
+677;YQQ;8;9;WICZ
+623;IEJUR
+getRouteDescription;512
+ repairR;oad;FKX;YQQ;-3
+ #repairRoa;d;TEK;CPOZ;-3 
+repairRoad;FKX;WICZ;-8
+repairRoad;ZOE;WICZ;-8
+ #106;XDIGI;9;2;CPO;Z 
+addRoad;IEJUR;WICZ;9;-6
+repairRoad;ZOE;ZJM;3
+repairRoad;XDIGI;ZJM;4
+addRoad;GUX;CPOZ;7;-9
+ #repairRoad;ZJM;IEJUR;4 
+getRouteDescription;629
+getRouteDescription;672
+addRoad;ZOE;GUX;5;-5
+getRouteDescription;111
+addRoad;ZJM;ZJM;0;-5
+351;TEK;0;2;XDIGI;7;-1;TEK
+ #addRoad;YQQ;TEK;7;2
+getRouteDescription;673
+repairRoad;ZOE;GUX;8
+repairRoad;XDIGI;IEJUR;5
+934;IEJUR;3;0;IEJUR
+repairRoad;ZOE;FKX;4
+ repairRoad;XD;IGI;YQQ;-4
+getRouteDescription;403
+getRouteDescription;582
+getRouteDescription;53
+repairRoad;ZOE;CPOZ;0
+addRoad;ZJM;YQQ;9;4 
+ 864;XDIG;I;0;-5;IEJUR 
+ 873;CPO;Z;0;0;XDIGI;8;6;XDIGI
+repairRoad;TEK;CPOZ;4
+#repairRoad;CPOZ;WICZ;3 
+;#getRouteDescription;444 
+222;ZOE
+repairRoad;FKX;WICZ;8
+addRoad;IEJUR;CPOZ;8;-8
+repairRoad;YQQ;WICZ;2
+addRoad;TEK;ZOE;3;3
+905;GUX;;1;9;YQQ 
+getRouteDescription;499
+#112;XDIGI;8;7;ZOE
+ 659;CPOZ 
+414;XDIGI;7;-1;XDIGI
+getRouteDescription;330
+ #repairRoad;CPOZ;YQQ;-1 
+ #956;TEK;9;9;CPOZ;3;9;GUX
+ 149;ZJ;M;8;2;YQQ 
+393;IEJUR;5;-10;TEK;3;-1;IEJUR
+addRoad;FKX;XDIGI;7;8
+repairRoad;YQQ;TEK;-9
+addRoad;ZOE;WICZ;7;6
+getRouteDescription;771
+addRoad;WICZ;TEK;4;2
+getRouteDescription;775
+repairRoad;YQQ;GUX;0
+getRouteDescri;ption;777
+addRoad;GUX;WICZ;6;-4
+getRouteDescription;265
+getRouteDescription;583
+addRoad;TEK;WICZ;1;-9
+172;IEJUR
+827;CPOZ;4;-2;GUX;6;1;XDIGI
+addRoad;ZJM;FKX;0;2
+repairRoad;ZJM;WICZ;3
+#addRoad;CPOZ;;WICZ;2;-9
+addRoad;WICZ;ZJM;6;1
+0;CPOZ;6;9;XDIGI
+addRoad;TEK;IEJUR;7;0
+405;IEJUR;2;7;TEK 
+addRoad;XDIGI;ZOE;3;2
+982;;XDIGI;7;6;CPOZ
+469;IEJUR
+repairRoad;ZOE;ZOE;-7
+addRoad;TEK;YQQ;4;3
+ #getRouteDescripti;on;342
+addRoad;IEJUR;GUX;8;9
+getRouteDescription;545
+391;CPOZ
+addRoad;XDIGI;ZOE;2;1
+repairRoad;GUX;TEK;1
+repairRoad;TEK;ZJM;2
+ #getRouteDescription;109 
+464;ZOE
